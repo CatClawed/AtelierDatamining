@@ -1,0 +1,16 @@
+text_eng	text_jpn	text_chs	text_cht	text_deu	text_fra	text_kor	text_rus	text_spa	tag	image_no
+(Ingredients)	（素材）	（素材）	（素材）	(Zutaten)	(Ingrédients)	(소재)	(Ингредиенты)	(Ingredientes)	ITEM_KIND_MATERIAL	13
+(Synthesis)	（調合）	（调合）	（調合）	(Synthese)	(Synthèse)	(조합)	(Синтез)	(Síntesis)	ITEM_KIND_MIX	14
+(Combat Items)	（攻撃）	（攻击）	（攻擊）	(Kampfgegenstände)	(Objets d'attaque)	(공격)	(Боевые предметы)	(Objetos de combate)	ITEM_KIND_ATTACK	4
+(Restoratives)	（回復）	（恢复）	（回復）	(Heilmittel)	(Reconstituants)	(회복)	(Лекарства)	(Curaciones)	ITEM_KIND_HEAL	10
+(Boost Items)	（強化）	（强化）	（強化）	(Stärkungsmittel)	(Objets de boost)	(강화)	(Усилители)	(Objetos potenciadores)	ITEM_KIND_BUFFER	6
+(Inhibitors)	（弱体）	（削弱）	（弱化）	(Schwächungsmittel)	(Inhibiteurs)	(약화)	(Замедлители)	(Inhibidores)	ITEM_KIND_DEBUFFER	7
+(Weapons)	（武器）	（武器）	（武器）	(Waffen)	(Armes)	(무기)	(Оружие)	(Armas)	ITEM_KIND_WEAPON	16
+(Armor)	（防具）	（防具）	（防具）	(Rüstung)	(Armures)	(방어구)	(Броня)	(Armadura)	ITEM_KIND_ARMOR	2
+(Accessories)	（装飾品）	（饰品）	（飾品）	(Accessoires)	(Accessoires)	(장식품)	(Аксессуары)	(Accesorios)	ITEM_KIND_ACCESSORY	1
+(References)	（参考書）	（参考书）	（參考書）	(Referenzen)	(Références)	(참고서)	(Справка)	(Referencias)	ITEM_KIND_BOOK	5
+(Exploration Equipment)	（探索道具）	（探索道具）	（探索道具）	(Erkundungsausrüstung)	(Équipement d'exploration)	(탐색도구)	(Исследовательское снаряжение)	(Equipo de exploración)	ITEM_KIND_FIELD_TOOL	9
+(Key Items)	（重要）	（重要）	（重要）	(Schlüsselgegenstände)	(Objets clés)	(중요)	(Ключевые предметы)	(Objetos clave)	ITEM_KIND_IMPORTANT	11
+(Relic Treasure)	（遺宝）	（遗宝）	（遺寶）	(Reliktschatz)	(Trésor)	(유보)	(Сокровище-реликвия)	(Reliquia valiosa)	ITEM_KIND_ARTIFACT	3
+(Interior)	（インテリア）	（室内装饰）	（室內裝飾）	(Innenbereich)	(Intérieur)	(인테리어)	(Интерьер)	(Interior)	ITEM_KIND_INTERIOR	12
+(Trait Crystal)	（特性結晶）	（特性结晶）	（特性結晶）	(Eigenschaftenkristall)	(Cristal de caractéristique)	(특성결정)	(Кристалл черт)	(Cristal de atributo)	ITEM_KIND_TRAIT_CRYSTAL	15

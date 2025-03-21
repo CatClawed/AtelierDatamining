@@ -1,0 +1,17 @@
+text_eng	text_jpn	text_chs	text_cht	text_deu	text_fra	text_kor	text_rus	text_spa	tag	image_no
+Wood	木材	木材	木材	Holz	Bois	목재	Дерево	Madera	ITEM_MATERIAL_WOOD	0
+Stone	石材	石材	石材	Stein	Pierre	석재	Камень	Piedra	ITEM_MATERIAL_STONE	1
+Iron	鉄材	铁材	鐵材	Eisen	Fer	철재	Железо	Hierro	ITEM_MATERIAL_IRON	2
+Water	水	水	水	Wasser	Eau	나무	Вода	Agua	ITEM_MATERIAL_WATER	3
+Fiber	繊維	纤维	纖維	Faser	Fibre	섬유	Волокно	Fibra	ITEM_MATERIAL_FIBRE	4
+Powder	粉末	粉末	粉末	Pulver	Poudre	분말	Порошок	Polvo	ITEM_MATERIAL_POWDER	5
+Charcoal	木炭	木炭	木炭	Holzkohle	Charbon	목탄	Древесный уголь	Carbón	ITEM_MATERIAL_CHARCOAL	6
+Saltpeter	硝石	硝石	硝石	Salpeter	Salpêtre	초석	Селитра	Sales	ITEM_MATERIAL_SALTPETER	7
+Part	部品	零件	零件	Teil	Pièce	부품	Деталь	Pieza	ITEM_MATERIAL_PARTS	8
+Fruit	果実	果实	果實	Frucht	Fruit	과실	Плод	Fruta	ITEM_MATERIAL_FRUIT	9
+Medicine	薬品	药品	藥品	Medizin	Remède	약품	Лекарство	Medicina	ITEM_MATERIAL_MEDICINE	10
+Scrap Fabric	端布	碎布	碎布	Stoffreste	Chutes de tissu	헝겊	Клочки ткани	Retal	ITEM_MATERIAL_CLOTH	11
+Great Tree Root	大樹の根	大树树根	大樹樹根	Großbaumwurzel	Racine du Grand arbre	거목뿌리	Великое древо	Raíz del Gran Árbol	ITEM_MATERIAL_BIOME_1	12
+Ancient Bone	古代の骨	古代骨头	古代骨頭	Uralter Knochen	Os ancien	고대의뼈	Древняя кость	Hueso ancestral	ITEM_MATERIAL_BIOME_2	13
+Metal Board	金属合板	金属合板	金屬合板	Metallplatte	Panneau de métal	금속합판	Металл	Placa metálica	ITEM_MATERIAL_BIOME_3	14
+Quartz Cluster	水晶塊	水晶块	水晶塊	Quarzklumpen	Amas de quartz	수정괴	Друза кварца	Bloque de cuarzo	ITEM_MATERIAL_BIOME_4	15

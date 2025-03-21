@@ -1,0 +1,43 @@
+text_eng	text_jpn	text_chs	text_cht	text_deu	text_fra	text_kor	text_rus	text_spa	tag	image_no
+(Water)	（水）	（水）	（水）	(Wasser)	(Eau)	(물)	(Вода)	(Agua)	ITEM_CATEGORY_LIQUID	0
+(Plants)	（植物）	（植物）	（植物）	(Pflanzen)	(Plantes)	(식물)	(Растения)	(Plantas)	ITEM_CATEGORY_PLANT	1
+(Uni)	（うに）	（海胆）	（海膽）	(Uni)	(Ounis)	(성게)	(Уни)	(Uni)	ITEM_CATEGORY_UNI	2
+(Flowers)	（花）	（花）	（花）	(Blumen)	(Fleurs)	(꽃)	(Цветы)	(Flores)	ITEM_CATEGORY_FLOWER	3
+(Medicinal)	（薬の材料）	（药材）	（藥材）	(Medizinisch)	(Médicinal)	(약재료)	(Лекарственные средства)	(Medicinas)	ITEM_CATEGORY_MEDICAL	4
+(Poisons)	（毒の材料）	（有毒材料）	（有毒材料）	(Gifte)	(Poisons)	(독재료)	(Яды)	(Venenos)	ITEM_CATEGORY_POISON	5
+(Elixirs)	（エリキシル）	（万灵药）	（萬靈藥）	(Elixiere)	(Élixirs)	(엘릭시르)	(Эликсиры)	(Elixires)	ITEM_CATEGORY_ELIXIL	6
+(Sand)	（砂）	（砂）	（砂）	(Sand)	(Sable)	(모래)	(Песок)	(Arena)	ITEM_CATEGORY_SAND	7
+(Stone)	（石材）	（石材）	（石材）	(Stein)	(Pierre)	(석재)	(Камень)	(Piedra)	ITEM_CATEGORY_STONE	8
+(Ore)	（鉱石）	（矿石）	（礦石）	(Erz)	(Minerai)	(광석)	(Руда)	(Mena)	ITEM_CATEGORY_ORE	9
+(Gemstones)	（原石）	（原石）	（原石）	(Edelsteine)	(Gemmes)	(원석)	(Самоцветы)	(Gemas)	ITEM_CATEGORY_GEMSTONE	10
+(Gunpowder)	（火薬）	（火药）	（火藥）	(Schießpulver)	(Poudre à canon)	(화약)	(Порох)	(Pólvora)	ITEM_CATEGORY_POWDER	11
+(Fuel)	（燃料）	（燃料）	（燃料）	(Treibstoff)	(Combustibles)	(연료)	(Топливо)	(Combustible)	ITEM_CATEGORY_FUEL	12
+(Edibles)	（食材）	（食材）	（食材）	(Essbares)	(Comestibles)	(식재)	(Съедобное)	(Comestibles)	ITEM_CATEGORY_FOODSTUFF	13
+(Fruit)	（木の実）	（树木果实）	（樹木果實）	(Früchte)	(Fruits)	(나무열매)	(Плоды)	(Fruta)	ITEM_CATEGORY_NUT	14
+(Beehives)	（ハチの巣）	（蜂巢）	（蜂巢）	(Bienenstöcke)	(Ruches)	(벌집)	(Соты)	(Colmenas)	ITEM_CATEGORY_BEEHIVE	15
+(Mushrooms)	（きのこ）	（菌菇）	（菌菇）	(Pilze)	(Champignons)	(버섯)	(Грибы)	(Setas)	ITEM_CATEGORY_MUSHROOM	16
+(Marine)	（魚介類）	（鱼贝类）	（魚貝類）	(Fische und Meeresfrüchte)	(Fruits de mer)	(어패류)	(Морское)	(Marinos)	ITEM_CATEGORY_FISH	17
+(Bugs)	（虫）	（虫）	（蟲）	(Käfer)	(Bestioles)	(곤충)	(Насекомые)	(Bichos)	ITEM_CATEGORY_INSECT	18
+(Threads)	（糸素材）	（线材）	（線材）	(Fäden)	(Fils)	(실소재)	(Пряжа)	(Hilo)	ITEM_CATEGORY_THREAD	19
+(Lumber)	（木材）	（木材）	（木材）	(Holz)	(Bois)	(목재)	(Древесина)	(Madera)	ITEM_CATEGORY_WOOD	20
+(Gases)	（気体）	（气体）	（氣體）	(Gase)	(Gaz)	(기체)	(Газы)	(Gas)	ITEM_CATEGORY_GAS	21
+(Puni)	（ぷにぷに）	（噗尼噗尼）	（噗尼噗尼）	(Puni)	(Puniballes)	(푸니푸니)	(Пуни)	(Puni)	ITEM_CATEGORY_PUNIPUNI	22
+(Animal Mat.)	（動物素材）	（动物素材）	（動物素材）	(Tiermat.)	(Produits d'animaux)	(동물소재)	(Животные материалы)	(Mat. animales)	ITEM_CATEGORY_ANIMAL	23
+(Magical)	（神秘の力）	（神秘之力）	（神祕之力）	(Magisch)	(Magique)	(신비의힘)	(Магические)	(Mágico)	ITEM_CATEGORY_MYSTIC	24
+(Neutralizers)	（中和剤）	（中和剂）	（中和劑）	(Neutralisatoren)	(Neutralisants)	(중화제)	(Нейтрализаторы)	(Neutralizadores)	ITEM_CATEGORY_NEUTRALIZE	25
+(Metal)	（金属）	（金属）	（金屬）	(Metall)	(Métal)	(금속)	(Металл)	(Metal)	ITEM_CATEGORY_METAL	26
+(Jewels)	（宝石）	（宝石）	（寶石）	(Juwelen)	(Joyaux)	(보석)	(Драгоценные камни)	(Joyas)	ITEM_CATEGORY_JEWEL	27
+(Medicine)	（薬品）	（药品）	（藥品）	(Medizin)	(Remèdes)	(약품)	(Лекарства)	(Medicina)	ITEM_CATEGORY_MEDICINE	28
+(Bombs)	（爆弾）	（炸弹）	（炸彈）	(Bomben)	(Bombes)	(폭탄)	(Бомбы)	(Bombas)	ITEM_CATEGORY_BOMB	29
+(Magic Tools)	（魔法の道具）	（魔法道具）	（魔法道具）	(Magische Werkzeuge)	(Outils magiques)	(마법의도구)	(Магические инструменты)	(Herramientas mágicas)	ITEM_CATEGORY_MAGICITEM	30
+(Ingots)	（インゴット）	（金属块）	（金屬塊）	(Barren)	(Lingots)	(잉곳)	(Слитки)	(Lingotes)	ITEM_CATEGORY_INGOT	31
+(Cloth)	（クロース）	（布料）	（布料）	(Stoffe)	(Étoffes)	(클로스)	(Ткань)	(Tela)	ITEM_CATEGORY_CLOTH	32
+(Weapons)	（武器）	（武器）	（武器）	(Waffen)	(Armes)	(무기)	(Оружие)	(Armas)	ITEM_CATEGORY_WEAPON	33
+(Armor)	（防具）	（防具）	（防具）	(Rüstung)	(Armures)	(방어구)	(Броня)	(Armadura)	ITEM_CATEGORY_ARMOR	34
+(Accessories)	（装飾品）	（饰品）	（飾品）	(Accessoires)	(Accessoires)	(장식품)	(Аксессуары)	(Accesorios)	ITEM_CATEGORY_ACCESSORY	35
+(Exploration Equip.)	（探索道具）	（探索道具）	（探索道具）	(Erkundungsausr.)	(Équipement d'exploration)	(탐색도구)	(Исслед. снаряжение)	(Equipo de exploración)	ITEM_CATEGORY_COLLECT	36
+(Interior)	（インテリア）	（室内装饰）	（室內裝飾）	(Innenbereich)	(Intérieur)	(인테리어)	(Интерьер)	(Interior)	ITEM_CATEGORY_INTERIOR	37
+(Enhancement Parts)	（強化パーツ）	（强化零件）	（強化零件）	(Erweiterungsteile)	(Pièces d'amélioration)	(강화파츠)	(Детали для усиления)	(Piezas de mejora)	ITEM_CATEGORY_ENHANCE_PARTS	38
+(Key Items)	（重要）	（重要）	（重要）	(Schlüsselgegenstände)	(Objets clés)	(중요)	(Ключевые предметы)	(Objetos clave)	ITEM_CATEGORY_KEY	39
+(Relics)	（遺物）	（遗物）	（遺物）	(Relikte)	(Reliques)	(유물)	(Реликвии)	(Reliquias)	ITEM_CATEGORY_ARTIFACT	40
+(Materials)	（資材）	（原材料）	（原材料）	(Materialien)	(Matériaux)	(자재)	(Материалы)	(Materiales)	ITEM_CATEGORY_MATERIAL	41
