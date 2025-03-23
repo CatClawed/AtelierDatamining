@@ -1,0 +1,11 @@
+text_eng	text_jpn	text_chs	text_cht	text_deu	text_fra	text_kor	text_rus	text_spa	item_craft_furniture_recipe_category_id	image_no
+Feature Modules	機能モジュール	功能设备	功能組件	Funktionsmodule	Modules d'accessoires	기능 모듈	Особенные модули	Módulos de función	FURNITURE_RECIPE_CATEGORY_MODULE	0
+Floor	床	地板	地板	Böden	Sol	바닥	Пол	Suelo	FURNITURE_RECIPE_CATEGORY_FLOOR	3
+Wall	壁	墙壁	牆壁	Wände	Mur	벽	Стена	Pared	FURNITURE_RECIPE_CATEGORY_WALL	21
+Roof	屋根	屋顶	屋頂	Dächer	Toit	지붕	Крыша	Tejado	FURNITURE_RECIPE_CATEGORY_ROOF	22
+Building Materials	建材	建材	建材	Baumaterialien	Matériaux de construction	건자재	Стройматериалы	Materiales de construcción	FURNITURE_RECIPE_CATEGORY_BUILDING_MATERIAL	15
+Furniture	家具	家具	傢俱	Möbel	Mobilier	가구	Мебель	Muebles	FURNITURE_RECIPE_CATEGORY_FURNITURE	14
+Wall Decorations	壁かけ	壁挂	壁掛	Wanddekoration	Décorations murales	벽걸이	Настенные украшения	Adornos de pared	FURNITURE_RECIPE_CATEGORY_WALL_ARTICLE	2
+Ceiling Fixtures	天井	天花板	天花板	Deckenverzierungen	Plafonniers	천장	Потолочные приспособления	Adornos de techo	FURNITURE_RECIPE_CATEGORY_CEILING	4
+Exterior	外装	外部装潢	外部裝潢	Außenbereich	Extérieur	외부장식	Наружные постройки	Exterior	FURNITURE_RECIPE_CATEGORY_OUTER	16
+Other	その他	其他	其他	Sonstiges	Autres	기타	Другое	Otros	FURNITURE_RECIPE_CATEGORY_OTHER	12

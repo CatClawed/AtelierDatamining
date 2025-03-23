@@ -1,0 +1,26 @@
+text_eng	text_jpn	text_chs	text_cht	text_deu	text_fra	text_kor	text_rus	text_spa	icon_no	monster_race_id
+Puni	ぷに	噗尼	噗尼	Puni	Puni	푸니	Пуни	Puni	0	MONSTER_RACE_PUNI
+Elemental	エレメンタル	元素	元素	Elementar	Élémentaire	엘리멘탈	Элементаль	Elemental	30	MONSTER_RACE_ELEMENT
+Roadrunner	走鳥	走禽	走禽	Rennkuckuck	Géocoucou	주조	Дрофа	Correcaminos	31	MONSTER_RACE_BIRD
+Wolf	ウルフ	狼	狼	Wolf	Loup	울프	Волк	Lobo	1	MONSTER_RACE_EWOLF
+Salamander	ウーパ	蝾螈	蠑螈	Salamander	Salamandre	우파	Саламандра	Salamandra	2	MONSTER_RACE_WOOPER
+Horned Owl	ミミズク	猫头鹰	貓頭鷹	Horneule	Hibou grand-duc	부엉이	Рогатая неясыть	Búho coronado	3	MONSTER_RACE_OWL
+Beaver	ビーバー	河狸	河狸	Biber	Castor	비버	Бобр	Castor	4	MONSTER_RACE_BEAVER
+Gorilla	ゴリラ	大猩猩	大猩猩	Gorilla	Gorille	고릴라	Горилла	Gorila	6	MONSTER_RACE_KONG
+Hermit Crab	ヤドカリ	寄居蟹	寄居蟹	Einsiedlerkrebs	Bernard-l'hermite	소라게	Рак-отшельник	Cangrejo ermitaño	7	MONSTER_RACE_HERMITCRAB
+Spirit Horse	霊馬	灵马	靈馬	Geisterpferd	Cheval mystique	영마	Конь-дух	Caballo espiritual	8	MONSTER_RACE_HORSE
+Rock Raptor	岩獣	岩兽	岩獸	Steinraptor	Rapace des rochers	암수	Скальный раптор	Carroñero rocoso	15	MONSTER_RACE_ROCKBEAST
+Jellyfish	クラゲ	水母	水母	Qualle	Méduse	해파리	Медуза	Medusa	16	MONSTER_RACE_JELLYFISH
+Golem	ゴーレム	魔巨人	魔巨人	Golem	Golem	골렘	Голем	Gólem	17	MONSTER_RACE_GIANT
+Panther	パンサー	豹类	豹	Panther	Panthère	팬서	Пантера	Pantera	32	MONSTER_RACE_PANTHER
+Crocodile	ワニ	鳄鱼	鱷魚	Krokodil	Crocodile	악어	Крокодил	Cocodrilo	9	MONSTER_RACE_CLOCODILE
+Sporeling	ナエギ	孢子怪	苗蕈怪	Sporenstreuer	Sporelin	묘목	Споровик	Hifa	5	MONSTER_RACE_SAPLING
+Bat	コウモリ	蝙蝠	蝙蝠	Fledermaus	Chauve-souris	박쥐	Летучая мышь	Murciélago	10	MONSTER_RACE_BIOME3
+Mutant	変異体	变异体	變異體	Mutant	Mutant	변이체	Мутанты	Mutante	11	MONSTER_RACE_BIOME4
+Imperial Guard	近衛兵	近卫兵	近衛兵	Kaiserliche Wache	Garde impérial	근위병	Императорский страж	Guardia imperial	12	MONSTER_RACE_BIOME5
+Geni	ジニ族	吉尼族	吉尼族	Geni	Geni	지니족	Гени	Geni	13	MONSTER_RACE_GINI
+Neru	ネル族	奈尔族	奈爾族	Neru	Neru	네루족	Неру	Neru	14	MONSTER_RACE_NERU
+Vesper	ヴェスペル	韦斯珀	韋斯珀	Vesper	Vesper	베스페르	Веспер	Vésper	20	MONSTER_RACE_BOSS_FOREST
+Lili Borea	リリーボレア	莉莉波蕾亚	莉莉波蕾亞	Lili Borea	Lili Boréa	릴리 보레아	Лили Борея	Lili Borea	21	MONSTER_RACE_BOSS_ROTTEN
+Corleonis	コルレオニス	柯尔里奥尼斯	柯爾里奧尼斯	Corleonis	Corléonis	코르 레오니스	Корлеонис	Corleonis	22	MONSTER_RACE_BOSS_METAL
+Basilius	バシリウス	巴西利乌斯	巴西利烏斯	Basilius	Basilius	바실리우스	Базилевс	Basilius	23	MONSTER_RACE_BOSS_WISDOM
