@@ -1,8 +1,12 @@
 import json, csv
+#from PIL import Image
+from matplotlib import image
+from matplotlib import pyplot as plt
 
 languages = ['eng', 'jpn', 'chs', 'cht', 'deu', 'fra', 'kor', 'rus', 'spa']
 localize = {}
 fixed_data = 'Data/pak/master/cmn/fixed_data/'
+map_data = 'Data/pak/master/cmn/placementgimmick/'
 finalized = {}
 hold = {}
 enc = 'utf-8-sig'
@@ -573,7 +577,16 @@ def building():
 
     # housing object
     # housing object category? for img no?
-    # goodnight
+
+    dic = {}
+    hold['housing_object'] = dic
+    with open(fixed_data+'housing/housing_object.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['housing_housing_object']:
+            d = {}
+            copy_keys(d, item, ['image_no', 'comfort_level', 'cost', 'category'])
+            dic[item['item_id']] = d
+
 
     dic = {}
     finalized['housing_area'] = dic
@@ -607,8 +620,58 @@ def building():
                 if f'need_item_{i}' in item:
                     d[f'need_item_{i}'] = finalized['material'][item[f'need_item_{i}']]['text_eng']
             copy_keys(d, item, ['item_craft_recipe_id', 'create_senario_flag', 'energy_core_cost', 'create_num_at_once', 'need_num_0', 'need_num_1', 'need_num_2', 'need_num_3'])
+            if item['item_tag'] in hold['housing_object']:
+                d = d | hold['housing_object'][item['item_tag']]
 
             dic[item['item_craft_recipe_id']] = d
+
+
+def map():
+    maps = ['forest_location_gimmick.json',
+            'forest_gimmick_area02_gimmick.json',
+            'rottensea_location_gimmick.json',
+            'rottensea_gimmick_area02_gimmick.json',
+            'metal_location_gimmick.json',
+            'kingdom_location_gimmick.json',
+            'castle_location_gimmick.json',
+            'submap01_gimmick_gimmick.json',
+            'submap3_gimmick_gimmick.json',
+            'submap4_gimmick_gimmick.json',
+            'submap5_gimmick_gimmick.json',]
+
+
+    types = {
+        1184117056: 'Fast Travel',
+        3376427666: 'Vial?',
+        771256160: 'Fishing'
+    }
+    im = image.imread('combined.webp')
+    count = 0
+    for map in maps:
+        with open(map_data+map, encoding=enc) as f:
+            obj = json.load(f)
+            point = 'og'
+            if 'forest' in map or 'submap01' in map:
+                point = 'or'
+            elif 'rottensea' in map:
+                point = 'om'
+            elif 'metal' in map or 'submap3' in map:
+                point = 'oy'
+            elif 'kingdom' in map:
+                point = 'ok'
+            elif 'castle' in map:
+                point = 'ok'
+            for item in obj:
+                if item['type'] == 3376427666:
+                    count += 1
+                    pos = item['pos'].split(',')
+                    #plt.plot(float(pos[0]), float(pos[2]), point)
+                    plt.plot((float(pos[0])-90000)/722000*8704, (float(pos[2])-90000)/297000*3584, point)
+
+    print(count)
+    #plt.gca().invert_yaxis()
+    plt.imshow(im)
+    plt.show()
 
 
 """
@@ -674,7 +737,7 @@ def export_csv():
             'item_craft_recipe_id', 'name', 'create_senario_flag', 'energy_core_cost', 'create_num_at_once',
             'need_item_0', 'need_num_0', 'need_item_1', 'need_num_1',
             'need_item_2','need_num_2', 'need_item_3','need_num_3',
-            'housing_area_id', 'comfort_goal', 'comfort_reward',
+            'image_no', 'comfort_level', 'cost', 'category',
         ]
 
     }
@@ -691,4 +754,5 @@ get_localization()
 item_data()
 monster()
 building()
+map()
 export_csv()
