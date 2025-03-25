@@ -1,4 +1,4 @@
-import json, csv
+import json, csv, os
 #from PIL import Image
 from matplotlib import image
 from matplotlib import pyplot as plt
@@ -625,25 +625,167 @@ def building():
 
             dic[item['item_craft_recipe_id']] = d
 
+def gather_nodes():
+    dic = {}
+    hold['item_craft_to_recipe_name'] = dic
+    with open(fixed_data+'craft/item_craft_to_recipe_name.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['craft_item_craft_to_recipe_name']:
+            dic[item['recipe_name']] = {
+                "item_id": item['item_tag'],
+                "item": finalized['item'][item['item_tag']]['text_eng']
+            }
+
+    dic = {}
+    hold['chapter_all'] = dic
+    with open('Data/pak/master/cmn/gamedata/scenario/chapter_all.json', encoding=enc) as f:
+        obj = json.load(f)
+        for chap in obj.values():
+            for item in chap:
+                if 'pp_type' in item:
+                    if item['pp_type'] == 'get_craft_recipe':
+                        try:
+                            dic[int(item['trigger_param'])] = hold['item_craft_to_recipe_name'][item['pp_param']]
+                        except:
+                            dic[int(item['trigger_param'])] = {'item': "DUMMY LOL"}
+
+    dic = {}
+    hold['gimmick_event'] = dic
+    with open(fixed_data+'gimmick/gimmick_event.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['gimmick_gimmick_event']:
+            if item['scenario'] in hold['chapter_all']:
+                dic[item['tag']] = hold['chapter_all'][item['scenario']]
+
+
+
+    dic = {}
+    hold['ex_item_group'] = dic
+    with open(fixed_data+'collect/ex_item_group.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['collect_ex_item_group']:
+            d = {}
+            #ignoring rank, quality, priority, level, rank
+            copy_keys(d, item, ['item_id', 'potential_0'])
+            if 'item_id' in d:
+                if d['item_id'] != 'ITEM_OTHER_01':
+                    d['item'] = finalized['item'][d['item_id']]['text_eng']
+            if 'potential_0' in d:
+                d['trait'] = finalized['trait'][d['potential_0']]['text_eng']
+
+            if item['group'] in dic:
+                dic[item['group']].append(d)
+            else:
+                dic[item['group']] = [d]
+
+    hold['gather'] = {}
+    with open(fixed_data+'collect/ex_collect_info.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['collect_ex_collect_info']:
+            hold['gather'][item['place_id']] = hold['ex_item_group'][item['group']]
+
+    dic = {}
+    hold['common_item_group'] = dic
+    with open(fixed_data+'collect/common_item_group.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['collect_common_item_group']:
+            d = {}
+            #ignoring rank, quality, priority, level, rank
+            copy_keys(d, item, ['item_id', 'priority'])
+            if 'item_id' in d:
+                d['item'] = finalized['item'][d['item_id']]['text_eng']
+
+            if item['group'] in dic:
+                dic[item['group']].append(d)
+            else:
+                dic[item['group']] = [d]
+
+    with open(fixed_data+'collect/common_collect_info.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['collect_common_collect_info']:
+            if 'group0' in item:
+                hold['gather'][item['place_id']] = hold['common_item_group'][item['group0']]
+
+# theoretically normalized, it was guesswork
+def get_position(pos):
+    pos = pos.split(',')
+    return (float(pos[0])-90000)/722000, (float(pos[2])-90000)/297000
+
+def plot(x, z, point='ob'):
+    plt.plot(x*8704, z*3584, point)
+
+def get_item(item, note, location, label):
+    d = {}
+    d['id'] = item['ID']
+    d['note'] = note
+    d['location'] = location
+    d['x'], d['z'] = get_position(item['pos'])
+    app = None
+    if 'elem' in item:
+        for elem in item['elem']:
+            if 's_flag' in elem:
+                if elem['s_flag']:
+                    app = hold['gimmick_event'][elem['s_flag']]
+                    break
+    try:
+        res = hold['gather'][item['param'][0]['v']].copy()
+        if app:
+            res.append(app)
+        d['reward'] = res
+        finalized[label][item['ID']] = d
+    except Exception as e:
+        print(e)
 
 def map():
-    maps = ['forest_location_gimmick.json',
-            'forest_gimmick_area02_gimmick.json',
-            'rottensea_location_gimmick.json',
-            'rottensea_gimmick_area02_gimmick.json',
-            'metal_location_gimmick.json',
-            'kingdom_location_gimmick.json',
-            'castle_location_gimmick.json',
-            'submap01_gimmick_gimmick.json',
-            'submap3_gimmick_gimmick.json',
-            'submap4_gimmick_gimmick.json',
-            'submap5_gimmick_gimmick.json',]
+    exclude = ['jimen', 'housing', 'blend', 'test', 'file_info', 'event_', 'void',
+               'env_effect', 'menu', 'quest_', '_npc', 'seamless', 'destructive',
+               'district', 'prologue', 'indoor_', '_mana_', 'dummy', 'border',
+               'metal_gimmick_area06_gimmick']
 
+    maps = os.listdir(map_data)
+    files = []
+
+    for e in exclude:
+        for map in maps:
+            if e in map:
+                files.append(map)
+    maps = [m for m in maps if m not in files]
+    print(maps)
+
+    gather_nodes()
+    finalized['chests'] = {}
+    finalized['gather'] = {}
+
+    """
+    1157243747 shrine
+    1254731747 chest enemy
+    1056368472 pressure plate
+    1802197613 cube
+    685462064 another enemy?
+    2366441374 crack rock
+    # wtf is this
+        3113086705: 'Etc 1',
+        3944769136: 'Etc 2',
+        1095892315: 'Etc 3',
+        2275777035: 'Etc 4',
+        685462064: 'NPCs?', ## ???
+
+        4069313403: 'Button',
+        1184117056: 'Fast Travel',
+        771256160: 'Fishing',
+        2725809807: 'NPCs',
+    """
 
     types = {
-        1184117056: 'Fast Travel',
-        3376427666: 'Vial?',
-        771256160: 'Fishing'
+        4281547523: 'Chest',
+        2470424865: 'Minigame Chest',
+        1154842166: 'Shoot Chest',
+        3376427666: 'Memory Vial',
+        685462064: 'Monsters', # needs symbol group and encount group
+        2722217191: 'Gather (Hand)',
+        805069512: 'Gather (Staff)',
+        441698374: 'Gather (Gun)',
+        2029820134: 'Monster 2',
     }
     im = image.imread('combined.webp')
     count = 0
@@ -651,24 +793,37 @@ def map():
         with open(map_data+map, encoding=enc) as f:
             obj = json.load(f)
             point = 'og'
+            location = ''
             if 'forest' in map or 'submap01' in map:
                 point = 'or'
-            elif 'rottensea' in map:
+                location = 'Ligneus'
+            elif 'rottensea' in map or 'submap5' in map:
                 point = 'om'
-            elif 'metal' in map or 'submap3' in map:
+                location = 'Sivash'
+            elif 'metal' in map or 'submap3' in map or 'submap4' in map:
                 point = 'oy'
-            elif 'kingdom' in map:
+                location = 'Auruma'
+            elif 'kingdom' in map or 'castle' in map:
                 point = 'ok'
-            elif 'castle' in map:
-                point = 'ok'
+                location = 'Lacuna'
             for item in obj:
-                if item['type'] == 3376427666:
+                match item['type']:
+                    case 4281547523: get_item(item, types[item['type']], location, "chests")
+                    case 2470424865: get_item(item, types[item['type']], location, "chests")
+                    case 1154842166: get_item(item, types[item['type']], location, "chests")
+                    case 2722217191: get_item(item, types[item['type']], location, "gather")
+                    case 805069512:  get_item(item, types[item['type']], location, "gather")
+                    case 441698374:  get_item(item, types[item['type']], location, "gather")
+                """ plotting
+                if item['type'] == 2725809807:
                     count += 1
                     pos = item['pos'].split(',')
-                    #plt.plot(float(pos[0]), float(pos[2]), point)
+                    #zplt.plot(float(pos[0]), float(pos[2]), point)
                     plt.plot((float(pos[0])-90000)/722000*8704, (float(pos[2])-90000)/297000*3584, point)
+                """
 
-    print(count)
+
+    #print(count)
     #plt.gca().invert_yaxis()
     plt.imshow(im)
     plt.show()
@@ -738,7 +893,13 @@ def export_csv():
             'need_item_0', 'need_num_0', 'need_item_1', 'need_num_1',
             'need_item_2','need_num_2', 'need_item_3','need_num_3',
             'image_no', 'comfort_level', 'cost', 'category',
-        ]
+        ],
+        'chests': [
+            'id', 'x', 'z', 'reward', 'location', 'note',
+        ],
+        'gather': [
+            'id', 'x', 'z', 'reward', 'location', 'note',
+        ],
 
     }
     for k, v in finalized.items():
