@@ -1,0 +1,41 @@
+id	x	z	reward	location	note
+1048576	0.04576828254847645	0.24640942760942763	{'housing_area_id': 'HOUSING_AREA_00', 'comfort_goal': [100, 200, 400, 600, 0], 'comfort_reward_name': ['Weather Vane', '', 'Wall Lamp D', '', '']}	Ligneus	Building Area
+1048577	0.16117216066481993	0.30962626262626264	{'housing_area_id': 'HOUSING_AREA_01', 'comfort_goal': [100, 200, 400, 600, 0], 'comfort_reward_name': ['Well', 'Switch A', '', '', '']}	Ligneus	Building Area
+1048579	0.12472631578947367	0.11561212121212122	{'housing_area_id': 'HOUSING_AREA_03', 'comfort_goal': [100, 200, 400, 600, 800], 'comfort_reward_name': ['Fruit Tree', '', 'Wooden Shelf C', 'Dresser B', '']}	Ligneus	Building Area
+1048578	0.058488227146814405	0.18307407407407408	{'housing_area_id': 'HOUSING_AREA_02', 'comfort_goal': [100, 200, 400, 600, 0], 'comfort_reward_name': ['Shooting Target A', '', '', 'Small Wall Decor B', '']}	Ligneus	Building Area
+1048598	0.057209556786703586	0.09076026936026937	{'housing_area_id': 'HOUSING_AREA_MM02_100', 'comfort_goal': [0, 0, 0, 0, 0], 'comfort_reward_name': ['', '', '', '', '']}	Ligneus	Building Area
+1048588	0.11052950138504153	0.3152666666666667	{'housing_area_id': 'HOUSING_AREA_08', 'comfort_goal': [50, 0, 0, 0, 0], 'comfort_reward_name': ['Fishing Pond', '', '', '', '']}	Ligneus	Building Area
+1048587	0.14509792243767314	0.3559632996632997	{'housing_area_id': 'HOUSING_AREA_09', 'comfort_goal': [50, 100, 0, 0, 0], 'comfort_reward_name': ['Grass A', 'Tapestry B', '', '', '']}	Ligneus	Building Area
+1048607	0.03765055401662049	0.4336222222222222	{'housing_area_id': 'HOUSING_AREA_11', 'comfort_goal': [50, 100, 0, 0, 0], 'comfort_reward_name': ['Stone E', 'Long Desk', '', '', '']}	Ligneus	Building Area
+1048585	0.11569833795013852	0.37490505050505046	{'housing_area_id': 'HOUSING_AREA_10', 'comfort_goal': [50, 0, 0, 0, 0], 'comfort_reward_name': ['Gate', '', '', '', '']}	Ligneus	Building Area
+1048580	0.051119944598337956	0.4710542087542088	{'housing_area_id': 'HOUSING_AREA_04', 'comfort_goal': [0, 0, 0, 0, 0], 'comfort_reward_name': ['', '', '', '', '']}	Ligneus	Building Area
+1048581	0.04918518005540166	0.4694343434343434	{'housing_area_id': 'HOUSING_AREA_06', 'comfort_goal': [0, 0, 0, 0, 0], 'comfort_reward_name': ['', '', '', '', '']}	Ligneus	Building Area
+1048583	0.052085734072022154	0.46632424242424236	{'housing_area_id': 'HOUSING_AREA_07', 'comfort_goal': [0, 0, 0, 0, 0], 'comfort_reward_name': ['', '', '', '', '']}	Ligneus	Building Area
+55050393	0.6876419667590028	0.8181370370370371	{'housing_area_id': 'HOUSING_AREA_26', 'comfort_goal': [100, 200, 400, 600, 0], 'comfort_reward_name': ['Music Box D', '', '', 'Music Box J', '']}	Lacuna	Building Area
+55050394	0.7582984764542936	0.6459983164983165	{'housing_area_id': 'HOUSING_AREA_27', 'comfort_goal': [100, 200, 400, 600, 0], 'comfort_reward_name': ['Music Box E', '', 'Music Box K', '', '']}	Lacuna	Building Area
+55050395	0.8075041551246538	0.755486531986532	{'housing_area_id': 'HOUSING_AREA_28', 'comfort_goal': [100, 200, 400, 600, 0], 'comfort_reward_name': ['Music Box F', 'Music Box L', '', '', '']}	Lacuna	Building Area
+55050405	0.8017614958448754	0.7740242424242425	{'housing_area_id': 'HOUSING_AREA_37', 'comfort_goal': [50, 100, 0, 0, 0], 'comfort_reward_name': ['Tree B', 'Basic Carpet B', '', '', '']}	Lacuna	Building Area
+55050407	0.7432090027700832	0.7147946127946128	{'housing_area_id': 'HOUSING_AREA_38', 'comfort_goal': [50, 100, 0, 0, 0], 'comfort_reward_name': ['Tree E', 'Prism', '', '', '']}	Lacuna	Building Area
+55050409	0.687614404432133	0.7516454545454546	{'housing_area_id': 'HOUSING_AREA_39', 'comfort_goal': [50, 100, 0, 0, 0], 'comfort_reward_name': ['Treasure', 'Big Carpet B', '', '', '']}	Lacuna	Building Area
+17564219	0.4565534626038781	0.7175801346801346	{'housing_area_id': 'HOUSING_AREA_22', 'comfort_goal': [100, 200, 400, 600, 0], 'comfort_reward_name': ['Music Box A', 'Music Box G', '', '', '']}	Auruma	Building Area
+17564177	0.5339480609418282	0.5842319865319866	{'housing_area_id': 'HOUSING_AREA_23', 'comfort_goal': [100, 200, 400, 600, 0], 'comfort_reward_name': ['Music Box B', '', 'Music Box H', '', '']}	Auruma	Building Area
+17564182	0.5237274238227146	0.8903484848484848	{'housing_area_id': 'HOUSING_AREA_24', 'comfort_goal': [100, 200, 400, 600, 0], 'comfort_reward_name': ['Music Box C', '', '', 'Music Box I', '']}	Auruma	Building Area
+17564222	0.5240839335180055	0.6925006734006734	{'housing_area_id': 'HOUSING_AREA_25', 'comfort_goal': [100, 200, 400, 600, 800], 'comfort_reward_name': ['Shooting Target B', '', 'Mini Stage', '', '']}	Auruma	Building Area
+17564372	0.49900318559556783	0.5768542087542088	{'housing_area_id': 'HOUSING_AREA_34', 'comfort_goal': [50, 100, 0, 0, 0], 'comfort_reward_name': ['Stone F', 'Cute Bed', '', '', '']}	Auruma	Building Area
+17564375	0.4520441828254848	0.7416175084175085	{'housing_area_id': 'HOUSING_AREA_32', 'comfort_goal': [50, 100, 0, 0, 0], 'comfort_reward_name': ['Tree C', 'Resort Couch', '', '', '']}	Auruma	Building Area
+17564369	0.5485389196675899	0.6761491582491582	{'housing_area_id': 'HOUSING_AREA_33', 'comfort_goal': [50, 0, 0, 0, 0], 'comfort_reward_name': ['Tree D', '', '', '', '']}	Auruma	Building Area
+46661632	-0.11772853185595568	-0.28619528619528617	{'housing_area_id': 'HOUSING_AREA_PRESET_EDIT', 'comfort_goal': [0, 0, 0, 0, 0], 'comfort_reward_name': ['', '', '', '', '']}		Building Area
+13894329	0.37318393351800555	0.32858383838383837	{'housing_area_id': 'HOUSING_AREA_MM04_040', 'comfort_goal': [0, 0, 0, 0, 0], 'comfort_reward_name': ['', '', '', '', '']}	Sivash	Building Area
+13894510	0.2997229916897507	0.2138047138047138	{'housing_area_id': 'HOUSING_AREA_CM03_070', 'comfort_goal': [0, 0, 0, 0, 0], 'comfort_reward_name': ['', '', '', '', '']}	Sivash	Building Area
+13893795	0.41066814404432134	0.1318077441077441	{'housing_area_id': 'HOUSING_AREA_17', 'comfort_goal': [50, 100, 0, 0, 0], 'comfort_reward_name': ['Grass B', 'Chair C', '', '', '']}	Sivash	Building Area
+13893793	0.36872936288088637	0.37952727272727277	{'housing_area_id': 'HOUSING_AREA_18', 'comfort_goal': [50, 0, 0, 0, 0], 'comfort_reward_name': ['Stone C', '', '', '', '']}	Sivash	Building Area
+13893798	0.3578771468144044	0.2501851851851852	{'housing_area_id': 'HOUSING_AREA_19', 'comfort_goal': [50, 100, 0, 0, 0], 'comfort_reward_name': ['Stone D', 'Bench', '', '', '']}	Sivash	Building Area
+13893800	0.2569382271468144	0.2457265993265993	{'housing_area_id': 'HOUSING_AREA_20', 'comfort_goal': [50, 0, 0, 0, 0], 'comfort_reward_name': ['Lamp D', '', '', '', '']}	Sivash	Building Area
+13893801	0.3353448753462604	0.3865599326599326	{'housing_area_id': 'HOUSING_AREA_21', 'comfort_goal': [50, 100, 0, 0, 0], 'comfort_reward_name': ['Tree A', 'Decorative Ball', '', '', '']}	Sivash	Building Area
+13893789	0.3623286703601108	0.5146868686868686	{'housing_area_id': 'HOUSING_AREA_16', 'comfort_goal': [100, 200, 400, 600, 800], 'comfort_reward_name': ['Alstahlia Flower', '', '', '', '']}	Sivash	Building Area
+13893792	0.2437056786703601	0.36063131313131314	{'housing_area_id': 'HOUSING_AREA_15', 'comfort_goal': [100, 200, 400, 600, 0], 'comfort_reward_name': ['Mushroom Log', '', 'Writing Desk', '', '']}	Sivash	Building Area
+13893787	0.41240747922437676	0.26319124579124575	{'housing_area_id': 'HOUSING_AREA_14', 'comfort_goal': [100, 200, 400, 600, 0], 'comfort_reward_name': ['Quarry', 'Round Carpet B', '', '', '']}	Sivash	Building Area
+13894515	0.3067573407202216	0.05351750841750841	{'housing_area_id': 'HOUSING_AREA_13', 'comfort_goal': [100, 200, 400, 600, 0], 'comfort_reward_name': ['Puni Mat', '', '', 'Picture D', '']}	Sivash	Building Area
+32243827	0.19529889196675898	0.622417845117845	{'housing_area_id': 'HOUSING_AREA_29', 'comfort_goal': [100, 200, 400, 600, 0], 'comfort_reward_name': ['Magical Potted Plant', '', '', '', '']}	Ligneus	Building Area
+32505918	0.514728808864266	0.39452424242424244	{'housing_area_id': 'HOUSING_AREA_30', 'comfort_goal': [100, 200, 400, 600, 0], 'comfort_reward_name': ['Shooting Target C', '', '', '', '']}	Auruma	Building Area
+33030218	0.4924746537396122	0.22345791245791247	{'housing_area_id': 'HOUSING_AREA_31', 'comfort_goal': [100, 200, 400, 600, 0], 'comfort_reward_name': ['Colored Light', '', '', '', '']}	Sivash	Building Area

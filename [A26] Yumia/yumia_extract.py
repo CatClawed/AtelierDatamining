@@ -1,5 +1,4 @@
 import json, csv, os
-#from PIL import Image
 from matplotlib import image
 from matplotlib import pyplot as plt
 
@@ -49,6 +48,42 @@ def kind():
             d['tag'] = item['item_kind_tag']
             d['image_no'] = item['image_no']
             dic[item['item_kind_tag']] = d
+
+def other_text():
+    dic = {}
+    finalized['location'] = dic
+    with open(fixed_data+'field_map_location/location.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['field_map_location_location']:
+            if 'location_name' in item:
+                try:
+                    d = {}
+                    copy_keys(d, item, ['fieldmap_location_id'])
+                    d = d | localize[item['location_name']].copy()
+                    dic[d['fieldmap_location_id']] = d
+                except:
+                    pass
+
+    dic = {}
+    finalized['neat_localization_strings'] = dic
+    tags = [
+        'STR_MIX_RECALL_REWARD_000',
+        'STR_MIX_RECALL_REWARD_001',
+        'STR_MIX_RECALL_REWARD_002',
+        'STR_MIX_RECALL_REWARD_003',
+        'STR_MIX_RECALL_REWARD_004',
+        'STR_MIX_RECALL_REWARD_005',
+        'STR_MIX_RECALL_REWARD_006',
+        'STR_MIX_RECALL_REWARD_007',
+        'STR_MIX_RECALL_REWARD_008',
+        'STR_MIX_RECALL_REWARD_009',
+        'STR_MIX_RECALL_REWARD_010',
+        'STR_MIX_RECALL_REWARD_011',
+    ]
+    for tag in tags:
+        d = localize[tag].copy()
+        dic[tag] = d
+
 
 def material():
     with open(fixed_data+'item/item_material.json', encoding=enc) as f:
@@ -216,7 +251,7 @@ def effect():
             copy_keys(d, item, ['item_id', 'has_range', 'att_tag', 'act_tag',
                     'prm1_lv_min_rand_range_min', 'prm1_lv_min_rand_range_max',
                     'prm1_lv_max_rand_range_min', 'prm1_lv_max_rand_range_max',
-                    'prm1_lv_max_rand_range_max', 'prm2_lv_min_rand_range_max',
+                    'prm2_lv_min_rand_range_min', 'prm2_lv_min_rand_range_max',
                     'prm2_lv_max_rand_range_min', 'prm2_lv_max_rand_range_max',
                     'hash_name'
                 ])
@@ -539,6 +574,26 @@ def monster():
             d = d | hold['monster_drop'][item['monster_id']]
             dic[item['monster_id']] = d
 
+    # ignoring all sorts of stuff here, like lv ranges
+    dic = {}
+    hold['encount_group'] = dic
+    with open(fixed_data+'encount/encount_group.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['encount_encount_group']:
+            d = {}
+            copy_keys(d, item, ['monster_id'])
+            d['monster'] = finalized['monster'][item['monster_id']]['text_eng']
+            dic[item['encount_group_id']] = d
+
+    # I just yoink the first encount_group_id, they seem to be the same
+    dic = {}
+    hold['symbol_group'] = dic
+    with open(fixed_data+'enemy/symbol_group.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['enemy_symbol_group']:
+            d = {}
+            d = hold['encount_group'][item['encount_group_id'][0]]
+            dic[item['symbol_group_id']] = d
 
 def item_data():
     kind()
@@ -589,7 +644,7 @@ def building():
 
 
     dic = {}
-    finalized['housing_area'] = dic
+    hold['housing_area'] = dic
     with open(fixed_data+'housing/housing_area.json', encoding=enc) as f:
         obj = json.load(f)
         for item in obj['housing_housing_area']:
@@ -605,7 +660,7 @@ def building():
                             reward.append('')
                     else:
                         reward.append('')
-            d['comfort_reward'] = reward
+            d['comfort_reward_name'] = reward
 
             dic[item['housing_area_id']] = d
 
@@ -619,7 +674,7 @@ def building():
             for i in range(0,4):
                 if f'need_item_{i}' in item:
                     d[f'need_item_{i}'] = finalized['material'][item[f'need_item_{i}']]['text_eng']
-            copy_keys(d, item, ['item_craft_recipe_id', 'create_senario_flag', 'energy_core_cost', 'create_num_at_once', 'need_num_0', 'need_num_1', 'need_num_2', 'need_num_3'])
+            copy_keys(d, item, ['item_craft_recipe_id', 'create_senario_flag', 'energy_core_cost', 'create_num_at_once', 'need_num_0', 'need_num_1', 'need_num_2', 'need_num_3', 'item_tag'])
             if item['item_tag'] in hold['housing_object']:
                 d = d | hold['housing_object'][item['item_tag']]
 
@@ -711,33 +766,44 @@ def get_position(pos):
     pos = pos.split(',')
     return (float(pos[0])-90000)/722000, (float(pos[2])-90000)/297000
 
-def plot(x, z, point='ob'):
-    plt.plot(x*8704, z*3584, point)
+def plot(x, z, point='o'):
+    plt.plot(x*8704, z*3584, point, color="white", markeredgecolor="black", markersize=9)
 
-def get_item(item, note, location, label):
+def get_location(item, note, location, label):
     d = {}
     d['id'] = item['ID']
     d['note'] = note
     d['location'] = location
     d['x'], d['z'] = get_position(item['pos'])
     app = None
-    if 'elem' in item:
-        for elem in item['elem']:
-            if 's_flag' in elem:
-                if elem['s_flag']:
-                    app = hold['gimmick_event'][elem['s_flag']]
-                    break
+
+    if label == 'gather' or label == 'chests':
+        if 'elem' in item:
+            for elem in item['elem']:
+                if 's_flag' in elem:
+                    if elem['s_flag']:
+                        app = hold['gimmick_event'][elem['s_flag']]
+                        break
+        if item['param'][0]['v'] and item['param'][0]['v'] in hold['gather']:
+            res = hold['gather'][item['param'][0]['v']].copy()
+            if app:
+                res.append(app)
+            d['reward'] = res
+    if label == 'monsters':
+        if item['param'][0]['v'] and item['param'][0]['v'] in hold['symbol_group']:
+            res = hold['symbol_group'][item['param'][0]['v']].copy()
+            d['monster'] = res
+    if label == 'building':
+        if item['param'][0]['v'] and item['param'][0]['v'] in hold['housing_area']:
+            res = hold['housing_area'][item['param'][0]['v']].copy()
+            d['reward'] = res
     try:
-        res = hold['gather'][item['param'][0]['v']].copy()
-        if app:
-            res.append(app)
-        d['reward'] = res
         finalized[label][item['ID']] = d
     except Exception as e:
         print(e)
 
 def map():
-    exclude = ['jimen', 'housing', 'blend', 'test', 'file_info', 'event_', 'void',
+    exclude = ['jimen', 'blend', 'test', 'file_info', 'event_', 'void',
                'env_effect', 'menu', 'quest_', '_npc', 'seamless', 'destructive',
                'district', 'prologue', 'indoor_', '_mana_', 'dummy', 'border',
                'metal_gimmick_area06_gimmick']
@@ -750,11 +816,13 @@ def map():
             if e in map:
                 files.append(map)
     maps = [m for m in maps if m not in files]
-    print(maps)
 
     gather_nodes()
     finalized['chests'] = {}
     finalized['gather'] = {}
+    finalized['monsters'] = {}
+    finalized['vials'] = {}
+    finalized['building'] = {}
 
     """
     1157243747 shrine
@@ -778,16 +846,17 @@ def map():
 
     types = {
         4281547523: 'Chest',
-        2470424865: 'Minigame Chest',
-        1154842166: 'Shoot Chest',
+        2470424865: 'Chest (Minigame)',
+        1154842166: 'Chest (Gun)',
         3376427666: 'Memory Vial',
         685462064: 'Monsters', # needs symbol group and encount group
         2722217191: 'Gather (Hand)',
         805069512: 'Gather (Staff)',
         441698374: 'Gather (Gun)',
         2029820134: 'Monster 2',
+        3340887031: 'Building Area'
     }
-    im = image.imread('combined.webp')
+    #im = image.imread('combined.webp')
     count = 0
     for map in maps:
         with open(map_data+map, encoding=enc) as f:
@@ -808,12 +877,15 @@ def map():
                 location = 'Lacuna'
             for item in obj:
                 match item['type']:
-                    case 4281547523: get_item(item, types[item['type']], location, "chests")
-                    case 2470424865: get_item(item, types[item['type']], location, "chests")
-                    case 1154842166: get_item(item, types[item['type']], location, "chests")
-                    case 2722217191: get_item(item, types[item['type']], location, "gather")
-                    case 805069512:  get_item(item, types[item['type']], location, "gather")
-                    case 441698374:  get_item(item, types[item['type']], location, "gather")
+                    case 4281547523: get_location(item, types[item['type']], location, "chests")
+                    case 2470424865: get_location(item, types[item['type']], location, "chests")
+                    case 1154842166: get_location(item, types[item['type']], location, "chests")
+                    case 2722217191: get_location(item, types[item['type']], location, "gather")
+                    case 805069512:  get_location(item, types[item['type']], location, "gather")
+                    case 441698374:  get_location(item, types[item['type']], location, "gather")
+                    case 3376427666: get_location(item, types[item['type']], location, "vials")
+                    case 685462064:  get_location(item, types[item['type']], location, "monsters")
+                    case 3340887031: get_location(item, types[item['type']], location, "building")
                 """ plotting
                 if item['type'] == 2725809807:
                     count += 1
@@ -822,11 +894,8 @@ def map():
                     plt.plot((float(pos[0])-90000)/722000*8704, (float(pos[2])-90000)/297000*3584, point)
                 """
 
-
-    #print(count)
-    #plt.gca().invert_yaxis()
-    plt.imshow(im)
-    plt.show()
+    #plt.imshow(im)
+    #plt.show()
 
 
 """
@@ -867,9 +936,10 @@ def export_csv():
             'disp_flag',],
         'effect': [
             'item_id','text_eng','desc_eng','desc2_eng','text_jpn','desc_jpn','desc2_jpn','text_chs','desc_chs','desc2_chs','text_cht','desc_cht','desc2_cht','text_deu','desc_deu','desc2_deu','text_fra','desc_fra','desc2_fra','text_kor','desc_kor','desc2_kor','text_rus','desc_rus','desc2_rus','text_spa','desc_spa','desc2_spa',
-            'has_range','att_tag','act_tag','prm1_lv_min_rand_range_min',
-            'prm1_lv_min_rand_range_max','prm1_lv_max_rand_range_min',
-            'prm1_lv_max_rand_range_max','prm2_lv_min_rand_range_max',
+            'has_range','att_tag','act_tag',
+            'prm1_lv_min_rand_range_min', 'prm1_lv_min_rand_range_max',
+            'prm1_lv_max_rand_range_min','prm1_lv_max_rand_range_max',
+            'prm2_lv_min_rand_range_min','prm2_lv_min_rand_range_max',
             'prm2_lv_max_rand_range_min','prm2_lv_max_rand_range_max',
             'hash_name','disp_flag','page_type_flag','max_lv'],
         'item': [
@@ -892,7 +962,7 @@ def export_csv():
             'item_craft_recipe_id', 'name', 'create_senario_flag', 'energy_core_cost', 'create_num_at_once',
             'need_item_0', 'need_num_0', 'need_item_1', 'need_num_1',
             'need_item_2','need_num_2', 'need_item_3','need_num_3',
-            'image_no', 'comfort_level', 'cost', 'category',
+            'image_no', 'comfort_level', 'cost', 'category', 'item_tag',
         ],
         'chests': [
             'id', 'x', 'z', 'reward', 'location', 'note',
@@ -900,7 +970,15 @@ def export_csv():
         'gather': [
             'id', 'x', 'z', 'reward', 'location', 'note',
         ],
-
+        'monsters': [
+            'id', 'x', 'z', 'monster', 'location', 'note',
+        ],
+        'vials': [
+            'id', 'x', 'z','location', 'note',
+        ],
+        'building': [
+            'id', 'x', 'z', 'reward', 'location', 'note',
+        ],
     }
     for k, v in finalized.items():
         head = keys[k] if k in keys else v[list(v.keys())[0]].keys()
@@ -912,6 +990,7 @@ def export_csv():
 
 
 get_localization()
+other_text()
 item_data()
 monster()
 building()

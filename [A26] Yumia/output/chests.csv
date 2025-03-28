@@ -168,8 +168,8 @@ id	x	z	reward	location	note
 43515922	0.5315242382271468	0.35423400673400673	[{'item_id': 'ITEM_FISH_009', 'item': 'Sawe Fish'}]	Auruma	Chest
 43515923	0.5588727146814404	0.37759158249158253	[{'item_id': 'ITEM_FISH_007', 'item': 'Poisoned Puffer'}]	Auruma	Chest
 43515917	0.5254662049861496	0.4150198653198653	[{'item_id': 'ITEM_FISH_008', 'item': 'Decaying Shellfish'}]	Auruma	Chest
-43515919	0.5099774238227147	0.4180979797979798	[{'item_id': 'ITEM_GEMSTONE_008', 'item': 'Mine Coral'}]	Auruma	Minigame Chest
-43515924	0.5106414127423823	0.4191323232323232	[{'item_id': 'ITEM_MUSHROOM_005', 'item': 'Danger Mushroom'}]	Auruma	Minigame Chest
+43515919	0.5099774238227147	0.4180979797979798	[{'item_id': 'ITEM_GEMSTONE_008', 'item': 'Mine Coral'}]	Auruma	Chest (Minigame)
+43515924	0.5106414127423823	0.4191323232323232	[{'item_id': 'ITEM_MUSHROOM_005', 'item': 'Danger Mushroom'}]	Auruma	Chest (Minigame)
 43515920	0.5155594182825485	0.4299579124579125	[{'item_id': 'ITEM_STONE_005', 'item': 'Breeze Stone'}]	Auruma	Chest
 43515916	0.5401871191135734	0.42461178451178455	[{'item_id': 'ITEM_GEMSTONE_005', 'item': 'Lilac Gemstone'}]	Auruma	Chest
 31719947	0.08636675900277006	0.2959818181818182	[{'item_id': 'ITEM_PLANT_003', 'item': 'Pinwind'}]	Ligneus	Chest
@@ -178,19 +178,19 @@ id	x	z	reward	location	note
 31719444	0.04417493074792244	0.40513973063973063	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_048', 'trait': 'Enhance Ice Damage'}]	Ligneus	Chest
 31719705	0.04891274238227147	0.40836464646464643	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Chest
 31719516	0.10614252077562326	0.3284424242424242	[{'item_id': 'ITEM_MIX_007', 'item': 'Blue Neutralizer'}]	Ligneus	Chest
-31719556	0.10460180055401662	0.33343468013468014	[{'item_id': 'ITEM_MIX_008', 'item': 'Yellow Neutralizer'}]	Ligneus	Minigame Chest
+31719556	0.10460180055401662	0.33343468013468014	[{'item_id': 'ITEM_MIX_008', 'item': 'Yellow Neutralizer'}]	Ligneus	Chest (Minigame)
 31719692	0.10253393351800554	0.32838316498316494	[{'item_id': 'ITEM_LIQUID_004', 'item': 'Fresh Spring Water'}]	Ligneus	Chest
 31719560	0.10601495844875344	0.3309407407407407	[{'item_id': 'ITEM_MIX_004', 'item': 'Distilled Water'}]	Ligneus	Chest
 31719667	0.17758033240997229	0.3596942760942761	[{'item_id': 'ITEM_UNI_001', 'item': 'Uni'}]	Ligneus	Chest
 31719702	0.1765112188365651	0.35428619528619526	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Chest
 31719541	0.17744958448753465	0.360783164983165	[{'item_id': 'ITEM_ARMOR_01', 'item': 'Nomadic Clothing'}]	Ligneus	Chest
-31719882	0.17724349030470912	0.36167777777777776	[{'item_id': 'ITEM_MIX_011', 'item': 'Spun Thread'}]	Ligneus	Minigame Chest
+31719882	0.17724349030470912	0.36167777777777776	[{'item_id': 'ITEM_MIX_011', 'item': 'Spun Thread'}]	Ligneus	Chest (Minigame)
 31719542	0.07467756232686983	0.32092121212121216	[{'item_id': 'ITEM_MIX_012', 'item': 'Essence Powder'}]	Ligneus	Chest
 31719743	0.07433878116343491	0.3153696969696969	[{'item_id': 'ITEM_WEAPON_D_01', 'item': 'Prideful Pile Bunker'}]	Ligneus	Chest
 31719543	0.07511869806094185	0.32237205387205387	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Chest
-31719887	0.03085706371191136	0.41846902356902355	[{'item_id': 'ITEM_MIX_010', 'item': 'Felsensalz'}]	Ligneus	Minigame Chest
+31719887	0.03085706371191136	0.41846902356902355	[{'item_id': 'ITEM_MIX_010', 'item': 'Felsensalz'}]	Ligneus	Chest (Minigame)
 31719669	0.032374930747922435	0.4156969696969697	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Chest
-31719514	0.04337894736842106	0.23314107744107743	[{'item_id': 'ITEM_MIX_013', 'item': 'Prosperous Spellbook'}]	Ligneus	Minigame Chest
+31719514	0.04337894736842106	0.23314107744107743	[{'item_id': 'ITEM_MIX_013', 'item': 'Prosperous Spellbook'}]	Ligneus	Chest (Minigame)
 31719764	0.03724667590027702	0.24564444444444442	[{'item_id': 'ITEM_MIX_015', 'item': 'Lucky Leaf Bell'}]	Ligneus	Chest
 31719765	0.035788919667590034	0.25382996632996635	[{'item_id': 'ITEM_FISH_003', 'item': 'Mossclad'}]	Ligneus	Chest
 31719776	0.033177839335180044	0.2434814814814815	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_011', 'trait': 'Reduce Cooldown'}]	Ligneus	Chest
@@ -199,31 +199,31 @@ id	x	z	reward	location	note
 31719513	0.16409986149584488	0.33998888888888895	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Chest
 31719682	0.027434072022160656	0.28371178451178447	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_001', 'trait': 'Destructive'}]	Ligneus	Chest
 31719559	0.16215124653739613	0.33669427609427616	[{'item_id': 'ITEM_MIX_014', 'item': 'Primal Remains'}]	Ligneus	Chest
-31719884	0.16249764542936287	0.3389734006734007	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_049', 'trait': 'Enhance Bolt Damage'}]	Ligneus	Minigame Chest
+31719884	0.16249764542936287	0.3389734006734007	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_049', 'trait': 'Enhance Bolt Damage'}]	Ligneus	Chest (Minigame)
 31719670	0.11520969529085871	0.2438579124579124	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Chest
 31719544	0.11572839335180055	0.24329595959595957	[{'item_id': 'ITEM_WEAPON_A_01', 'item': 'Departure Gunstaff'}]	Ligneus	Chest
 31719545	0.11653614958448755	0.2458875420875421	[{'item_id': 'ITEM_MIX_005', 'item': 'Flour'}]	Ligneus	Chest
 31719517	0.13823711911357342	0.4730548821548821	[{'item_id': 'ITEM_MIX_006', 'item': 'Red Neutralizer'}]	Ligneus	Chest
 31719518	0.1235387811634349	0.4617447811447812	"[{'item_id': 'ITEM_FLOWER_005', 'item': ""Spirit's Regalia""}]"	Ligneus	Chest
-31719671	0.14092963988919668	0.469546127946128	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Minigame Chest
+31719671	0.14092963988919668	0.469546127946128	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Chest (Minigame)
 31719830	0.05864141274238228	0.15274579124579124	[{'item_id': 'ITEM_ORE_001', 'item': 'Igneo Stone'}]	Ligneus	Chest
 31719614	0.11432146814404433	0.22279326599326602	[{'item_id': 'ITEM_MIX_003', 'item': 'Honey'}]	Ligneus	Chest
-31719693	0.11225207756232687	0.2101589225589226	[{'item_id': 'ITEM_MIX_009', 'item': 'Green Neutralizer'}]	Ligneus	Minigame Chest
+31719693	0.11225207756232687	0.2101589225589226	[{'item_id': 'ITEM_MIX_009', 'item': 'Green Neutralizer'}]	Ligneus	Chest (Minigame)
 31719672	0.11394390581717452	0.21427542087542084	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Chest
 31719520	0.02978434903047092	0.21654545454545454	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_010', 'trait': 'Stun Boost'}]	Ligneus	Chest
 31719555	0.03576731301939058	0.20324949494949496	[{'item_id': 'ITEM_PLANT_004', 'item': 'Whatchamacallit'}]	Ligneus	Chest
 31719673	0.024720360110803332	0.21860134680134682	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Chest
 31719521	0.02689722991689751	0.21095286195286195	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_050', 'trait': 'Enhance Air Damage'}]	Ligneus	Chest
-31719741	0.1865247922437673	0.10428484848484851	[{'item_id': 'ITEM_MIX_016', 'item': 'Ripuka Gel'}]	Ligneus	Minigame Chest
+31719741	0.1865247922437673	0.10428484848484851	[{'item_id': 'ITEM_MIX_016', 'item': 'Ripuka Gel'}]	Ligneus	Chest (Minigame)
 31719554	0.18794432132963987	0.09450033670033672	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Chest
 31719524	0.20048975069252079	0.1632198653198653	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_005', 'trait': 'ATK Up'}]	Ligneus	Chest
-31719902	0.19999806094182826	0.16783198653198655	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_004', 'trait': 'HP Up'}]	Ligneus	Minigame Chest
+31719902	0.19999806094182826	0.16783198653198655	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_004', 'trait': 'HP Up'}]	Ligneus	Chest (Minigame)
 31720020	0.20414459833795012	0.16218181818181818	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Chest
 31719534	0.20272049861495847	0.16960841750841754	[{'item_id': 'ITEM_ORE_002', 'item': 'Glacial Stone'}]	Ligneus	Chest
 31719533	0.20399390581717453	0.16675151515151518	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_006', 'trait': 'DEF Up'}]	Ligneus	Chest
 31719509	0.15849349030470913	0.27924781144781147	[{'item_id': 'ITEM_FLOWER_004', 'item': 'Icy Carnation'}]	Ligneus	Chest
 31719512	0.16396606648199447	0.29831077441077436	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Chest
-31719661	0.15850166204986152	0.2877969696969697	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Minigame Chest
+31719661	0.15850166204986152	0.2877969696969697	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Chest (Minigame)
 31719657	0.15907188365650968	0.29052558922558924	[{'item_id': 'ITEM_PLANT_007', 'item': 'Nitraloe'}]	Ligneus	Chest
 31719511	0.1638073407202216	0.2823969696969697	[{'item_id': 'ITEM_MEDICAL_003', 'item': 'Tall Taun'}]	Ligneus	Chest
 31719819	0.15781385041551246	0.2841683501683502	[{'item_id': 'ITEM_WEAPON_E_01', 'item': 'Altered Scythe'}]	Ligneus	Chest
@@ -237,7 +237,7 @@ id	x	z	reward	location	note
 31719552	0.1788498614958449	0.1855080808080808	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_016', 'trait': 'Restore HP'}]	Ligneus	Chest
 31719939	0.18051662049861497	0.18261818181818185	[{'item_id': 'ITEM_ELIXIL_001', 'item': 'Refreshing Sap'}]	Ligneus	Chest
 31719551	0.17974127423822717	0.17530707070707074	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Chest
-31719889	0.17832146814404434	0.1812747474747475	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_001', 'trait': 'Destructive'}]	Ligneus	Minigame Chest
+31719889	0.17832146814404434	0.1812747474747475	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_001', 'trait': 'Destructive'}]	Ligneus	Chest (Minigame)
 31719757	0.1793448753462604	0.2907121212121212	[{'item_id': 'ITEM_GEMSTONE_006', 'item': 'Aura Gemstone'}]	Ligneus	Chest
 31719526	0.1797915512465374	0.28544781144781145	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_002', 'trait': 'Healing'}]	Ligneus	Chest
 31719424	0.047899030470914136	0.49151717171717174	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_014', 'trait': 'Inner Range Boost'}]	Ligneus	Chest
@@ -246,60 +246,60 @@ id	x	z	reward	location	note
 31719428	0.042071883656509684	0.46841986531986535	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_002', 'trait': 'Healing'}]	Ligneus	Chest
 31719427	0.025798753462603873	0.5227925925925926	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_007', 'trait': 'SPD Up'}]	Ligneus	Chest
 31719429	0.030564404432132965	0.48327474747474747	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_006', 'trait': 'DEF Up'}]	Ligneus	Chest
-31719986	0.030659972299168975	0.4155070707070707	[{'item_id': 'ITEM_FOODSTUFF_005', 'item': 'Honeyed Malum'}]	Ligneus	Shoot Chest
-31719985	0.05062077562326869	0.44084006734006737	[{'item_id': 'ITEM_MUSHROOM_001', 'item': 'Mushedroom'}]	Ligneus	Shoot Chest
-31719989	0.07195027700831026	0.44207878787878785	[{'item_id': 'ITEM_POWDER_002', 'item': 'Popshell'}]	Ligneus	Shoot Chest
-31719990	0.07508144044321328	0.42149124579124575	[{'item_id': 'ITEM_BEEHIVE_001', 'item': 'Forest Beehive'}]	Ligneus	Shoot Chest
-31719991	0.1101534626038781	0.31854242424242424	[{'item_id': 'ITEM_FOODSTUFF_004', 'item': 'Ambrosial Fruit'}]	Ligneus	Shoot Chest
-31719992	0.10226814404432134	0.3345683501683501	[{'item_id': 'ITEM_FOODSTUFF_003', 'item': 'Moonlit Berry'}]	Ligneus	Shoot Chest
-31719993	0.10941828254847645	0.3233973063973064	[{'item_id': 'ITEM_FOODSTUFF_004', 'item': 'Ambrosial Fruit'}]	Ligneus	Shoot Chest
-31719994	0.05145983379501385	0.3160767676767676	[{'item_id': 'ITEM_PLANT_003', 'item': 'Pinwind'}]	Ligneus	Shoot Chest
-31719995	0.04612146814404432	0.3017996632996633	[{'item_id': 'ITEM_LIQUID_002', 'item': 'Subterranean Water'}]	Ligneus	Shoot Chest
-31719996	0.06296038781163434	0.2920993265993266	[{'item_id': 'ITEM_PLANT_005', 'item': 'Paradise Grass'}]	Ligneus	Shoot Chest
-31719997	0.03139058171745152	0.2966259259259259	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_050', 'trait': 'Enhance Air Damage'}]	Ligneus	Shoot Chest
-31719998	0.04827285318559557	0.36800774410774406	[{'item_id': 'ITEM_FLOWER_010', 'item': 'Verdant Moonflower'}]	Ligneus	Shoot Chest
-31719999	0.08819459833795014	0.3273427609427609	[{'item_id': 'ITEM_FLOWER_009', 'item': 'Solflower'}]	Ligneus	Shoot Chest
-31720000	0.05696828254847646	0.3563505050505051	"[{'item_id': 'ITEM_MEDICAL_004', 'item': ""Canary's Warble""}]"	Ligneus	Shoot Chest
-31720001	0.0620297783933518	0.33565622895622893	[{'item_id': 'ITEM_LIQUID_004', 'item': 'Fresh Spring Water'}]	Ligneus	Shoot Chest
-31720002	0.14683642659279778	0.36892255892255893	[{'item_id': 'ITEM_FLOWER_006', 'item': 'Blessing of Delusion'}]	Ligneus	Shoot Chest
-31720003	0.17323351800554018	0.3653939393939394	[{'item_id': 'ITEM_MEDICAL_003', 'item': 'Tall Taun'}]	Ligneus	Shoot Chest
-31720004	0.11284944598337948	0.22595084175084174	[{'item_id': 'ITEM_UNI_001', 'item': 'Uni'}]	Ligneus	Shoot Chest
-31720005	0.07573088642659281	0.17173063973063973	"[{'item_id': 'ITEM_FLOWER_005', 'item': ""Spirit's Regalia""}]"	Ligneus	Shoot Chest
-31720006	0.06140069252077561	0.15552087542087545	[{'item_id': 'ITEM_PLANT_004', 'item': 'Whatchamacallit'}]	Ligneus	Shoot Chest
-31720008	0.08081066481994459	0.1874632996632997	[{'item_id': 'ITEM_PLANT_007', 'item': 'Nitraloe'}]	Ligneus	Shoot Chest
-31720007	0.061207894736842114	0.08213333333333335	[{'item_id': 'ITEM_SAND_002', 'item': 'Black Sand'}]	Ligneus	Shoot Chest
-31720010	0.15113268698060942	0.21311279461279461	[{'item_id': 'ITEM_GEMSTONE_002', 'item': 'Amber Crystal'}]	Ligneus	Shoot Chest
-31720011	0.14332063711911358	0.20227542087542083	[{'item_id': 'ITEM_GEMSTONE_004', 'item': 'Dryad Jade'}]	Ligneus	Shoot Chest
-31720012	0.1740303324099723	0.20249595959595956	[{'item_id': 'ITEM_ELIXIL_001', 'item': 'Refreshing Sap'}]	Ligneus	Shoot Chest
-31720013	0.20574127423822716	0.2736356902356902	[{'item_id': 'ITEM_GEMSTONE_003', 'item': 'Wald Pearl'}]	Ligneus	Shoot Chest
-31720014	0.1952932132963989	0.22048383838383842	[{'item_id': 'ITEM_FLOWER_004', 'item': 'Icy Carnation'}]	Ligneus	Shoot Chest
-31720015	0.21315152354570635	0.24292626262626266	[{'item_id': 'ITEM_ORE_001', 'item': 'Igneo Stone'}]	Ligneus	Shoot Chest
-31720016	0.19508919667590027	0.37224377104377104	[{'item_id': 'ITEM_STONE_003', 'item': 'Ethereal Stone'}]	Ligneus	Shoot Chest
-31720017	0.1992454293628809	0.3112683501683502	[{'item_id': 'ITEM_MEDICAL_003', 'item': 'Tall Taun'}]	Ligneus	Shoot Chest
-31720018	0.20135429362880886	0.29164781144781143	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_005', 'trait': 'ATK Up'}]	Ligneus	Shoot Chest
-31720019	0.17823518005540165	0.3394171717171717	[{'item_id': 'ITEM_POISON_002', 'item': 'Resentful Scream'}]	Ligneus	Shoot Chest
+31719986	0.030659972299168975	0.4155070707070707	[{'item_id': 'ITEM_FOODSTUFF_005', 'item': 'Honeyed Malum'}]	Ligneus	Chest (Gun)
+31719985	0.05062077562326869	0.44084006734006737	[{'item_id': 'ITEM_MUSHROOM_001', 'item': 'Mushedroom'}]	Ligneus	Chest (Gun)
+31719989	0.07195027700831026	0.44207878787878785	[{'item_id': 'ITEM_POWDER_002', 'item': 'Popshell'}]	Ligneus	Chest (Gun)
+31719990	0.07508144044321328	0.42149124579124575	[{'item_id': 'ITEM_BEEHIVE_001', 'item': 'Forest Beehive'}]	Ligneus	Chest (Gun)
+31719991	0.1101534626038781	0.31854242424242424	[{'item_id': 'ITEM_FOODSTUFF_004', 'item': 'Ambrosial Fruit'}]	Ligneus	Chest (Gun)
+31719992	0.10226814404432134	0.3345683501683501	[{'item_id': 'ITEM_FOODSTUFF_003', 'item': 'Moonlit Berry'}]	Ligneus	Chest (Gun)
+31719993	0.10941828254847645	0.3233973063973064	[{'item_id': 'ITEM_FOODSTUFF_004', 'item': 'Ambrosial Fruit'}]	Ligneus	Chest (Gun)
+31719994	0.05145983379501385	0.3160767676767676	[{'item_id': 'ITEM_PLANT_003', 'item': 'Pinwind'}]	Ligneus	Chest (Gun)
+31719995	0.04612146814404432	0.3017996632996633	[{'item_id': 'ITEM_LIQUID_002', 'item': 'Subterranean Water'}]	Ligneus	Chest (Gun)
+31719996	0.06296038781163434	0.2920993265993266	[{'item_id': 'ITEM_PLANT_005', 'item': 'Paradise Grass'}]	Ligneus	Chest (Gun)
+31719997	0.03139058171745152	0.2966259259259259	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_050', 'trait': 'Enhance Air Damage'}]	Ligneus	Chest (Gun)
+31719998	0.04827285318559557	0.36800774410774406	[{'item_id': 'ITEM_FLOWER_010', 'item': 'Verdant Moonflower'}]	Ligneus	Chest (Gun)
+31719999	0.08819459833795014	0.3273427609427609	[{'item_id': 'ITEM_FLOWER_009', 'item': 'Solflower'}]	Ligneus	Chest (Gun)
+31720000	0.05696828254847646	0.3563505050505051	"[{'item_id': 'ITEM_MEDICAL_004', 'item': ""Canary's Warble""}]"	Ligneus	Chest (Gun)
+31720001	0.0620297783933518	0.33565622895622893	[{'item_id': 'ITEM_LIQUID_004', 'item': 'Fresh Spring Water'}]	Ligneus	Chest (Gun)
+31720002	0.14683642659279778	0.36892255892255893	[{'item_id': 'ITEM_FLOWER_006', 'item': 'Blessing of Delusion'}]	Ligneus	Chest (Gun)
+31720003	0.17323351800554018	0.3653939393939394	[{'item_id': 'ITEM_MEDICAL_003', 'item': 'Tall Taun'}]	Ligneus	Chest (Gun)
+31720004	0.11284944598337948	0.22595084175084174	[{'item_id': 'ITEM_UNI_001', 'item': 'Uni'}]	Ligneus	Chest (Gun)
+31720005	0.07573088642659281	0.17173063973063973	"[{'item_id': 'ITEM_FLOWER_005', 'item': ""Spirit's Regalia""}]"	Ligneus	Chest (Gun)
+31720006	0.06140069252077561	0.15552087542087545	[{'item_id': 'ITEM_PLANT_004', 'item': 'Whatchamacallit'}]	Ligneus	Chest (Gun)
+31720008	0.08081066481994459	0.1874632996632997	[{'item_id': 'ITEM_PLANT_007', 'item': 'Nitraloe'}]	Ligneus	Chest (Gun)
+31720007	0.061207894736842114	0.08213333333333335	[{'item_id': 'ITEM_SAND_002', 'item': 'Black Sand'}]	Ligneus	Chest (Gun)
+31720010	0.15113268698060942	0.21311279461279461	[{'item_id': 'ITEM_GEMSTONE_002', 'item': 'Amber Crystal'}]	Ligneus	Chest (Gun)
+31720011	0.14332063711911358	0.20227542087542083	[{'item_id': 'ITEM_GEMSTONE_004', 'item': 'Dryad Jade'}]	Ligneus	Chest (Gun)
+31720012	0.1740303324099723	0.20249595959595956	[{'item_id': 'ITEM_ELIXIL_001', 'item': 'Refreshing Sap'}]	Ligneus	Chest (Gun)
+31720013	0.20574127423822716	0.2736356902356902	[{'item_id': 'ITEM_GEMSTONE_003', 'item': 'Wald Pearl'}]	Ligneus	Chest (Gun)
+31720014	0.1952932132963989	0.22048383838383842	[{'item_id': 'ITEM_FLOWER_004', 'item': 'Icy Carnation'}]	Ligneus	Chest (Gun)
+31720015	0.21315152354570635	0.24292626262626266	[{'item_id': 'ITEM_ORE_001', 'item': 'Igneo Stone'}]	Ligneus	Chest (Gun)
+31720016	0.19508919667590027	0.37224377104377104	[{'item_id': 'ITEM_STONE_003', 'item': 'Ethereal Stone'}]	Ligneus	Chest (Gun)
+31720017	0.1992454293628809	0.3112683501683502	[{'item_id': 'ITEM_MEDICAL_003', 'item': 'Tall Taun'}]	Ligneus	Chest (Gun)
+31720018	0.20135429362880886	0.29164781144781143	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_005', 'trait': 'ATK Up'}]	Ligneus	Chest (Gun)
+31720019	0.17823518005540165	0.3394171717171717	[{'item_id': 'ITEM_POISON_002', 'item': 'Resentful Scream'}]	Ligneus	Chest (Gun)
 31719430	0.06847174515235457	0.4195747474747475	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_017', 'trait': 'Follow-Up Fire Damage'}]	Ligneus	Chest
 31719431	0.09945290858725762	0.49732861952861956	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_002', 'trait': 'Healing'}]	Ligneus	Chest
 31719621	0.07717451523545707	0.42997003367003367	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_010', 'trait': 'Stun Boost'}]	Ligneus	Chest
-31719890	0.0625667590027701	0.28302727272727274	[{'item_id': 'ITEM_MIX_001', 'item': 'Ingot'}]	Ligneus	Minigame Chest
+31719890	0.0625667590027701	0.28302727272727274	[{'item_id': 'ITEM_MIX_001', 'item': 'Ingot'}]	Ligneus	Chest (Minigame)
 31719435	0.11203268698060942	0.4290296296296296	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_001', 'trait': 'Destructive'}]	Ligneus	Chest
 31719434	0.09571786703601107	0.2858198653198653	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_050', 'trait': 'Enhance Air Damage'}]	Ligneus	Chest
 31719662	0.16410304709141274	0.2873313131313131	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_005', 'trait': 'ATK Up'}]	Ligneus	Chest
 31719437	0.02777313019390581	0.2770872053872054	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_004', 'trait': 'HP Up'}]	Ligneus	Chest
 31719680	0.03713102493074793	0.28462996632996634	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_003', 'trait': 'Critical'}]	Ligneus	Chest
 31719439	0.07306842105263157	0.42715892255892257	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_020', 'trait': 'Follow-Up Air Damage'}]	Ligneus	Chest
-31719615	0.03975	0.43124579124579127	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_019', 'trait': 'Follow-Up Bolt Damage'}]	Ligneus	Minigame Chest
+31719615	0.03975	0.43124579124579127	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_019', 'trait': 'Follow-Up Bolt Damage'}]	Ligneus	Chest (Minigame)
 31719441	0.0638808864265928	0.33545151515151517	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_018', 'trait': 'Follow-Up Ice Damage'}]	Ligneus	Chest
 31719440	0.07061149584487535	0.46454915824915827	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_049', 'trait': 'Enhance Bolt Damage'}]	Ligneus	Chest
 31719442	0.0975663434903047	0.4654424242424242	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_048', 'trait': 'Enhance Ice Damage'}]	Ligneus	Chest
 31719561	0.018744598337950148	0.33814511784511786	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_047', 'trait': 'Enhance Fire Damage'}]	Ligneus	Chest
-31719892	0.09599639889196675	0.4711734006734007	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_007', 'trait': 'SPD Up'}]	Ligneus	Minigame Chest
+31719892	0.09599639889196675	0.4711734006734007	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_007', 'trait': 'SPD Up'}]	Ligneus	Chest (Minigame)
 31719447	0.06482770083102495	0.2855279461279461	[{'item_id': 'ITEM_WOOD_002', 'item': 'Wizened Wood'}]	Ligneus	Chest
 31719446	0.06485041551246537	0.49350606060606056	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_048', 'trait': 'Enhance Ice Damage'}]	Ligneus	Chest
 31719448	0.06083337950138506	0.33842020202020195	[{'item_id': 'ITEM_THREAD_002', 'item': 'Restraint Silk'}]	Ligneus	Chest
 31719449	0.12228227146814402	0.3117350168350168	[{'item_id': 'ITEM_WOOD_003', 'item': 'Forest Feeling'}]	Ligneus	Chest
 31719450	0.08808614958448754	0.3153707070707071	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_001', 'trait': 'Destructive'}]	Ligneus	Chest
-31719891	0.11599445983379501	0.37876464646464647	[{'item_id': 'ITEM_SAND_002', 'item': 'Black Sand'}]	Ligneus	Minigame Chest
+31719891	0.11599445983379501	0.37876464646464647	[{'item_id': 'ITEM_SAND_002', 'item': 'Black Sand'}]	Ligneus	Chest (Minigame)
 31719563	0.09565470914127426	0.25979360269360274	[{'item_id': 'ITEM_INSECT_001', 'item': 'Floral Bee'}]	Ligneus	Chest
 31719452	0.12883227146814405	0.36361717171717167	[{'item_id': 'ITEM_FISH_006', 'item': 'Cerberus Fish'}]	Ligneus	Chest
 31719845	0.06699168975069252	0.3987084175084175	[{'item_id': 'ITEM_INSECT_002', 'item': 'Honey Ant'}]	Ligneus	Chest
@@ -328,14 +328,14 @@ id	x	z	reward	location	note
 31719592	0.05312894736842106	0.1073791245791246	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_017', 'trait': 'Follow-Up Fire Damage'}]	Ligneus	Chest
 31719591	0.05407963988919667	0.17064949494949494	[{'item_id': 'ITEM_FISH_006', 'item': 'Cerberus Fish'}]	Ligneus	Chest
 31719590	0.11502326869806093	0.2236242424242424	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_016', 'trait': 'Restore HP'}]	Ligneus	Chest
-31719894	0.11713185595567868	0.16974781144781148	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_018', 'trait': 'Follow-Up Ice Damage'}]	Ligneus	Minigame Chest
+31719894	0.11713185595567868	0.16974781144781148	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_018', 'trait': 'Follow-Up Ice Damage'}]	Ligneus	Chest (Minigame)
 31719587	0.07223490304709142	0.24083804713804713	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_047', 'trait': 'Enhance Fire Damage'}]	Ligneus	Chest
 31719586	0.0660865650969529	0.2487680134680135	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_020', 'trait': 'Follow-Up Air Damage'}]	Ligneus	Chest
 31719827	0.07937451523545705	0.19763333333333336	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_019', 'trait': 'Follow-Up Bolt Damage'}]	Ligneus	Chest
 31719828	0.06227216066481994	0.15370101010101014	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_013', 'trait': 'Critical Damage Up'}]	Ligneus	Chest
 31719585	0.07762770083102495	0.1439286195286195	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_005', 'trait': 'ATK Up'}]	Ligneus	Chest
 31719583	0.05221980609418282	0.08967306397306396	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_047', 'trait': 'Enhance Fire Damage'}]	Ligneus	Chest
-31719893	0.05876703601108032	0.04736936026936026	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_004', 'trait': 'HP Up'}]	Ligneus	Minigame Chest
+31719893	0.05876703601108032	0.04736936026936026	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_004', 'trait': 'HP Up'}]	Ligneus	Chest (Minigame)
 31719584	0.03527742382271468	0.14450606060606055	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_003', 'trait': 'Critical'}]	Ligneus	Chest
 31719579	0.07309141274238228	0.051839057239057226	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_050', 'trait': 'Enhance Air Damage'}]	Ligneus	Chest
 31720026	0.032125069252077566	0.20754814814814812	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_006', 'trait': 'DEF Up'}]	Ligneus	Chest
@@ -345,7 +345,7 @@ id	x	z	reward	location	note
 31719575	0.10715041551246539	0.26632053872053874	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_009', 'trait': 'Skill Boost'}]	Ligneus	Chest
 31719574	0.05607202216066482	0.21201346801346801	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_049', 'trait': 'Enhance Bolt Damage'}]	Ligneus	Chest
 31719573	0.11835872576177285	0.19864949494949494	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_017', 'trait': 'Follow-Up Fire Damage'}]	Ligneus	Chest
-31719571	0.11132174515235456	0.15481313131313132	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_018', 'trait': 'Follow-Up Ice Damage'}]	Ligneus	Minigame Chest
+31719571	0.11132174515235456	0.15481313131313132	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_018', 'trait': 'Follow-Up Ice Damage'}]	Ligneus	Chest (Minigame)
 31719572	0.09995346260387811	0.21736767676767682	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_015', 'trait': 'Outer Range Boost'}]	Ligneus	Chest
 31719569	0.101696675900277	0.1986622895622896	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_019', 'trait': 'Follow-Up Bolt Damage'}]	Ligneus	Chest
 31719736	0.16602354570637118	0.295923569023569	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_020', 'trait': 'Follow-Up Air Damage'}]	Ligneus	Chest
@@ -357,19 +357,19 @@ id	x	z	reward	location	note
 31719473	0.09855069252077563	0.09223872053872052	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_048', 'trait': 'Enhance Ice Damage'}]	Ligneus	Chest
 31719474	0.13537673130193906	0.1366309764309764	[{'item_id': 'ITEM_FISH_005', 'item': 'Berobed Betta'}]	Ligneus	Chest
 31719476	0.12012271468144045	0.14525555555555553	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_049', 'trait': 'Enhance Bolt Damage'}]	Ligneus	Chest
-31720023	0.0988095567867036	0.13605454545454546	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_050', 'trait': 'Enhance Air Damage'}]	Ligneus	Minigame Chest
+31720023	0.0988095567867036	0.13605454545454546	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_050', 'trait': 'Enhance Air Damage'}]	Ligneus	Chest (Minigame)
 31719477	0.13395650969529085	0.09828282828282828	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_018', 'trait': 'Follow-Up Ice Damage'}]	Ligneus	Chest
 31719479	0.11143767313019391	0.10214006734006736	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_009', 'trait': 'Skill Boost'}]	Ligneus	Chest
 31719478	0.07519113573407202	0.07570808080808082	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_009', 'trait': 'Skill Boost'}]	Ligneus	Chest
 31719480	0.11318019390581718	0.10826464646464648	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_007', 'trait': 'SPD Up'}]	Ligneus	Chest
-31719898	0.14550872576177284	0.09311818181818184	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_007', 'trait': 'SPD Up'}]	Ligneus	Minigame Chest
+31719898	0.14550872576177284	0.09311818181818184	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_007', 'trait': 'SPD Up'}]	Ligneus	Chest (Minigame)
 31719482	0.14143351800554016	0.10764511784511786	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_006', 'trait': 'DEF Up'}]	Ligneus	Chest
 31719483	0.09243975069252078	0.06373030303030301	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_010', 'trait': 'Stun Boost'}]	Ligneus	Chest
 31719484	0.09894833795013852	0.10397474747474747	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_017', 'trait': 'Follow-Up Fire Damage'}]	Ligneus	Chest
 31719645	0.0883403047091413	0.09432424242424244	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_013', 'trait': 'Critical Damage Up'}]	Ligneus	Chest
 31719485	0.1979630193905817	0.08608754208754209	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_016', 'trait': 'Restore HP'}]	Ligneus	Chest
 31719487	0.1638415512465374	0.12274444444444446	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_014', 'trait': 'Inner Range Boost'}]	Ligneus	Chest
-31719899	0.18538725761772853	0.12264781144781142	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_013', 'trait': 'Critical Damage Up'}]	Ligneus	Minigame Chest
+31719899	0.18538725761772853	0.12264781144781142	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_013', 'trait': 'Critical Damage Up'}]	Ligneus	Chest (Minigame)
 31719489	0.196752216066482	0.12661952861952863	[{'item_id': 'ITEM_FLOWER_006', 'item': 'Blessing of Delusion'}]	Ligneus	Chest
 31719491	0.18650914127423823	0.06110875420875422	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_003', 'trait': 'Critical'}]	Ligneus	Chest
 31719492	0.2021781163434903	0.05010067340067338	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_002', 'trait': 'Healing'}]	Ligneus	Chest
@@ -377,34 +377,34 @@ id	x	z	reward	location	note
 31719494	0.1683285318559557	0.08556094276094278	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_004', 'trait': 'HP Up'}]	Ligneus	Chest
 31719495	0.1864023545706371	0.29623737373737374	[{'item_id': 'ITEM_LIQUID_002', 'item': 'Subterranean Water'}]	Ligneus	Chest
 31719496	0.1568198060941828	0.16288653198653194	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_006', 'trait': 'DEF Up'}]	Ligneus	Chest
-31719900	0.17132437673130196	0.39573602693602694	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_005', 'trait': 'ATK Up'}]	Ligneus	Minigame Chest
+31719900	0.17132437673130196	0.39573602693602694	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_005', 'trait': 'ATK Up'}]	Ligneus	Chest (Minigame)
 31719498	0.1523343490304709	0.20195454545454544	[{'item_id': 'ITEM_WOOD_003', 'item': 'Forest Feeling'}]	Ligneus	Chest
 31719499	0.18192451523545705	0.3508828282828283	[{'item_id': 'ITEM_INSECT_001', 'item': 'Floral Bee'}]	Ligneus	Chest
 31719500	0.16086994459833795	0.23770942760942765	[{'item_id': 'ITEM_FISH_006', 'item': 'Cerberus Fish'}]	Ligneus	Chest
 31719501	0.13310540166204987	0.27886329966329965	[{'item_id': 'ITEM_FLOWER_010', 'item': 'Verdant Moonflower'}]	Ligneus	Chest
 31719502	0.15058891966759005	0.185710101010101	[{'item_id': 'ITEM_INSECT_002', 'item': 'Honey Ant'}]	Ligneus	Chest
-31719504	0.16048047091412743	0.22655723905723907	[{'item_id': 'ITEM_WOOD_002', 'item': 'Wizened Wood'}]	Ligneus	Minigame Chest
+31719504	0.16048047091412743	0.22655723905723907	[{'item_id': 'ITEM_WOOD_002', 'item': 'Wizened Wood'}]	Ligneus	Chest (Minigame)
 31719503	0.11476523545706371	0.24375420875420875	[{'item_id': 'ITEM_THREAD_002', 'item': 'Restraint Silk'}]	Ligneus	Chest
 31719505	0.16594930747922437	0.23236969696969692	[{'item_id': 'ITEM_INSECT_003', 'item': 'Spirit Isopod'}]	Ligneus	Chest
 31719506	0.19504722991689752	0.17627946127946129	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_015', 'trait': 'Outer Range Boost'}]	Ligneus	Chest
 56361038	0.712546675900277	0.9095131313131314	[{'item_id': 'ITEM_WEAPON_A_04', 'item': 'Ephemeral Record'}]	Lacuna	Chest
-56361081	0.8322878116343491	0.7238767676767678	[{'item_id': 'ITEM_WEAPON_B_04', 'item': 'Secret Triaina'}]	Lacuna	Minigame Chest
-56361082	0.7345649584487535	0.5796006734006733	[{'item_id': 'ITEM_WEAPON_C_04', 'item': 'Huntress'}]	Lacuna	Minigame Chest
-56361083	0.8267313019390582	0.8538720538720539	[{'item_id': 'ITEM_MIX_049', 'item': 'Wisdom Component'}]	Lacuna	Minigame Chest
+56361081	0.8322878116343491	0.7238767676767678	[{'item_id': 'ITEM_WEAPON_B_04', 'item': 'Secret Triaina'}]	Lacuna	Chest (Minigame)
+56361082	0.7345649584487535	0.5796006734006733	[{'item_id': 'ITEM_WEAPON_C_04', 'item': 'Huntress'}]	Lacuna	Chest (Minigame)
+56361083	0.8267313019390582	0.8538720538720539	[{'item_id': 'ITEM_MIX_049', 'item': 'Wisdom Component'}]	Lacuna	Chest (Minigame)
 56360986	0.8131565096952909	0.6823848484848485	[{'item_id': 'ITEM_WEAPON_D_04', 'item': 'Imperial Drive'}]	Lacuna	Chest
 56360990	0.7185995844875347	0.6341531986531986	[{'item_id': 'ITEM_WEAPON_E_04', 'item': 'Diabolical Scythe'}]	Lacuna	Chest
 56361077	0.8138952908587258	0.8747653198653198	[{'item_id': 'ITEM_WEAPON_F_04', 'item': 'Poleblade'}]	Lacuna	Chest
 56361067	0.8005883656509696	0.9247451178451178	[{'item_id': 'ITEM_ORE_010', 'item': 'Allmachtserz'}]	Lacuna	Chest
 56361065	0.8153465373961218	0.6686680134680135	[{'item_id': 'ITEM_ORE_011', 'item': 'Mana Meltazite'}]	Lacuna	Chest
-56361084	0.7216668975069253	0.9117447811447812	[{'item_id': 'ITEM_GEMSTONE_012', 'item': 'Adamant'}]	Lacuna	Minigame Chest
+56361084	0.7216668975069253	0.9117447811447812	[{'item_id': 'ITEM_GEMSTONE_012', 'item': 'Adamant'}]	Lacuna	Chest (Minigame)
 56360991	0.7020882271468143	0.7532313131313132	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_145', 'trait': 'Item Expert'}]	Lacuna	Chest
 56361051	0.7362304709141274	0.6034340067340068	[{'item_id': 'ITEM_MIX_056', 'item': 'Grand Orgen'}]	Lacuna	Chest
 56360972	0.7121307479224377	0.8852198653198653	[{'item_id': 'ITEM_MIX_057', 'item': 'Sage Coat'}]	Lacuna	Chest
-56361085	0.7903490304709141	0.9378696969696969	[{'item_id': 'ITEM_MIX_044', 'item': 'Assist Afford'}]	Lacuna	Minigame Chest
-56361086	0.7226839335180056	0.7987468013468013	[{'item_id': 'ITEM_MIX_047', 'item': 'Royal Rampart'}]	Lacuna	Minigame Chest
-56361089	0.7182186980609419	0.8809878787878789	[{'item_id': 'ITEM_MIX_051', 'item': 'Heavenly Thread'}]	Lacuna	Minigame Chest
-56361090	0.7223958448753464	0.8923080808080808	[{'item_id': 'ITEM_MIX_052', 'item': 'Rainbow Neutralizer'}]	Lacuna	Minigame Chest
-56361091	0.6993662049861497	0.7374582491582491	[{'item_id': 'ITEM_MIX_053', 'item': 'Spring Scenery'}]	Lacuna	Minigame Chest
+56361085	0.7903490304709141	0.9378696969696969	[{'item_id': 'ITEM_MIX_044', 'item': 'Assist Afford'}]	Lacuna	Chest (Minigame)
+56361086	0.7226839335180056	0.7987468013468013	[{'item_id': 'ITEM_MIX_047', 'item': 'Royal Rampart'}]	Lacuna	Chest (Minigame)
+56361089	0.7182186980609419	0.8809878787878789	[{'item_id': 'ITEM_MIX_051', 'item': 'Heavenly Thread'}]	Lacuna	Chest (Minigame)
+56361090	0.7223958448753464	0.8923080808080808	[{'item_id': 'ITEM_MIX_052', 'item': 'Rainbow Neutralizer'}]	Lacuna	Chest (Minigame)
+56361091	0.6993662049861497	0.7374582491582491	[{'item_id': 'ITEM_MIX_053', 'item': 'Spring Scenery'}]	Lacuna	Chest (Minigame)
 56360982	0.8027002770083103	0.9075070707070706	[{'item_id': 'ITEM_MIX_045', 'item': 'Trillion Locket'}]	Lacuna	Chest
 56361100	0.819964404432133	0.8379424242424243	[{'item_id': 'ITEM_MIX_045', 'item': 'Trillion Locket'}]	Lacuna	Chest
 56360989	0.7461519390581717	0.6071063973063973	[{'item_id': 'ITEM_MIX_046', 'item': 'Hypercell'}]	Lacuna	Chest
@@ -412,11 +412,11 @@ id	x	z	reward	location	note
 56361061	0.7786209141274238	0.612926936026936	[{'item_id': 'ITEM_MIX_049', 'item': 'Wisdom Component'}]	Lacuna	Chest
 56361062	0.7792574792243767	0.6149030303030304	[{'item_id': 'ITEM_MIX_050', 'item': 'Immortal Bloom'}]	Lacuna	Chest
 56360998	0.7948052631578948	0.6264575757575759	[{'item_id': 'ITEM_MIX_052', 'item': 'Rainbow Neutralizer'}]	Lacuna	Chest
-56361092	0.6658418282548477	0.7436912457912458	[{'item_id': 'ITEM_LIQUID_010', 'item': 'Tranquil Spirit Water'}]	Lacuna	Minigame Chest
-56361095	0.7632585872576176	0.7751255892255892	[{'item_id': 'ITEM_ORE_009', 'item': 'Meteorite Ore'}]	Lacuna	Minigame Chest
+56361092	0.6658418282548477	0.7436912457912458	[{'item_id': 'ITEM_LIQUID_010', 'item': 'Tranquil Spirit Water'}]	Lacuna	Chest (Minigame)
+56361095	0.7632585872576176	0.7751255892255892	[{'item_id': 'ITEM_ORE_009', 'item': 'Meteorite Ore'}]	Lacuna	Chest (Minigame)
 56360964	0.6969422437673131	0.7854723905723905	[{'item_id': 'ITEM_MYSTIC_005', 'item': 'Glowshell'}]	Lacuna	Chest
-56361096	0.7433301939058172	0.5953919191919192	[{'item_id': 'ITEM_UNI_004', 'item': 'Crystal Uni'}]	Lacuna	Minigame Chest
-56361097	0.725323268698061	0.6265582491582491	[{'item_id': 'ITEM_FOODSTUFF_013', 'item': 'Pure Truffle'}]	Lacuna	Minigame Chest
+56361096	0.7433301939058172	0.5953919191919192	[{'item_id': 'ITEM_UNI_004', 'item': 'Crystal Uni'}]	Lacuna	Chest (Minigame)
+56361097	0.725323268698061	0.6265582491582491	[{'item_id': 'ITEM_FOODSTUFF_013', 'item': 'Pure Truffle'}]	Lacuna	Chest (Minigame)
 56360966	0.6999339335180056	0.8043016835016834	"[{'item_id': 'ITEM_PLANT_017', 'item': ""Angel's Embrace""}]"	Lacuna	Chest
 56361058	0.7424412742382271	0.6032831649831649	[{'item_id': 'ITEM_FLOWER_014', 'item': 'Rose Crystal'}]	Lacuna	Chest
 56360974	0.7315412742382272	0.780963973063973	[{'item_id': 'ITEM_ELIXIL_005', 'item': 'Evolved Sacred Silver'}]	Lacuna	Chest
@@ -457,9 +457,9 @@ id	x	z	reward	location	note
 56361073	0.8049344875346259	0.8586154882154882	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_120', 'trait': 'Air Protection'}]	Lacuna	Chest
 41157029	0.5356747922437674	0.5603959595959597	[{'item_id': 'ITEM_WEAPON_B_03', 'item': 'Splendid Alicorn'}]	Auruma	Chest
 41157030	0.5356761772853186	0.561403367003367	[{'item_id': 'ITEM_WEAPON_C_03', 'item': 'Apostle of Orcus'}]	Auruma	Chest
-41156872	0.4799930747922438	0.8313626262626262	[{'item_id': 'ITEM_ARMOR_06', 'item': 'Kruger Cloak'}]	Auruma	Minigame Chest
+41156872	0.4799930747922438	0.8313626262626262	[{'item_id': 'ITEM_ARMOR_06', 'item': 'Kruger Cloak'}]	Auruma	Chest (Minigame)
 41157016	0.5043738227146815	0.8948585858585859	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_083', 'trait': 'Stun Boost+'}]	Auruma	Chest
-41156873	0.5570135734072021	0.7093919191919192	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_084', 'trait': 'Critical Damage Up+'}]	Auruma	Minigame Chest
+41156873	0.5570135734072021	0.7093919191919192	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_084', 'trait': 'Critical Damage Up+'}]	Auruma	Chest (Minigame)
 41156763	0.5329288088642659	0.5594979797979798	[{'item_id': 'ITEM_WEAPON_A_03', 'item': 'Arc Raffia'}]	Auruma	Chest
 41156759	0.5133506925207756	0.6025804713804714	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_074', 'trait': 'Destructive+'}]	Auruma	Chest
 41156797	0.5361247922437673	0.6808831649831649	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_083', 'trait': 'Stun Boost+'}]	Auruma	Chest
@@ -472,20 +472,20 @@ id	x	z	reward	location	note
 41156734	0.5218916897506926	0.897869696969697	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_086', 'trait': 'Follow-Up Ice Damage+'}]	Auruma	Chest
 41156682	0.48758808864265923	0.6239138047138048	[{'item_id': 'ITEM_MIX_043', 'item': 'Handmade Black Hole'}]	Auruma	Chest
 41156784	0.5287606648199447	0.7010323232323231	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_085', 'trait': 'Follow-Up Fire Damage+'}]	Auruma	Chest
-41156874	0.4544222991689751	0.7134158249158249	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_083', 'trait': 'Stun Boost+'}]	Auruma	Minigame Chest
-41156875	0.5403801939058172	0.6109299663299663	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_079', 'trait': 'DEF Up+'}]	Auruma	Minigame Chest
-41156876	0.5310713296398892	0.905974074074074	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_074', 'trait': 'Destructive+'}]	Auruma	Minigame Chest
+41156874	0.4544222991689751	0.7134158249158249	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_083', 'trait': 'Stun Boost+'}]	Auruma	Chest (Minigame)
+41156875	0.5403801939058172	0.6109299663299663	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_079', 'trait': 'DEF Up+'}]	Auruma	Chest (Minigame)
+41156876	0.5310713296398892	0.905974074074074	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_074', 'trait': 'Destructive+'}]	Auruma	Chest (Minigame)
 41156745	0.5237279778393351	0.7155043771043771	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_075', 'trait': 'Healing+'}]	Auruma	Chest
-41156877	0.5614885041551246	0.7182360269360268	[{'item_id': 'ITEM_MIX_032', 'item': 'Secret Dual Spiral'}]	Auruma	Minigame Chest
+41156877	0.5614885041551246	0.7182360269360268	[{'item_id': 'ITEM_MIX_032', 'item': 'Secret Dual Spiral'}]	Auruma	Chest (Minigame)
 41156648	0.4555178670360111	0.7172898989898989	[{'item_id': 'ITEM_MIX_033', 'item': 'Noxious Draft'}]	Auruma	Chest
 41156633	0.4267799168975069	0.6356861952861953	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_076', 'trait': 'Critical+'}]	Auruma	Chest
-41156878	0.4566617728531856	0.7075410774410775	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_078', 'trait': 'ATK Up+'}]	Auruma	Minigame Chest
+41156878	0.4566617728531856	0.7075410774410775	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_078', 'trait': 'ATK Up+'}]	Auruma	Chest (Minigame)
 41156656	0.4791247922437673	0.7200397306397306	[{'item_id': 'ITEM_MIX_031', 'item': 'Tri-Color Crystal'}]	Auruma	Chest
 41157019	0.4795198060941828	0.7222606060606062	[{'item_id': 'ITEM_MIX_032', 'item': 'Secret Dual Spiral'}]	Auruma	Chest
-41156879	0.5856452908587257	0.7445686868686869	[{'item_id': 'ITEM_MIX_030', 'item': 'Damascus Plate'}]	Auruma	Minigame Chest
-41156880	0.5415462603878116	0.696350505050505	[{'item_id': 'ITEM_MIX_035', 'item': 'Perpetual Machine'}]	Auruma	Minigame Chest
+41156879	0.5856452908587257	0.7445686868686869	[{'item_id': 'ITEM_MIX_030', 'item': 'Damascus Plate'}]	Auruma	Chest (Minigame)
+41156880	0.5415462603878116	0.696350505050505	[{'item_id': 'ITEM_MIX_035', 'item': 'Perpetual Machine'}]	Auruma	Chest (Minigame)
 41156756	0.5384788088642659	0.723923569023569	[{'item_id': 'ITEM_MIX_041', 'item': 'Ancient Peril'}]	Auruma	Chest
-41156881	0.48092617728531856	0.7807474747474747	[{'item_id': 'ITEM_MIX_036', 'item': 'Cactal Fiber'}]	Auruma	Minigame Chest
+41156881	0.48092617728531856	0.7807474747474747	[{'item_id': 'ITEM_MIX_036', 'item': 'Cactal Fiber'}]	Auruma	Chest (Minigame)
 41156628	0.46503102493074794	0.6612225589225589	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_006', 'trait': 'DEF Up'}]	Auruma	Chest
 41156609	0.4055216066481994	0.5846043771043771	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_004', 'trait': 'HP Up'}]	Auruma	Chest
 41156643	0.4572167590027701	0.7012727272727273	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_003', 'trait': 'Critical'}]	Auruma	Chest
@@ -563,35 +563,35 @@ id	x	z	reward	location	note
 41156787	0.5021253462603879	0.8123545454545454	[{'item_id': 'ITEM_FISH_013', 'item': 'Conductive Crab'}]	Auruma	Chest
 41156788	0.4910396121883656	0.6364747474747475	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_116', 'trait': 'Air Filter'}]	Auruma	Chest
 41156789	0.49170387811634353	0.6193922558922559	[{'item_id': 'ITEM_FISH_014', 'item': 'Orichalcum Shell'}]	Auruma	Chest
-41156929	0.47644127423822713	0.7562239057239057	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_115', 'trait': 'Bolt Filter'}]	Auruma	Shoot Chest
-41156931	0.48628019390581717	0.6774814814814815	[{'item_id': 'ITEM_INSECT_007', 'item': 'Magnet Beetle'}]	Auruma	Shoot Chest
-41156932	0.48118434903047086	0.6212313131313132	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_114', 'trait': 'Ice Filter'}]	Auruma	Shoot Chest
-41156944	0.5320250692520775	0.6132518518518518	[{'item_id': 'ITEM_INSECT_008', 'item': 'Ladybug Queen'}]	Auruma	Shoot Chest
-41156933	0.46089459833795016	0.5647424242424243	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_113', 'trait': 'Fire Filter'}]	Auruma	Shoot Chest
-41156941	0.5180328254847646	0.618622558922559	[{'item_id': 'ITEM_THREAD_004', 'item': 'Chrome Wire'}]	Auruma	Shoot Chest
-41156942	0.5340350415512465	0.6353521885521884	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_102', 'trait': 'Enhance Air Damage+'}]	Auruma	Shoot Chest
-41156943	0.5452538781163435	0.6452053872053872	[{'item_id': 'ITEM_WOOD_005', 'item': 'Magnetized Trunk'}]	Auruma	Shoot Chest
-41156934	0.4452349030470914	0.5306454545454545	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_101', 'trait': 'Enhance Bolt Damage+'}]	Auruma	Shoot Chest
-41156935	0.436692243767313	0.53876632996633	[{'item_id': 'ITEM_WOOD_006', 'item': 'Lightning Tree'}]	Auruma	Shoot Chest
-41156936	0.459543351800554	0.5272737373737373	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_100', 'trait': 'Enhance Ice Damage+'}]	Auruma	Shoot Chest
-41156939	0.4658094182825485	0.5859629629629629	[{'item_id': 'ITEM_GAS_002', 'item': 'Air Chime'}]	Auruma	Shoot Chest
-41156993	0.42253476454293626	0.5998929292929294	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_099', 'trait': 'Enhance Fire Damage+'}]	Auruma	Shoot Chest
-41156996	0.49984445983379505	0.7487777777777778	[{'item_id': 'ITEM_MYSTIC_002', 'item': 'Diamond Chunk'}]	Auruma	Shoot Chest
-41156995	0.4875281163434903	0.6901003367003367	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_088', 'trait': 'Follow-Up Air Damage+'}]	Auruma	Shoot Chest
-41156998	0.4782936288088643	0.6293242424242423	[{'item_id': 'ITEM_MYSTIC_003', 'item': 'Steronze'}]	Auruma	Shoot Chest
-41156997	0.49772867036011076	0.6173478114478114	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_087', 'trait': 'Follow-Up Bolt Damage+'}]	Auruma	Shoot Chest
-41156994	0.4372299168975069	0.6213535353535353	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_074', 'trait': 'Destructive+'}]	Auruma	Shoot Chest
-41157002	0.41781731301939057	0.6103690235690235	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_086', 'trait': 'Follow-Up Ice Damage+'}]	Auruma	Shoot Chest
-41157003	0.42046343490304705	0.6067370370370371	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_075', 'trait': 'Healing+'}]	Auruma	Shoot Chest
-41157004	0.4291869806094183	0.6189680134680134	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_085', 'trait': 'Follow-Up Fire Damage+'}]	Auruma	Shoot Chest
-41157005	0.456541135734072	0.6359656565656565	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_076', 'trait': 'Critical+'}]	Auruma	Shoot Chest
-41157006	0.4781670360110803	0.6742946127946128	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_084', 'trait': 'Critical Damage Up+'}]	Auruma	Shoot Chest
-41157007	0.48705263157894735	0.7778966329966329	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_077', 'trait': 'HP Up+'}]	Auruma	Shoot Chest
-41157008	0.4968626038781163	0.8241619528619528	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_083', 'trait': 'Stun Boost+'}]	Auruma	Shoot Chest
-41157009	0.5118353185595568	0.7746949494949495	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_078', 'trait': 'ATK Up+'}]	Auruma	Shoot Chest
-41157010	0.5224548476454294	0.6533259259259259	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_082', 'trait': 'Skill Boost+'}]	Auruma	Shoot Chest
-41157011	0.5145513850415512	0.6075444444444444	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_080', 'trait': 'SPD Up+'}]	Auruma	Shoot Chest
-41156882	0.43987894736842104	0.5438649831649831	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Auruma	Minigame Chest
+41156929	0.47644127423822713	0.7562239057239057	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_115', 'trait': 'Bolt Filter'}]	Auruma	Chest (Gun)
+41156931	0.48628019390581717	0.6774814814814815	[{'item_id': 'ITEM_INSECT_007', 'item': 'Magnet Beetle'}]	Auruma	Chest (Gun)
+41156932	0.48118434903047086	0.6212313131313132	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_114', 'trait': 'Ice Filter'}]	Auruma	Chest (Gun)
+41156944	0.5320250692520775	0.6132518518518518	[{'item_id': 'ITEM_INSECT_008', 'item': 'Ladybug Queen'}]	Auruma	Chest (Gun)
+41156933	0.46089459833795016	0.5647424242424243	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_113', 'trait': 'Fire Filter'}]	Auruma	Chest (Gun)
+41156941	0.5180328254847646	0.618622558922559	[{'item_id': 'ITEM_THREAD_004', 'item': 'Chrome Wire'}]	Auruma	Chest (Gun)
+41156942	0.5340350415512465	0.6353521885521884	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_102', 'trait': 'Enhance Air Damage+'}]	Auruma	Chest (Gun)
+41156943	0.5452538781163435	0.6452053872053872	[{'item_id': 'ITEM_WOOD_005', 'item': 'Magnetized Trunk'}]	Auruma	Chest (Gun)
+41156934	0.4452349030470914	0.5306454545454545	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_101', 'trait': 'Enhance Bolt Damage+'}]	Auruma	Chest (Gun)
+41156935	0.436692243767313	0.53876632996633	[{'item_id': 'ITEM_WOOD_006', 'item': 'Lightning Tree'}]	Auruma	Chest (Gun)
+41156936	0.459543351800554	0.5272737373737373	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_100', 'trait': 'Enhance Ice Damage+'}]	Auruma	Chest (Gun)
+41156939	0.4658094182825485	0.5859629629629629	[{'item_id': 'ITEM_GAS_002', 'item': 'Air Chime'}]	Auruma	Chest (Gun)
+41156993	0.42253476454293626	0.5998929292929294	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_099', 'trait': 'Enhance Fire Damage+'}]	Auruma	Chest (Gun)
+41156996	0.49984445983379505	0.7487777777777778	[{'item_id': 'ITEM_MYSTIC_002', 'item': 'Diamond Chunk'}]	Auruma	Chest (Gun)
+41156995	0.4875281163434903	0.6901003367003367	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_088', 'trait': 'Follow-Up Air Damage+'}]	Auruma	Chest (Gun)
+41156998	0.4782936288088643	0.6293242424242423	[{'item_id': 'ITEM_MYSTIC_003', 'item': 'Steronze'}]	Auruma	Chest (Gun)
+41156997	0.49772867036011076	0.6173478114478114	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_087', 'trait': 'Follow-Up Bolt Damage+'}]	Auruma	Chest (Gun)
+41156994	0.4372299168975069	0.6213535353535353	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_074', 'trait': 'Destructive+'}]	Auruma	Chest (Gun)
+41157002	0.41781731301939057	0.6103690235690235	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_086', 'trait': 'Follow-Up Ice Damage+'}]	Auruma	Chest (Gun)
+41157003	0.42046343490304705	0.6067370370370371	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_075', 'trait': 'Healing+'}]	Auruma	Chest (Gun)
+41157004	0.4291869806094183	0.6189680134680134	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_085', 'trait': 'Follow-Up Fire Damage+'}]	Auruma	Chest (Gun)
+41157005	0.456541135734072	0.6359656565656565	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_076', 'trait': 'Critical+'}]	Auruma	Chest (Gun)
+41157006	0.4781670360110803	0.6742946127946128	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_084', 'trait': 'Critical Damage Up+'}]	Auruma	Chest (Gun)
+41157007	0.48705263157894735	0.7778966329966329	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_077', 'trait': 'HP Up+'}]	Auruma	Chest (Gun)
+41157008	0.4968626038781163	0.8241619528619528	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_083', 'trait': 'Stun Boost+'}]	Auruma	Chest (Gun)
+41157009	0.5118353185595568	0.7746949494949495	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_078', 'trait': 'ATK Up+'}]	Auruma	Chest (Gun)
+41157010	0.5224548476454294	0.6533259259259259	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_082', 'trait': 'Skill Boost+'}]	Auruma	Chest (Gun)
+41157011	0.5145513850415512	0.6075444444444444	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_080', 'trait': 'SPD Up+'}]	Auruma	Chest (Gun)
+41156882	0.43987894736842104	0.5438649831649831	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Auruma	Chest (Minigame)
 41156830	0.48423850415512465	0.5978804713804714	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Auruma	Chest
 41156837	0.5335307479224377	0.5500713804713805	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Auruma	Chest
 41156840	0.5650004155124654	0.5300649831649831	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Auruma	Chest
@@ -600,8 +600,8 @@ id	x	z	reward	location	note
 41156764	0.544924515235457	0.8344521885521885	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Auruma	Chest
 41157014	0.5435631578947369	0.8892222222222222	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Auruma	Chest
 41156735	0.5258603878116344	0.8961127946127946	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Auruma	Chest
-41156883	0.4262329639889197	0.6389367003367004	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Auruma	Minigame Chest
-41157024	0.4266184210526316	0.6499845117845119	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Auruma	Minigame Chest
+41156883	0.4262329639889197	0.6389367003367004	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Auruma	Chest (Minigame)
+41157024	0.4266184210526316	0.6499845117845119	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Auruma	Chest (Minigame)
 41156817	0.45607534626038787	0.8300097643097644	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Auruma	Chest
 41156820	0.4523567867036011	0.7031383838383838	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Auruma	Chest
 41156984	0.4954865650969529	0.8903760942760943	[{'item_id': 'ITEM_WEAPON_C_03', 'item': 'Apostle of Orcus'}]	Auruma	Chest
@@ -653,27 +653,27 @@ id	x	z	reward	location	note
 34078742	0.2761804709141274	0.064889898989899	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_023', 'trait': 'Inflict Burns'}]	Sivash	Chest
 34079211	0.2832379501385041	0.3707006734006734	[{'item_id': 'ITEM_MUSHROOM_005', 'item': 'Danger Mushroom'}]	Sivash	Chest
 34078780	0.32752853185595565	0.4545245791245791	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_025', 'trait': 'Inflict Restraints'}]	Sivash	Chest
-34078746	0.28616925207756233	0.06308518518518519	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_026', 'trait': 'Inflict Frostbite'}]	Sivash	Minigame Chest
+34078746	0.28616925207756233	0.06308518518518519	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_026', 'trait': 'Inflict Frostbite'}]	Sivash	Chest (Minigame)
 34078773	0.2810306094182825	0.3012821548821548	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_039', 'trait': 'HP Regeneration'}]	Sivash	Chest
 34078788	0.31539238227146815	0.24197441077441076	[{'item_id': 'ITEM_FLOWER_008', 'item': 'Celestial Rose'}]	Sivash	Chest
-34079041	0.30222797783933514	0.4101	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_027', 'trait': 'Inflict Curse'}]	Sivash	Minigame Chest
+34079041	0.30222797783933514	0.4101	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_027', 'trait': 'Inflict Curse'}]	Sivash	Chest (Minigame)
 34078774	0.26688282548476455	0.23967508417508418	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_024', 'trait': 'Inflict Paralysis'}]	Sivash	Chest
 34078776	0.25104473684210526	0.38908653198653204	[{'item_id': 'ITEM_MYSTIC_001', 'item': 'Hollowcrysta'}]	Sivash	Chest
-34079046	0.2483754847645429	0.4011373737373737	[{'item_id': 'ITEM_GAS_001', 'item': 'Rotwood Miasma'}]	Sivash	Minigame Chest
+34079046	0.2483754847645429	0.4011373737373737	[{'item_id': 'ITEM_GAS_001', 'item': 'Rotwood Miasma'}]	Sivash	Chest (Minigame)
 34078775	0.2619116343490305	0.33146262626262624	[{'item_id': 'ITEM_ANIMAL_020', 'item': 'Coral Stone'}]	Sivash	Chest
-34079042	0.2736515235457064	0.3838760942760943	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_022', 'trait': 'Inflict Sleep'}]	Sivash	Minigame Chest
+34079042	0.2736515235457064	0.3838760942760943	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_022', 'trait': 'Inflict Sleep'}]	Sivash	Chest (Minigame)
 34078777	0.2559430747922438	0.38939764309764313	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_021', 'trait': 'Inflict Poison'}]	Sivash	Chest
 34078743	0.273195567867036	0.08504309764309766	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_005', 'trait': 'ATK Up'}]	Sivash	Chest
 34078748	0.32002049861495846	0.044001346801346784	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_134', 'trait': 'Multi Boost'}]	Sivash	Chest
 34078749	0.2896213296398892	0.12985151515151513	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_135', 'trait': 'Single Boost'}]	Sivash	Chest
 34078770	0.2902130193905817	0.3003262626262626	[{'item_id': 'ITEM_WEAPON_B_02', 'item': 'Kleinod'}]	Sivash	Chest
-34079043	0.32171038781163436	0.3135717171717171	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_002', 'trait': 'Healing'}]	Sivash	Minigame Chest
+34079043	0.32171038781163436	0.3135717171717171	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_002', 'trait': 'Healing'}]	Sivash	Chest (Minigame)
 34078750	0.32736135734072025	0.1325925925925926	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_001', 'trait': 'Destructive'}]	Sivash	Chest
 34078786	0.3548842105263158	0.41884343434343435	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_127', 'trait': 'Battle Readiness - SPD'}]	Sivash	Chest
 34078751	0.38503753462603874	0.09849158249158249	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_041', 'trait': 'Reduce DEF'}]	Sivash	Chest
 34078752	0.4073908587257618	0.10340437710437712	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_040', 'trait': 'Reduce ATK'}]	Sivash	Chest
-34079045	0.40703393351800554	0.31089124579124583	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_042', 'trait': 'Reduce SPD'}]	Sivash	Minigame Chest
-34079047	0.3701779778393352	0.050290235690235684	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_126', 'trait': 'Battle Readiness - DEF'}]	Sivash	Minigame Chest
+34079045	0.40703393351800554	0.31089124579124583	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_042', 'trait': 'Reduce SPD'}]	Sivash	Chest (Minigame)
+34079047	0.3701779778393352	0.050290235690235684	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_126', 'trait': 'Battle Readiness - DEF'}]	Sivash	Chest (Minigame)
 34078754	0.36632188365650975	0.3509367003367004	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_125', 'trait': 'Battle Readiness - ATK'}]	Sivash	Chest
 34078783	0.35383227146814406	0.39999427609427607	[{'item_id': 'ITEM_WOOD_004', 'item': 'Grib'}]	Sivash	Chest
 34078755	0.3753990304709141	0.38123535353535354	[{'item_id': 'ITEM_FOODSTUFF_007', 'item': 'Pairapple'}]	Sivash	Chest
@@ -770,7 +770,7 @@ id	x	z	reward	location	note
 34078821	0.3753847645429363	0.21062020202020207	[{'item_id': 'ITEM_ARMOR_03', 'item': 'Pixie Robe'}]	Sivash	Chest
 34078834	0.3860252077562327	0.1674043771043771	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_135', 'trait': 'Single Boost'}]	Sivash	Chest
 34079201	0.328807756232687	0.11599393939393939	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_032', 'trait': 'Restraints Cure'}]	Sivash	Chest
-34079048	0.3047800554016621	0.07033333333333333	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_034', 'trait': 'Curse Cure'}]	Sivash	Minigame Chest
+34079048	0.3047800554016621	0.07033333333333333	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_034', 'trait': 'Curse Cure'}]	Sivash	Chest (Minigame)
 34079193	0.28508628808864267	0.0878138047138047	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_040', 'trait': 'Reduce ATK'}]	Sivash	Chest
 34078930	0.2572527700831025	0.35769461279461273	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_039', 'trait': 'HP Regeneration'}]	Sivash	Chest
 34078927	0.32438753462603875	0.14576363636363632	[{'item_id': 'ITEM_MIX_034', 'item': 'Coral Chip'}]	Sivash	Chest
@@ -781,47 +781,47 @@ id	x	z	reward	location	note
 34078807	0.356106648199446	0.32345791245791244	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_025', 'trait': 'Inflict Restraints'}]	Sivash	Chest
 34078791	0.3732056786703601	0.061105050505050496	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_125', 'trait': 'Battle Readiness - ATK'}]	Sivash	Chest
 34078805	0.3130696675900277	0.3687262626262627	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_033', 'trait': 'Frostbite Cure'}]	Sivash	Chest
-34079050	0.4070804709141274	0.3178804713804714	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_029', 'trait': 'Sleep Cure'}]	Sivash	Minigame Chest
+34079050	0.4070804709141274	0.3178804713804714	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_029', 'trait': 'Sleep Cure'}]	Sivash	Chest (Minigame)
 34078819	0.396866620498615	0.2699003367003367	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_126', 'trait': 'Battle Readiness - DEF'}]	Sivash	Chest
 34078814	0.4090929362880886	0.32080336700336703	[{'item_id': 'ITEM_MIX_020', 'item': 'Fettle Cloth'}]	Sivash	Chest
-34079052	0.41236772853185594	0.3071501683501684	[{'item_id': 'ITEM_MIX_019', 'item': 'Red Pseudanthium'}]	Sivash	Minigame Chest
+34079052	0.41236772853185594	0.3071501683501684	[{'item_id': 'ITEM_MIX_019', 'item': 'Red Pseudanthium'}]	Sivash	Chest (Minigame)
 34078822	0.40158254847645425	0.22272289562289566	[{'item_id': 'ITEM_MIX_023', 'item': 'Feathered Veil'}]	Sivash	Chest
-34079053	0.33788684210526315	0.15105892255892256	[{'item_id': 'ITEM_MIX_021', 'item': 'Violet Erz'}]	Sivash	Minigame Chest
-34079054	0.3284214681440443	0.17901717171717174	[{'item_id': 'ITEM_MIX_024', 'item': 'Deadly Replica'}]	Sivash	Minigame Chest
+34079053	0.33788684210526315	0.15105892255892256	[{'item_id': 'ITEM_MIX_021', 'item': 'Violet Erz'}]	Sivash	Chest (Minigame)
+34079054	0.3284214681440443	0.17901717171717174	[{'item_id': 'ITEM_MIX_024', 'item': 'Deadly Replica'}]	Sivash	Chest (Minigame)
 34078854	0.26062950138504154	0.2830676767676768	[{'item_id': 'ITEM_MIX_022', 'item': 'Fungstone'}]	Sivash	Chest
 34078856	0.2935286703601108	0.28390841750841744	[{'item_id': 'ITEM_MIX_029', 'item': 'Viscous Starmass'}]	Sivash	Chest
-34079055	0.3266702216066482	0.45197744107744103	[{'item_id': 'ITEM_MIX_027', 'item': 'Prasiolite'}]	Sivash	Minigame Chest
-34079056	0.37515941828254845	0.5109225589225589	[{'item_id': 'ITEM_MIX_026', 'item': 'Baumpilz'}]	Sivash	Minigame Chest
-34079057	0.2953153739612189	0.19320976430976428	[{'item_id': 'ITEM_MIX_018', 'item': 'Shade Miasma'}]	Sivash	Minigame Chest
-34079058	0.32412022160664816	0.12315151515151515	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_028', 'trait': 'Poison Cure'}]	Sivash	Minigame Chest
-34079059	0.4060885041551247	0.10378754208754207	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_026', 'trait': 'Inflict Frostbite'}]	Sivash	Minigame Chest
+34079055	0.3266702216066482	0.45197744107744103	[{'item_id': 'ITEM_MIX_027', 'item': 'Prasiolite'}]	Sivash	Chest (Minigame)
+34079056	0.37515941828254845	0.5109225589225589	[{'item_id': 'ITEM_MIX_026', 'item': 'Baumpilz'}]	Sivash	Chest (Minigame)
+34079057	0.2953153739612189	0.19320976430976428	[{'item_id': 'ITEM_MIX_018', 'item': 'Shade Miasma'}]	Sivash	Chest (Minigame)
+34079058	0.32412022160664816	0.12315151515151515	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_028', 'trait': 'Poison Cure'}]	Sivash	Chest (Minigame)
+34079059	0.4060885041551247	0.10378754208754207	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_026', 'trait': 'Inflict Frostbite'}]	Sivash	Chest (Minigame)
 34078778	0.25108684210526316	0.40384848484848485	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_027', 'trait': 'Inflict Curse'}]	Sivash	Chest
 34079198	0.4018106648199446	0.2434535353535354	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_031', 'trait': 'Paralysis Cure'}]	Sivash	Chest
 34079199	0.399797783933518	0.24022154882154878	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_030', 'trait': 'Burns Cure'}]	Sivash	Chest
-34079061	0.2832626038781163	0.17494747474747474	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_022', 'trait': 'Inflict Sleep'}]	Sivash	Minigame Chest
+34079061	0.2832626038781163	0.17494747474747474	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_022', 'trait': 'Inflict Sleep'}]	Sivash	Chest (Minigame)
 34078893	0.3223847645429363	0.46423468013468017	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_021', 'trait': 'Inflict Poison'}]	Sivash	Chest
-34079167	0.33926717451523547	0.17668922558922562	[{'item_id': 'ITEM_GEMSTONE_005', 'item': 'Lilac Gemstone'}]	Sivash	Shoot Chest
-34079170	0.2713085872576177	0.13032491582491582	[{'item_id': 'ITEM_FUEL_002', 'item': 'Lost Heart'}]	Sivash	Shoot Chest
-34079168	0.2408023545706371	0.08344579124579123	[{'item_id': 'ITEM_MUSHROOM_004', 'item': 'Parched Mushroom'}]	Sivash	Shoot Chest
-34079171	0.3584346260387811	0.08142356902356904	[{'item_id': 'ITEM_GEMSTONE_008', 'item': 'Mine Coral'}]	Sivash	Shoot Chest
-34079172	0.37817783933518007	0.05363535353535352	[{'item_id': 'ITEM_ORE_005', 'item': 'Pentanite'}]	Sivash	Shoot Chest
-34079174	0.3523648199445984	0.05596969696969697	[{'item_id': 'ITEM_POWDER_003', 'item': 'Moldy Bark'}]	Sivash	Shoot Chest
-34079180	0.36175484764542937	0.35560404040404037	[{'item_id': 'ITEM_MUSHROOM_006', 'item': 'Dusk Mushroom'}]	Sivash	Shoot Chest
-34079175	0.32398351800554015	0.11647171717171718	[{'item_id': 'ITEM_FISH_008', 'item': 'Decaying Shellfish'}]	Sivash	Shoot Chest
-34079176	0.36608518005540164	0.1543094276094276	[{'item_id': 'ITEM_POISON_003', 'item': 'Dubious Log'}]	Sivash	Shoot Chest
-34079178	0.39700304709141276	0.2210794612794613	[{'item_id': 'ITEM_MUSHROOM_005', 'item': 'Danger Mushroom'}]	Sivash	Shoot Chest
-34079177	0.34137423822714685	0.14641313131313136	[{'item_id': 'ITEM_MUSHROOM_003', 'item': 'Tiled Mushroom'}]	Sivash	Shoot Chest
-34079179	0.39922049861495845	0.3221760942760942	[{'item_id': 'ITEM_FISH_007', 'item': 'Poisoned Puffer'}]	Sivash	Shoot Chest
-34079181	0.2436254847645429	0.3845117845117845	[{'item_id': 'ITEM_STONE_007', 'item': 'Puzzle Stone'}]	Sivash	Shoot Chest
-34079189	0.2576868421052632	0.10032087542087544	[{'item_id': 'ITEM_ELIXIL_002', 'item': 'Rubellum Lily'}]	Sivash	Shoot Chest
-34079182	0.3082148199445983	0.4533794612794613	[{'item_id': 'ITEM_STONE_004', 'item': 'Ancient Fossil'}]	Sivash	Shoot Chest
-34079183	0.3233709141274238	0.34556835016835014	[{'item_id': 'ITEM_SAND_003', 'item': 'Emerald Glass'}]	Sivash	Shoot Chest
-34079190	0.2889078947368421	0.21443232323232322	[{'item_id': 'ITEM_STONE_006', 'item': 'Ashen Stone'}]	Sivash	Shoot Chest
-34079186	0.34227562326869804	0.455973063973064	[{'item_id': 'ITEM_POISON_003', 'item': 'Dubious Log'}]	Sivash	Shoot Chest
-34079185	0.3398274238227147	0.36171750841750844	[{'item_id': 'ITEM_POISON_004', 'item': 'Confusion Powder'}]	Sivash	Shoot Chest
-34079187	0.31336952908587257	0.4591882154882155	[{'item_id': 'ITEM_ORE_004', 'item': 'Mordenite'}]	Sivash	Shoot Chest
-34079188	0.33787437673130194	0.17942087542087543	[{'item_id': 'ITEM_POWDER_003', 'item': 'Moldy Bark'}]	Sivash	Shoot Chest
-34079191	0.3064782548476454	0.2376821548821549	[{'item_id': 'ITEM_INSECT_006', 'item': 'Ende Guide'}]	Sivash	Shoot Chest
+34079167	0.33926717451523547	0.17668922558922562	[{'item_id': 'ITEM_GEMSTONE_005', 'item': 'Lilac Gemstone'}]	Sivash	Chest (Gun)
+34079170	0.2713085872576177	0.13032491582491582	[{'item_id': 'ITEM_FUEL_002', 'item': 'Lost Heart'}]	Sivash	Chest (Gun)
+34079168	0.2408023545706371	0.08344579124579123	[{'item_id': 'ITEM_MUSHROOM_004', 'item': 'Parched Mushroom'}]	Sivash	Chest (Gun)
+34079171	0.3584346260387811	0.08142356902356904	[{'item_id': 'ITEM_GEMSTONE_008', 'item': 'Mine Coral'}]	Sivash	Chest (Gun)
+34079172	0.37817783933518007	0.05363535353535352	[{'item_id': 'ITEM_ORE_005', 'item': 'Pentanite'}]	Sivash	Chest (Gun)
+34079174	0.3523648199445984	0.05596969696969697	[{'item_id': 'ITEM_POWDER_003', 'item': 'Moldy Bark'}]	Sivash	Chest (Gun)
+34079180	0.36175484764542937	0.35560404040404037	[{'item_id': 'ITEM_MUSHROOM_006', 'item': 'Dusk Mushroom'}]	Sivash	Chest (Gun)
+34079175	0.32398351800554015	0.11647171717171718	[{'item_id': 'ITEM_FISH_008', 'item': 'Decaying Shellfish'}]	Sivash	Chest (Gun)
+34079176	0.36608518005540164	0.1543094276094276	[{'item_id': 'ITEM_POISON_003', 'item': 'Dubious Log'}]	Sivash	Chest (Gun)
+34079178	0.39700304709141276	0.2210794612794613	[{'item_id': 'ITEM_MUSHROOM_005', 'item': 'Danger Mushroom'}]	Sivash	Chest (Gun)
+34079177	0.34137423822714685	0.14641313131313136	[{'item_id': 'ITEM_MUSHROOM_003', 'item': 'Tiled Mushroom'}]	Sivash	Chest (Gun)
+34079179	0.39922049861495845	0.3221760942760942	[{'item_id': 'ITEM_FISH_007', 'item': 'Poisoned Puffer'}]	Sivash	Chest (Gun)
+34079181	0.2436254847645429	0.3845117845117845	[{'item_id': 'ITEM_STONE_007', 'item': 'Puzzle Stone'}]	Sivash	Chest (Gun)
+34079189	0.2576868421052632	0.10032087542087544	[{'item_id': 'ITEM_ELIXIL_002', 'item': 'Rubellum Lily'}]	Sivash	Chest (Gun)
+34079182	0.3082148199445983	0.4533794612794613	[{'item_id': 'ITEM_STONE_004', 'item': 'Ancient Fossil'}]	Sivash	Chest (Gun)
+34079183	0.3233709141274238	0.34556835016835014	[{'item_id': 'ITEM_SAND_003', 'item': 'Emerald Glass'}]	Sivash	Chest (Gun)
+34079190	0.2889078947368421	0.21443232323232322	[{'item_id': 'ITEM_STONE_006', 'item': 'Ashen Stone'}]	Sivash	Chest (Gun)
+34079186	0.34227562326869804	0.455973063973064	[{'item_id': 'ITEM_POISON_003', 'item': 'Dubious Log'}]	Sivash	Chest (Gun)
+34079185	0.3398274238227147	0.36171750841750844	[{'item_id': 'ITEM_POISON_004', 'item': 'Confusion Powder'}]	Sivash	Chest (Gun)
+34079187	0.31336952908587257	0.4591882154882155	[{'item_id': 'ITEM_ORE_004', 'item': 'Mordenite'}]	Sivash	Chest (Gun)
+34079188	0.33787437673130194	0.17942087542087543	[{'item_id': 'ITEM_POWDER_003', 'item': 'Moldy Bark'}]	Sivash	Chest (Gun)
+34079191	0.3064782548476454	0.2376821548821549	[{'item_id': 'ITEM_INSECT_006', 'item': 'Ende Guide'}]	Sivash	Chest (Gun)
 34079224	0.30119238227146816	0.1625414141414141	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_179', 'trait': 'Heat Up'}]	Sivash	Chest
 34079221	0.31550138504155123	0.09609999999999999	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_039', 'trait': 'HP Regeneration'}]	Sivash	Chest
 34079157	0.25551565096952905	0.26633400673400676	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_039', 'trait': 'HP Regeneration'}]	Sivash	Chest
@@ -862,12 +862,12 @@ id	x	z	reward	location	note
 35913748	0.20647839335180054	0.594122558922559	[{'item_id': 'ITEM_FISH_005', 'item': 'Berobed Betta'}]	Ligneus	Chest
 35913749	0.18799833795013848	0.6237750841750842	[{'item_id': 'ITEM_FISH_004', 'item': 'Marimo'}]	Ligneus	Chest
 35913733	0.18867313019390583	0.5117821548821548	[{'item_id': 'ITEM_PUNIPUNI_006', 'item': 'White Puniball'}]	Ligneus	Chest
-35913779	0.17820955678670358	0.6184717171717171	[{'item_id': 'ITEM_PUNIPUNI_005', 'item': 'Black Puniball'}]	Ligneus	Minigame Chest
-35913780	0.19379584487534626	0.6015255892255892	[{'item_id': 'ITEM_FISH_004', 'item': 'Marimo'}]	Ligneus	Minigame Chest
-35913781	0.17228005540166205	0.5999138047138048	[{'item_id': 'ITEM_FISH_003', 'item': 'Mossclad'}]	Ligneus	Minigame Chest
-35913783	0.2687631578947368	0.5482397306397306	[{'item_id': 'ITEM_PUNIPUNI_002', 'item': 'Green Puniball'}]	Ligneus	Minigame Chest
-35913784	0.25501703601108033	0.5793121212121213	[{'item_id': 'ITEM_PUNIPUNI_004', 'item': 'Purple Puniball'}]	Ligneus	Minigame Chest
-35913785	0.24342742382271465	0.557992255892256	[{'item_id': 'ITEM_PUNIPUNI_001', 'item': 'Blue Puniball'}]	Ligneus	Minigame Chest
+35913779	0.17820955678670358	0.6184717171717171	[{'item_id': 'ITEM_PUNIPUNI_005', 'item': 'Black Puniball'}]	Ligneus	Chest (Minigame)
+35913780	0.19379584487534626	0.6015255892255892	[{'item_id': 'ITEM_FISH_004', 'item': 'Marimo'}]	Ligneus	Chest (Minigame)
+35913781	0.17228005540166205	0.5999138047138048	[{'item_id': 'ITEM_FISH_003', 'item': 'Mossclad'}]	Ligneus	Chest (Minigame)
+35913783	0.2687631578947368	0.5482397306397306	[{'item_id': 'ITEM_PUNIPUNI_002', 'item': 'Green Puniball'}]	Ligneus	Chest (Minigame)
+35913784	0.25501703601108033	0.5793121212121213	[{'item_id': 'ITEM_PUNIPUNI_004', 'item': 'Purple Puniball'}]	Ligneus	Chest (Minigame)
+35913785	0.24342742382271465	0.557992255892256	[{'item_id': 'ITEM_PUNIPUNI_001', 'item': 'Blue Puniball'}]	Ligneus	Chest (Minigame)
 35913758	0.17968060941828254	0.5655787878787879	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_015', 'trait': 'Outer Range Boost'}]	Ligneus	Chest
 35913760	0.19603033240997228	0.6321104377104376	[{'item_id': 'ITEM_PUNIPUNI_003', 'item': 'Red Puniball'}]	Ligneus	Chest
 35913761	0.2367416897506925	0.5714936026936027	[{'item_id': 'ITEM_PUNIPUNI_002', 'item': 'Green Puniball'}]	Ligneus	Chest
@@ -875,22 +875,22 @@ id	x	z	reward	location	note
 35913771	0.1858461218836565	0.5258043771043771	[{'item_id': 'ITEM_PUNIPUNI_001', 'item': 'Blue Puniball'}]	Ligneus	Chest
 35913772	0.18956551246537395	0.5179727272727273	[{'item_id': 'ITEM_PUNIPUNI_003', 'item': 'Red Puniball'}]	Ligneus	Chest
 35913774	0.18732257617728532	0.5250154882154883	[{'item_id': 'ITEM_PUNIPUNI_005', 'item': 'Black Puniball'}]	Ligneus	Chest
-35913782	0.24456634349030473	0.5414622895622895	[{'item_id': 'ITEM_PUNIPUNI_004', 'item': 'Purple Puniball'}]	Ligneus	Minigame Chest
+35913782	0.24456634349030473	0.5414622895622895	[{'item_id': 'ITEM_PUNIPUNI_004', 'item': 'Purple Puniball'}]	Ligneus	Chest (Minigame)
 35913775	0.24381149584487538	0.5288986531986531	[{'item_id': 'ITEM_WEAPON_A_02', 'item': 'Mana Scepter'}]	Ligneus	Chest
 35913776	0.24136939058171747	0.5398303030303031	[{'item_id': 'ITEM_WEAPON_A_02', 'item': 'Mana Scepter'}]	Ligneus	Chest
 35913777	0.24727479224376733	0.5377006734006734	[{'item_id': 'ITEM_MIX_025', 'item': 'Void Components'}]	Ligneus	Chest
 35913757	0.24075318559556785	0.5340609427609427	[{'item_id': 'ITEM_KEY_02', 'item': 'Treasure Trove Key'}]	Ligneus	Chest
 35913789	0.1686959833795014	0.6250181818181819	[{'item_id': 'ITEM_FLOWER_009', 'item': 'Solflower'}]	Ligneus	Chest
 35913788	0.16733545706371192	0.6241818181818182	[{'item_id': 'ITEM_PUNIPUNI_007', 'item': 'Silver Puniball'}]	Ligneus	Chest
-35913762	0.1921145429362881	0.5517673400673401	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_014', 'trait': 'Inner Range Boost'}]	Ligneus	Shoot Chest
-35913770	0.23714432132963992	0.5638222222222222	[{'item_id': 'ITEM_FISH_005', 'item': 'Berobed Betta'}]	Ligneus	Shoot Chest
-35913764	0.17881842105263157	0.5366390572390572	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_001', 'trait': 'Destructive'}]	Ligneus	Shoot Chest
-35913766	0.19167063711911358	0.5418609427609428	[{'item_id': 'ITEM_FISH_006', 'item': 'Cerberus Fish'}]	Ligneus	Shoot Chest
-35913767	0.19706163434903048	0.561	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_003', 'trait': 'Critical'}]	Ligneus	Shoot Chest
-35913768	0.22118808864265926	0.5452757575757575	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_002', 'trait': 'Healing'}]	Ligneus	Shoot Chest
-35913769	0.22248282548476456	0.540760606060606	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_015', 'trait': 'Outer Range Boost'}]	Ligneus	Shoot Chest
-35913763	0.1732229916897507	0.5417727272727273	[{'item_id': 'ITEM_PUNIPUNI_001', 'item': 'Blue Puniball'}]	Ligneus	Shoot Chest
-35913765	0.18476454293628808	0.5502127946127946	[{'item_id': 'ITEM_PUNIPUNI_002', 'item': 'Green Puniball'}]	Ligneus	Shoot Chest
+35913762	0.1921145429362881	0.5517673400673401	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_014', 'trait': 'Inner Range Boost'}]	Ligneus	Chest (Gun)
+35913770	0.23714432132963992	0.5638222222222222	[{'item_id': 'ITEM_FISH_005', 'item': 'Berobed Betta'}]	Ligneus	Chest (Gun)
+35913764	0.17881842105263157	0.5366390572390572	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_001', 'trait': 'Destructive'}]	Ligneus	Chest (Gun)
+35913766	0.19167063711911358	0.5418609427609428	[{'item_id': 'ITEM_FISH_006', 'item': 'Cerberus Fish'}]	Ligneus	Chest (Gun)
+35913767	0.19706163434903048	0.561	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_003', 'trait': 'Critical'}]	Ligneus	Chest (Gun)
+35913768	0.22118808864265926	0.5452757575757575	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_002', 'trait': 'Healing'}]	Ligneus	Chest (Gun)
+35913769	0.22248282548476456	0.540760606060606	[{'item_id': 'ITEM_OTHER_01', 'potential_0': 'ITEM_TRAIT_TRAIT_015', 'trait': 'Outer Range Boost'}]	Ligneus	Chest (Gun)
+35913763	0.1732229916897507	0.5417727272727273	[{'item_id': 'ITEM_PUNIPUNI_001', 'item': 'Blue Puniball'}]	Ligneus	Chest (Gun)
+35913765	0.18476454293628808	0.5502127946127946	[{'item_id': 'ITEM_PUNIPUNI_002', 'item': 'Green Puniball'}]	Ligneus	Chest (Gun)
 67371013	0.6013403047091412	0.43251885521885525	[{'item_id': 'ITEM_ELIXIL_006', 'item': 'Dunkelheit'}]	Auruma	Chest
 32505938	0.548886703601108	0.39546094276094274	[{'item_id': 'ITEM_ANIMAL_013', 'item': 'Golem Core'}]	Auruma	Chest
 32505940	0.5485404432132964	0.3971693602693602	[{'item_id': 'ITEM_ELIXIL_002', 'item': 'Rubellum Lily'}]	Auruma	Chest

@@ -1,0 +1,1281 @@
+id	x	z	monster	location	note
+57671696	0.9154652354570637	0.7650515151515151	{'monster_id': 'MONSTER_BIOME4_03', 'monster': 'Faceless Monster'}	Lacuna	Monsters
+57671690	0.9024095567867035	0.7923309764309764	{'monster_id': 'MONSTER_ROCKBEAST_05', 'monster': 'Obsidian Claw'}	Lacuna	Monsters
+57671681	0.8962052631578947	0.7767060606060606	{'monster_id': 'MONSTER_EWOLF_03', 'monster': 'Golden Fenrir'}	Lacuna	Monsters
+57933836	0.9018536011080333	0.747421212121212	{'monster_id': 'MONSTER_OWL_03', 'monster': 'Abyss Roc'}	Lacuna	Monsters
+57933825	0.917637811634349	0.7787333333333333	{'monster_id': 'MONSTER_HORSE_05', 'monster': 'El Dorado'}	Lacuna	Monsters
+57933827	0.9132350415512465	0.8010198653198654	{'monster_id': 'MONSTER_KONG_05', 'monster': 'Continental Lifter'}	Lacuna	Monsters
+57933835	0.8865038781163436	0.7776168350168351	{'monster_id': 'MONSTER_GIANT_05', 'monster': 'Executioner'}	Lacuna	Monsters
+2883585	0.02184501385041552	0.4867868686868687	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+2883607	0.05378850415512466	0.48761683501683506	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+2883584	0.025967313019390575	0.5004013468013468	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+2883594	0.033162465373961225	0.49496498316498316	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+2883610	0.02646759002770084	0.46471346801346797	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+2883608	0.03371897506925209	0.48935286195286193	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+2883609	0.034555540166205	0.48083670033670034	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+2883612	0.03964653739612189	0.4993777777777778	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+2883621	0.03691218836565098	0.45792996632996635	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+2883622	0.04417894736842105	0.44707878787878785	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+2883624	0.04732493074792245	0.4408794612794613	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+2883592	0.046138088642659274	0.5066599326599327	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+2883619	0.03598296398891966	0.5003468013468013	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+2883614	0.030639750692520767	0.5125154882154882	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+2883606	0.04736648199445984	0.49758383838383835	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+2883602	0.03860734072022161	0.4838208754208754	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+2883603	0.04128642659279779	0.4814632996632997	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+2883611	0.04472534626038781	0.4857138047138047	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+2883604	0.034631301939058175	0.47343468013468015	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+2883597	0.04306232686980609	0.5269356902356902		Ligneus	Monsters
+2883599	0.04298365650969529	0.5272215488215488		Ligneus	Monsters
+2883598	0.04299598337950139	0.5270494949494949		Ligneus	Monsters
+2883623	0.022810803324099713	0.49705084175084174	{'monster_id': 'MONSTER_PUNI_09', 'monster': 'Big Puni'}	Ligneus	Monsters
+2883613	0.03130027700831026	0.5057861952861953	"{'monster_id': 'MONSTER_BEAVER_02', 'monster': ""Hell's Cherry""}"	Ligneus	Monsters
+3146479	0.04289819944598338	0.35132390572390576	{'monster_id': 'MONSTER_EWOLF_04', 'monster': 'Wolf Leader'}	Ligneus	Monsters
+3146261	0.03382409972299169	0.4132841750841751	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146269	0.13764653739612187	0.2801242424242424	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146312	0.10232950138504154	0.42632053872053877	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146314	0.09959473684210525	0.4367195286195287	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146315	0.09967728531855956	0.4582912457912458	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146316	0.10130470914127424	0.4819434343434344	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146317	0.10397008310249306	0.4917006734006734	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146313	0.09963739612188367	0.44859797979797983	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146254	0.08224168975069251	0.27516632996632995	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146256	0.19722146814404432	0.3929649831649832	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146257	0.20443753462603878	0.38671077441077445	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146259	0.07354196675900275	0.4368922558922559	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146262	0.04704432132963989	0.31834006734006737	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146263	0.039505955678670365	0.3034824915824915	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146265	0.03674861495844876	0.3321262626262626	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146187	0.16578337950138505	0.28516127946127945	{'monster_id': 'MONSTER_PUNI_06', 'monster': 'Silver Puni'}	Ligneus	Monsters
+3146480	0.06768490304709142	0.38201548821548825	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3145958	0.027812188365650962	0.344723569023569	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3146440	0.028322714681440445	0.33238787878787884	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3146157	0.03679072022160664	0.41905185185185184	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3145970	0.07171592797783932	0.30459730639730637	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3146156	0.06673559556786704	0.3067383838383838	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3145960	0.036726731301939056	0.35586599326599333	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3145963	0.028059695290858735	0.31126296296296296	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3146439	0.03598448753462604	0.32138013468013465	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3145971	0.0682454293628809	0.32325925925925925	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3145972	0.08114750692520775	0.3214151515151515	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3145962	0.02731578947368421	0.3166851851851852	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3146215	0.050691966759002775	0.43815858585858586	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3146065	0.09331925207756232	0.4053377104377104	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3145849	0.09426689750692523	0.4890265993265993	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3146454	0.1777937673130194	0.3446771043771044		Ligneus	Monsters
+3146471	0.07962742382271468	0.3900616161616161	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3146473	0.06060124653739613	0.41052390572390574	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3146475	0.05823961218836565	0.41063164983164985	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3146167	0.1025185595567867	0.37450538720538723	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146307	0.09469972299168977	0.36556666666666665	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146304	0.09315484764542935	0.3801818181818182	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146070	0.11087797783933517	0.3339649831649832	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146069	0.1092242382271468	0.33576262626262626	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146066	0.09768005540166205	0.4141666666666667	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146326	0.10505609418282548	0.3976723905723906	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146328	0.10786301939058172	0.392910101010101	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146329	0.11286260387811632	0.38745622895622894	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146310	0.10834044321329639	0.4166262626262626	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146152	0.11642271468144046	0.38585185185185183	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146151	0.11174556786703599	0.3765612794612795	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146340	0.13343227146814404	0.3554239057239057	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146341	0.13622908587257618	0.34863299663299663	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146147	0.14896357340720223	0.41922087542087544	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146353	0.14185263157894737	0.4434346801346802	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146354	0.13586315789473685	0.43123737373737375	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146355	0.1552580332409972	0.4358191919191919	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146373	0.16312603878116344	0.42923400673400675	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146174	0.15528614958448755	0.4212727272727273	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146132	0.1117549861495845	0.3483754208754209	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146175	0.12513157894736843	0.3645959595959596	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146332	0.11605069252077563	0.3531148148148148	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146333	0.12140706371191134	0.35818855218855217	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146334	0.12735914127423822	0.34895252525252524	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146336	0.1147815789473684	0.3345050505050505	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3145742	0.08444806094182826	0.4411336700336701	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3145979	0.05929432132963989	0.2661784511784512	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3145978	0.07091080332409973	0.28237441077441083	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146376	0.051226592797783944	0.27173097643097643	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3145981	0.05183905817174515	0.2862498316498317	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146348	0.05177354570637119	0.23336801346801342	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146153	0.07565997229916897	0.45195319865319866	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146443	0.07862963988919669	0.44989764309764313	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146446	0.070704432132964	0.43187845117845114	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146154	0.09474058171745153	0.445522558922559	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146448	0.09586108033240999	0.43042121212121215	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146155	0.10247686980609416	0.4333077441077441	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146496	0.09009819944598337	0.3627104377104377	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146050	0.20170581717451525	0.14529730639730637	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146173	0.1948067867036011	0.16043333333333337	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146227	0.5076824099722992	0.5947070707070707	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146229	0.2017372576177285	0.15988518518518516	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146051	0.19585180055401663	0.14841952861952865	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146052	0.19120526315789474	0.15010505050505055	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146024	0.147798891966759	0.27862525252525255	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146028	0.1501832409972299	0.2855350168350168	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146275	0.15640304709141276	0.24921548821548822	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146267	0.14375664819944597	0.2908461279461279	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146276	0.1637264542936288	0.2583713804713804	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146029	0.15113199445983377	0.2780976430976431	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146377	0.15379432132963988	0.29095117845117846	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146378	0.15280817174515235	0.30591818181818187	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146030	0.1460930747922438	0.3082949494949495	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146032	0.13750373961218837	0.2993084175084175	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146033	0.13432894736842105	0.3018178451178451	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146034	0.13615581717451525	0.24695925925925924	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146035	0.14928504155124653	0.2545373737373738	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146036	0.14782825484764542	0.2414814814814815	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146168	0.14002673130193904	0.23904410774410775	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146458	0.07121939058171745	0.4397636363636363	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146117	0.14656495844875345	0.3325171717171717	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146247	0.14950872576177285	0.3500922558922559	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146342	0.13475124653739612	0.3714703703703704	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146169	0.16497894736842103	0.24634343434343434	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146131	0.16185000000000002	0.34908148148148155	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146130	0.14897105263157895	0.3411700336700337	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146250	0.14157091412742384	0.26203569023569023	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146248	0.15443351800554017	0.21926228956228955	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146125	0.14562686980609418	0.36940471380471385	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146148	0.15986814404432131	0.36320303030303025	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146344	0.15549058171745153	0.3672542087542088	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146283	0.036941828254847646	0.3413444444444444	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146118	0.15106828254847643	0.3210976430976431	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146452	0.17985138504155126	0.3588525252525253	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3146500	0.11973864265927976	0.4913410774410774	{'monster_id': 'MONSTER_WOOPER_00', 'monster': 'Blazing Salamander'}	Ligneus	Monsters
+3145953	0.049401662049861496	0.39687474747474744	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3145955	0.03190332409972299	0.39747710437710443	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3145956	0.03283434903047091	0.38424343434343433	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146062	0.03552451523545706	0.3909979797979798	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146063	0.03938518005540167	0.4116912457912458	{'monster_id': 'MONSTER_WOOPER_00', 'monster': 'Blazing Salamander'}	Ligneus	Monsters
+3146056	0.04043185595567868	0.40587003367003366	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146287	0.06338656509695291	0.39686969696969693	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146288	0.06640997229916898	0.3754070707070707	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146426	0.06276024930747921	0.38351212121212125	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146437	0.05534335180055401	0.41384680134680135	{'monster_id': 'MONSTER_WOOPER_00', 'monster': 'Blazing Salamander'}	Ligneus	Monsters
+3146289	0.07129847645429363	0.36649898989898994	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146057	0.04058351800554017	0.3935222222222222	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146058	0.045578670360110804	0.3927447811447812	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3145957	0.03795110803324099	0.38239461279461284	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146281	0.0388612188365651	0.3704804713804714	{'monster_id': 'MONSTER_WOOPER_00', 'monster': 'Blazing Salamander'}	Ligneus	Monsters
+3145994	0.1454962603878116	0.3876643097643097	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146278	0.16850304709141276	0.34990471380471383	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3145995	0.15180623268698062	0.3859171717171717	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146358	0.1644692520775623	0.4155434343434343	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3145996	0.16108337950138507	0.38405723905723904	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3145997	0.16409404432132962	0.3811868686868687	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3145998	0.16130997229916896	0.37485959595959595	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146000	0.16927451523545708	0.3318208754208754		Ligneus	Monsters
+3145999	0.16700886426592798	0.36138855218855215	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146001	0.17029584487534627	0.33843973063973065	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146002	0.1733735457063712	0.3125976430976431	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146370	0.16796675900277008	0.30161851851851856	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146371	0.17224736842105265	0.2690272727272727	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146372	0.17261274238227145	0.295226936026936	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146003	0.1712657894736842	0.31392087542087543	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3145941	0.1119382271468144	0.36440505050505045	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146501	0.13019293628808862	0.5020521885521886	{'monster_id': 'MONSTER_BEAVER_01', 'monster': 'Jewel Keeper'}	Ligneus	Monsters
+3146331	0.12203504155124652	0.37317340067340066	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3145943	0.13201662049861496	0.38053198653198655	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3145944	0.12292700831024929	0.386413468013468	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146166	0.07972562326869806	0.34642154882154885	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146346	0.09324695290858724	0.3495996632996633	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3145945	0.12704072022160665	0.38775252525252524	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146143	0.08447728531855957	0.3409801346801347	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146144	0.08915637119113573	0.3341626262626262	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146145	0.07893268698060942	0.3394087542087542	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3145990	0.10186578947368422	0.3546276094276094	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3145976	0.09305484764542937	0.323943771043771	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3145977	0.08809487534626038	0.30805757575757575	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146160	0.0845965373961219	0.33178181818181823	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3145936	0.16850983379501386	0.40503434343434347	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3145938	0.17385637119113573	0.3855434343434343	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146364	0.17852686980609417	0.3701622895622896	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146366	0.18315027700831024	0.3725878787878788	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146362	0.17957119113573405	0.4068084175084175	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146363	0.17824639889196675	0.3964161616161616	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3145939	0.17787797783933518	0.379283164983165	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146517	0.07950595567867035	0.3899218855218855	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3145940	0.07810069252077564	0.41532356902356904	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146059	0.08359252077562325	0.4021121212121212	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146237	0.0650397506925208	0.40797744107744105	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146238	0.0662729916897507	0.42370639730639725	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3145949	0.05679695290858725	0.4133461279461279	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3145951	0.05949473684210528	0.4204175084175084	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3145952	0.05302063711911357	0.4302057239057239	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146285	0.05166481994459834	0.4297804713804713	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3145947	0.07471468144044321	0.40836161616161615	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146298	0.08629986149584487	0.39046127946127945	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146305	0.08942132963988922	0.4254855218855219	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146306	0.09029307479224377	0.4124309764309764	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146235	0.06086786703601109	0.439230303030303	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146495	0.09036883656509694	0.3637003367003367	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146041	0.17498351800554018	0.18987407407407408	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146042	0.16754736842105264	0.1693080808080808	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146225	0.1593360110803324	0.16307676767676763	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146044	0.18550983379501385	0.15818518518518518	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146045	0.18249750692520778	0.16032659932659932	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146046	0.1772516620498615	0.17189326599326596	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146047	0.16109847645429365	0.19415925925925923	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146272	0.16030373961218836	0.17994814814814816	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146170	0.16017036011080332	0.20922592592592595	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146048	0.18204349030470912	0.1938643097643098	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146049	0.18594030470914127	0.18716936026936024	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146043	0.1688060941828255	0.17346767676767674	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146172	0.17385429362880886	0.17748417508417505	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3145928	0.11573988919667591	0.4326804713804714	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146116	0.12444238227146813	0.42835993265993266	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3145929	0.11341980609418284	0.4389329966329967	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3145932	0.1272332409972299	0.4356239057239057	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3145930	0.11888864265927979	0.44305387205387203	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3145931	0.1252897506925208	0.4170457912457913	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146349	0.1297667590027701	0.40541178451178445	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146352	0.1334792243767313	0.41346767676767676	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3145966	0.05433614958448753	0.31705084175084175	{'monster_id': 'MONSTER_BIRD_00', 'monster': 'Sprinting Bird'}	Ligneus	Monsters
+3146438	0.05133005540166206	0.32673030303030304	{'monster_id': 'MONSTER_BIRD_00', 'monster': 'Sprinting Bird'}	Ligneus	Monsters
+3145982	0.07723698060941829	0.2500801346801346	{'monster_id': 'MONSTER_BIRD_00', 'monster': 'Sprinting Bird'}	Ligneus	Monsters
+3145987	0.09371135734072022	0.26915016835016836	{'monster_id': 'MONSTER_BIRD_00', 'monster': 'Sprinting Bird'}	Ligneus	Monsters
+3145985	0.08876329639889198	0.25075016835016833	{'monster_id': 'MONSTER_BIRD_00', 'monster': 'Sprinting Bird'}	Ligneus	Monsters
+3145984	0.0726886426592798	0.25282693602693607	{'monster_id': 'MONSTER_BIRD_00', 'monster': 'Sprinting Bird'}	Ligneus	Monsters
+3146374	0.08080000000000001	0.2906242424242424	{'monster_id': 'MONSTER_BIRD_00', 'monster': 'Sprinting Bird'}	Ligneus	Monsters
+3146375	0.09929224376731302	0.2674656565656565	{'monster_id': 'MONSTER_BIRD_00', 'monster': 'Sprinting Bird'}	Ligneus	Monsters
+3145983	0.07908240997229916	0.26412592592592593	{'monster_id': 'MONSTER_BIRD_00', 'monster': 'Sprinting Bird'}	Ligneus	Monsters
+3145969	0.06042797783933518	0.3089676767676767	{'monster_id': 'MONSTER_BIRD_00', 'monster': 'Sprinting Bird'}	Ligneus	Monsters
+3146179	0.16130831024930747	0.2817043771043771	{'monster_id': 'MONSTER_EWOLF_02', 'monster': 'Frostmoon Fang'}	Ligneus	Monsters
+3146180	0.15790955678670363	0.2844276094276094	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+3146181	0.15735000000000002	0.2731309764309764	{'monster_id': 'MONSTER_SAPLING_00', 'monster': 'Sapling'}	Ligneus	Monsters
+3146182	0.1659494459833795	0.27501919191919194	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+3146183	0.1656746537396122	0.2785973063973064	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+3146104	0.03276468144044322	0.25075622895622895	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146105	0.034321052631578954	0.23596397306397301	{'monster_id': 'MONSTER_GIANT_02', 'monster': 'Tree Guardian'}	Ligneus	Monsters
+3146106	0.03238102493074793	0.2400565656565656	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146109	0.028999030470914133	0.25453838383838384	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146107	0.029245706371191126	0.24590202020202018	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146108	0.02662423822714681	0.2541757575757576	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146110	0.029278947368421043	0.26496430976430974	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3146245	0.10181925207756233	0.2922835016835017	{'monster_id': 'MONSTER_WOOPER_00', 'monster': 'Blazing Salamander'}	Ligneus	Monsters
+3146246	0.1029481994459834	0.3070996632996633	{'monster_id': 'MONSTER_WOOPER_00', 'monster': 'Blazing Salamander'}	Ligneus	Monsters
+3146016	0.10266371191135736	0.473262962962963	{'monster_id': 'MONSTER_WOOPER_00', 'monster': 'Blazing Salamander'}	Ligneus	Monsters
+3146319	0.12685734072022162	0.5165804713804714	{'monster_id': 'MONSTER_WOOPER_00', 'monster': 'Blazing Salamander'}	Ligneus	Monsters
+3146320	0.13144085872576175	0.5181851851851852	{'monster_id': 'MONSTER_WOOPER_00', 'monster': 'Blazing Salamander'}	Ligneus	Monsters
+3146321	0.13336786703601108	0.5089063973063973	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146322	0.12812493074792244	0.48793905723905723	{'monster_id': 'MONSTER_WOOPER_00', 'monster': 'Blazing Salamander'}	Ligneus	Monsters
+3146323	0.12296731301939057	0.5008208754208754	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146504	0.11464072022160665	0.4916858585858586	{'monster_id': 'MONSTER_BEAVER_01', 'monster': 'Jewel Keeper'}	Ligneus	Monsters
+3146325	0.1149674515235457	0.4980858585858586	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146017	0.10915429362880885	0.49126127946127945	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146019	0.13188102493074794	0.4926791245791246	{'monster_id': 'MONSTER_BEAVER_01', 'monster': 'Jewel Keeper'}	Ligneus	Monsters
+3146021	0.14676786703601108	0.5229525252525252	{'monster_id': 'MONSTER_BEAVER_01', 'monster': 'Jewel Keeper'}	Ligneus	Monsters
+3146022	0.14927506925207756	0.51253265993266	{'monster_id': 'MONSTER_BEAVER_01', 'monster': 'Jewel Keeper'}	Ligneus	Monsters
+3146023	0.15291717451523548	0.5084397306397307	{'monster_id': 'MONSTER_BEAVER_01', 'monster': 'Jewel Keeper'}	Ligneus	Monsters
+3146514	0.11036814404432131	0.3422892255892256	{'monster_id': 'MONSTER_OWL_00', 'monster': 'Birdnyx'}	Ligneus	Monsters
+3146407	0.07422216066481993	0.4669521885521885	{'monster_id': 'MONSTER_ROCKBEAST_00', 'monster': 'Rock Lizard'}	Ligneus	Monsters
+3146408	0.09051066481994462	0.3942208754208754	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146409	0.08930346260387813	0.2979888888888889	{'monster_id': 'MONSTER_EWOLF_04', 'monster': 'Wolf Leader'}	Ligneus	Monsters
+3146412	0.07730360110803326	0.2722882154882155	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Ligneus	Monsters
+3146413	0.0909196675900277	0.2702097643097643	{'monster_id': 'MONSTER_BIRD_00', 'monster': 'Sprinting Bird'}	Ligneus	Monsters
+3146414	0.08533144044321328	0.2547747474747475	{'monster_id': 'MONSTER_BIRD_00', 'monster': 'Sprinting Bird'}	Ligneus	Monsters
+3146415	0.09110650969529085	0.24324814814814819	{'monster_id': 'MONSTER_BIRD_00', 'monster': 'Sprinting Bird'}	Ligneus	Monsters
+3146416	0.041021468144044324	0.33335824915824913	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146418	0.05900872576177284	0.30523872053872053	{'monster_id': 'MONSTER_BIRD_00', 'monster': 'Sprinting Bird'}	Ligneus	Monsters
+3146419	0.02312216066481994	0.30159663299663303	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3146420	0.09457825484764543	0.3905	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146421	0.09120789473684211	0.3068730639730639	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146423	0.09863628808864265	0.2785063973063973	{'monster_id': 'MONSTER_BIRD_00', 'monster': 'Sprinting Bird'}	Ligneus	Monsters
+3146425	0.03963351800554016	0.4214973063973064	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3146424	0.04211440443213297	0.28782053872053875	{'monster_id': 'MONSTER_BIRD_00', 'monster': 'Sprinting Bird'}	Ligneus	Monsters
+3146185	0.16824002770083102	0.31531515151515155	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Ligneus	Monsters
+3146403	0.14943448753462604	0.4298373737373738	{'monster_id': 'MONSTER_PUNI_06', 'monster': 'Silver Puni'}	Ligneus	Monsters
+3146492	0.03536426592797784	0.44852390572390577	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3146494	0.03523684210526316	0.4496835016835017	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146493	0.03484002770083103	0.44932659932659935	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+3146469	0.07747132963988917	0.4341202020202021	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+3146209	0.18886994459833795	0.3752787878787878	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146481	0.07088337950138503	0.3493282828282828	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146482	0.0796678670360111	0.3570740740740741	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+3146223	0.1595461218836565	0.14588855218855218	{'monster_id': 'MONSTER_PANTHER_03', 'monster': 'Moor Tiger'}	Ligneus	Monsters
+3146444	0.0625095567867036	0.2792969696969697	{'monster_id': 'MONSTER_PANTHER_03', 'monster': 'Moor Tiger'}	Ligneus	Monsters
+3146401	0.06291662049861495	0.44619427609427614	{'monster_id': 'MONSTER_PANTHER_03', 'monster': 'Moor Tiger'}	Ligneus	Monsters
+3146445	0.185759972299169	0.1765962962962963	{'monster_id': 'MONSTER_PANTHER_03', 'monster': 'Moor Tiger'}	Ligneus	Monsters
+3146208	0.17016260387811633	0.3645946127946128	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146216	0.02785180055401662	0.4027356902356902	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+3146240	0.05580872576177284	0.44250909090909096	{'monster_id': 'MONSTER_ROCKBEAST_01', 'monster': 'Skirmisher'}	Ligneus	Monsters
+3146214	0.09553836565096954	0.4869872053872054	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Ligneus	Monsters
+3146449	0.09821869806094181	0.4988872053872054	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Ligneus	Monsters
+3146519	0.040280332409972294	0.3242515151515152	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+3146518	0.05828393351800554	0.41409696969696963	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3408134	0.06719182825484765	0.13624579124579125	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3408136	0.07671011080332411	0.0840936026936027	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3408140	0.11935263157894738	0.2437367003367003	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3408141	0.03412396121883657	0.21134646464646462	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+3408036	0.02674529085872577	0.07027643097643099	{'monster_id': 'MONSTER_ROCKBEAST_01', 'monster': 'Skirmisher'}	Ligneus	Monsters
+3408037	0.03031994459833795	0.0570993265993266	{'monster_id': 'MONSTER_ROCKBEAST_01', 'monster': 'Skirmisher'}	Ligneus	Monsters
+3408067	0.03567340720221606	0.06882053872053871	{'monster_id': 'MONSTER_ROCKBEAST_01', 'monster': 'Skirmisher'}	Ligneus	Monsters
+3408029	0.03937105263157894	0.11650639730639728	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408030	0.027025346260387814	0.1140198653198653	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408031	0.02776454293628809	0.1168973063973064	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408032	0.03728047091412742	0.09575353535353537	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408033	0.029965927977839327	0.1065902356902357	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408060	0.035120221606648204	0.10418821548821547	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408034	0.039197645429362875	0.08530606060606058	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408035	0.039770775623268695	0.07418922558922558	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408045	0.09702506925207757	0.16573939393939396	{'monster_id': 'MONSTER_OWL_00', 'monster': 'Birdnyx'}	Ligneus	Monsters
+3408089	0.1134236842105263	0.16857003367003362	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408116	0.047959418282548474	0.10004781144781144	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408117	0.04843531855955679	0.08201447811447812	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408080	0.053876038781163434	0.1421939393939394	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408081	0.05097451523545707	0.1378872053872054	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408024	0.12628005540166207	0.1993377104377104	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408057	0.04905346260387813	0.18470336700336698	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3408102	0.05208240997229917	0.19471582491582493	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3408104	0.039075346260387805	0.21313265993265992	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3408130	0.0522134349030471	0.11666565656565656	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3408131	0.052156232686980615	0.1265050505050505	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3408072	0.12410595567867036	0.20756666666666662	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3408075	0.127456648199446	0.21094949494949494	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3408086	0.1475720221606648	0.17813164983164986	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3408157	0.1491290858725762	0.1569602693602694	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3408058	0.046061218836565096	0.1742582491582492	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3408041	0.07131828254847644	0.07513636363636364	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3408042	0.07437243767313019	0.08592087542087543	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3408109	0.061575346260387805	0.12157676767676769	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3408110	0.054601108033240996	0.09435555555555558	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3408091	0.11380304709141273	0.17877239057239055	{'monster_id': 'MONSTER_ROCKBEAST_01', 'monster': 'Skirmisher'}	Ligneus	Monsters
+3408014	0.039567036011080324	0.1904037037037037	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408143	0.08414958448753462	0.17074410774410775	{'monster_id': 'MONSTER_OWL_00', 'monster': 'Birdnyx'}	Ligneus	Monsters
+3408026	0.039567728531855945	0.16505892255892257	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408054	0.09051842105263157	0.19360505050505056	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408059	0.04421717451523546	0.13555656565656565	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408008	0.055425761772853174	0.21914006734006736	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408011	0.06869916897506924	0.2212717171717172	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408012	0.04635526315789474	0.20693804713804717	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408013	0.047874930747922435	0.21234983164983162	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3407982	0.10551814404432133	0.242723569023569	{'monster_id': 'MONSTER_PANTHER_01', 'monster': 'Hammertusk'}	Ligneus	Monsters
+3407983	0.11110747922437673	0.23878821548821552	{'monster_id': 'MONSTER_PANTHER_01', 'monster': 'Hammertusk'}	Ligneus	Monsters
+3407984	0.1081259002770083	0.2445400673400673	{'monster_id': 'MONSTER_PANTHER_01', 'monster': 'Hammertusk'}	Ligneus	Monsters
+3408100	0.10594903047091414	0.21132693602693606	{'monster_id': 'MONSTER_PANTHER_01', 'monster': 'Hammertusk'}	Ligneus	Monsters
+3408055	0.0830939058171745	0.21428619528619527	{'monster_id': 'MONSTER_PANTHER_01', 'monster': 'Hammertusk'}	Ligneus	Monsters
+3408052	0.1103619113573407	0.1931538720538721	{'monster_id': 'MONSTER_PANTHER_01', 'monster': 'Hammertusk'}	Ligneus	Monsters
+3408053	0.1122157894736842	0.1942020202020202	{'monster_id': 'MONSTER_PANTHER_01', 'monster': 'Hammertusk'}	Ligneus	Monsters
+3407993	0.1047490304709141	0.1985942760942761	{'monster_id': 'MONSTER_PANTHER_01', 'monster': 'Hammertusk'}	Ligneus	Monsters
+3407994	0.09660664819944598	0.18723299663299667	{'monster_id': 'MONSTER_PANTHER_01', 'monster': 'Hammertusk'}	Ligneus	Monsters
+3408079	0.14508171745152354	0.20548215488215493	{'monster_id': 'MONSTER_OWL_00', 'monster': 'Birdnyx'}	Ligneus	Monsters
+3408049	0.11764584487534624	0.2981919191919192	{'monster_id': 'MONSTER_OWL_00', 'monster': 'Birdnyx'}	Ligneus	Monsters
+3408153	0.11613864265927978	0.2851979797979798	{'monster_id': 'MONSTER_OWL_00', 'monster': 'Birdnyx'}	Ligneus	Monsters
+3408154	0.11324168975069251	0.28011245791245787	{'monster_id': 'MONSTER_OWL_00', 'monster': 'Birdnyx'}	Ligneus	Monsters
+3408128	0.07110734072022161	0.12797979797979797	{'monster_id': 'MONSTER_OWL_00', 'monster': 'Birdnyx'}	Ligneus	Monsters
+3408070	0.06916038781163433	0.18750538720538723	{'monster_id': 'MONSTER_OWL_00', 'monster': 'Birdnyx'}	Ligneus	Monsters
+3407987	0.10886648199445983	0.22360000000000005	{'monster_id': 'MONSTER_OWL_00', 'monster': 'Birdnyx'}	Ligneus	Monsters
+3408099	0.07566274238227147	0.18969292929292925	{'monster_id': 'MONSTER_CLOCODILE_01', 'monster': 'Deep Celeste'}	Ligneus	Monsters
+3407995	0.0940803324099723	0.15398552188552192	{'monster_id': 'MONSTER_CLOCODILE_01', 'monster': 'Deep Celeste'}	Ligneus	Monsters
+3408195	0.09470055401662049	0.14891481481481486	{'monster_id': 'MONSTER_CLOCODILE_01', 'monster': 'Deep Celeste'}	Ligneus	Monsters
+3408196	0.09246454293628809	0.15053703703703702	{'monster_id': 'MONSTER_CLOCODILE_01', 'monster': 'Deep Celeste'}	Ligneus	Monsters
+3407998	0.08882243767313018	0.14929932659932657	{'monster_id': 'MONSTER_CLOCODILE_01', 'monster': 'Deep Celeste'}	Ligneus	Monsters
+3408003	0.08015152354570636	0.16208047138047135	{'monster_id': 'MONSTER_CLOCODILE_01', 'monster': 'Deep Celeste'}	Ligneus	Monsters
+3408004	0.0858027700831025	0.1785582491582491	{'monster_id': 'MONSTER_CLOCODILE_01', 'monster': 'Deep Celeste'}	Ligneus	Monsters
+3408056	0.08109168975069253	0.19727710437710433	{'monster_id': 'MONSTER_CLOCODILE_01', 'monster': 'Deep Celeste'}	Ligneus	Monsters
+3408098	0.09099030470914127	0.1792666666666667	{'monster_id': 'MONSTER_CLOCODILE_01', 'monster': 'Deep Celeste'}	Ligneus	Monsters
+3408006	0.07447409972299167	0.18081851851851855	{'monster_id': 'MONSTER_CLOCODILE_01', 'monster': 'Deep Celeste'}	Ligneus	Monsters
+3408001	0.0821448753462604	0.1688461279461279	{'monster_id': 'MONSTER_CLOCODILE_00', 'monster': 'Crocoderus'}	Ligneus	Monsters
+3408096	0.05526468144044322	0.05572491582491584	{'monster_id': 'MONSTER_CLOCODILE_00', 'monster': 'Crocoderus'}	Ligneus	Monsters
+3408108	0.06710013850415511	0.07507811447811447	{'monster_id': 'MONSTER_ROCKBEAST_01', 'monster': 'Skirmisher'}	Ligneus	Monsters
+3408112	0.04765858725761773	0.12115993265993266	{'monster_id': 'MONSTER_ROCKBEAST_01', 'monster': 'Skirmisher'}	Ligneus	Monsters
+3408114	0.0327538781163435	0.0628915824915825	{'monster_id': 'MONSTER_ROCKBEAST_01', 'monster': 'Skirmisher'}	Ligneus	Monsters
+3408028	0.03573254847645429	0.13396767676767674	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408145	0.07314653739612187	0.19737845117845115	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3408123	0.14342603878116345	0.2143804713804714	{'monster_id': 'MONSTER_OWL_00', 'monster': 'Birdnyx'}	Ligneus	Monsters
+3670036	0.11866578947368422	0.15276228956228954	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3670042	0.11262839335180057	0.12272087542087544	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3670050	0.13112299168975067	0.17290370370370367	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3670051	0.09282562326869807	0.08762457912457912	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3670052	0.13870304709141276	0.14379528619528623	{'monster_id': 'MONSTER_PANTHER_02', 'monster': 'Stray Panther'}	Ligneus	Monsters
+3670033	0.1423454293628809	0.1311936026936027	{'monster_id': 'MONSTER_PANTHER_02', 'monster': 'Stray Panther'}	Ligneus	Monsters
+3670035	0.1502427977839335	0.1203949494949495	{'monster_id': 'MONSTER_PANTHER_02', 'monster': 'Stray Panther'}	Ligneus	Monsters
+3670037	0.11832326869806094	0.16797609427609425	{'monster_id': 'MONSTER_ROCKBEAST_06', 'monster': 'Predator'}	Ligneus	Monsters
+3670040	0.10928185595567867	0.0892946127946128	{'monster_id': 'MONSTER_PANTHER_00', 'monster': 'Feline'}	Ligneus	Monsters
+3932182	0.2017752077562327	0.11738888888888889	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3932195	0.20112451523545705	0.10035993265993264	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+3932184	0.14592313019390582	0.20393400673400672	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3932186	0.15061218836565096	0.1522612794612795	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3932189	0.145037811634349	0.213423569023569	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3932194	0.15652950138504154	0.12986397306397307	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3932190	-0.12349203601108033	-0.3001721885521885	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3932191	0.13774695290858724	0.2199666666666667	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3932198	0.1792236842105263	0.10645151515151517	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3932199	0.17867631578947366	0.10051515151515152	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+3932192	0.21645540166204985	0.07667003367003367	{'monster_id': 'MONSTER_PUNI_09', 'monster': 'Big Puni'}	Ligneus	Monsters
+4194352	0.2012139889196676	0.3801010101010101	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+4194353	0.19698531855955678	0.38953569023569024	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+4194354	0.20280983379501386	0.39608148148148153	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+4194355	0.20509764542936287	0.38779696969696975	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+4194335	0.18641371191135736	0.32343569023569024	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+4194336	0.1898494459833795	0.32658720538720537	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+4194337	0.1843578947368421	0.33289326599326596	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+4194357	0.17872659279778394	0.3258481481481481	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+4194338	0.1852094182825485	0.343506734006734	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+4194312	0.1824516620498615	0.2552895622895623	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+4194314	0.18995069252077562	0.2721734006734007	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+4194359	0.18247576177285318	0.285740404040404	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+4194360	0.19279639889196676	0.27485185185185185	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+4194315	0.1958285318559557	0.28612020202020205	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+4194316	0.19771052631578948	0.2860693602693603	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+4194350	0.19582271468144044	0.30519966329966325	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+4194351	0.2049801939058172	0.29929562289562284	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+4194332	0.20426177285318559	0.26270067340067343	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+4194345	0.19935318559556786	0.3441518518518519	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+4194343	0.1997404432132964	0.32154478114478113	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+4194344	0.2081376731301939	0.31473367003367003	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+4194334	0.2053235457063712	0.24863872053872058	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+4194347	0.20023864265927976	0.25028417508417505	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+4194317	0.18926925207756232	0.23541447811447813	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+4194331	0.18233850415512465	0.22991178451178448	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+4194305	0.20204736842105264	0.23582491582491583	{'monster_id': 'MONSTER_CLOCODILE_00', 'monster': 'Crocoderus'}	Ligneus	Monsters
+4194307	0.20424127423822716	0.2231774410774411	{'monster_id': 'MONSTER_CLOCODILE_00', 'monster': 'Crocoderus'}	Ligneus	Monsters
+4194309	0.21045747922437671	0.21678855218855222	{'monster_id': 'MONSTER_CLOCODILE_00', 'monster': 'Crocoderus'}	Ligneus	Monsters
+4194356	0.18241024930747923	0.3211754208754209		Ligneus	Monsters
+4194349	0.2027602493074792	0.2551525252525252	{'monster_id': 'MONSTER_EWOLF_02', 'monster': 'Frostmoon Fang'}	Ligneus	Monsters
+6292751	0.07618919667590028	0.5040457912457913	{'monster_id': 'MONSTER_PUNI_09', 'monster': 'Big Puni'}	Ligneus	Monsters
+6292752	0.047221468144044314	0.36051380471380473	"{'monster_id': 'MONSTER_BEAVER_02', 'monster': ""Hell's Cherry""}"	Ligneus	Monsters
+6292753	0.0223909972299169	0.28578013468013475	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+6292857	0.13867091412742383	0.16443602693602694	{'monster_id': 'MONSTER_EWOLF_02', 'monster': 'Frostmoon Fang'}	Ligneus	Monsters
+6292754	0.17079986149584486	0.39481144781144784	{'monster_id': 'MONSTER_PANTHER_03', 'monster': 'Moor Tiger'}	Ligneus	Monsters
+6292755	0.19171052631578947	0.19913838383838386	"{'monster_id': 'MONSTER_BEAVER_02', 'monster': ""Hell's Cherry""}"	Ligneus	Monsters
+6292757	0.1657831024930748	0.4452148148148148	{'monster_id': 'MONSTER_EWOLF_02', 'monster': 'Frostmoon Fang'}	Ligneus	Monsters
+6292756	0.08293573407202216	0.23172491582491578	{'monster_id': 'MONSTER_PUNI_09', 'monster': 'Big Puni'}	Ligneus	Monsters
+6292758	0.09306828254847643	0.06649595959595961	{'monster_id': 'MONSTER_ELEMENT_01', 'monster': 'Icy Crystal'}	Ligneus	Monsters
+6292759	0.07270997229916898	0.05500505050505051	{'monster_id': 'MONSTER_ROCKBEAST_06', 'monster': 'Predator'}	Ligneus	Monsters
+6292860	0.050355817174515226	0.29697407407407406	{'monster_id': 'MONSTER_OWL_01', 'monster': 'Amarillo'}	Ligneus	Monsters
+6292834	0.01877202216066481	0.05233838383838384	{'monster_id': 'MONSTER_EWOLF_02', 'monster': 'Frostmoon Fang'}	Ligneus	Monsters
+6292862	0.11238476454293628	0.40426902356902356	{'monster_id': 'MONSTER_PUNI_09', 'monster': 'Big Puni'}	Ligneus	Monsters
+6292893	0.17293628808864267	0.12937003367003366	{'monster_id': 'MONSTER_OWL_01', 'monster': 'Amarillo'}	Ligneus	Monsters
+6292896	0.1667646814404432	0.08331010101010103	{'monster_id': 'MONSTER_CLOCODILE_02', 'monster': 'Brutal Conqueror'}	Ligneus	Monsters
+6292903	0.08802285318559556	0.2811538720538721	{'monster_id': 'MONSTER_PANTHER_03', 'monster': 'Moor Tiger'}	Ligneus	Monsters
+6292489	0.03254695290858725	0.35337643097643096	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Ligneus	Monsters
+6292675	0.12652049861495843	0.31916026936026937	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+6292676	0.12704626038781164	0.32840774410774415	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+6292677	0.12812229916897505	0.3233414141414141	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+6292679	0.12841495844875347	0.31809023569023565	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Ligneus	Monsters
+6292504	0.1568360110803324	0.39576767676767677	{'monster_id': 'MONSTER_WOOPER_00', 'monster': 'Blazing Salamander'}	Ligneus	Monsters
+6292505	0.15892853185595568	0.3983040404040404	{'monster_id': 'MONSTER_WOOPER_00', 'monster': 'Blazing Salamander'}	Ligneus	Monsters
+6292507	0.15539376731301938	0.39882861952861953	{'monster_id': 'MONSTER_WOOPER_00', 'monster': 'Blazing Salamander'}	Ligneus	Monsters
+6292659	0.09779238227146815	0.3276885521885522	{'monster_id': 'MONSTER_BEAVER_04', 'monster': 'Shallowheel'}	Ligneus	Monsters
+6292680	0.09469986149584486	0.34124612794612796	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+6292681	0.10071717451523544	0.34548720538720545	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+6292519	0.12518130193905816	0.27438821548821546	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+6292662	0.1202707756232687	0.2726346801346801	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+6292663	0.11878850415512464	0.27008653198653204	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+6292664	0.11847354570637118	0.2565127946127946	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+6292665	0.12392257617728533	0.2549791245791245	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+6292668	0.12134279778393352	0.264569696969697	{'monster_id': 'MONSTER_EWOLF_04', 'monster': 'Wolf Leader'}	Ligneus	Monsters
+6292525	0.19839653739612187	0.345003367003367	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+6292527	0.20382645429362883	0.3452962962962963	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+6292529	0.2009842105263158	0.3359993265993266	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+6292531	0.20311537396121881	0.3331373737373737	{'monster_id': 'MONSTER_EWOLF_01', 'monster': 'Aero Beast'}	Ligneus	Monsters
+6292537	0.08289349030470915	0.4554050505050505	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+6292541	0.20866800554016618	0.23157474747474752	{'monster_id': 'MONSTER_CLOCODILE_00', 'monster': 'Crocoderus'}	Ligneus	Monsters
+6292550	0.20948795013850413	0.21780572390572386	{'monster_id': 'MONSTER_CLOCODILE_04', 'monster': 'Swamp Harbor'}	Ligneus	Monsters
+6292987	0.2063058171745152	0.2196077441077441	{'monster_id': 'MONSTER_CLOCODILE_00', 'monster': 'Crocoderus'}	Ligneus	Monsters
+6292552	0.032174653739612195	0.11191616161616164	{'monster_id': 'MONSTER_PANTHER_01', 'monster': 'Hammertusk'}	Ligneus	Monsters
+6292553	0.02997437673130194	0.10271178451178449	{'monster_id': 'MONSTER_PANTHER_01', 'monster': 'Hammertusk'}	Ligneus	Monsters
+6292554	0.028350138504155128	0.1050164983164983	{'monster_id': 'MONSTER_PANTHER_01', 'monster': 'Hammertusk'}	Ligneus	Monsters
+6292688	0.07778351800554019	0.20964747474747472	{'monster_id': 'MONSTER_PANTHER_02', 'monster': 'Stray Panther'}	Ligneus	Monsters
+6292689	0.07755443213296398	0.2179222222222222	{'monster_id': 'MONSTER_PANTHER_02', 'monster': 'Stray Panther'}	Ligneus	Monsters
+6292690	0.07418393351800552	0.21700942760942757	{'monster_id': 'MONSTER_PANTHER_02', 'monster': 'Stray Panther'}	Ligneus	Monsters
+6292851	0.06076301939058171	0.231006734006734	{'monster_id': 'MONSTER_OWL_00', 'monster': 'Birdnyx'}	Ligneus	Monsters
+6292852	0.06630983379501387	0.23148383838383843	{'monster_id': 'MONSTER_OWL_00', 'monster': 'Birdnyx'}	Ligneus	Monsters
+6292853	0.06766191135734072	0.2241171717171717	{'monster_id': 'MONSTER_OWL_00', 'monster': 'Birdnyx'}	Ligneus	Monsters
+6292567	0.18011883656509695	0.05222053872053872	{'monster_id': 'MONSTER_CLOCODILE_01', 'monster': 'Deep Celeste'}	Ligneus	Monsters
+6292568	0.1767663434903047	0.059377777777777765		Ligneus	Monsters
+6292569	0.18054542936288087	0.06479494949494952	{'monster_id': 'MONSTER_CLOCODILE_01', 'monster': 'Deep Celeste'}	Ligneus	Monsters
+6292570	0.1805898891966759	0.07097138047138048	{'monster_id': 'MONSTER_CLOCODILE_01', 'monster': 'Deep Celeste'}	Ligneus	Monsters
+6292571	0.17320650969529086	0.06202356902356902	{'monster_id': 'MONSTER_CLOCODILE_01', 'monster': 'Deep Celeste'}	Ligneus	Monsters
+6292691	0.09926523545706371	0.25005488215488214	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+6292692	0.09674681440443215	0.24433737373737377	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+6292693	0.09426495844875345	0.2523764309764309	{'monster_id': 'MONSTER_BIRD_01', 'monster': 'Massive Beak'}	Ligneus	Monsters
+6292586	0.11455581717451523	0.1802299663299663	{'monster_id': 'MONSTER_ROCKBEAST_01', 'monster': 'Skirmisher'}	Ligneus	Monsters
+6292587	0.11936717451523547	0.18724309764309768	{'monster_id': 'MONSTER_ROCKBEAST_01', 'monster': 'Skirmisher'}	Ligneus	Monsters
+6292588	0.12381869806094184	0.18635555555555558	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
+6292589	0.12074833795013849	0.17436969696969692	{'monster_id': 'MONSTER_ROCKBEAST_01', 'monster': 'Skirmisher'}	Ligneus	Monsters
+6292591	0.135841135734072	0.489089898989899	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+6292593	0.14241163434903048	0.498437037037037	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+6292595	0.14270263157894736	0.49320303030303025	{'monster_id': 'MONSTER_ELEMENT_00', 'monster': 'Storm Elemental'}	Ligneus	Monsters
+6292598	0.12582880886426592	0.530186531986532		Ligneus	Monsters
+6292601	0.1281461218836565	0.5319747474747475	{'monster_id': 'MONSTER_BEAVER_01', 'monster': 'Jewel Keeper'}	Ligneus	Monsters
+6292603	0.12523725761772853	0.5237740740740741	{'monster_id': 'MONSTER_BEAVER_01', 'monster': 'Jewel Keeper'}	Ligneus	Monsters
+6292602	0.12752728531855959	0.5262781144781145	{'monster_id': 'MONSTER_BEAVER_01', 'monster': 'Jewel Keeper'}	Ligneus	Monsters
+53215295	0.8249120498614958	0.7619771043771044	{'monster_id': 'MONSTER_ELEMENT_02', 'monster': 'Spirit of Nature'}	Lacuna	Monsters
+53215234	0.8095740997229917	0.8055195286195286	{'monster_id': 'MONSTER_ELEMENT_02', 'monster': 'Spirit of Nature'}	Lacuna	Monsters
+53215299	0.8125735457063712	0.833477441077441	{'monster_id': 'MONSTER_ELEMENT_02', 'monster': 'Spirit of Nature'}	Lacuna	Monsters
+53215239	0.8024285318559558	0.8404858585858586	{'monster_id': 'MONSTER_ELEMENT_02', 'monster': 'Spirit of Nature'}	Lacuna	Monsters
+53215247	0.7893260387811635	0.9218131313131314	{'monster_id': 'MONSTER_GIANT_05', 'monster': 'Executioner'}	Lacuna	Monsters
+53215297	0.7987404432132964	0.8888447811447813	{'monster_id': 'MONSTER_GIANT_05', 'monster': 'Executioner'}	Lacuna	Monsters
+53215298	0.7980847645429362	0.8930750841750842	{'monster_id': 'MONSTER_GIANT_05', 'monster': 'Executioner'}	Lacuna	Monsters
+53215311	0.8164979224376732	0.7582282828282828	{'monster_id': 'MONSTER_PANTHER_04', 'monster': 'Void Cougar'}	Lacuna	Monsters
+53215315	0.804545567867036	0.8216932659932661	{'monster_id': 'MONSTER_PANTHER_04', 'monster': 'Void Cougar'}	Lacuna	Monsters
+53215312	0.8233930747922439	0.7714215488215489	{'monster_id': 'MONSTER_PANTHER_04', 'monster': 'Void Cougar'}	Lacuna	Monsters
+53215313	0.8229059556786703	0.7907390572390572	{'monster_id': 'MONSTER_PANTHER_04', 'monster': 'Void Cougar'}	Lacuna	Monsters
+53215316	0.7970850415512466	0.82446632996633	{'monster_id': 'MONSTER_PANTHER_04', 'monster': 'Void Cougar'}	Lacuna	Monsters
+53215317	0.7953465373961218	0.8384006734006734	{'monster_id': 'MONSTER_PANTHER_04', 'monster': 'Void Cougar'}	Lacuna	Monsters
+53215318	0.8235434903047092	0.8704771043771045	{'monster_id': 'MONSTER_PANTHER_04', 'monster': 'Void Cougar'}	Lacuna	Monsters
+53215314	0.8139398891966758	0.8017872053872054	{'monster_id': 'MONSTER_PANTHER_04', 'monster': 'Void Cougar'}	Lacuna	Monsters
+53477381	0.6601128808864266	0.6851013468013467	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Lacuna	Monsters
+53477384	0.6360746537396123	0.7381966329966331	{'monster_id': 'MONSTER_PUNI_06', 'monster': 'Silver Puni'}	Lacuna	Monsters
+53477388	0.6634493074792244	0.7719265993265993	{'monster_id': 'MONSTER_PUNI_06', 'monster': 'Silver Puni'}	Lacuna	Monsters
+53477386	0.641017728531856	0.7241016835016836	{'monster_id': 'MONSTER_PUNI_06', 'monster': 'Silver Puni'}	Lacuna	Monsters
+53477391	0.6381279778393352	0.7295767676767676		Lacuna	Monsters
+53477378	0.6372353185595568	0.606510101010101	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Lacuna	Monsters
+53477392	0.6567371191135734	0.6301555555555556	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Lacuna	Monsters
+53739524	0.6692576177285319	0.7487265993265992	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Lacuna	Monsters
+55050459	0.7986667590027701	0.8001784511784512	{'monster_id': 'MONSTER_HORSE_06', 'monster': 'Blast Antler'}	Lacuna	Monsters
+55050392	0.8173833795013851	0.8640181818181819	{'monster_id': 'MONSTER_WOOPER_03', 'monster': 'Million Lux'}	Lacuna	Monsters
+55050456	0.8167559556786704	0.8627104377104378	{'monster_id': 'MONSTER_WOOPER_03', 'monster': 'Million Lux'}	Lacuna	Monsters
+52953129	0.7607099722991689	0.6273915824915824	{'monster_id': 'MONSTER_HORSE_04', 'monster': 'Phantom Coat'}	Lacuna	Monsters
+52953131	0.7515980609418283	0.630837037037037	{'monster_id': 'MONSTER_HORSE_04', 'monster': 'Phantom Coat'}	Lacuna	Monsters
+52953118	0.7451322714681441	0.6693845117845119	{'monster_id': 'MONSTER_HORSE_04', 'monster': 'Phantom Coat'}	Lacuna	Monsters
+52953117	0.7359994459833795	0.643080808080808	{'monster_id': 'MONSTER_HORSE_04', 'monster': 'Phantom Coat'}	Lacuna	Monsters
+52953130	0.7342232686980609	0.6478175084175084	{'monster_id': 'MONSTER_HORSE_04', 'monster': 'Phantom Coat'}	Lacuna	Monsters
+52953128	0.7577213296398893	0.632706734006734	{'monster_id': 'MONSTER_HORSE_04', 'monster': 'Phantom Coat'}	Lacuna	Monsters
+52953134	0.7941373961218836	0.6560929292929292	{'monster_id': 'MONSTER_OWL_03', 'monster': 'Abyss Roc'}	Lacuna	Monsters
+52953124	0.806454570637119	0.6732063973063973	{'monster_id': 'MONSTER_OWL_03', 'monster': 'Abyss Roc'}	Lacuna	Monsters
+52953123	0.7955198060941829	0.6720040404040405	{'monster_id': 'MONSTER_OWL_03', 'monster': 'Abyss Roc'}	Lacuna	Monsters
+52953097	0.8222504155124655	0.7191474747474748	{'monster_id': 'MONSTER_OWL_03', 'monster': 'Abyss Roc'}	Lacuna	Monsters
+52953098	0.8223180055401662	0.7295047138047139	{'monster_id': 'MONSTER_OWL_03', 'monster': 'Abyss Roc'}	Lacuna	Monsters
+52953099	0.8158006925207756	0.7316535353535353	{'monster_id': 'MONSTER_OWL_03', 'monster': 'Abyss Roc'}	Lacuna	Monsters
+52953101	0.80626675900277	0.7255760942760942	{'monster_id': 'MONSTER_OWL_03', 'monster': 'Abyss Roc'}	Lacuna	Monsters
+52953127	0.8158925207756234	0.6995616161616162	{'monster_id': 'MONSTER_HORSE_03', 'monster': 'Jade Horse'}	Lacuna	Monsters
+52953116	0.7883339335180055	0.6637902356902358	{'monster_id': 'MONSTER_HORSE_03', 'monster': 'Jade Horse'}	Lacuna	Monsters
+52953138	0.7840980609418283	0.6537993265993267	{'monster_id': 'MONSTER_HORSE_03', 'monster': 'Jade Horse'}	Lacuna	Monsters
+52953105	0.7814142659279778	0.6356979797979797	{'monster_id': 'MONSTER_HORSE_03', 'monster': 'Jade Horse'}	Lacuna	Monsters
+52953126	0.8198759002770083	0.7022286195286196	{'monster_id': 'MONSTER_HORSE_03', 'monster': 'Jade Horse'}	Lacuna	Monsters
+52953102	0.7901716066481995	0.6328228956228957	{'monster_id': 'MONSTER_OWL_02', 'monster': 'Evil Wing'}	Lacuna	Monsters
+52953121	0.802033379501385	0.6831572390572391	{'monster_id': 'MONSTER_OWL_02', 'monster': 'Evil Wing'}	Lacuna	Monsters
+52953135	0.7953538781163435	0.6919255892255893	{'monster_id': 'MONSTER_OWL_02', 'monster': 'Evil Wing'}	Lacuna	Monsters
+52953103	0.7918252077562328	0.6196373737373737	{'monster_id': 'MONSTER_OWL_02', 'monster': 'Evil Wing'}	Lacuna	Monsters
+52953104	0.7960563711911357	0.6241989898989898	{'monster_id': 'MONSTER_OWL_02', 'monster': 'Evil Wing'}	Lacuna	Monsters
+52953146	0.7944450138504155	0.6329316498316498	{'monster_id': 'MONSTER_OWL_02', 'monster': 'Evil Wing'}	Lacuna	Monsters
+52953133	0.7447606648199445	0.6259929292929294	{'monster_id': 'MONSTER_BIOME4_01', 'monster': 'Creepy Doll'}	Lacuna	Monsters
+52953137	0.7392940443213297	0.6318801346801347	{'monster_id': 'MONSTER_BIOME4_01', 'monster': 'Creepy Doll'}	Lacuna	Monsters
+52953111	0.7475210526315789	0.6506727272727272	{'monster_id': 'MONSTER_BIOME4_04', 'monster': 'Faceless Hugger'}	Lacuna	Monsters
+22806544	0.49609750692520777	0.8926727272727273	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+22806545	0.4943508310249307	0.894094276094276	{'monster_id': 'MONSTER_PUNI_08', 'monster': 'Rainbow Puni'}	Auruma	Monsters
+22806532	0.5006537396121884	0.8946107744107745	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22806534	0.5067905817174515	0.8916168350168351	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+17564081	0.48053476454293625	0.5336138047138047	{'monster_id': 'MONSTER_ELEMENT_04', 'monster': 'Disaster Core'}	Auruma	Monsters
+17564083	0.4276616343490305	0.7734313131313131	{'monster_id': 'MONSTER_GIANT_04', 'monster': 'Inferno Keeper'}	Auruma	Monsters
+17564087	0.43383448753462606	0.7975996632996633	{'monster_id': 'MONSTER_GIANT_03', 'monster': 'Warlord'}	Auruma	Monsters
+17564089	0.5222058171745152	0.636816835016835	{'monster_id': 'MONSTER_GIANT_03', 'monster': 'Warlord'}	Auruma	Monsters
+17564094	0.5100537396121884	0.8922444444444444	{'monster_id': 'MONSTER_PUNI_08', 'monster': 'Rainbow Puni'}	Auruma	Monsters
+17564096	0.5675398891966759	0.6375232323232324	{'monster_id': 'MONSTER_HERMITCRAB_06', 'monster': 'Castleroad'}	Auruma	Monsters
+17563730	0.45088476454293624	0.6291929292929292	{'monster_id': 'MONSTER_ELEMENT_04', 'monster': 'Disaster Core'}	Auruma	Monsters
+17563731	0.45057493074792243	0.6204976430976431	{'monster_id': 'MONSTER_ELEMENT_01', 'monster': 'Icy Crystal'}	Auruma	Monsters
+17564396	0.44967797783933516	0.6227602693602693	{'monster_id': 'MONSTER_ELEMENT_01', 'monster': 'Icy Crystal'}	Auruma	Monsters
+17564397	0.44873254847645433	0.6205451178451179	{'monster_id': 'MONSTER_ELEMENT_01', 'monster': 'Icy Crystal'}	Auruma	Monsters
+17563734	0.446685595567867	0.6275851851851851	{'monster_id': 'MONSTER_ELEMENT_01', 'monster': 'Icy Crystal'}	Auruma	Monsters
+17564398	0.4475556786703601	0.6294966329966329	{'monster_id': 'MONSTER_ELEMENT_01', 'monster': 'Icy Crystal'}	Auruma	Monsters
+17564399	0.44777229916897504	0.6349286195286195	{'monster_id': 'MONSTER_ELEMENT_01', 'monster': 'Icy Crystal'}	Auruma	Monsters
+17564400	0.44751218836565093	0.6255161616161615	{'monster_id': 'MONSTER_ELEMENT_01', 'monster': 'Icy Crystal'}	Auruma	Monsters
+17563736	0.4309660664819945	0.6991451178451178	{'monster_id': 'MONSTER_GIANT_01', 'monster': 'Vanguard'}	Auruma	Monsters
+17563740	0.43154099722991685	0.6871323232323232	{'monster_id': 'MONSTER_GIANT_01', 'monster': 'Vanguard'}	Auruma	Monsters
+17563737	0.4358404432132964	0.6985474747474747	{'monster_id': 'MONSTER_GIANT_01', 'monster': 'Vanguard'}	Auruma	Monsters
+17563738	0.4358619113573407	0.6882292929292928	{'monster_id': 'MONSTER_GIANT_01', 'monster': 'Vanguard'}	Auruma	Monsters
+17563788	0.46427922437673125	0.8006023569023569	{'monster_id': 'MONSTER_GIANT_02', 'monster': 'Tree Guardian'}	Auruma	Monsters
+17563789	0.45845470914127423	0.796942760942761	{'monster_id': 'MONSTER_GIANT_02', 'monster': 'Tree Guardian'}	Auruma	Monsters
+17563791	0.46247216066482	0.7947131313131313	{'monster_id': 'MONSTER_GIANT_02', 'monster': 'Tree Guardian'}	Auruma	Monsters
+17563767	0.49077783933518004	0.6899774410774411	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+17563765	0.4911519390581718	0.684006734006734	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+17563766	0.48861232686980605	0.7018653198653199	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+17563770	0.4913998614958449	0.6946925925925926	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+17563774	0.46307894736842103	0.5995430976430977	{'monster_id': 'MONSTER_BIRD_02', 'monster': 'Albatross'}	Auruma	Monsters
+17563777	0.46186232686980605	0.6065212121212121	{'monster_id': 'MONSTER_BIRD_02', 'monster': 'Albatross'}	Auruma	Monsters
+17563775	0.4673806094182825	0.6072188552188552	{'monster_id': 'MONSTER_BIRD_02', 'monster': 'Albatross'}	Auruma	Monsters
+17563778	0.46430554016620496	0.6053902356902358	{'monster_id': 'MONSTER_BIRD_04', 'monster': 'Overwhelming Bird'}	Auruma	Monsters
+17563784	0.4559635734072022	0.7663915824915825	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+17563917	0.45839487534626033	0.7618329966329968	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+17563918	0.4541706371191136	0.7549154882154883	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+17563742	0.567078808864266	0.5803693602693603	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+17563743	0.568945567867036	0.573512457912458	{'monster_id': 'MONSTER_KONG_06', 'monster': 'Kingarm'}	Auruma	Monsters
+17564155	0.5697837950138505	0.573843771043771	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+17564156	0.568771191135734	0.5755956228956228	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+17564157	0.568023268698061	0.5748511784511784	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+17564154	0.5690537396121883	0.5704026936026936	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+17564153	0.5675562326869805	0.5713909090909091	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+17563749	0.5245486149584487	0.6087255892255893	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+17563750	0.5290024930747922	0.6171747474747475	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+17563751	0.5277882271468144	0.6068427609427609	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+17563754	0.5265264542936288	0.6147353535353536	{'monster_id': 'MONSTER_PUNI_10', 'monster': 'Precious Puni'}	Auruma	Monsters
+17564158	0.5264631578947369	0.6139239057239058	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+17564159	0.5261520775623268	0.6141592592592592	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+17564160	0.526256648199446	0.6149757575757575	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+17564161	0.526201108033241	0.6133622895622894	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+17564162	0.5259257617728532	0.6146932659932661	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+17563802	0.554484349030471	0.7902289562289563	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
+17563803	0.5527009695290859	0.797416835016835	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
+17563804	0.5496939058171745	0.7903498316498317	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
+17563801	0.5534926592797784	0.7816619528619528	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
+17563805	0.5522155124653739	0.7914804713804714	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
+17563913	0.5061209141274238	0.8291767676767676	{'monster_id': 'MONSTER_GIANT_03', 'monster': 'Warlord'}	Auruma	Monsters
+17563911	0.5106736842105264	0.8336104377104376	{'monster_id': 'MONSTER_GIANT_03', 'monster': 'Warlord'}	Auruma	Monsters
+17563912	0.508070083102493	0.8419006734006734	{'monster_id': 'MONSTER_GIANT_03', 'monster': 'Warlord'}	Auruma	Monsters
+17563914	0.5038828254847646	0.835887542087542	{'monster_id': 'MONSTER_GIANT_03', 'monster': 'Warlord'}	Auruma	Monsters
+17564390	0.5062479224376731	0.8764983164983164	{'monster_id': 'MONSTER_BIOME3_00', 'monster': 'Cave Bat'}	Auruma	Monsters
+17564391	0.5032051246537396	0.8705175084175084	{'monster_id': 'MONSTER_BIOME3_00', 'monster': 'Cave Bat'}	Auruma	Monsters
+17564392	0.5004508310249307	0.8773734006734007	{'monster_id': 'MONSTER_BIOME3_00', 'monster': 'Cave Bat'}	Auruma	Monsters
+17564393	0.4971238227146815	0.8707821548821548	{'monster_id': 'MONSTER_BIOME3_04', 'monster': 'Cave Master'}	Auruma	Monsters
+17564394	0.5059709141274238	0.8626717171717172	{'monster_id': 'MONSTER_BIOME3_00', 'monster': 'Cave Bat'}	Auruma	Monsters
+19398677	0.35200844875346254	0.1881922558922559	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+19398681	0.35410969529085873	0.19178787878787878	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+19398682	0.3541202216066482	0.23573198653198651	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+19398683	0.3543494459833795	0.24502659932659931	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+19398674	0.3556429362880887	0.22292996632996637	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Sivash	Monsters
+19398673	0.35807797783933515	0.21827878787878785	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+19398685	0.3903259002770083	0.21349259259259257	{'monster_id': 'MONSTER_WOOPER_02', 'monster': 'Salamandara'}	Sivash	Monsters
+19398690	0.39008379501385043	0.2016242424242424	{'monster_id': 'MONSTER_WOOPER_02', 'monster': 'Salamandara'}	Sivash	Monsters
+19398691	0.39363213296398897	0.1954750841750842	{'monster_id': 'MONSTER_WOOPER_02', 'monster': 'Salamandara'}	Sivash	Monsters
+19398692	0.37410775623268694	0.2411939393939394	{'monster_id': 'MONSTER_WOOPER_02', 'monster': 'Salamandara'}	Sivash	Monsters
+19398694	0.3752680055401662	0.25554478114478113	{'monster_id': 'MONSTER_WOOPER_02', 'monster': 'Salamandara'}	Sivash	Monsters
+19398695	0.37187673130193905	0.26451885521885526	{'monster_id': 'MONSTER_WOOPER_02', 'monster': 'Salamandara'}	Sivash	Monsters
+19398696	0.37133961218836564	0.2763986531986532	{'monster_id': 'MONSTER_WOOPER_02', 'monster': 'Salamandara'}	Sivash	Monsters
+19398699	0.3699250692520776	0.3033377104377104	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+19398697	0.3729904432132964	0.3055612794612795	{'monster_id': 'MONSTER_PUNI_07', 'monster': 'Gold Puni'}	Sivash	Monsters
+19398658	0.3843362880886426	0.22880336700336704	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19398660	0.3824505540166205	0.23915050505050509	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19398661	0.3919846260387812	0.2427569023569023	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19398663	0.3981524930747922	0.23504882154882156	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19398668	0.3941957063711911	0.2269602693602694	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19398656	0.38146274238227146	0.22635824915824915	{'monster_id': 'MONSTER_JELLYFISH_02', 'monster': 'Violet Lotus'}	Sivash	Monsters
+19398678	0.3799059556786703	0.19234006734006734	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19398679	0.383047783933518	0.19795892255892253	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19398680	0.38337686980609414	0.20750067340067344	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19398684	0.40057382271468145	0.25647138047138046	{'monster_id': 'MONSTER_PANTHER_06', 'monster': 'Rogue Lion'}	Sivash	Monsters
+48496658	0.2794114958448753	0.3734872053872054	{'monster_id': 'MONSTER_PUNI_03', 'monster': 'Purple Puni'}	Sivash	Monsters
+48496660	0.27974335180055404	0.3738774410774411	{'monster_id': 'MONSTER_PUNI_03', 'monster': 'Purple Puni'}	Sivash	Monsters
+48496659	0.2795782548476454	0.37254006734006734	{'monster_id': 'MONSTER_PUNI_03', 'monster': 'Purple Puni'}	Sivash	Monsters
+48496663	0.24441675900277013	0.3875077441077441	{'monster_id': 'MONSTER_PUNI_03', 'monster': 'Purple Puni'}	Sivash	Monsters
+48496664	0.2444531855955679	0.38608989898989904	{'monster_id': 'MONSTER_PUNI_03', 'monster': 'Purple Puni'}	Sivash	Monsters
+48496665	0.24400761772853186	0.38554882154882153	{'monster_id': 'MONSTER_PUNI_03', 'monster': 'Purple Puni'}	Sivash	Monsters
+48496667	0.2676253462603878	0.16915218855218858	{'monster_id': 'MONSTER_SAPLING_00', 'monster': 'Sapling'}	Sivash	Monsters
+48496668	0.2683203601108033	0.16882323232323232	{'monster_id': 'MONSTER_SAPLING_00', 'monster': 'Sapling'}	Sivash	Monsters
+48496669	0.26819016620498615	0.16582020202020203	{'monster_id': 'MONSTER_SAPLING_00', 'monster': 'Sapling'}	Sivash	Monsters
+48496672	0.3939250692520776	0.3302976430976431	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+48496673	0.39317285318559553	0.3301175084175084	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+48496674	0.39260623268698064	0.331816835016835	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+48496650	0.2694404432132964	0.19459461279461282	{'monster_id': 'MONSTER_JELLYFISH_03', 'monster': 'Ogre Face'}	Sivash	Monsters
+48496652	0.25579722991689746	0.291523569023569	{'monster_id': 'MONSTER_JELLYFISH_03', 'monster': 'Ogre Face'}	Sivash	Monsters
+48496655	0.2945394736842105	0.31453198653198655	{'monster_id': 'MONSTER_JELLYFISH_03', 'monster': 'Ogre Face'}	Sivash	Monsters
+48496656	0.291712188365651	0.3359734006734007	{'monster_id': 'MONSTER_PUNI_07', 'monster': 'Gold Puni'}	Sivash	Monsters
+48496644	0.3458277008310249	0.1178087542087542	{'monster_id': 'MONSTER_ROCKBEAST_05', 'monster': 'Obsidian Claw'}	Sivash	Monsters
+28311556	0.174595567867036	0.5353329966329966	{'monster_id': 'MONSTER_CLOCODILE_03', 'monster': 'Mossy Leader'}	Ligneus	Monsters
+28311608	0.16952008310249309	0.5374030303030304	{'monster_id': 'MONSTER_CLOCODILE_03', 'monster': 'Mossy Leader'}	Ligneus	Monsters
+28311557	0.18204432132963988	0.5540828282828283	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Ligneus	Monsters
+28311558	0.1799016620498615	0.540746127946128	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Ligneus	Monsters
+28311559	0.19497617728531855	0.5506434343434343	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Ligneus	Monsters
+28311565	0.19449916897506925	0.5786020202020201	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Ligneus	Monsters
+28311567	0.19386357340720223	0.5946010101010101	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Ligneus	Monsters
+28311566	0.18786842105263157	0.5854828282828284	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Ligneus	Monsters
+28311572	0.16932506925207758	0.5619387205387205	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Ligneus	Monsters
+28311573	0.1742427977839335	0.5557649831649832	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Ligneus	Monsters
+28311560	0.21687340720221607	0.5728367003367003	{'monster_id': 'MONSTER_WOOPER_03', 'monster': 'Million Lux'}	Ligneus	Monsters
+28311610	0.20932617728531855	0.5715154882154883	{'monster_id': 'MONSTER_WOOPER_03', 'monster': 'Million Lux'}	Ligneus	Monsters
+28311562	0.22391662049861494	0.5575488215488216	{'monster_id': 'MONSTER_WOOPER_03', 'monster': 'Million Lux'}	Ligneus	Monsters
+28311580	0.22837548476454295	0.5835484848484849	{'monster_id': 'MONSTER_WOOPER_03', 'monster': 'Million Lux'}	Ligneus	Monsters
+28311561	0.20217631578947368	0.5824848484848485	{'monster_id': 'MONSTER_PUNI_03', 'monster': 'Purple Puni'}	Ligneus	Monsters
+28311611	0.20165041551246538	0.5648794612794613	{'monster_id': 'MONSTER_PUNI_03', 'monster': 'Purple Puni'}	Ligneus	Monsters
+28311563	0.20292229916897506	0.5905804713804714	{'monster_id': 'MONSTER_PUNI_03', 'monster': 'Purple Puni'}	Ligneus	Monsters
+28311564	0.19857576177285322	0.5963680134680134	{'monster_id': 'MONSTER_PUNI_03', 'monster': 'Purple Puni'}	Ligneus	Monsters
+28311568	0.1800948753462604	0.5771265993265994	{'monster_id': 'MONSTER_PUNI_03', 'monster': 'Purple Puni'}	Ligneus	Monsters
+28311569	0.18112105263157893	0.6060491582491582	{'monster_id': 'MONSTER_PUNI_03', 'monster': 'Purple Puni'}	Ligneus	Monsters
+28311570	0.1729572022160665	0.6062912457912458	{'monster_id': 'MONSTER_PUNI_03', 'monster': 'Purple Puni'}	Ligneus	Monsters
+28311571	0.1671595567867036	0.5989383838383838	{'monster_id': 'MONSTER_PUNI_03', 'monster': 'Purple Puni'}	Ligneus	Monsters
+28311574	0.22590277008310247	0.561946127946128	{'monster_id': 'MONSTER_BEAVER_03', 'monster': 'Crunch-all'}	Ligneus	Monsters
+28311585	0.22835637119113572	0.5501309764309764	{'monster_id': 'MONSTER_BEAVER_03', 'monster': 'Crunch-all'}	Ligneus	Monsters
+28311575	0.18342991689750693	0.6182723905723907	{'monster_id': 'MONSTER_BEAVER_03', 'monster': 'Crunch-all'}	Ligneus	Monsters
+28311612	0.1592897506925208	0.5203619528619529	{'monster_id': 'MONSTER_BEAVER_03', 'monster': 'Crunch-all'}	Ligneus	Monsters
+28311613	0.1679326869806094	0.5304333333333334	{'monster_id': 'MONSTER_BEAVER_03', 'monster': 'Crunch-all'}	Ligneus	Monsters
+28311583	0.22952506925207758	0.5552552188552188	{'monster_id': 'MONSTER_BEAVER_03', 'monster': 'Crunch-all'}	Ligneus	Monsters
+28311584	0.22065083102493074	0.5623131313131313	{'monster_id': 'MONSTER_BEAVER_03', 'monster': 'Crunch-all'}	Ligneus	Monsters
+28311586	0.26177506925207755	0.5378286195286196	{'monster_id': 'MONSTER_GIANT_00', 'monster': 'Arcane Golem'}	Ligneus	Monsters
+28311587	0.2554225761772853	0.5378430976430977	{'monster_id': 'MONSTER_GIANT_00', 'monster': 'Arcane Golem'}	Ligneus	Monsters
+28311606	0.2527099722991689	0.5616922558922559	{'monster_id': 'MONSTER_GIANT_00', 'monster': 'Arcane Golem'}	Ligneus	Monsters
+28311590	0.24609598337950137	0.5462973063973063	{'monster_id': 'MONSTER_GIANT_00', 'monster': 'Arcane Golem'}	Ligneus	Monsters
+28311598	0.2443645429362881	0.5559750841750842	{'monster_id': 'MONSTER_GIANT_00', 'monster': 'Arcane Golem'}	Ligneus	Monsters
+28311597	0.2614865650969529	0.5482242424242424	{'monster_id': 'MONSTER_GIANT_00', 'monster': 'Arcane Golem'}	Ligneus	Monsters
+28311593	0.25623698060941824	0.5604888888888889	{'monster_id': 'MONSTER_SAPLING_03', 'monster': 'Shadow Mistel'}	Ligneus	Monsters
+28311594	-0.1256573268698061	-0.3033086531986532	{'monster_id': 'MONSTER_SAPLING_03', 'monster': 'Shadow Mistel'}	Ligneus	Monsters
+28311595	0.24335318559556787	0.575430303030303	{'monster_id': 'MONSTER_SAPLING_03', 'monster': 'Shadow Mistel'}	Ligneus	Monsters
+28311596	0.26826772853185593	0.5873444444444444	{'monster_id': 'MONSTER_SAPLING_03', 'monster': 'Shadow Mistel'}	Ligneus	Monsters
+28311599	0.2511041551246538	0.6156629629629631	{'monster_id': 'MONSTER_NERU_01', 'monster': 'Neru Wizard'}	Ligneus	Monsters
+28311605	0.2538819944598338	0.5890602693602695	{'monster_id': 'MONSTER_NERU_01', 'monster': 'Neru Wizard'}	Ligneus	Monsters
+28311600	0.2467426592797784	0.6123481481481482	{'monster_id': 'MONSTER_NERU_01', 'monster': 'Neru Wizard'}	Ligneus	Monsters
+28311601	0.2582060941828255	0.6066838383838383	{'monster_id': 'MONSTER_NERU_01', 'monster': 'Neru Wizard'}	Ligneus	Monsters
+31719726	0.025414265927977846	0.21647070707070704	{'monster_id': 'MONSTER_EWOLF_02', 'monster': 'Frostmoon Fang'}	Ligneus	Monsters
+52428807	0.6913162049861497	0.8331855218855219	{'monster_id': 'MONSTER_EWOLF_03', 'monster': 'Golden Fenrir'}	Lacuna	Monsters
+52428829	0.6942986149584487	0.833587542087542	{'monster_id': 'MONSTER_EWOLF_03', 'monster': 'Golden Fenrir'}	Lacuna	Monsters
+52428809	0.6909263157894737	0.8607215488215488	{'monster_id': 'MONSTER_EWOLF_03', 'monster': 'Golden Fenrir'}	Lacuna	Monsters
+52428810	0.7011833795013851	0.8484942760942761	{'monster_id': 'MONSTER_EWOLF_03', 'monster': 'Golden Fenrir'}	Lacuna	Monsters
+52428818	0.6977137119113574	0.8670074074074074	{'monster_id': 'MONSTER_EWOLF_03', 'monster': 'Golden Fenrir'}	Lacuna	Monsters
+52428833	0.6951796398891966	0.8579494949494949	{'monster_id': 'MONSTER_EWOLF_03', 'monster': 'Golden Fenrir'}	Lacuna	Monsters
+52428801	0.6880905817174515	0.7431734006734007	{'monster_id': 'MONSTER_EWOLF_02', 'monster': 'Frostmoon Fang'}	Lacuna	Monsters
+52428802	0.6920659279778393	0.7552905723905724	{'monster_id': 'MONSTER_EWOLF_02', 'monster': 'Frostmoon Fang'}	Lacuna	Monsters
+52428835	0.7040980609418284	0.8949646464646465	{'monster_id': 'MONSTER_EWOLF_02', 'monster': 'Frostmoon Fang'}	Lacuna	Monsters
+52428805	0.6872220221606649	0.7852336700336701	{'monster_id': 'MONSTER_KONG_04', 'monster': 'Bloody Fighter'}	Lacuna	Monsters
+52428804	0.6904826869806094	0.775105723905724	{'monster_id': 'MONSTER_KONG_04', 'monster': 'Bloody Fighter'}	Lacuna	Monsters
+52691045	0.7512740997229918	0.6582824915824916	{'monster_id': 'MONSTER_GIANT_05', 'monster': 'Executioner'}	Lacuna	Monsters
+52691046	0.7283224376731302	0.6758855218855219	{'monster_id': 'MONSTER_GIANT_05', 'monster': 'Executioner'}	Lacuna	Monsters
+52691007	0.734325623268698	0.7125404040404041	{'monster_id': 'MONSTER_KONG_05', 'monster': 'Continental Lifter'}	Lacuna	Monsters
+52690965	0.7823966759002771	0.7564117845117845	{'monster_id': 'MONSTER_KONG_05', 'monster': 'Continental Lifter'}	Lacuna	Monsters
+52691040	0.8006886426592797	0.7324265993265994	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Lacuna	Monsters
+52691041	0.7916462603878116	0.8519289562289563	{'monster_id': 'MONSTER_KONG_05', 'monster': 'Continental Lifter'}	Lacuna	Monsters
+52691043	0.7686846260387812	0.8826171717171717	{'monster_id': 'MONSTER_HORSE_05', 'monster': 'El Dorado'}	Lacuna	Monsters
+52691044	0.7409157894736842	0.8808232323232323	{'monster_id': 'MONSTER_HORSE_05', 'monster': 'El Dorado'}	Lacuna	Monsters
+52691042	0.8041217451523546	0.776573063973064	{'monster_id': 'MONSTER_BIOME4_03', 'monster': 'Faceless Monster'}	Lacuna	Monsters
+52690966	0.7794786703601108	0.7790498316498317	{'monster_id': 'MONSTER_KONG_05', 'monster': 'Continental Lifter'}	Lacuna	Monsters
+52690945	0.7361522160664821	0.7349925925925925	{'monster_id': 'MONSTER_KONG_05', 'monster': 'Continental Lifter'}	Lacuna	Monsters
+52690967	0.781890027700831	0.796370707070707	{'monster_id': 'MONSTER_KONG_05', 'monster': 'Continental Lifter'}	Lacuna	Monsters
+52690960	0.7421821329639889	0.6973912457912458	{'monster_id': 'MONSTER_KONG_05', 'monster': 'Continental Lifter'}	Lacuna	Monsters
+52690987	0.7748486149584487	0.7324824915824916	{'monster_id': 'MONSTER_KONG_05', 'monster': 'Continental Lifter'}	Lacuna	Monsters
+52690946	0.7313182825484765	0.7440818181818182	{'monster_id': 'MONSTER_HORSE_05', 'monster': 'El Dorado'}	Lacuna	Monsters
+52690947	0.7294283933518007	0.7565094276094275	{'monster_id': 'MONSTER_HORSE_05', 'monster': 'El Dorado'}	Lacuna	Monsters
+52690948	0.7303020775623268	0.794923569023569	{'monster_id': 'MONSTER_HORSE_05', 'monster': 'El Dorado'}	Lacuna	Monsters
+52690953	0.721308864265928	0.7635090909090909	{'monster_id': 'MONSTER_HORSE_05', 'monster': 'El Dorado'}	Lacuna	Monsters
+52690958	0.7234868421052632	0.7459851851851851	{'monster_id': 'MONSTER_HORSE_05', 'monster': 'El Dorado'}	Lacuna	Monsters
+52690979	0.725667867036011	0.7305198653198653	{'monster_id': 'MONSTER_HORSE_05', 'monster': 'El Dorado'}	Lacuna	Monsters
+52690952	0.7188347645429363	0.7778959595959595	{'monster_id': 'MONSTER_HORSE_05', 'monster': 'El Dorado'}	Lacuna	Monsters
+52690999	0.7677012465373961	0.8374946127946129	{'monster_id': 'MONSTER_HORSE_05', 'monster': 'El Dorado'}	Lacuna	Monsters
+52691011	0.7432325484764544	0.8187272727272727	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Lacuna	Monsters
+52691074	0.752325623268698	0.8277400673400673	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Lacuna	Monsters
+52691018	0.773258864265928	0.8004585858585859	{'monster_id': 'MONSTER_KONG_05', 'monster': 'Continental Lifter'}	Lacuna	Monsters
+52691075	0.7640502770083103	0.8231737373737373	{'monster_id': 'MONSTER_KONG_05', 'monster': 'Continental Lifter'}	Lacuna	Monsters
+52691076	0.7758808864265928	0.7829555555555555	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Lacuna	Monsters
+52691038	0.7686581717451523	0.7393915824915824	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Lacuna	Monsters
+52691077	0.7616026315789474	0.7272000000000001	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Lacuna	Monsters
+52691039	0.7468234072022161	0.7318592592592593	{'monster_id': 'MONSTER_HORSE_05', 'monster': 'El Dorado'}	Lacuna	Monsters
+52691078	0.7411445983379502	0.7423835016835018	{'monster_id': 'MONSTER_HORSE_05', 'monster': 'El Dorado'}	Lacuna	Monsters
+52690982	0.7582072022160664	0.7125973063973065	{'monster_id': 'MONSTER_BIOME4_03', 'monster': 'Faceless Monster'}	Lacuna	Monsters
+56361068	0.7991150969529086	0.9202575757575757	{'monster_id': 'MONSTER_BIOME4_03', 'monster': 'Faceless Monster'}	Lacuna	Monsters
+56361066	0.8147695290858725	0.6700777777777777	{'monster_id': 'MONSTER_PUNI_08', 'monster': 'Rainbow Puni'}	Lacuna	Monsters
+20971572	0.5291718836565097	0.588430303030303	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+20971567	0.5393156509695292	0.5706858585858586	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+20971563	0.5644710526315789	0.5521811447811448	{'monster_id': 'MONSTER_GIANT_01', 'monster': 'Vanguard'}	Auruma	Monsters
+20971550	0.5592139889196676	0.5703575757575758	{'monster_id': 'MONSTER_GINI_00', 'monster': 'Geni Poacher'}	Auruma	Monsters
+20971549	0.5475585872576177	0.5615518518518519	{'monster_id': 'MONSTER_GINI_00', 'monster': 'Geni Poacher'}	Auruma	Monsters
+20971564	0.5500454293628809	0.5699909090909091	{'monster_id': 'MONSTER_GINI_04', 'monster': 'Geni Soldier'}	Auruma	Monsters
+20971547	0.5546487534626039	0.5532575757575757	{'monster_id': 'MONSTER_GINI_05', 'monster': 'Geni Marauder'}	Auruma	Monsters
+20971534	0.5270680055401662	0.5366592592592592	{'monster_id': 'MONSTER_GINI_06', 'monster': 'Geni Skipper'}	Auruma	Monsters
+20971573	0.5352200831024931	0.5484545454545454	{'monster_id': 'MONSTER_GIANT_02', 'monster': 'Tree Guardian'}	Auruma	Monsters
+20971575	0.5424783933518006	0.5865289562289562	{'monster_id': 'MONSTER_GIANT_02', 'monster': 'Tree Guardian'}	Auruma	Monsters
+20971520	0.5259346260387812	0.5576494949494949	{'monster_id': 'MONSTER_GIANT_01', 'monster': 'Vanguard'}	Auruma	Monsters
+20971568	0.5352200831024931	0.5484545454545454	{'monster_id': 'MONSTER_GIANT_01', 'monster': 'Vanguard'}	Auruma	Monsters
+20971523	0.5404657894736842	0.5545518518518519	{'monster_id': 'MONSTER_GIANT_01', 'monster': 'Vanguard'}	Auruma	Monsters
+20971531	0.5274249307479224	0.5718377104377104	{'monster_id': 'MONSTER_GIANT_01', 'monster': 'Vanguard'}	Auruma	Monsters
+20971532	0.5362554016620499	0.5644013468013468	{'monster_id': 'MONSTER_GIANT_01', 'monster': 'Vanguard'}	Auruma	Monsters
+20971535	0.5315749307479224	0.5586367003367003	{'monster_id': 'MONSTER_GIANT_01', 'monster': 'Vanguard'}	Auruma	Monsters
+20971552	0.5230326869806093	0.5386252525252526	{'monster_id': 'MONSTER_GIANT_01', 'monster': 'Vanguard'}	Auruma	Monsters
+21233685	0.48745803324099723	0.5976922558922558	{'monster_id': 'MONSTER_KONG_00', 'monster': 'Rage Kong'}	Auruma	Monsters
+21233686	0.48071717451523543	0.6061676767676767	{'monster_id': 'MONSTER_KONG_00', 'monster': 'Rage Kong'}	Auruma	Monsters
+21233687	0.47816315789473685	0.5397161616161616	{'monster_id': 'MONSTER_KONG_00', 'monster': 'Rage Kong'}	Auruma	Monsters
+21233670	0.4885686980609418	0.5514845117845117	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+21233664	0.4673328254847645	0.5768548821548821	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+21233668	0.4801067867036011	0.5592555555555555	{'monster_id': 'MONSTER_GINI_00', 'monster': 'Geni Poacher'}	Auruma	Monsters
+21233683	0.4749673130193906	0.5736094276094276	{'monster_id': 'MONSTER_GINI_00', 'monster': 'Geni Poacher'}	Auruma	Monsters
+21233682	0.48624224376731306	0.5727006734006734	{'monster_id': 'MONSTER_GINI_00', 'monster': 'Geni Poacher'}	Auruma	Monsters
+21233684	0.5028353185595568	0.5825949494949495	{'monster_id': 'MONSTER_GIANT_01', 'monster': 'Vanguard'}	Auruma	Monsters
+21233667	0.47068850415512464	0.5592313131313131	{'monster_id': 'MONSTER_GIANT_01', 'monster': 'Vanguard'}	Auruma	Monsters
+21233669	0.47910096952908593	0.5872474747474747		Auruma	Monsters
+21233693	0.49757686980609417	0.5590885521885521	{'monster_id': 'MONSTER_ELEMENT_01', 'monster': 'Icy Crystal'}	Auruma	Monsters
+21233690	0.5053752077562327	0.5428949494949494	{'monster_id': 'MONSTER_ELEMENT_01', 'monster': 'Icy Crystal'}	Auruma	Monsters
+21233691	0.5154653739612188	0.5349367003367004	{'monster_id': 'MONSTER_ELEMENT_01', 'monster': 'Icy Crystal'}	Auruma	Monsters
+21495863	0.42646066481994455	0.7213882154882154	{'monster_id': 'MONSTER_GIANT_06', 'monster': 'Sentry Commander'}	Auruma	Monsters
+21495850	0.45987216066481995	0.6695148148148149	{'monster_id': 'MONSTER_KONG_00', 'monster': 'Rage Kong'}	Auruma	Monsters
+21495864	0.4569347645429363	0.5667417508417508	{'monster_id': 'MONSTER_BIRD_02', 'monster': 'Albatross'}	Auruma	Monsters
+21495858	0.44609764542936287	0.7678292929292929	{'monster_id': 'MONSTER_BIRD_02', 'monster': 'Albatross'}	Auruma	Monsters
+21495830	0.4456029085872576	0.752452861952862	{'monster_id': 'MONSTER_BIRD_02', 'monster': 'Albatross'}	Auruma	Monsters
+21495809	0.4498357340720222	0.7224579124579125	{'monster_id': 'MONSTER_GIANT_02', 'monster': 'Tree Guardian'}	Auruma	Monsters
+21495849	0.4486200831024931	0.590483164983165	{'monster_id': 'MONSTER_BIRD_02', 'monster': 'Albatross'}	Auruma	Monsters
+21495852	0.42809986149584484	0.7808784511784512	{'monster_id': 'MONSTER_BIOME3_00', 'monster': 'Cave Bat'}	Auruma	Monsters
+21495819	0.4498461218836565	0.7538868686868687	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+21495815	0.4322801939058172	0.7220114478114479	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+21495831	0.4451012465373961	0.7351060606060607	{'monster_id': 'MONSTER_GINI_00', 'monster': 'Geni Poacher'}	Auruma	Monsters
+21495834	0.4386164819944598	0.7132252525252526	{'monster_id': 'MONSTER_GINI_00', 'monster': 'Geni Poacher'}	Auruma	Monsters
+21495838	0.44283337950138507	0.6396262626262627	{'monster_id': 'MONSTER_GINI_00', 'monster': 'Geni Poacher'}	Auruma	Monsters
+21495808	0.4424702216066482	0.6588777777777778	{'monster_id': 'MONSTER_GINI_00', 'monster': 'Geni Poacher'}	Auruma	Monsters
+21495843	0.4439313019390582	0.6154707070707071	{'monster_id': 'MONSTER_GINI_00', 'monster': 'Geni Poacher'}	Auruma	Monsters
+21495868	0.4352908587257618	0.6745538720538721	{'monster_id': 'MONSTER_GINI_02', 'monster': 'Geni Berserker'}	Auruma	Monsters
+21495847	0.4403475069252078	0.7736548821548822	{'monster_id': 'MONSTER_GIANT_01', 'monster': 'Vanguard'}	Auruma	Monsters
+21495810	0.443430055401662	0.7050380471380471	{'monster_id': 'MONSTER_GIANT_02', 'monster': 'Tree Guardian'}	Auruma	Monsters
+21495825	0.4308986149584487	0.6510131313131314	{'monster_id': 'MONSTER_GIANT_02', 'monster': 'Tree Guardian'}	Auruma	Monsters
+21495870	0.4514168975069252	0.6607858585858587	{'monster_id': 'MONSTER_GIANT_02', 'monster': 'Tree Guardian'}	Auruma	Monsters
+21757980	0.4346173130193906	0.8052579124579123	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
+21757974	0.442176731301939	0.7884555555555555	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+21757977	0.44323684210526315	0.7825491582491582	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+21757978	0.44506994459833793	0.7868865319865319	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+21757967	0.47025332409972304	0.7903060606060607	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+21757970	0.46702216066481994	0.7667996632996633	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+21757971	0.47491108033241	0.7647232323232322	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+21757968	0.4646584487534626	0.7849683501683501	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+21757975	0.43726177285318557	0.7577680134680134	{'monster_id': 'MONSTER_BIRD_02', 'monster': 'Albatross'}	Auruma	Monsters
+21757969	0.4656126038781163	0.7612387205387207	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+21757973	0.48140387811634344	0.775080808080808	{'monster_id': 'MONSTER_GINI_01', 'monster': 'Geni Robber'}	Auruma	Monsters
+22020211	0.4990624653739612	0.660113468013468	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+22020190	0.5287135734072023	0.6318919191919192	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+22020208	0.49882714681440443	0.6397417508417508	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+22020157	0.5327803324099724	0.6676077441077441	{'monster_id': 'MONSTER_BIOME3_00', 'monster': 'Cave Bat'}	Auruma	Monsters
+22020148	0.5262141274238227	0.6903461279461279	{'monster_id': 'MONSTER_BIOME3_00', 'monster': 'Cave Bat'}	Auruma	Monsters
+22020149	0.5248649584487535	0.7028107744107743	{'monster_id': 'MONSTER_BIOME3_00', 'monster': 'Cave Bat'}	Auruma	Monsters
+22020183	0.515706786703601	0.6308393939393939	{'monster_id': 'MONSTER_BIOME3_00', 'monster': 'Cave Bat'}	Auruma	Monsters
+22020106	0.5239055401662049	0.6642622895622896	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+22020164	0.5295432132963989	0.7829973063973065	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+22020109	0.5311664819944598	0.6522407407407408	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+22020191	0.5303184210526316	0.7518905723905724	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020203	0.565712188365651	0.6361925925925926	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020202	0.5667678670360111	0.6428535353535354	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020198	0.5227689750692521	0.6426037037037037	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020166	0.49278850415512465	0.7340131313131314	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020159	0.5115936288088643	0.661070707070707	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020103	0.4977775623268698	0.6757565656565657	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020104	0.498431163434903	0.6696464646464646	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020172	0.4845627423822714	0.6761592592592592	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020171	0.4804659279778394	0.672416835016835	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020168	0.49526606648199445	0.6777313131313132	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020169	0.49034875346260387	0.6822851851851852	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020194	0.4924657894736842	0.687337037037037	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020197	0.4956635734072022	0.6702484848484848	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020196	0.4882120498614958	0.6814936026936026	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020122	0.5515170360110803	0.6483030303030303	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020142	0.5201070637119113	0.5041323232323232	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020124	0.5202728531855956	0.5002198653198653	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22020165	0.47976495844875344	0.725997643097643	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
+22020141	0.515806648199446	0.6177814814814814	{'monster_id': 'MONSTER_KONG_02', 'monster': 'Beast Warrior'}	Auruma	Monsters
+22020179	0.5365628808864267	0.6477101010101011	{'monster_id': 'MONSTER_GIANT_03', 'monster': 'Warlord'}	Auruma	Monsters
+22020180	0.5446886426592797	0.6419117845117844	{'monster_id': 'MONSTER_GIANT_03', 'monster': 'Warlord'}	Auruma	Monsters
+22020146	0.44053033240997236	0.5612319865319865	{'monster_id': 'MONSTER_KONG_02', 'monster': 'Beast Warrior'}	Auruma	Monsters
+22020139	0.5363346260387811	0.6183373737373737	{'monster_id': 'MONSTER_KONG_02', 'monster': 'Beast Warrior'}	Auruma	Monsters
+22020147	0.42898559556786703	0.5700902356902356	{'monster_id': 'MONSTER_KONG_02', 'monster': 'Beast Warrior'}	Auruma	Monsters
+22020144	0.4755875346260388	0.5296164983164984	{'monster_id': 'MONSTER_KONG_02', 'monster': 'Beast Warrior'}	Auruma	Monsters
+22020140	0.5049886426592798	0.5838548821548822	{'monster_id': 'MONSTER_KONG_02', 'monster': 'Beast Warrior'}	Auruma	Monsters
+22020204	0.5080757617728532	0.6036070707070706	{'monster_id': 'MONSTER_KONG_02', 'monster': 'Beast Warrior'}	Auruma	Monsters
+22020143	0.49165955678670364	0.5366632996632996	{'monster_id': 'MONSTER_KONG_02', 'monster': 'Beast Warrior'}	Auruma	Monsters
+22020188	0.5417229916897507	0.6148626262626263	{'monster_id': 'MONSTER_KONG_02', 'monster': 'Beast Warrior'}	Auruma	Monsters
+22020199	0.5700427977839335	0.637862962962963		Auruma	Monsters
+22282336	0.49543268698060944	0.7598215488215488	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+22282338	0.4976991689750692	0.7642821548821549	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+22282352	0.47033781163434907	0.6392976430976431	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+22282361	0.47431481994459834	0.6599632996632996	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+22282370	0.41385263157894736	0.6103444444444444	{'monster_id': 'MONSTER_BIOME3_00', 'monster': 'Cave Bat'}	Auruma	Monsters
+22282369	0.42420650969529083	0.6168801346801348	{'monster_id': 'MONSTER_BIOME3_00', 'monster': 'Cave Bat'}	Auruma	Monsters
+22282368	0.41338005540166206	0.591930303030303	{'monster_id': 'MONSTER_BIOME3_00', 'monster': 'Cave Bat'}	Auruma	Monsters
+22282353	0.47442285318559557	0.7070185185185185	{'monster_id': 'MONSTER_BIOME3_00', 'monster': 'Cave Bat'}	Auruma	Monsters
+22282327	0.4153051246537396	0.5957525252525252	{'monster_id': 'MONSTER_BIOME3_01', 'monster': 'Pitch-Black Hunter'}	Auruma	Monsters
+22282331	0.43129833795013856	0.6154198653198654	{'monster_id': 'MONSTER_BIOME3_01', 'monster': 'Pitch-Black Hunter'}	Auruma	Monsters
+22282332	0.434140027700831	0.6204919191919192	{'monster_id': 'MONSTER_BIOME3_01', 'monster': 'Pitch-Black Hunter'}	Auruma	Monsters
+22282340	0.48222160664819946	0.6746299663299663	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282243	0.4784178670360111	0.6623410774410774	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282268	0.488436703601108	0.705186531986532	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282287	0.4815353185595568	0.8329468013468014	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282290	0.47040304709141273	0.8191569023569023	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282289	0.4860006925207756	0.8266296296296296	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282288	0.4906505540166205	0.8309535353535354	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282267	0.4797939058171745	0.6708932659932659	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282244	0.4699306094182826	0.6708848484848484	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+22282335	0.47739556786703596	0.642525925925926	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282270	0.4719432132963989	0.6745895622895622	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282271	0.46737686980609416	0.7285757575757575	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282365	0.4624673130193906	0.7130636363636365	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282274	0.457647783933518	0.7133515151515152	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282266	0.4743735457063712	0.6515124579124579	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282349	0.46944404432132963	0.6522323232323233	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282355	0.4607296398891967	0.6372855218855219	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+22282320	0.5071138504155125	0.7803319865319864	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282321	0.5026260387811634	0.7792168350168351	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282318	0.48068725761772857	0.749488888888889	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282291	0.47247894736842105	0.8334272727272728	{'monster_id': 'MONSTER_GINI_01', 'monster': 'Geni Robber'}	Auruma	Monsters
+22282292	0.4676343490304709	0.8398430976430977	{'monster_id': 'MONSTER_GINI_05', 'monster': 'Geni Marauder'}	Auruma	Monsters
+22282295	0.46615401662049866	0.8207215488215488	{'monster_id': 'MONSTER_GINI_05', 'monster': 'Geni Marauder'}	Auruma	Monsters
+22282296	0.4585975069252078	0.8146060606060606	{'monster_id': 'MONSTER_GINI_05', 'monster': 'Geni Marauder'}	Auruma	Monsters
+22282297	0.4580648199445983	0.7968902356902358	{'monster_id': 'MONSTER_GINI_01', 'monster': 'Geni Robber'}	Auruma	Monsters
+22282298	0.46594390581717454	0.8015346801346801	{'monster_id': 'MONSTER_GINI_01', 'monster': 'Geni Robber'}	Auruma	Monsters
+22282317	0.43236745152354567	0.6373478114478114	{'monster_id': 'MONSTER_GINI_01', 'monster': 'Geni Robber'}	Auruma	Monsters
+22282334	0.4690083102493075	0.6736535353535352	{'monster_id': 'MONSTER_GINI_01', 'monster': 'Geni Robber'}	Auruma	Monsters
+22282264	0.4342790858725762	0.6155919191919191	{'monster_id': 'MONSTER_GINI_01', 'monster': 'Geni Robber'}	Auruma	Monsters
+22282241	0.4706281163434903	0.6496946127946127	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+22282354	0.4644027700831025	0.7060760942760942	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
+22282342	0.4859813019390582	0.679387542087542	{'monster_id': 'MONSTER_BIRD_02', 'monster': 'Albatross'}	Auruma	Monsters
+22282360	0.46478102493074797	0.6376235690235691	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+22544388	0.5693639889196676	0.5710794612794613	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+22544403	0.5429256232686981	0.645115824915825	{'monster_id': 'MONSTER_BIOME3_01', 'monster': 'Pitch-Black Hunter'}	Auruma	Monsters
+22544404	0.541019944598338	0.6502942760942761	{'monster_id': 'MONSTER_BIOME3_01', 'monster': 'Pitch-Black Hunter'}	Auruma	Monsters
+22544405	0.538685595567867	0.6438282828282829	{'monster_id': 'MONSTER_BIOME3_01', 'monster': 'Pitch-Black Hunter'}	Auruma	Monsters
+22544406	0.54452783933518	0.6415474747474746	{'monster_id': 'MONSTER_BIOME3_01', 'monster': 'Pitch-Black Hunter'}	Auruma	Monsters
+22544394	0.5474502770083102	0.6309154882154883	{'monster_id': 'MONSTER_GINI_02', 'monster': 'Geni Berserker'}	Auruma	Monsters
+22544396	0.5520357340720221	0.6374804713804714	{'monster_id': 'MONSTER_GINI_02', 'monster': 'Geni Berserker'}	Auruma	Monsters
+22544386	0.5714716066481994	0.5446929292929292	{'monster_id': 'MONSTER_GIANT_03', 'monster': 'Warlord'}	Auruma	Monsters
+22544387	0.5711720221606649	0.553276430976431	{'monster_id': 'MONSTER_GIANT_03', 'monster': 'Warlord'}	Auruma	Monsters
+22544389	0.5527321329639889	0.6156552188552188	{'monster_id': 'MONSTER_KONG_02', 'monster': 'Beast Warrior'}	Auruma	Monsters
+22544393	0.5553440443213297	0.6208888888888889	{'monster_id': 'MONSTER_KONG_02', 'monster': 'Beast Warrior'}	Auruma	Monsters
+22544392	0.564515512465374	0.587516835016835	{'monster_id': 'MONSTER_KONG_02', 'monster': 'Beast Warrior'}	Auruma	Monsters
+23068719	0.5328397506925208	0.8333905723905723	{'monster_id': 'MONSTER_GIANT_01', 'monster': 'Vanguard'}	Auruma	Monsters
+23068685	0.45114030470914124	0.7898804713804713	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+23068684	0.44968822714681445	0.7920973063973065	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+23068686	0.44721329639889196	0.7852000000000001	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+23068683	0.4408501385041551	0.8054838383838384	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+23068682	0.44382714681440444	0.8086902356902357	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+23068681	0.4446275623268698	0.8061306397306397	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+23068714	0.5250828254847645	0.7857097643097642	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+23068717	0.5323209141274239	0.7751407407407407	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+23068688	0.5157113573407202	0.7999151515151515	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+23068687	0.5133529085872576	0.7908097643097644	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+23068689	0.5107824099722992	0.7994013468013469	{'monster_id': 'MONSTER_GIANT_03', 'monster': 'Warlord'}	Auruma	Monsters
+23068691	0.5244249307479224	0.8001710437710438	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+23068705	0.5230145429362881	0.8164851851851851	{'monster_id': 'MONSTER_BIRD_03', 'monster': 'Wild Crest'}	Auruma	Monsters
+23068704	0.5231572022160664	0.8080868686868686	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+23068703	0.43469196675900273	0.8042629629629628	{'monster_id': 'MONSTER_KONG_00', 'monster': 'Rage Kong'}	Auruma	Monsters
+23068690	0.5282858725761773	0.7950690235690235	{'monster_id': 'MONSTER_GINI_01', 'monster': 'Geni Robber'}	Auruma	Monsters
+23068673	0.4865365650969529	0.785578787878788	{'monster_id': 'MONSTER_GINI_03', 'monster': 'Geni Warrior'}	Auruma	Monsters
+23068706	0.5336718836565096	0.8447144781144782	{'monster_id': 'MONSTER_GINI_03', 'monster': 'Geni Warrior'}	Auruma	Monsters
+23068707	0.5393416897506925	0.8416626262626262	{'monster_id': 'MONSTER_GINI_02', 'monster': 'Geni Berserker'}	Auruma	Monsters
+23068674	0.49039058171745153	0.8116804713804713	{'monster_id': 'MONSTER_GINI_02', 'monster': 'Geni Berserker'}	Auruma	Monsters
+23068693	0.5178649584487535	0.8261101010101011	{'monster_id': 'MONSTER_GINI_02', 'monster': 'Geni Berserker'}	Auruma	Monsters
+23068709	0.5326180055401663	0.8790774410774411	{'monster_id': 'MONSTER_GINI_02', 'monster': 'Geni Berserker'}	Auruma	Monsters
+23068710	0.524906648199446	0.8657956228956228	{'monster_id': 'MONSTER_GINI_02', 'monster': 'Geni Berserker'}	Auruma	Monsters
+23068711	0.5412157894736842	0.8762208754208753	{'monster_id': 'MONSTER_GINI_03', 'monster': 'Geni Warrior'}	Auruma	Monsters
+23068712	0.5297325484764543	0.8569791245791245	{'monster_id': 'MONSTER_GINI_03', 'monster': 'Geni Warrior'}	Auruma	Monsters
+23068694	0.5170023545706371	0.8335693602693602	{'monster_id': 'MONSTER_GINI_02', 'monster': 'Geni Berserker'}	Auruma	Monsters
+23068695	0.5054707756232687	0.8138535353535353	{'monster_id': 'MONSTER_GINI_02', 'monster': 'Geni Berserker'}	Auruma	Monsters
+23068697	0.4930570637119114	0.7954383838383838	{'monster_id': 'MONSTER_GINI_02', 'monster': 'Geni Berserker'}	Auruma	Monsters
+23068698	0.4783972299168975	0.802370707070707	{'monster_id': 'MONSTER_GINI_02', 'monster': 'Geni Berserker'}	Auruma	Monsters
+23068699	0.48369626038781166	0.7823915824915825	{'monster_id': 'MONSTER_GINI_02', 'monster': 'Geni Berserker'}	Auruma	Monsters
+23068700	0.4781641274238227	0.7795791245791246	{'monster_id': 'MONSTER_GINI_03', 'monster': 'Geni Warrior'}	Auruma	Monsters
+23068722	0.4883041551246537	0.8116649831649831	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+23068723	0.493980055401662	0.8318063973063973	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+23330816	0.5317923822714681	0.7728828282828283	{'monster_id': 'MONSTER_GIANT_03', 'monster': 'Warlord'}	Auruma	Monsters
+23330818	0.5335180055401662	0.7692006734006733	{'monster_id': 'MONSTER_GIANT_03', 'monster': 'Warlord'}	Auruma	Monsters
+23330817	0.5267815789473684	0.7266949494949496	{'monster_id': 'MONSTER_GIANT_03', 'monster': 'Warlord'}	Auruma	Monsters
+23592990	0.5705277008310249	0.7932478114478114	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+23592982	0.5626660664819945	0.7071919191919191	{'monster_id': 'MONSTER_BIOME3_01', 'monster': 'Pitch-Black Hunter'}	Auruma	Monsters
+23592979	0.5759149584487534	0.7155767676767676	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+23592992	0.58098891966759	0.7511430976430976	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+23592985	0.5421382271468144	0.7954340067340068	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+23592967	0.5622494459833794	0.7122313131313132	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+23592978	0.5574459833795014	0.7166286195286196	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+23592977	0.5629872576177285	0.7078653198653199	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+23592975	0.5601721606648199	0.7164367003367004	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+23592974	0.5589163434903047	0.7132131313131312	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+23592984	0.5626660664819945	0.717522558922559	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Auruma	Monsters
+23592969	0.5669668975069252	0.7502208754208753	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
+23592962	0.5515078947368421	0.7568683501683503	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
+23592973	0.5691995844875346	0.7462696969696969	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
+23592963	0.555004570637119	0.7785175084175084	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
+23592991	0.55875567867036	0.7471501683501682	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
+23592961	0.5506684210526316	0.7637124579124578	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
+23592970	0.5701425207756233	0.7841599326599327	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
+41156799	0.4153196675900277	0.5950932659932661	{'monster_id': 'MONSTER_BIOME3_00', 'monster': 'Cave Bat'}	Auruma	Monsters
+41156838	0.5331310249307479	0.5507306397306397	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+41156818	0.4562063711911357	0.8278609427609428	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
+18350081	0.32308975069252077	0.14715319865319865	{'monster_id': 'MONSTER_PUNI_07', 'monster': 'Gold Puni'}	Sivash	Monsters
+18612248	0.2282134349030471	0.06872087542087545	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Sivash	Monsters
+18612277	0.23105443213296398	0.07237003367003365	{'monster_id': 'MONSTER_PUNI_01', 'monster': 'Green Puni'}	Sivash	Monsters
+18612245	0.2772707756232687	0.06864343434343437	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612244	0.28035872576177284	0.07672996632996634	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612247	0.34000027700831026	0.14021346801346798	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612271	0.3390680055401662	0.1274121212121212	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612239	0.3385270083102493	0.11565723905723904	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612272	0.3457941828254848	0.14654814814814812	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612264	0.3254163434903047	0.11710370370370371	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612293	0.3145905817174516	0.1508973063973064	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612294	0.3066680055401662	0.16281077441077438	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612330	0.2716689750692521	0.07515151515151515	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612331	0.2714720221606648	0.08292525252525254	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612333	0.28714238227146816	0.14734074074074077	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612334	0.28511606648199445	0.13484208754208757	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612335	0.3113166204986149	0.16230909090909088	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612336	0.3166840720221607	0.07400235690235689	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612337	0.30713476454293626	0.07332659932659932	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612295	0.3174204986149584	0.12957845117845118	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612296	0.31817977839335176	0.11729932659932658	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612299	0.3180101108033241	0.06484444444444445	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612300	0.3182637119113574	0.0501158249158249	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612301	0.3166299168975069	0.056124579124579126	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612302	0.3075375346260387	0.0744057239057239	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612303	0.291240027700831	0.06315252525252527	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612304	0.2884347645429363	0.06977474747474749	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612273	0.34964141274238225	0.15644410774410772	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612308	0.26793379501385045	0.12806296296296296	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612307	0.26807534626038787	0.11454006734006732	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612286	0.36865	0.18528787878787878	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+18612291	0.36052105263157896	0.17511481481481483	{'monster_id': 'MONSTER_PUNI_07', 'monster': 'Gold Puni'}	Sivash	Monsters
+18612329	0.3070777008310249	0.06694377104377106	{'monster_id': 'MONSTER_PUNI_07', 'monster': 'Gold Puni'}	Sivash	Monsters
+18612314	0.39246869806094187	0.16689427609427612	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+18612360	0.3886360110803324	0.17034949494949492	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+18612315	-0.12421182825484765	-0.29966000000000004	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+18612317	0.393453324099723	0.12473299663299663	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+18612318	0.3921958448753463	0.10630909090909092	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+18612319	0.399331163434903	0.07866700336700339	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+18612320	0.40095429362880886	0.07453164983164981	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+18612321	0.4095840720221607	0.11817138047138045	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+18612322	0.41266454293628807	0.11387777777777777	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+18612323	0.4058641274238228	0.1192077441077441	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+18612324	0.40746551246537394	0.12814511784511787	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+18612326	0.40516426592797783	0.12879259259259257	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+18612328	0.40190927977839336	0.15220101010101014	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+18612240	0.3629675900277008	0.14722121212121217	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+18612309	0.38828490304709146	0.14360909090909088	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+18612311	0.38479459833795016	0.14266296296296294	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+18612251	0.35346163434903044	0.13576936026936026	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+18612253	0.3696163434903047	0.1545912457912458	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+18612242	0.3751146814404432	0.1469717171717172	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+18612287	0.25159972299168976	0.07579427609427608	"{'monster_id': 'MONSTER_BEAVER_02', 'monster': ""Hell's Cherry""}"	Sivash	Monsters
+18612278	0.24894085872576174	0.07947205387205386	"{'monster_id': 'MONSTER_BEAVER_02', 'monster': ""Hell's Cherry""}"	Sivash	Monsters
+18612288	0.2611310249307479	0.07318114478114479	"{'monster_id': 'MONSTER_BEAVER_02', 'monster': ""Hell's Cherry""}"	Sivash	Monsters
+18612289	0.26399238227146815	0.07815555555555555	"{'monster_id': 'MONSTER_BEAVER_02', 'monster': ""Hell's Cherry""}"	Sivash	Monsters
+18612290	0.26461842105263156	0.09138518518518517	"{'monster_id': 'MONSTER_BEAVER_02', 'monster': ""Hell's Cherry""}"	Sivash	Monsters
+18612236	0.40206814404432134	0.10365757575757577	{'monster_id': 'MONSTER_NERU_00', 'monster': 'Neru Lancer'}	Sivash	Monsters
+19136535	0.331456648199446	0.20441447811447813	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19136542	0.3260461218836565	0.19617340067340067	{'monster_id': 'MONSTER_WOOPER_02', 'monster': 'Salamandara'}	Sivash	Monsters
+19136561	0.3204504155124654	0.20178383838383834	{'monster_id': 'MONSTER_SAPLING_00', 'monster': 'Sapling'}	Sivash	Monsters
+19136536	0.3349401662049861	0.21084377104377106		Sivash	Monsters
+19136537	0.31558698060941826	0.20792962962962966	{'monster_id': 'MONSTER_WOOPER_02', 'monster': 'Salamandara'}	Sivash	Monsters
+19136526	0.28471703601108034	0.20939663299663297	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19136527	0.2823141274238227	0.20444646464646465	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19136551	0.27842396121883656	0.2050380471380471	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19136529	0.2842750692520775	0.20624713804713804	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19136555	0.27637506925207755	0.1881208754208754	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19136557	0.2688360110803324	0.19571414141414142	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19136556	0.271946675900277	0.18924713804713802	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19136533	0.26449695290858727	0.20803400673400677	{'monster_id': 'MONSTER_PANTHER_03', 'monster': 'Moor Tiger'}	Sivash	Monsters
+19136534	0.26130900277008307	0.2054367003367004	{'monster_id': 'MONSTER_PANTHER_03', 'monster': 'Moor Tiger'}	Sivash	Monsters
+19136552	0.2539195290858726	0.20144309764309767	{'monster_id': 'MONSTER_PANTHER_03', 'monster': 'Moor Tiger'}	Sivash	Monsters
+19136553	0.25048518005540166	0.20694713804713802	{'monster_id': 'MONSTER_PANTHER_03', 'monster': 'Moor Tiger'}	Sivash	Monsters
+19136554	0.2492346260387812	0.2181936026936027		Sivash	Monsters
+19136549	0.31112437673130194	0.19177407407407404	{'monster_id': 'MONSTER_SAPLING_00', 'monster': 'Sapling'}	Sivash	Monsters
+19136550	0.3073279778393352	0.1868760942760943	{'monster_id': 'MONSTER_SAPLING_00', 'monster': 'Sapling'}	Sivash	Monsters
+19136539	0.3348609418282548	0.1696952861952862	{'monster_id': 'MONSTER_SAPLING_00', 'monster': 'Sapling'}	Sivash	Monsters
+19136513	0.3302432132963989	0.18343569023569023	{'monster_id': 'MONSTER_SAPLING_00', 'monster': 'Sapling'}	Sivash	Monsters
+19136560	0.33013240997229915	0.1839319865319865	{'monster_id': 'MONSTER_SAPLING_00', 'monster': 'Sapling'}	Sivash	Monsters
+19136515	0.31205831024930747	0.19902592592592597	{'monster_id': 'MONSTER_SAPLING_03', 'monster': 'Shadow Mistel'}	Sivash	Monsters
+19136559	0.3036619113573408	0.24107542087542086	{'monster_id': 'MONSTER_SAPLING_01', 'monster': 'Spore Carrier'}	Sivash	Monsters
+19660812	0.3606282548476454	0.37325387205387206	{'monster_id': 'MONSTER_SAPLING_01', 'monster': 'Spore Carrier'}	Sivash	Monsters
+19660801	0.3900447368421052	0.26344141414141414	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19660804	0.39528185595567866	0.2824030303030303	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19660821	0.3871959833795014	0.2566350168350168	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19660822	0.3801369806094183	0.26598047138047143	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19660823	0.38069473684210525	0.2806437710437711	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19660824	0.3938113573407202	0.3257979797979798	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+19660825	0.39093102493074794	0.3253026936026936	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+19660826	0.38328393351800555	0.30509865319865315	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+19660827	0.3819414127423823	0.31626262626262625	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+19660800	0.3850458448753462	0.26815824915824915	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+19660819	0.3970468144044321	0.31503771043771045	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+19922964	0.26551343490304713	0.3703569023569024	{'monster_id': 'MONSTER_NERU_06', 'monster': 'Neru Master'}	Sivash	Monsters
+19922984	0.26952645429362876	0.3113373737373738	{'monster_id': 'MONSTER_NERU_02', 'monster': 'Neru Sage'}	Sivash	Monsters
+19922985	0.26690124653739616	0.3064676767676767	{'monster_id': 'MONSTER_NERU_02', 'monster': 'Neru Sage'}	Sivash	Monsters
+19922978	0.25070470914127424	0.35435993265993265	{'monster_id': 'MONSTER_NERU_02', 'monster': 'Neru Sage'}	Sivash	Monsters
+19922979	0.24935041551246537	0.37354444444444446	{'monster_id': 'MONSTER_NERU_02', 'monster': 'Neru Sage'}	Sivash	Monsters
+19922981	0.2662759002770083	0.35114141414141414	{'monster_id': 'MONSTER_NERU_02', 'monster': 'Neru Sage'}	Sivash	Monsters
+19922982	0.274590027700831	0.3789003367003367	{'monster_id': 'MONSTER_NERU_02', 'monster': 'Neru Sage'}	Sivash	Monsters
+19922983	0.268818836565097	0.3833595959595959	{'monster_id': 'MONSTER_NERU_03', 'monster': 'Neru Priest'}	Sivash	Monsters
+19922968	0.25209709141274234	0.4016077441077441	{'monster_id': 'MONSTER_NERU_03', 'monster': 'Neru Priest'}	Sivash	Monsters
+19922970	0.25945720221606644	0.39370606060606067	{'monster_id': 'MONSTER_HERMITCRAB_06', 'monster': 'Castleroad'}	Sivash	Monsters
+19922995	0.2670185595567867	0.3245649831649831	{'monster_id': 'MONSTER_NERU_02', 'monster': 'Neru Sage'}	Sivash	Monsters
+19922975	0.26285000000000003	0.32171885521885524	{'monster_id': 'MONSTER_NERU_02', 'monster': 'Neru Sage'}	Sivash	Monsters
+19922974	0.27188573407202216	0.46723468013468017	{'monster_id': 'MONSTER_NERU_02', 'monster': 'Neru Sage'}	Sivash	Monsters
+19922959	0.26451412742382274	0.2848969696969697	{'monster_id': 'MONSTER_HORSE_00', 'monster': 'Sorcery Horn'}	Sivash	Monsters
+19922961	0.25061232686980606	0.33185993265993263	{'monster_id': 'MONSTER_HORSE_00', 'monster': 'Sorcery Horn'}	Sivash	Monsters
+19922962	0.28845304709141273	0.2450962962962963	{'monster_id': 'MONSTER_HORSE_00', 'monster': 'Sorcery Horn'}	Sivash	Monsters
+19922960	0.25402742382271465	0.29123232323232323	{'monster_id': 'MONSTER_HORSE_00', 'monster': 'Sorcery Horn'}	Sivash	Monsters
+19922989	0.25996703601108034	0.30891279461279464	{'monster_id': 'MONSTER_HORSE_00', 'monster': 'Sorcery Horn'}	Sivash	Monsters
+19922944	0.29420457063711913	0.3108616161616161	{'monster_id': 'MONSTER_SAPLING_01', 'monster': 'Spore Carrier'}	Sivash	Monsters
+19922945	0.2959160664819945	0.3316673400673401	{'monster_id': 'MONSTER_SAPLING_01', 'monster': 'Spore Carrier'}	Sivash	Monsters
+19922947	0.27505096952908586	0.30012323232323235	{'monster_id': 'MONSTER_SAPLING_01', 'monster': 'Spore Carrier'}	Sivash	Monsters
+19922976	0.27917160664819946	0.27114814814814814	{'monster_id': 'MONSTER_SAPLING_01', 'monster': 'Spore Carrier'}	Sivash	Monsters
+19922946	0.2917943213296399	0.31502356902356904	{'monster_id': 'MONSTER_SAPLING_01', 'monster': 'Spore Carrier'}	Sivash	Monsters
+19922998	0.2628016620498615	0.35047239057239055	{'monster_id': 'MONSTER_SAPLING_01', 'monster': 'Spore Carrier'}	Sivash	Monsters
+19922992	0.27446315789473685	0.4042121212121212	{'monster_id': 'MONSTER_SAPLING_04', 'monster': 'Flowerish'}	Sivash	Monsters
+19922951	0.2584774238227147	0.3227498316498317	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+19922994	0.25763324099722995	0.32804242424242425	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+19922953	0.27195263157894733	0.42604882154882157	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+19922954	0.272894459833795	0.4368777777777778	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+19922955	0.24846883656509694	0.3971188552188552	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+19922956	0.2448567867036011	0.39077070707070705	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+19922957	0.24571731301939062	0.38262962962962965	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+19922949	0.2729354570637119	0.3229040404040404	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+20185111	0.31606828254847646	0.3129265993265994	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+20185112	0.34065138504155124	0.3641178451178451	{'monster_id': 'MONSTER_NERU_02', 'monster': 'Neru Sage'}	Sivash	Monsters
+20185113	0.30951759002770085	0.3551010101010101	{'monster_id': 'MONSTER_NERU_04', 'monster': 'Neru Wither'}	Sivash	Monsters
+20185114	0.3055468144044321	0.3529747474747475	{'monster_id': 'MONSTER_NERU_05', 'monster': 'Neru Principal'}	Sivash	Monsters
+20185115	0.30236620498614963	0.3511754208754209	{'monster_id': 'MONSTER_NERU_05', 'monster': 'Neru Principal'}	Sivash	Monsters
+20185119	0.30334529085872575	0.3351494949494949	{'monster_id': 'MONSTER_GINI_04', 'monster': 'Geni Soldier'}	Sivash	Monsters
+20185099	0.31432063711911357	0.32010639730639734	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+20185118	0.30543268698060944	0.3316228956228956	{'monster_id': 'MONSTER_NERU_02', 'monster': 'Neru Sage'}	Sivash	Monsters
+20185120	0.29962853185595567	0.32749562289562295		Sivash	Monsters
+20185116	0.29582880886426594	0.33626430976430977	{'monster_id': 'MONSTER_NERU_02', 'monster': 'Neru Sage'}	Sivash	Monsters
+20185117	0.29716038781163434	0.33921616161616164	{'monster_id': 'MONSTER_NERU_02', 'monster': 'Neru Sage'}	Sivash	Monsters
+20185097	0.3114349030470914	0.30945016835016836	{'monster_id': 'MONSTER_GIANT_00', 'monster': 'Arcane Golem'}	Sivash	Monsters
+20185098	0.31020803324099727	0.31748619528619526	{'monster_id': 'MONSTER_HERMITCRAB_01', 'monster': 'Rubble-clad'}	Sivash	Monsters
+20185100	0.31781939058171743	0.3288478114478114	{'monster_id': 'MONSTER_HERMITCRAB_01', 'monster': 'Rubble-clad'}	Sivash	Monsters
+20185101	0.31890955678670363	0.3261154882154882	{'monster_id': 'MONSTER_HERMITCRAB_01', 'monster': 'Rubble-clad'}	Sivash	Monsters
+20185102	0.3164207756232687	0.32600740740740747	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+20185103	0.3215343490304709	0.34874276094276097	{'monster_id': 'MONSTER_HERMITCRAB_01', 'monster': 'Rubble-clad'}	Sivash	Monsters
+20185104	0.3180303324099723	0.2957316498316498	{'monster_id': 'MONSTER_HERMITCRAB_01', 'monster': 'Rubble-clad'}	Sivash	Monsters
+20185088	0.3153013850415512	0.24713265993265993	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+20185089	0.3159015235457064	0.2505979797979798	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+20185090	0.3138108033240998	0.2671888888888889	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+20185095	0.30435803324099725	0.3129552188552189	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+20185092	0.312953324099723	0.27514006734006735	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+20185105	0.3315126038781163	0.2494885521885522	{'monster_id': 'MONSTER_HORSE_01', 'monster': 'Pure Freeze'}	Sivash	Monsters
+20185106	0.3308322714681441	0.25139797979797984	{'monster_id': 'MONSTER_HORSE_01', 'monster': 'Pure Freeze'}	Sivash	Monsters
+20185107	0.3317247922437673	0.25805892255892254	{'monster_id': 'MONSTER_HORSE_01', 'monster': 'Pure Freeze'}	Sivash	Monsters
+20185108	0.34252313019390584	0.266206734006734	{'monster_id': 'MONSTER_HORSE_01', 'monster': 'Pure Freeze'}	Sivash	Monsters
+20185109	0.340442243767313	0.2750013468013468	{'monster_id': 'MONSTER_HORSE_01', 'monster': 'Pure Freeze'}	Sivash	Monsters
+20185110	0.34320969529085876	0.2642845117845118	{'monster_id': 'MONSTER_HORSE_01', 'monster': 'Pure Freeze'}	Sivash	Monsters
+20447232	0.29754376731301935	0.379013468013468	{'monster_id': 'MONSTER_HERMITCRAB_02', 'monster': 'Crystal Lover'}	Sivash	Monsters
+20447233	0.2964231301939058	0.3785659932659933	{'monster_id': 'MONSTER_HERMITCRAB_02', 'monster': 'Crystal Lover'}	Sivash	Monsters
+20447237	0.28439473684210526	0.366303367003367	{'monster_id': 'MONSTER_HERMITCRAB_02', 'monster': 'Crystal Lover'}	Sivash	Monsters
+20447239	0.288419944598338	0.3938868686868687	{'monster_id': 'MONSTER_HERMITCRAB_02', 'monster': 'Crystal Lover'}	Sivash	Monsters
+20447238	0.30347257617728535	0.42703063973063976	{'monster_id': 'MONSTER_HORSE_02', 'monster': 'Prominence'}	Sivash	Monsters
+20447240	0.3475376731301939	0.3558760942760943	{'monster_id': 'MONSTER_HORSE_02', 'monster': 'Prominence'}	Sivash	Monsters
+20709376	0.34969986149584487	0.39176936026936027	{'monster_id': 'MONSTER_PANTHER_04', 'monster': 'Void Cougar'}	Sivash	Monsters
+20709398	0.3555306094182825	0.4062417508417508	{'monster_id': 'MONSTER_PANTHER_04', 'monster': 'Void Cougar'}	Sivash	Monsters
+20709378	0.3511706371191136	0.39416161616161616	{'monster_id': 'MONSTER_PANTHER_06', 'monster': 'Rogue Lion'}	Sivash	Monsters
+20709403	0.35439030470914124	0.46522154882154876	{'monster_id': 'MONSTER_PANTHER_04', 'monster': 'Void Cougar'}	Sivash	Monsters
+20709402	0.8243224376731303	1.4223824915824914	{'monster_id': 'MONSTER_PANTHER_04', 'monster': 'Void Cougar'}	Sivash	Monsters
+20709401	0.3367272853185595	0.4603579124579124	{'monster_id': 'MONSTER_HERMITCRAB_02', 'monster': 'Crystal Lover'}	Sivash	Monsters
+20709394	0.3162181440443213	0.46474242424242423	{'monster_id': 'MONSTER_HERMITCRAB_02', 'monster': 'Crystal Lover'}	Sivash	Monsters
+20709383	0.3319828254847645	0.4502734006734007	{'monster_id': 'MONSTER_HERMITCRAB_02', 'monster': 'Crystal Lover'}	Sivash	Monsters
+40632397	0.3624063711911358	0.28864343434343437	{'monster_id': 'MONSTER_JELLYFISH_06', 'monster': 'Discharger'}	Sivash	Monsters
+13894208	0.4040286703601108	0.17725892255892253	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Sivash	Monsters
+13894209	0.30033227146814406	0.2928956228956229	{'monster_id': 'MONSTER_JELLYFISH_02', 'monster': 'Violet Lotus'}	Sivash	Monsters
+13894210	0.3200660664819945	0.38295656565656566	{'monster_id': 'MONSTER_BEAVER_03', 'monster': 'Crunch-all'}	Sivash	Monsters
+13894211	0.3684926592797784	0.45862895622895616	{'monster_id': 'MONSTER_BEAVER_03', 'monster': 'Crunch-all'}	Sivash	Monsters
+13894212	0.291871052631579	0.45144983164983166	{'monster_id': 'MONSTER_HORSE_03', 'monster': 'Jade Horse'}	Sivash	Monsters
+13894213	0.3608261772853186	0.3734700336700337	{'monster_id': 'MONSTER_SAPLING_03', 'monster': 'Shadow Mistel'}	Sivash	Monsters
+13893814	0.3316113573407203	0.1292969696969697	{'monster_id': 'MONSTER_PUNI_07', 'monster': 'Gold Puni'}	Sivash	Monsters
+13893815	0.3297876731301939	0.14325286195286197	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+13893817	0.329915512465374	0.13849562289562292	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+13893818	0.3313357340720222	0.13564781144781143	{'monster_id': 'MONSTER_PUNI_02', 'monster': 'Red Puni'}	Sivash	Monsters
+13893804	0.2526875346260388	0.09718148148148147	"{'monster_id': 'MONSTER_BEAVER_02', 'monster': ""Hell's Cherry""}"	Sivash	Monsters
+13893805	0.2574196675900277	0.09817643097643096	"{'monster_id': 'MONSTER_BEAVER_02', 'monster': ""Hell's Cherry""}"	Sivash	Monsters
+13893806	0.25466662049861494	0.0957956228956229	"{'monster_id': 'MONSTER_BEAVER_02', 'monster': ""Hell's Cherry""}"	Sivash	Monsters
+13893807	0.25120373961218834	0.0937882154882155	"{'monster_id': 'MONSTER_BEAVER_02', 'monster': ""Hell's Cherry""}"	Sivash	Monsters
+13893808	0.25428296398891964	0.08902962962962964	"{'monster_id': 'MONSTER_BEAVER_02', 'monster': ""Hell's Cherry""}"	Sivash	Monsters
+13893809	0.25914224376731304	0.09474747474747475	{'monster_id': 'MONSTER_BEAVER_03', 'monster': 'Crunch-all'}	Sivash	Monsters
+13893821	0.38107091412742383	0.12337878787878788	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+13893822	0.3835314404432133	0.11173097643097644	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+13893823	0.3803264542936288	0.11306464646464645	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Sivash	Monsters
+13893824	0.38350512465373965	0.11769629629629631	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+13893825	0.37892091412742385	0.11926767676767677	{'monster_id': 'MONSTER_HERMITCRAB_00', 'monster': 'Shell Hermit'}	Sivash	Monsters
+13893830	0.2693139889196676	0.17135858585858585	{'monster_id': 'MONSTER_SAPLING_00', 'monster': 'Sapling'}	Sivash	Monsters
+13893831	0.27010443213296403	0.1674070707070707	{'monster_id': 'MONSTER_SAPLING_04', 'monster': 'Flowerish'}	Sivash	Monsters
+13893833	0.2698313019390582	0.1697053872053872	{'monster_id': 'MONSTER_SAPLING_00', 'monster': 'Sapling'}	Sivash	Monsters
+13893835	0.2684415512465374	0.1713542087542088	{'monster_id': 'MONSTER_SAPLING_00', 'monster': 'Sapling'}	Sivash	Monsters
+13893853	0.2972578947368421	0.34851077441077444	{'monster_id': 'MONSTER_SAPLING_01', 'monster': 'Spore Carrier'}	Sivash	Monsters
+13893854	0.29620554016620504	0.3417208754208754	{'monster_id': 'MONSTER_SAPLING_01', 'monster': 'Spore Carrier'}	Sivash	Monsters
+13893855	0.29353407202216064	0.3428612794612794	{'monster_id': 'MONSTER_SAPLING_04', 'monster': 'Flowerish'}	Sivash	Monsters
+13893858	0.29576703601108034	0.3462	{'monster_id': 'MONSTER_SAPLING_01', 'monster': 'Spore Carrier'}	Sivash	Monsters
+13893859	0.29162963988919666	0.33858956228956233	{'monster_id': 'MONSTER_SAPLING_01', 'monster': 'Spore Carrier'}	Sivash	Monsters
+13893844	0.391171052631579	0.09015218855218854	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+13893845	0.388787811634349	0.0950141414141414	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+13893846	0.3913592797783934	0.09768350168350168	{'monster_id': 'MONSTER_JELLYFISH_00', 'monster': 'Blue Tentacle'}	Sivash	Monsters
+13893837	0.36163324099722993	0.20418922558922561	{'monster_id': 'MONSTER_JELLYFISH_06', 'monster': 'Discharger'}	Sivash	Monsters
+13893838	0.35926385041551245	0.20051077441077444	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+13893841	0.36071994459833795	0.2090841750841751	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+13893839	0.3586965373961219	0.20695454545454545	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+13893861	0.32382091412742386	0.23279057239057235	{'monster_id': 'MONSTER_HORSE_00', 'monster': 'Sorcery Horn'}	Sivash	Monsters
+13893862	0.32581883656509697	0.2404636363636364	{'monster_id': 'MONSTER_HORSE_00', 'monster': 'Sorcery Horn'}	Sivash	Monsters
+13893863	0.3289754847645429	0.23347744107744103	{'monster_id': 'MONSTER_HORSE_00', 'monster': 'Sorcery Horn'}	Sivash	Monsters
+13893864	0.32634085872576174	0.23116835016835016	{'monster_id': 'MONSTER_HORSE_00', 'monster': 'Sorcery Horn'}	Sivash	Monsters
+13893865	0.3230351800554017	0.2224720538720539	{'monster_id': 'MONSTER_HORSE_00', 'monster': 'Sorcery Horn'}	Sivash	Monsters
+13893866	0.3214340720221607	0.23751447811447807	{'monster_id': 'MONSTER_HORSE_00', 'monster': 'Sorcery Horn'}	Sivash	Monsters
+13893868	0.3295116343490305	0.22784511784511785	{'monster_id': 'MONSTER_HORSE_00', 'monster': 'Sorcery Horn'}	Sivash	Monsters
+13893869	0.3247445983379501	0.22402390572390574	{'monster_id': 'MONSTER_HORSE_05', 'monster': 'El Dorado'}	Sivash	Monsters
+13893875	0.286345567867036	0.242437037037037	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+13893876	0.2897350415512466	0.24171717171717172	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+13893878	0.2879091412742383	0.24461717171717168	{'monster_id': 'MONSTER_SAPLING_02', 'monster': 'Soilplower'}	Sivash	Monsters
+13893848	0.37204224376731304	0.21421582491582494	{'monster_id': 'MONSTER_WOOPER_02', 'monster': 'Salamandara'}	Sivash	Monsters
+13893849	0.37365193905817173	0.22062424242424242	{'monster_id': 'MONSTER_WOOPER_02', 'monster': 'Salamandara'}	Sivash	Monsters
+13893851	0.37446994459833793	0.20614579124579122	{'monster_id': 'MONSTER_WOOPER_04', 'monster': 'Admiragills'}	Sivash	Monsters
+13893850	0.376895567867036	0.215506734006734	{'monster_id': 'MONSTER_WOOPER_02', 'monster': 'Salamandara'}	Sivash	Monsters
+13893885	0.25222590027700825	0.2507195286195287	{'monster_id': 'MONSTER_HERMITCRAB_01', 'monster': 'Rubble-clad'}	Sivash	Monsters
+13893886	0.24895540166204985	0.2512070707070707	{'monster_id': 'MONSTER_HERMITCRAB_01', 'monster': 'Rubble-clad'}	Sivash	Monsters
+13893888	0.2503572022160665	0.2509430976430977	{'monster_id': 'MONSTER_HERMITCRAB_01', 'monster': 'Rubble-clad'}	Sivash	Monsters
+13893891	0.29966315789473685	0.4284010101010101	{'monster_id': 'MONSTER_HORSE_02', 'monster': 'Prominence'}	Sivash	Monsters
+13893893	0.3045163434903047	0.42865420875420873	{'monster_id': 'MONSTER_HORSE_02', 'monster': 'Prominence'}	Sivash	Monsters
+13893892	0.30222770083102496	0.4277188552188552	{'monster_id': 'MONSTER_HORSE_02', 'monster': 'Prominence'}	Sivash	Monsters
+13893901	0.2871804709141274	0.3600084175084175	{'monster_id': 'MONSTER_HERMITCRAB_02', 'monster': 'Crystal Lover'}	Sivash	Monsters
+13893903	0.28339930747922437	0.36268350168350166	{'monster_id': 'MONSTER_HERMITCRAB_02', 'monster': 'Crystal Lover'}	Sivash	Monsters
+13894545	0.286606648199446	0.3645329966329966	{'monster_id': 'MONSTER_HERMITCRAB_02', 'monster': 'Crystal Lover'}	Sivash	Monsters
+34079007	0.3071897506925208	0.3714346801346802	{'monster_id': 'MONSTER_PUNI_07', 'monster': 'Gold Puni'}	Sivash	Monsters
+34079018	0.3743155124653739	0.2053276094276094	{'monster_id': 'MONSTER_PUNI_07', 'monster': 'Gold Puni'}	Sivash	Monsters
+34078969	0.40816191135734076	0.09073569023569024	{'monster_id': 'MONSTER_PUNI_07', 'monster': 'Gold Puni'}	Sivash	Monsters
+34078988	0.2728706371191135	0.38149057239057244	{'monster_id': 'MONSTER_PUNI_07', 'monster': 'Gold Puni'}	Sivash	Monsters
+60555265	0.1670325484764543	0.543306734006734	{'monster_id': 'MONSTER_CLOCODILE_00', 'monster': 'Crocoderus'}	Ligneus	Monsters
+32243882	0.2064259002770083	0.5514050505050505	{'monster_id': 'MONSTER_WOOPER_03', 'monster': 'Million Lux'}	Ligneus	Monsters
+32243777	0.22944459833795014	0.5811659932659933	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Ligneus	Monsters
+32243780	0.23243725761772854	0.5826262626262626	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Ligneus	Monsters
+32243778	0.23223836565096953	0.5773296296296296	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Ligneus	Monsters
+32243779	0.23139542936288088	0.5715905723905723	{'monster_id': 'MONSTER_PANTHER_05', 'monster': 'Blood Highmane'}	Ligneus	Monsters
+32243771	0.27367659279778395	0.6142993265993266	{'monster_id': 'MONSTER_WOOPER_01', 'monster': 'Aqua Shadow'}	Ligneus	Monsters
+32243773	0.2775386426592798	0.6096966329966331	{'monster_id': 'MONSTER_WOOPER_03', 'monster': 'Million Lux'}	Ligneus	Monsters
+32243775	0.275455540166205	0.6196848484848486	{'monster_id': 'MONSTER_WOOPER_03', 'monster': 'Million Lux'}	Ligneus	Monsters
+32243776	0.27648504155124654	0.6140239057239056	{'monster_id': 'MONSTER_WOOPER_03', 'monster': 'Million Lux'}	Ligneus	Monsters
+32243774	0.2782727146814405	0.6077057239057239	{'monster_id': 'MONSTER_WOOPER_03', 'monster': 'Million Lux'}	Ligneus	Monsters
+32243761	0.1820937673130194	0.5213855218855219	{'monster_id': 'MONSTER_CLOCODILE_00', 'monster': 'Crocoderus'}	Ligneus	Monsters
+32243764	0.18024972299168973	0.5219255892255892	{'monster_id': 'MONSTER_CLOCODILE_00', 'monster': 'Crocoderus'}	Ligneus	Monsters
+32243765	0.1835062326869806	0.5152892255892255	{'monster_id': 'MONSTER_CLOCODILE_00', 'monster': 'Crocoderus'}	Ligneus	Monsters
+67371012	0.6031534626038781	0.4335942760942761	{'monster_id': 'MONSTER_PUNI_08', 'monster': 'Rainbow Puni'}	Auruma	Monsters
+67371017	0.6061616343490304	0.4340636363636363	{'monster_id': 'MONSTER_PUNI_06', 'monster': 'Silver Puni'}	Auruma	Monsters
+67371018	0.6049959833795013	0.43695218855218854	{'monster_id': 'MONSTER_PUNI_03', 'monster': 'Purple Puni'}	Auruma	Monsters
+43778084	-0.12486518005540166	-0.3031046801346801	{'monster_id': 'MONSTER_PUNI_05', 'monster': 'White Puni'}	Auruma	Monsters
+43778104	0.5210308864265928	0.42594410774410774	{'monster_id': 'MONSTER_PUNI_05', 'monster': 'White Puni'}	Auruma	Monsters
+43778105	0.5215200831024931	0.4362006734006734	{'monster_id': 'MONSTER_PUNI_05', 'monster': 'White Puni'}	Auruma	Monsters
+43778106	0.5223465373961219	0.4298457912457913	{'monster_id': 'MONSTER_PUNI_05', 'monster': 'White Puni'}	Auruma	Monsters
+43778102	0.519371191135734	0.43367474747474744	{'monster_id': 'MONSTER_PUNI_05', 'monster': 'White Puni'}	Auruma	Monsters
+43778052	0.5394146814404432	0.4741393939393939	{'monster_id': 'MONSTER_BIOME3_02', 'monster': 'Resonator'}	Auruma	Monsters
+43778055	0.5454808864265928	0.4650144781144781	{'monster_id': 'MONSTER_BIOME3_02', 'monster': 'Resonator'}	Auruma	Monsters
+43778056	0.5482595567867037	0.4454666666666667	{'monster_id': 'MONSTER_BIOME3_02', 'monster': 'Resonator'}	Auruma	Monsters
+43778067	0.5236523545706371	0.4214804713804714	{'monster_id': 'MONSTER_BIOME3_02', 'monster': 'Resonator'}	Auruma	Monsters
+43778061	0.5326142659279779	0.4408548821548821	{'monster_id': 'MONSTER_ROCKBEAST_03', 'monster': 'Lava Breaker'}	Auruma	Monsters
+43778060	0.534443351800554	0.45210202020202017	{'monster_id': 'MONSTER_ROCKBEAST_03', 'monster': 'Lava Breaker'}	Auruma	Monsters
+43778072	0.5336795013850415	0.38592929292929296	{'monster_id': 'MONSTER_ROCKBEAST_03', 'monster': 'Lava Breaker'}	Auruma	Monsters
+43778075	0.511668836565097	0.3717397306397307	{'monster_id': 'MONSTER_ROCKBEAST_03', 'monster': 'Lava Breaker'}	Auruma	Monsters
+43778076	0.5162810249307479	0.36451111111111106	{'monster_id': 'MONSTER_ROCKBEAST_03', 'monster': 'Lava Breaker'}	Auruma	Monsters
+43778066	0.5280768698060941	0.4041212121212121	{'monster_id': 'MONSTER_PUNI_05', 'monster': 'White Puni'}	Auruma	Monsters
+43778068	0.5555236842105263	0.3943215488215488	{'monster_id': 'MONSTER_PUNI_05', 'monster': 'White Puni'}	Auruma	Monsters
+43778077	0.526501108033241	0.36052222222222224	{'monster_id': 'MONSTER_PUNI_05', 'monster': 'White Puni'}	Auruma	Monsters
+43778078	0.5294950138504155	0.36831212121212126	{'monster_id': 'MONSTER_PUNI_05', 'monster': 'White Puni'}	Auruma	Monsters
+43778079	0.5341803324099723	0.3621222222222222	{'monster_id': 'MONSTER_PUNI_05', 'monster': 'White Puni'}	Auruma	Monsters
+43778059	0.5479777008310249	0.4339306397306397	{'monster_id': 'MONSTER_JELLYFISH_04', 'monster': 'Mud Cluster'}	Auruma	Monsters
+43778058	0.5420117728531856	0.43576599326599325	{'monster_id': 'MONSTER_JELLYFISH_04', 'monster': 'Mud Cluster'}	Auruma	Monsters
+43778094	0.5491722991689751	0.4138	{'monster_id': 'MONSTER_JELLYFISH_04', 'monster': 'Mud Cluster'}	Auruma	Monsters
+32505888	0.5204839335180056	0.43495824915824916	{'monster_id': 'MONSTER_PUNI_05', 'monster': 'White Puni'}	Auruma	Monsters
+32505887	0.521357756232687	0.4365309764309765	{'monster_id': 'MONSTER_PUNI_05', 'monster': 'White Puni'}	Auruma	Monsters
+32505889	0.520404432132964	0.43510875420875417	{'monster_id': 'MONSTER_PUNI_05', 'monster': 'White Puni'}	Auruma	Monsters
+32505890	0.5103378116343491	0.36515959595959596	{'monster_id': 'MONSTER_ROCKBEAST_03', 'monster': 'Lava Breaker'}	Auruma	Monsters
+32505891	0.5142929362880887	0.35447205387205394	{'monster_id': 'MONSTER_ROCKBEAST_03', 'monster': 'Lava Breaker'}	Auruma	Monsters
+32505892	0.5130709141274239	0.36701750841750846	{'monster_id': 'MONSTER_ROCKBEAST_03', 'monster': 'Lava Breaker'}	Auruma	Monsters
+32505893	0.5150073407202216	0.3639208754208754	{'monster_id': 'MONSTER_ROCKBEAST_03', 'monster': 'Lava Breaker'}	Auruma	Monsters
+32505894	0.5115349030470915	0.3592693602693603	{'monster_id': 'MONSTER_ROCKBEAST_03', 'monster': 'Lava Breaker'}	Auruma	Monsters
+32505946	0.5119801939058172	0.41590471380471383	{'monster_id': 'MONSTER_GIANT_03', 'monster': 'Warlord'}	Auruma	Monsters
+44302338	0.5545783933518005	0.3381592592592592	{'monster_id': 'MONSTER_HERMITCRAB_04', 'monster': 'Viridipagurus'}	Auruma	Monsters
+44302345	0.5539739612188366	0.3327942760942761	{'monster_id': 'MONSTER_HERMITCRAB_04', 'monster': 'Viridipagurus'}	Auruma	Monsters
+44302342	0.5529429362880887	0.20082929292929289	{'monster_id': 'MONSTER_JELLYFISH_02', 'monster': 'Violet Lotus'}	Auruma	Monsters
+44302340	0.5676040166204985	0.31125117845117845	{'monster_id': 'MONSTER_BIOME3_03', 'monster': 'Blood Vamp'}	Auruma	Monsters
+44302341	0.5434620498614958	0.2345084175084175	{'monster_id': 'MONSTER_ROCKBEAST_04', 'monster': 'Boulder Smasher'}	Auruma	Monsters
+44302344	0.5270472299168975	0.2671084175084176	{'monster_id': 'MONSTER_ROCKBEAST_04', 'monster': 'Boulder Smasher'}	Auruma	Monsters
+45088770	0.4940220221606649	0.2039750841750842	{'monster_id': 'MONSTER_ROCKBEAST_05', 'monster': 'Obsidian Claw'}	Sivash	Monsters
+45088793	0.48789916897506924	0.21850707070707073	{'monster_id': 'MONSTER_ROCKBEAST_05', 'monster': 'Obsidian Claw'}	Sivash	Monsters
+45088769	0.5035418282548476	0.21712861952861956	{'monster_id': 'MONSTER_ROCKBEAST_05', 'monster': 'Obsidian Claw'}	Sivash	Monsters
+45088768	0.5051002770083103	0.20456228956228956	{'monster_id': 'MONSTER_ROCKBEAST_05', 'monster': 'Obsidian Claw'}	Sivash	Monsters
+45088784	0.46011509695290853	0.1693774410774411	{'monster_id': 'MONSTER_ROCKBEAST_05', 'monster': 'Obsidian Claw'}	Sivash	Monsters
+45088798	0.4566896121883657	0.19390336700336697	{'monster_id': 'MONSTER_ROCKBEAST_05', 'monster': 'Obsidian Claw'}	Sivash	Monsters
+45088775	0.474706648199446	0.1459969696969697	{'monster_id': 'MONSTER_JELLYFISH_05', 'monster': 'Alpha Synapse'}	Sivash	Monsters
+45088789	0.4499519390581717	0.14175757575757575	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+45088794	0.4476732686980609	0.15432727272727276	{'monster_id': 'MONSTER_JELLYFISH_03', 'monster': 'Ogre Face'}	Sivash	Monsters
+45088790	0.4518365650969529	0.13402053872053873	{'monster_id': 'MONSTER_JELLYFISH_01', 'monster': 'Soaring Vine'}	Sivash	Monsters
+45088781	0.46845706371191137	0.178562962962963	{'monster_id': 'MONSTER_JELLYFISH_05', 'monster': 'Alpha Synapse'}	Sivash	Monsters
+45088791	0.46419695290858726	0.12781515151515155	{'monster_id': 'MONSTER_JELLYFISH_03', 'monster': 'Ogre Face'}	Sivash	Monsters
+45088779	0.4529587257617729	0.22075084175084175	{'monster_id': 'MONSTER_HERMITCRAB_05', 'monster': 'Malicious Quartz'}	Sivash	Monsters
+45088780	0.45233822714681443	0.2095895622895623	{'monster_id': 'MONSTER_HERMITCRAB_05', 'monster': 'Malicious Quartz'}	Sivash	Monsters
+45088786	0.46753407202216063	0.15694983164983167	{'monster_id': 'MONSTER_HERMITCRAB_05', 'monster': 'Malicious Quartz'}	Sivash	Monsters
+45088772	0.4979468144044321	0.18793097643097642	{'monster_id': 'MONSTER_HERMITCRAB_05', 'monster': 'Malicious Quartz'}	Sivash	Monsters
+45088771	0.49888227146814407	0.20103602693602698	{'monster_id': 'MONSTER_HERMITCRAB_05', 'monster': 'Malicious Quartz'}	Sivash	Monsters
+45088796	0.4722447368421053	0.24556498316498312	{'monster_id': 'MONSTER_HERMITCRAB_05', 'monster': 'Malicious Quartz'}	Sivash	Monsters
+45088792	0.4793375346260388	0.2049552188552189	{'monster_id': 'MONSTER_HERMITCRAB_05', 'monster': 'Malicious Quartz'}	Sivash	Monsters
+45088801	0.46422423822714687	0.231996632996633	{'monster_id': 'MONSTER_HERMITCRAB_03', 'monster': 'Vermillion Shell'}	Sivash	Monsters
