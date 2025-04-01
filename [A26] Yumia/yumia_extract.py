@@ -1041,17 +1041,16 @@ def map():
     685462064 enemy habitat stuff, would need to manual label
     2366441374 crack rock
     # wtf is this
-        3113086705: 'Etc 1',
-        3944769136: 'Etc 2',
-        1095892315: 'Etc 3',
-        2275777035: 'Etc 4',
-        685462064: 'NPCs?', ## ???
+    3113086705: 'Etc 1',
+    3944769136: 'Etc 2',
+    1095892315: 'Etc 3',
+    2275777035: 'Etc 4',
+    685462064: 'NPCs?', ## ???
 
-        4069313403: 'Button',
-        1184117056: 'Fast Travel',
-        2725809807: 'NPCs',
-        NPCs I don't care about
-        2217846010
+    4069313403: 'Button',
+    1184117056: 'Fast Travel',
+    2725809807: 'NPCs',
+    2217846010 'npcs
     """
 
     types = {
@@ -1108,7 +1107,7 @@ def map():
                 if item['type'] == 2725809807:
                     count += 1
                     pos = item['pos'].split(',')
-                    #zplt.plot(float(pos[0]), float(pos[2]), point)
+                    #plt.plot(float(pos[0]), float(pos[2]), point)
                     plt.plot((float(pos[0])-90000)/722000*8704, (float(pos[2])-90000)/297000*3584, point)
 
     plt.imshow(im)
