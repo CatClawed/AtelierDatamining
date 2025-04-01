@@ -1,7 +1,8 @@
 import json, csv, os
-from matplotlib import image
-from matplotlib import pyplot as plt
+#from matplotlib import image
+#from matplotlib import pyplot as plt
 
+#im = image.imread('combined.webp')
 languages = ['eng', 'jpn', 'chs', 'cht', 'deu', 'fra', 'kor', 'rus', 'spa']
 localize = {}
 fixed_data = 'Data/pak/master/cmn/fixed_data/'
@@ -67,7 +68,7 @@ def other_text():
     dic = {}
     finalized['neat_localization_strings'] = dic
     tags = [
-        'STR_MIX_RECALL_REWARD_000',
+        'STR_MIX_RECALL_REWARD_000', # recipe strings
         'STR_MIX_RECALL_REWARD_001',
         'STR_MIX_RECALL_REWARD_002',
         'STR_MIX_RECALL_REWARD_003',
@@ -79,6 +80,24 @@ def other_text():
         'STR_MIX_RECALL_REWARD_009',
         'STR_MIX_RECALL_REWARD_010',
         'STR_MIX_RECALL_REWARD_011',
+        'STR_LIBRARY_GLOSSARY_TITLE_039', # treasure trove
+        'STR_LIBRARY_GLOSSARY_TITLE_040', # mana geyser
+        'STR_LIBRARY_GLOSSARY_TITLE_041', # particles
+        'STR_LIBRARY_GLOSSARY_TITLE_042', # memory vial
+        'STR_LIBRARY_DEFINE_000', # items
+        'STR_LIBRARY_DEFINE_001', # monsters
+        'STR_BATTLE_DEFINE_053', # hp, atk, def, spd
+        'STR_BATTLE_DEFINE_055',
+        'STR_BATTLE_DEFINE_056',
+        'STR_BATTLE_DEFINE_057',
+        'STR_OPTION_DEFINE_208', # Atelier Yumia
+        'STR_ITEM_DEFINE_100', #item
+        'STR_ITEM_DEFINE_101', #category
+        'STR_ITEM_DEFINE_102', #effects
+        'STR_ITEM_DEFINE_106', # traits
+        'STR_ITEM_DEFINE_131', # quality
+        'STR_ITEM_DEFINE_132', # effect (idk plural vs not)
+        'STR_HOUSING_DEFINE_041', # comfort level bonus
     ]
     for tag in tags:
         d = localize[tag].copy()
@@ -761,10 +780,197 @@ def gather_nodes():
             if 'group0' in item:
                 hold['gather'][item['place_id']] = hold['common_item_group'][item['group0']]
 
+def quests():
+    ## Rich? Pioneering? Quest Data
+    dic = {}
+    finalized['quest'] = dic
+    with open(fixed_data+'quest_rich/exploration_reward.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['quest_rich_exploration_reward']:
+            d = {}
+            if item['reward_type'] == 2:
+                d['id'] = item['id']
+                d['reward'] = {"reward": finalized['item_craft_recipe'][item['reward_hash']]['item_tag']}
+                if 'FOREST' in item['id']:
+                    d['quest_name'] = localize['STR_FIELDMAP_INFO_REGION_000'].copy()
+                elif 'ROTTEN' in item['id']:
+                    d['quest_name'] = localize['STR_FIELDMAP_INFO_REGION_001'].copy()
+                elif 'METAL' in item['id']:
+                    d['quest_name'] = localize['STR_FIELDMAP_INFO_REGION_002'].copy()
+                elif 'KINGDOM' in item['id']:
+                    d['quest_name'] = localize['STR_FIELDMAP_INFO_REGION_003'].copy()
+                d['extra'] = localize['STR_QUEST_RICH_MEMO_003']
+                dic[item['id']] = d
+
+    ## Normal Quest Data
+    dic = {}
+    hold['normal_quest_reward'] = dic
+    with open(fixed_data+'quest_normal/normal_quest_reward.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['quest_normal_normal_quest_reward']:
+            d = {}
+            reward = str(item['reward_hash']) # numbers happen...
+            if 'CRAFT_RECIPE_' in reward:
+                d['reward'] = finalized['item_craft_recipe'][reward]['item_tag']
+                dic[item['normal_quest_reward_id']] = d
+
+    dic = finalized['quest']
+    with open(fixed_data+'quest_normal/normal_quest_base.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['quest_normal_normal_quest_base']:
+            d = {}
+            try:
+                d['id'] = item['normal_quest_id']
+                d['quest_name'] = localize[item['quest_name']]
+                d['reward'] = hold['normal_quest_reward'][item['quest_prize'][0]]
+                dic[item['normal_quest_id']] = d
+            except:
+                pass
+
+    ## Main Quest Data
+    dic = {}
+    hold['main_quest_reward'] = dic
+    with open(fixed_data+'quest_main/main_quest_reward.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['quest_main_main_quest_reward']:
+            d = {}
+            reward = str(item['reward_hash']) # numbers happen...
+            if 'CRAFT_RECIPE_' in reward:
+                d['reward'] = finalized['item_craft_recipe'][reward]['item_tag']
+                dic[item['main_quest_reward_id']] = d
+
+    dic = finalized['quest']
+    with open(fixed_data+'quest_main/main_quest_base.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['quest_main_main_quest_base']:
+            d = {}
+            try:
+                d['id'] = item['main_quest_id']
+                d['quest_name'] = localize[item['quest_name']]
+                d['reward'] = hold['main_quest_reward'][item['quest_prize'][0]]
+                d['extra'] = localize['STR_OVERALL_MAP_041']
+                dic[item['main_quest_id']] = d
+            except:
+                pass
+
+    ## Character Quest Data
+    dic = {}
+    hold['character'] = dic
+    with open(fixed_data+'character/character.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['character_character']:
+            d = {}
+            try:
+                d = localize[item['character_name']]
+                dic[item['character_id']] = d
+            except:
+                pass
+
+    dic = {}
+    hold['character_quest_reward'] = dic
+    with open(fixed_data+'quest_character/character_quest_reward.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['quest_character_character_quest_reward']:
+            d = {}
+            copy_keys(d, item, ['reward_hash'])
+            dic[item['character_quest_reward_id']] = d
+
+    dic = finalized['quest']
+    with open(fixed_data+'quest_character/character_quest_base.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['quest_character_character_quest_base']:
+            d = {}
+            d['id'] = item['character_quest_id']
+            d['extra'] = hold['character'][item['target_character']]
+            prize = []
+            d['reward'] = prize
+            d['quest_name'] = localize[item['quest_name']]
+            for p in item['quest_prize']:
+                if p:
+                    d['reward'].append(hold['character_quest_reward'][p])
+            if len(d['reward']) > 0:
+                dic[item['character_quest_id']]=d
+
 # theoretically normalized, it was guesswork
 def get_position(pos):
     pos = pos.split(',')
     return (float(pos[0])-90000)/722000, (float(pos[2])-90000)/297000
+
+def shop():
+    dic = {}
+    hold['shop_item'] = dic
+    with open(fixed_data+'shop/shop_item.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['shop_shop_item']:
+            if 'item_id' in item:
+                d = {}
+                if item['item_id'] != 'ITEM_KEY_33' and 'trait' not in item:
+                    d['item_id'] = item['item_id']
+                if 'trait' in item:
+                    d['potential_0'] = item['trait']
+                if item['item_craft_recipe'][0]:
+                    ls = []
+                    for thing in item['item_craft_recipe']:
+                        if thing:
+                            ls.append(finalized['item_craft_recipe'][thing]['item_tag'])
+                    d['craft_recipe'] = ls
+                dic[item['shop_item_id']] = d
+
+    dic = {}
+    hold['shop_item_list'] = dic
+    with open(fixed_data+'shop/shop_item_list.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['shop_shop_item_list']:
+            try:
+                d = dic[item['shop_id']]
+            except:
+                d = []
+                dic[item['shop_id']] = d
+            try:
+                d.append(hold['shop_item'][item['shop_item_id']])
+            except:
+                pass
+
+    dic = {}
+    hold['shop'] = dic
+    with open(fixed_data+'shop/shop.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['shop_shop']:
+            try:
+                dic[item['people']] = hold['shop_item_list'][item['shop_id']]
+            except:
+                pass
+
+    dic = {}
+    hold['npc_base_data_normal'] = dic
+    with open(fixed_data+'field_map_npc/npc_base_data_normal.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['field_map_npc_npc_base_data_normal']:
+            if 'call_menu0' in item and item['call_menu0'] == 'FIELD_MAP_NPC_CALL_MENU_SHOP':
+                try: # no shop 17 lol
+                    dic[item['marker']] = hold['shop'][item['people']]
+                except:
+                    pass
+
+    dic = {}
+    finalized['shop_data'] = dic
+    index = -1
+    with open(fixed_data+'field_map_npc/npc_marker_normal.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['field_map_npc_npc_marker_normal']:
+            try:
+                pos = item['marker_pos']
+                d = {}
+                # jank but gets the job done
+                # markers are the normal coords / 100 so...
+                d['id'] = index
+                d['x'], d['z'] = get_position(f'{pos[0]*100},{pos[1]*100},{pos[2]*100}')
+                d['note'] = 'Shop'
+                d['reward'] = hold['npc_base_data_normal'][item['field_map_npc_marker_id']]
+                dic[item['field_map_npc_marker_id']] = d
+                index = index -1
+            except:
+                pass
 
 def plot(x, z, point='o'):
     plt.plot(x*8704, z*3584, point, color="white", markeredgecolor="black", markersize=9)
@@ -777,7 +983,7 @@ def get_location(item, note, location, label):
     d['x'], d['z'] = get_position(item['pos'])
     app = None
 
-    if label == 'gather' or label == 'chests':
+    if label == 'gather' or label == 'chests' or label == 'fish':
         if 'elem' in item:
             for elem in item['elem']:
                 if 's_flag' in elem:
@@ -797,6 +1003,8 @@ def get_location(item, note, location, label):
         if item['param'][0]['v'] and item['param'][0]['v'] in hold['housing_area']:
             res = hold['housing_area'][item['param'][0]['v']].copy()
             d['reward'] = res
+            if res['comfort_goal'][0] < 100:
+                d['note'] = 'Campsite'
     try:
         finalized[label][item['ID']] = d
     except Exception as e:
@@ -804,7 +1012,7 @@ def get_location(item, note, location, label):
 
 def map():
     exclude = ['jimen', 'blend', 'test', 'file_info', 'event_', 'void',
-               'env_effect', 'menu', 'quest_', '_npc', 'seamless', 'destructive',
+               'env_effect', 'menu', 'quest_', 'animal_npc', 'seamless', 'destructive',
                'district', 'prologue', 'indoor_', '_mana_', 'dummy', 'border',
                'metal_gimmick_area06_gimmick']
 
@@ -823,13 +1031,14 @@ def map():
     finalized['monsters'] = {}
     finalized['vials'] = {}
     finalized['building'] = {}
+    finalized['fish'] = {}
 
     """
     1157243747 shrine
     1254731747 chest enemy
     1056368472 pressure plate
     1802197613 cube
-    685462064 another enemy?
+    685462064 enemy habitat stuff, would need to manual label
     2366441374 crack rock
     # wtf is this
         3113086705: 'Etc 1',
@@ -840,8 +1049,9 @@ def map():
 
         4069313403: 'Button',
         1184117056: 'Fast Travel',
-        771256160: 'Fishing',
         2725809807: 'NPCs',
+        NPCs I don't care about
+        2217846010
     """
 
     types = {
@@ -854,9 +1064,13 @@ def map():
         805069512: 'Gather (Staff)',
         441698374: 'Gather (Gun)',
         2029820134: 'Monster 2',
-        3340887031: 'Building Area'
+        3340887031: 'Building Area',
+        771256160: 'Fish',
+        2751997886: 'Well',
+        4182690301: 'Gather (Crate)',
+        1254731747: 'Monsters (2)'
     }
-    #im = image.imread('combined.webp')
+
     count = 0
     for map in maps:
         with open(map_data+map, encoding=enc) as f:
@@ -885,17 +1099,21 @@ def map():
                     case 441698374:  get_location(item, types[item['type']], location, "gather")
                     case 3376427666: get_location(item, types[item['type']], location, "vials")
                     case 685462064:  get_location(item, types[item['type']], location, "monsters")
+                    case 1254731747: get_location(item, types[item['type']], location, "monsters")
                     case 3340887031: get_location(item, types[item['type']], location, "building")
+                    case 771256160:  get_location(item, types[item['type']], location, "fish")
+                    case 2751997886: get_location(item, types[item['type']], location, "gather")
+                    case 4182690301: get_location(item, types[item['type']], location, "gather")
                 """ plotting
                 if item['type'] == 2725809807:
                     count += 1
                     pos = item['pos'].split(',')
                     #zplt.plot(float(pos[0]), float(pos[2]), point)
                     plt.plot((float(pos[0])-90000)/722000*8704, (float(pos[2])-90000)/297000*3584, point)
-                """
 
-    #plt.imshow(im)
-    #plt.show()
+    plt.imshow(im)
+    plt.show()
+    """
 
 
 """
@@ -979,6 +1197,9 @@ def export_csv():
         'building': [
             'id', 'x', 'z', 'reward', 'location', 'note',
         ],
+        'quest': [
+            'id', 'quest_name', 'extra', 'reward',
+        ],
     }
     for k, v in finalized.items():
         head = keys[k] if k in keys else v[list(v.keys())[0]].keys()
@@ -994,5 +1215,7 @@ other_text()
 item_data()
 monster()
 building()
+quests()
+shop()
 map()
 export_csv()
