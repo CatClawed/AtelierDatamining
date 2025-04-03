@@ -170,7 +170,7 @@ def trait():
                 except:
                     d['disp_flag'] = 0
             copy_keys(d, item, ['item_id', 'imageNo', 'min_rarity', 'max_level',
-                                'wep', 'arm', 'acc', 'atk', 'heal', 'supEne', 'subPar',
+                                'wep', 'arm', 'acc', 'atk', 'heal', 'supEne', 'supPar',
                                 'grade_min_value', 'grade_max_value',
                                 'lv_min_rand_range_min', 'lv_min_rand_range_max',
                                 'lv_max_rand_range_min', 'lv_max_rand_range_max',
@@ -1143,7 +1143,7 @@ def export_csv():
     keys = {
         'trait': [
             'item_id', 'text_eng','desc_eng','desc2_eng','text_jpn','desc_jpn','desc2_jpn','text_chs','desc_chs','desc2_chs','text_cht','desc_cht','desc2_cht','text_deu','desc_deu','desc2_deu','text_fra','desc_fra','desc2_fra','text_kor','desc_kor','desc2_kor','text_rus','desc_rus','desc2_rus','text_spa','desc_spa','desc2_spa', 'imageNo', 'min_rarity', 'max_level',
-            'wep', 'arm', 'acc', 'atk', 'heal', 'supEne', 'subPar',
+            'wep', 'arm', 'acc', 'atk', 'heal', 'supEne', 'supPar',
             'grade_min_value', 'grade_max_value',
             'lv_min_rand_range_min', 'lv_min_rand_range_max',
             'lv_max_rand_range_min', 'lv_max_rand_range_max',
