@@ -699,7 +699,7 @@ def building():
 
             dic[item['item_craft_recipe_id']] = d
 
-def gather_nodes():
+def scenario_recipe_data():
     dic = {}
     hold['item_craft_to_recipe_name'] = dic
     with open(fixed_data+'craft/item_craft_to_recipe_name.json', encoding=enc) as f:
@@ -719,10 +719,15 @@ def gather_nodes():
                 if 'pp_type' in item:
                     if item['pp_type'] == 'get_craft_recipe':
                         try:
-                            dic[int(item['trigger_param'])] = hold['item_craft_to_recipe_name'][item['pp_param']]
+                            if int(item['trigger_param']) in dic:
+                                dic[int(item['trigger_param'])].append(hold['item_craft_to_recipe_name'][item['pp_param']])
+                            else:
+                                dic[int(item['trigger_param'])] = [hold['item_craft_to_recipe_name'][item['pp_param']]]
                         except:
-                            dic[int(item['trigger_param'])] = {'item': "DUMMY LOL"}
+                            #print(item['trigger_param'], item['pp_param'])
+                            dic[int(item['trigger_param'])] = []
 
+def gather_nodes():
     dic = {}
     hold['gimmick_event'] = dic
     with open(fixed_data+'gimmick/gimmick_event.json', encoding=enc) as f:
@@ -780,6 +785,16 @@ def gather_nodes():
             if 'group0' in item:
                 hold['gather'][item['place_id']] = hold['common_item_group'][item['group0']]
 
+def exp_region(d, thing):
+    if 'FOREST' in thing:
+        d['quest_name'] = localize['STR_FIELDMAP_INFO_REGION_000'].copy()
+    elif 'ROTTEN' in thing:
+        d['quest_name'] = localize['STR_FIELDMAP_INFO_REGION_001'].copy()
+    elif 'METAL' in thing:
+        d['quest_name'] = localize['STR_FIELDMAP_INFO_REGION_002'].copy()
+    elif 'KINGDOM' in thing:
+        d['quest_name'] = localize['STR_FIELDMAP_INFO_REGION_003'].copy()
+
 def quests():
     ## Rich? Pioneering? Quest Data
     dic = {}
@@ -790,17 +805,23 @@ def quests():
             d = {}
             if item['reward_type'] == 2:
                 d['id'] = item['id']
-                d['reward'] = {"reward": finalized['item_craft_recipe'][item['reward_hash']]['item_tag']}
-                if 'FOREST' in item['id']:
-                    d['quest_name'] = localize['STR_FIELDMAP_INFO_REGION_000'].copy()
-                elif 'ROTTEN' in item['id']:
-                    d['quest_name'] = localize['STR_FIELDMAP_INFO_REGION_001'].copy()
-                elif 'METAL' in item['id']:
-                    d['quest_name'] = localize['STR_FIELDMAP_INFO_REGION_002'].copy()
-                elif 'KINGDOM' in item['id']:
-                    d['quest_name'] = localize['STR_FIELDMAP_INFO_REGION_003'].copy()
+                d['reward'] = {"reward": [finalized['item_craft_recipe'][item['reward_hash']]['item_tag']]}
+                exp_region(d, item['id'])
                 d['extra'] = localize['STR_QUEST_RICH_MEMO_003']
                 dic[item['id']] = d
+            if item['reward_type'] == 4:
+                try:
+                    ls = []
+                    for thing in hold['chapter_all'][item['reward_hash']]:
+                        if 'item_id' in thing:
+                            ls.append(thing['item_id'])
+                    d['id'] = item['id']
+                    d['reward'] = {"reward": ls}
+                    exp_region(d, item['id'])
+                    d['extra'] = localize['STR_QUEST_RICH_MEMO_003']
+                    dic[item['id']] = d
+                except:
+                    pass
 
     ## Normal Quest Data
     dic = {}
@@ -811,7 +832,7 @@ def quests():
             d = {}
             reward = str(item['reward_hash']) # numbers happen...
             if 'CRAFT_RECIPE_' in reward:
-                d['reward'] = finalized['item_craft_recipe'][reward]['item_tag']
+                d['reward'] = [finalized['item_craft_recipe'][reward]['item_tag']]
                 dic[item['normal_quest_reward_id']] = d
 
     dic = finalized['quest']
@@ -836,7 +857,7 @@ def quests():
             d = {}
             reward = str(item['reward_hash']) # numbers happen...
             if 'CRAFT_RECIPE_' in reward:
-                d['reward'] = finalized['item_craft_recipe'][reward]['item_tag']
+                d['reward'] = [finalized['item_craft_recipe'][reward]['item_tag']]
                 dic[item['main_quest_reward_id']] = d
 
     dic = finalized['quest']
@@ -993,7 +1014,7 @@ def get_location(item, note, location, label):
         if item['param'][0]['v'] and item['param'][0]['v'] in hold['gather']:
             res = hold['gather'][item['param'][0]['v']].copy()
             if app:
-                res.append(app)
+                res = res +app
             d['reward'] = res
     if label == 'monsters':
         if item['param'][0]['v'] and item['param'][0]['v'] in hold['symbol_group']:
@@ -1067,7 +1088,8 @@ def map():
         771256160: 'Fish',
         2751997886: 'Well',
         4182690301: 'Gather (Crate)',
-        1254731747: 'Monsters (2)'
+        1254731747: 'Monsters (2)',
+        3903427355: 'Gather (Scan)'
     }
 
     count = 0
@@ -1103,6 +1125,7 @@ def map():
                     case 771256160:  get_location(item, types[item['type']], location, "fish")
                     case 2751997886: get_location(item, types[item['type']], location, "gather")
                     case 4182690301: get_location(item, types[item['type']], location, "gather")
+                    case 3903427355: get_location(item, types[item['type']], location, "gather")
                 """ plotting
                 if item['type'] == 2725809807:
                     count += 1
@@ -1214,6 +1237,7 @@ other_text()
 item_data()
 monster()
 building()
+scenario_recipe_data()
 quests()
 shop()
 map()
