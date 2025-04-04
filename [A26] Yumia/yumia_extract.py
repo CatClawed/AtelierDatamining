@@ -1222,6 +1222,9 @@ def export_csv():
         'quest': [
             'id', 'quest_name', 'extra', 'reward',
         ],
+        'event_choice_list': [
+            'choice_list_id', 'choice_data', 'is_karma_min_limit_change'
+        ],
     }
     for k, v in finalized.items():
         head = keys[k] if k in keys else v[list(v.keys())[0]].keys()
@@ -1230,6 +1233,56 @@ def export_csv():
             writer.writeheader()
             for v2 in v.values():
                   writer.writerow(v2)
+
+def karma():
+    with open('output/choices.json', encoding=enc) as f:
+        hold['choices'] = json.load(f)
+    dic = {}
+    hold['event_choice_detail'] = dic
+    with open(fixed_data+'event_choice/event_choice_detail.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['event_choice_event_choice_detail']:
+            if 'text_tag' in item:
+                try:
+                    d = {}
+                    copy_keys(d, item, ['karma_change'])
+                    d['choice'] = hold['choices'][item['text_tag']]['line']
+                    dic[item['selection_detail_id']] = d
+                except:
+                    #print(item['selection_detail_id']) # the north or east decision
+                    pass
+
+    dic = {}
+    finalized['event_choice_list'] = dic
+    with open(fixed_data+'event_choice/event_choice_list.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['event_choice_event_choice_list']:
+            try:
+                d = {}
+                copy_keys(d, item, ['choice_list_id', 'is_karma_min_limit_change'])
+                ls = []
+                d['choice_data'] = ls
+                for choice in item['choice_ids']:
+                    if choice:
+                        ls.append(hold['event_choice_detail'][choice])
+                dic[item['choice_list_id']] = d
+            except:
+                pass
+
+    dic = {}
+    finalized['mix_skill'] = dic
+    with open(fixed_data+'mix/mix_skill.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['mix_mix_skill']:
+            d = {}
+            copy_keys(d, item, ['mix_skill_id', 'karma'])
+            if 'skill_name' in item:
+                d['name'] = localize[item['skill_name']]
+                d['desc'] = localize[item['skill_detail']]
+                dic[item['mix_skill_id']] = d
+
+
+
 
 
 get_localization()
@@ -1241,4 +1294,5 @@ scenario_recipe_data()
 quests()
 shop()
 map()
+karma()
 export_csv()

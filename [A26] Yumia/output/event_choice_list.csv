@@ -1,0 +1,72 @@
+choice_list_id	choice_data	is_karma_min_limit_change
+MM01_010_1_TWO	"[{'choice': ""It's nice to meet you.""}, {'choice': ""I'm pleased to make your acquaintance.""}]"	
+MM01_060_1_TWO	[{'choice': 'We should take the initiative here.'}, {'choice': 'We should get our forces back in shape.'}]	
+MM01_170_1_TWO	[{'choice': 'Thank you.'}, {'choice': 'This is my duty, after all.'}]	
+MM02_010_1_TWO	"[{'choice': 'He was by himself?'}, {'choice': ""So we've been beaten to the chase, then?""}]"	
+MM02_050_1_TWO	[{'choice': 'Is this all right?'}, {'choice': 'If those are your orders.'}]	
+MM02_080_1_TWO	"[{'choice': ""You're suddenly acting serious.""}, {'choice': 'As expected of a seasoned adventurer.'}]"	
+MM02_090_1_TWO	[{'choice': 'Well, something like that.'}, {'choice': 'Of course not.'}]	
+MM02_160_1_TWO	"[{'choice': ""It's not out of the question.""}, {'choice': 'I hope not.'}]"	
+MM03_044_1_TWO	[{'karma_change': -10, 'choice': 'I want to be on friendly terms.'}, {'karma_change': 10, 'choice': 'I want to be resolute.'}]	True
+MM03_102_1_TWO	"[{'choice': ""I feel like it's the right thing to do.""}, {'choice': ""That's how my mom raised me.""}]"	True
+MM04_043_1_TWO	"[{'karma_change': -30, 'choice': ""We can't avoid fighting.""}, {'karma_change': 30, 'choice': ""I'd like to find a peaceful way.""}]"	True
+MM04_140_1_TWO	[{'karma_change': -30, 'choice': 'Your heart remains human.'}, {'karma_change': 30, 'choice': '...'}]	True
+MM05_020_1_TWO	"[{'choice': ""Let's join them.""}, {'choice': ""As much as I'd like to go ...""}]"	
+MM05_084_1_THREE	"[{'choice': ""Let's climb the huge tree.""}, {'choice': ""Let's stake out the Blessed Land.""}, {'choice': ""Let's shout Corleonis's name.""}]"	
+MM05_090_1_TWO	"[{'choice': ""I'll figure something out!""}, {'choice': 'I can probably fix it ...'}]"	
+MM05_260_1_TWO	"[{'karma_change': -20, 'choice': ""Some things you can't talk about.""}, {'karma_change': 20, 'choice': 'I wish you had told us.'}]"	True
+MM05_330_1_TWO	"[{'karma_change': -10, 'choice': 'We need to figure out his true intentions.'}, {'karma_change': 10, 'choice': ""We can't leave him to his own devices.""}]"	True
+MM06_020_1_TWO	"[{'choice': ""You're overreacting.""}, {'choice': ""Let's go see her.""}]"	
+MM06_070_1_TWO	"[{'karma_change': -50, 'choice': 'I want to use alchemy in a way that feels right.'}, {'karma_change': 50, 'choice': ""We can't allow the same mistakes to be repeated.""}]"	True
+MM06_141_1_TWO	"[{'choice': ""You don't blame us?""}, {'choice': 'Your future?'}]"	
+MM07_010_1_TWO	"[{'choice': ""That shouldn't be the case ...""}, {'choice': ""If that's true, then ...""}]"	
+MM07_380_1_TWO	"[{'karma_change': -20, 'choice': 'It sounds like Aladiss was falling apart.'}, {'karma_change': 20, 'choice': ""I'm glad Doctor Marina wasn't arrested.""}]"	True
+MM07_410_1_TWO	"[{'karma_change': -10, 'choice': ""We don't know his motive, but ...""}, {'karma_change': 10, 'choice': 'We should carry forward his resolve.'}]"	True
+MM07_420_1_FOUR	[{'choice': 'The statue holding a sword.'}, {'choice': 'The statue holding a shield.'}, {'choice': 'The statue holding a staff.'}, {'choice': 'The statue holding scales.'}]	
+MM08_170_1_TWO	"[{'choice': ""Let's go.""}, {'choice': ""Let's prepare first.""}]"	
+CM01_010_1_TWO	"[{'choice': ""I'm not very confident in that ...""}, {'choice': ""Sure you won't fall for me?""}]"	
+CM01_050_1_TWO	"[{'choice': 'Well, I figured you definitely would be.'}, {'choice': ""I've been thinking about the whole thing too.""}]"	
+CM01_070_1_TWO	"[{'choice': 'Then, what do you write about, Viktor?'}, {'choice': ""I'd rather keep my memories to myself.""}]"	
+CM01_090_1_TWO	[{'choice': 'Why were you doing it yourself before?'}, {'choice': 'You could ask me too, you know.'}]	
+CM01_100_1_TWO	"[{'choice': 'Viktor, stop terrifying the poor girl.'}, {'choice': ""Aw, someone's feeling shy.""}]"	
+CM01_120_1_TWO	"[{'choice': 'Because the monsters got stronger?'}, {'choice': ""Because everyone's feeling worn out?""}]"	
+CM02_010_1_TWO	"[{'choice': ""Isla's right.""}, {'choice': ""I don't think so.""}]"	
+CM02_050_1_TWO	[{'choice': 'If you say so ...'}, {'choice': 'Are you sure?'}]	
+CM03_010_1_TWO	[{'choice': 'Can I come with you?'}, {'choice': 'Where are you going?'}]	
+CM03_030_1_TWO	[{'choice': 'How do you feel about it all now?'}, {'choice': 'You took it all upon yourself.'}]	
+CM03_050_1_TWO	"[{'choice': 'Thank you for telling me.'}, {'choice': ""I didn't think you'd share so much.""}]"	
+CM03_110_1_TWO	"[{'choice': ""That's right!""}, {'choice': ""Come on, don't say that.""}]"	
+CM04_010_1_TWO	"[{'choice': ""You wouldn't mind?""}, {'choice': ""I'd love to!""}]"	
+CM04_030_1_TWO	[{'choice': 'Should I make you some more?'}, {'choice': 'What kind of bullets?'}]	
+CM04_050_1_TWO	"[{'choice': '""It\'s the same as always""?'}, {'choice': ""I'm not always forgetting things!""}]"	
+CM04_060_1_TWO	"[{'choice': ""You shouldn't force yourself.""}, {'choice': ""I'll be by your side.""}]"	
+CM04_100_1_TWO	[{'choice': 'Can I feel too?'}, {'choice': 'Give her a break ...'}]	
+CM04_150_1_TWO	"[{'choice': 'Take a look.'}, {'choice': ""Let's talk about something else.""}]"	
+CM04_160_1_TWO	"[{'choice': 'Maybe he wanted it back anyway.'}, {'choice': ""There's no point to all of this.""}]"	
+CM05_020_1_TWO	"[{'choice': ""You didn't cause trouble.""}, {'choice': ""You're always a big help!""}]"	
+CM05_040_1_TWO	[{'choice': 'Are you not feeling well?'}, {'choice': 'Are you hungry?'}]	
+CM05_080_1_TWO	"[{'choice': 'Do you always bring them?'}, {'choice': ""What if you don't have any?""}]"	
+CM05_160_1_TWO	"[{'choice': ""I'll miss you.""}, {'choice': ""Let's make more memories.""}]"	
+RM01_020_1_TWO	"[{'choice': ""Let's help investigate.""}, {'choice': ""Let's ask the chief for instructions.""}]"	
+RM01_220_1_THREE	"[{'choice': ""Let's look elsewhere.""}, {'choice': ""Let's ask the Alber.""}, {'choice': ""Let's ask Wilma for advice.""}]"	
+RM01_330_1_THREE	[{'choice': 'Set up an Energy Generator.'}, {'choice': 'Find a facility with high consumption.'}, {'choice': 'Check the path of the mana flow.'}]	
+RM02_190_1_THREE	"[{'choice': ""Let's talk to the knowledgeable Alber.""}, {'choice': ""Let's find the Alber with the old book.""}, {'choice': ""Let's ask the curious Alber.""}]"	
+RM02_300_1_THREE	"[{'choice': '""Harvest"" means reforesting the wastelands.'}, {'choice': 'It was a plan to fight starvation.'}, {'choice': 'It was promoting a wise nation.'}]"	
+RM03_080_1_THREE	"[{'choice': 'What if we get rid of monsters?'}, {'choice': 'Is there anything you want?'}, {'choice': ""I'll make you something.""}]"	
+RM03_230_1_THREE	"[{'choice': ""Let's reuse the tracking device.""}, {'choice': ""Let's search any suspicious spots.""}, {'choice': ""Let's ask the other team members to help.""}]"	
+RM04_120_1_TWO	"[{'choice': ""Let's search the imperial graveyard.""}, {'choice': ""Let's search the commercial district.""}]"	
+RM04_210_1_THREE	"[{'choice': ""We'll look for that item you need.""}, {'choice': ""I'll make you a strong weapon.""}, {'choice': ""I'll make you a simple base.""}]"	
+MM07_420_1_THREE_A_B_C	[{'choice': 'The statue holding a sword.'}, {'choice': 'The statue holding a shield.'}, {'choice': 'The statue holding a staff.'}]	
+MM07_420_1_THREE_A_B_D	[{'choice': 'The statue holding a sword.'}, {'choice': 'The statue holding a shield.'}, {'choice': 'The statue holding scales.'}]	
+MM07_420_1_THREE_A_C_D	[{'choice': 'The statue holding a sword.'}, {'choice': 'The statue holding a staff.'}, {'choice': 'The statue holding scales.'}]	
+MM07_420_1_THREE_B_C_D	[{'choice': 'The statue holding a shield.'}, {'choice': 'The statue holding a staff.'}, {'choice': 'The statue holding scales.'}]	
+MM07_420_1_TWO_A_B	[{'choice': 'The statue holding a sword.'}, {'choice': 'The statue holding a shield.'}]	
+MM07_420_1_TWO_A_C	[{'choice': 'The statue holding a sword.'}, {'choice': 'The statue holding a staff.'}]	
+MM07_420_1_TWO_A_D	[{'choice': 'The statue holding a sword.'}, {'choice': 'The statue holding scales.'}]	
+MM07_420_1_TWO_B_C	[{'choice': 'The statue holding a shield.'}, {'choice': 'The statue holding a staff.'}]	
+MM07_420_1_TWO_B_D	[{'choice': 'The statue holding a shield.'}, {'choice': 'The statue holding scales.'}]	
+MM07_420_1_TWO_C_D	[{'choice': 'The statue holding a staff.'}, {'choice': 'The statue holding scales.'}]	
+MM07_420_1_ONE_A	[{'choice': 'The statue holding a sword.'}]	
+MM07_420_1_ONE_B	[{'choice': 'The statue holding a shield.'}]	
+MM07_420_1_ONE_C	[{'choice': 'The statue holding a staff.'}]	
+MM07_420_1_ONE_D	[{'choice': 'The statue holding scales.'}]	

@@ -1,0 +1,498 @@
+{
+    "SEL_CM01_010_1_A": {
+        "file": "event_message_cm01_010.ebm",
+        "line": "I'm not very confident in that ..."
+    },
+    "SEL_CM01_010_1_B": {
+        "file": "event_message_cm01_010.ebm",
+        "line": "Sure you won't fall for me?"
+    },
+    "SEL_CM01_050_1_A": {
+        "file": "event_message_cm01_050.ebm",
+        "line": "Well, I figured you definitely would be."
+    },
+    "SEL_CM01_050_1_B": {
+        "file": "event_message_cm01_050.ebm",
+        "line": "I've been thinking about the whole thing too."
+    },
+    "SEL_CM01_070_1_A": {
+        "file": "event_message_cm01_070.ebm",
+        "line": "Then, what do you write about, Viktor?"
+    },
+    "SEL_CM01_070_1_B": {
+        "file": "event_message_cm01_070.ebm",
+        "line": "I'd rather keep my memories to myself."
+    },
+    "SEL_CM01_090_1_A": {
+        "file": "event_message_cm01_090.ebm",
+        "line": "Why were you doing it yourself before?"
+    },
+    "SEL_CM01_090_1_B": {
+        "file": "event_message_cm01_090.ebm",
+        "line": "You could ask me too, you know."
+    },
+    "SEL_CM01_100_1_A": {
+        "file": "event_message_cm01_100.ebm",
+        "line": "Viktor, stop terrifying the poor girl."
+    },
+    "SEL_CM01_100_1_B": {
+        "file": "event_message_cm01_100.ebm",
+        "line": "Aw, someone's feeling shy."
+    },
+    "SEL_CM01_120_1_A": {
+        "file": "event_message_cm01_120.ebm",
+        "line": "Because the monsters got stronger?"
+    },
+    "SEL_CM01_120_1_B": {
+        "file": "event_message_cm01_120.ebm",
+        "line": "Because everyone's feeling worn out?"
+    },
+    "SEL_CM02_010_1_A": {
+        "file": "event_message_cm02_010.ebm",
+        "line": "Isla's right."
+    },
+    "SEL_CM02_010_1_B": {
+        "file": "event_message_cm02_010.ebm",
+        "line": "I don't think so."
+    },
+    "SEL_CM02_050_1_A": {
+        "file": "event_message_cm02_050.ebm",
+        "line": "If you say so ..."
+    },
+    "SEL_CM02_050_1_B": {
+        "file": "event_message_cm02_050.ebm",
+        "line": "Are you sure?"
+    },
+    "SEL_CM03_010_1_A": {
+        "file": "event_message_cm03_010.ebm",
+        "line": "Can I come with you?"
+    },
+    "SEL_CM03_010_1_B": {
+        "file": "event_message_cm03_010.ebm",
+        "line": "Where are you going?"
+    },
+    "SEL_CM03_030_1_A": {
+        "file": "event_message_cm03_030.ebm",
+        "line": "How do you feel about it all now?"
+    },
+    "SEL_CM03_030_1_B": {
+        "file": "event_message_cm03_030.ebm",
+        "line": "You took it all upon yourself."
+    },
+    "SEL_CM03_050_1_A": {
+        "file": "event_message_cm03_050.ebm",
+        "line": "Thank you for telling me."
+    },
+    "SEL_CM03_050_1_B": {
+        "file": "event_message_cm03_050.ebm",
+        "line": "I didn't think you'd share so much."
+    },
+    "SEL_CM03_110_1_A": {
+        "file": "event_message_cm03_110.ebm",
+        "line": "That's right!"
+    },
+    "SEL_CM03_110_1_B": {
+        "file": "event_message_cm03_110.ebm",
+        "line": "Come on, don't say that."
+    },
+    "SEL_CM04_010_1_A": {
+        "file": "event_message_cm04_010.ebm",
+        "line": "You wouldn't mind?"
+    },
+    "SEL_CM04_010_1_B": {
+        "file": "event_message_cm04_010.ebm",
+        "line": "I'd love to!"
+    },
+    "SEL_CM04_030_1_A": {
+        "file": "event_message_cm04_030.ebm",
+        "line": "Should I make you some more?"
+    },
+    "SEL_CM04_030_1_B": {
+        "file": "event_message_cm04_030.ebm",
+        "line": "What kind of bullets?"
+    },
+    "SEL_CM04_050_1_A": {
+        "file": "event_message_cm04_050.ebm",
+        "line": "\"It's the same as always\"?"
+    },
+    "SEL_CM04_050_1_B": {
+        "file": "event_message_cm04_050.ebm",
+        "line": "I'm not always forgetting things!"
+    },
+    "SEL_CM04_060_1_A": {
+        "file": "event_message_cm04_060.ebm",
+        "line": "You shouldn't force yourself."
+    },
+    "SEL_CM04_060_1_B": {
+        "file": "event_message_cm04_060.ebm",
+        "line": "I'll be by your side."
+    },
+    "SEL_CM04_100_1_A": {
+        "file": "event_message_cm04_100.ebm",
+        "line": "Can I feel too?"
+    },
+    "SEL_CM04_100_1_B": {
+        "file": "event_message_cm04_100.ebm",
+        "line": "Give her a break ..."
+    },
+    "SEL_CM04_150_1_A": {
+        "file": "event_message_cm04_150.ebm",
+        "line": "Take a look."
+    },
+    "SEL_CM04_150_1_B": {
+        "file": "event_message_cm04_150.ebm",
+        "line": "Let's talk about something else."
+    },
+    "SEL_CM04_160_1_A": {
+        "file": "event_message_cm04_160.ebm",
+        "line": "Maybe he wanted it back anyway."
+    },
+    "SEL_CM04_160_1_B": {
+        "file": "event_message_cm04_160.ebm",
+        "line": "There's no point to all of this."
+    },
+    "SEL_CM05_020_1_A": {
+        "file": "event_message_cm05_020.ebm",
+        "line": "You didn't cause trouble."
+    },
+    "SEL_CM05_020_1_B": {
+        "file": "event_message_cm05_020.ebm",
+        "line": "You're always a big help!"
+    },
+    "SEL_CM05_040_1_A": {
+        "file": "event_message_cm05_040.ebm",
+        "line": "Are you not feeling well?"
+    },
+    "SEL_CM05_040_1_B": {
+        "file": "event_message_cm05_040.ebm",
+        "line": "Are you hungry?"
+    },
+    "SEL_CM05_080_1_A": {
+        "file": "event_message_cm05_080.ebm",
+        "line": "Do you always bring them?"
+    },
+    "SEL_CM05_080_1_B": {
+        "file": "event_message_cm05_080.ebm",
+        "line": "What if you don't have any?"
+    },
+    "SEL_CM05_160_1_A": {
+        "file": "event_message_cm05_160.ebm",
+        "line": "I'll miss you."
+    },
+    "SEL_CM05_160_1_B": {
+        "file": "event_message_cm05_160.ebm",
+        "line": "Let's make more memories."
+    },
+    "SEL_MM01_010_1_A": {
+        "file": "event_message_mm01_010.ebm",
+        "line": "It's nice to meet you."
+    },
+    "SEL_MM01_010_1_B": {
+        "file": "event_message_mm01_010.ebm",
+        "line": "I'm pleased to make your acquaintance."
+    },
+    "SEL_MM02_080_1_A": {
+        "file": "event_message_mm02_080.ebm",
+        "line": "You're suddenly acting serious."
+    },
+    "SEL_MM02_080_1_B": {
+        "file": "event_message_mm02_080.ebm",
+        "line": "As expected of a seasoned adventurer."
+    },
+    "SEL_MM01_060_1_A": {
+        "file": "event_message_mm01_060.ebm",
+        "line": "We should take the initiative here."
+    },
+    "SEL_MM01_060_1_B": {
+        "file": "event_message_mm01_060.ebm",
+        "line": "We should get our forces back in shape."
+    },
+    "SEL_MM01_170_1_A": {
+        "file": "event_message_mm01_170.ebm",
+        "line": "Thank you."
+    },
+    "SEL_MM01_170_1_B": {
+        "file": "event_message_mm01_170.ebm",
+        "line": "This is my duty, after all."
+    },
+    "SEL_MM02_010_1_A": {
+        "file": "event_message_mm02_010.ebm",
+        "line": "He was by himself?"
+    },
+    "SEL_MM02_010_1_B": {
+        "file": "event_message_mm02_010.ebm",
+        "line": "So we've been beaten to the chase, then?"
+    },
+    "SEL_MM02_050_1_A": {
+        "file": "event_message_mm02_050.ebm",
+        "line": "Is this all right?"
+    },
+    "SEL_MM02_050_1_B": {
+        "file": "event_message_mm02_050.ebm",
+        "line": "If those are your orders."
+    },
+    "SEL_MM02_090_1_A": {
+        "file": "event_message_mm02_090.ebm",
+        "line": "Well, something like that."
+    },
+    "SEL_MM02_090_1_B": {
+        "file": "event_message_mm02_090.ebm",
+        "line": "Of course not."
+    },
+    "SEL_MM02_160_1_A": {
+        "file": "event_message_mm02_160.ebm",
+        "line": "It's not out of the question."
+    },
+    "SEL_MM02_160_1_B": {
+        "file": "event_message_mm02_160.ebm",
+        "line": "I hope not."
+    },
+    "SEL_MM03_044_1_A": {
+        "file": "event_message_mm03_044.ebm",
+        "line": "I want to be on friendly terms."
+    },
+    "SEL_MM03_044_1_B": {
+        "file": "event_message_mm03_044.ebm",
+        "line": "I want to be resolute."
+    },
+    "SEL_MM03_102_1_A": {
+        "file": "event_message_mm03_102.ebm",
+        "line": "I feel like it's the right thing to do."
+    },
+    "SEL_MM03_102_1_B": {
+        "file": "event_message_mm03_102.ebm",
+        "line": "That's how my mom raised me."
+    },
+    "SEL_MM04_043_1_A": {
+        "file": "event_message_mm04_043.ebm",
+        "line": "We can't avoid fighting."
+    },
+    "SEL_MM04_043_1_B": {
+        "file": "event_message_mm04_043.ebm",
+        "line": "I'd like to find a peaceful way."
+    },
+    "SEL_MM04_140_1_A": {
+        "file": "event_message_mm04_140.ebm",
+        "line": "Your heart remains human."
+    },
+    "SEL_MM04_140_1_B": {
+        "file": "event_message_mm04_140.ebm",
+        "line": "..."
+    },
+    "SEL_MM05_020_1_A": {
+        "file": "event_message_mm05_020.ebm",
+        "line": "Let's join them."
+    },
+    "SEL_MM05_020_1_B": {
+        "file": "event_message_mm05_020.ebm",
+        "line": "As much as I'd like to go ..."
+    },
+    "SEL_MM05_084_1_A": {
+        "file": "event_message_mm05_084.ebm",
+        "line": "Let's climb the huge tree."
+    },
+    "SEL_MM05_084_1_B": {
+        "file": "event_message_mm05_084.ebm",
+        "line": "Let's stake out the Blessed Land."
+    },
+    "SEL_MM05_084_1_C": {
+        "file": "event_message_mm05_084.ebm",
+        "line": "Let's shout Corleonis's name."
+    },
+    "SEL_MM05_090_1_A": {
+        "file": "event_message_mm05_090.ebm",
+        "line": "I'll figure something out!"
+    },
+    "SEL_MM05_090_1_B": {
+        "file": "event_message_mm05_090.ebm",
+        "line": "I can probably fix it ..."
+    },
+    "SEL_MM05_260_1_A": {
+        "file": "event_message_mm05_270.ebm",
+        "line": "Some things you can't talk about."
+    },
+    "SEL_MM05_260_1_B": {
+        "file": "event_message_mm05_270.ebm",
+        "line": "I wish you had told us."
+    },
+    "SEL_MM05_330_1_A": {
+        "file": "event_message_mm05_330.ebm",
+        "line": "We need to figure out his true intentions."
+    },
+    "SEL_MM05_330_1_B": {
+        "file": "event_message_mm05_330.ebm",
+        "line": "We can't leave him to his own devices."
+    },
+    "SEL_MM06_020_1_A": {
+        "file": "event_message_mm06_020.ebm",
+        "line": "You're overreacting."
+    },
+    "SEL_MM06_020_1_B": {
+        "file": "event_message_mm06_020.ebm",
+        "line": "Let's go see her."
+    },
+    "SEL_MM06_070_1_A": {
+        "file": "event_message_mm06_070.ebm",
+        "line": "I want to use alchemy in a way that feels right."
+    },
+    "SEL_MM06_070_1_B": {
+        "file": "event_message_mm06_070.ebm",
+        "line": "We can't allow the same mistakes to be repeated."
+    },
+    "SEL_MM06_141_1_A": {
+        "file": "event_message_mm06_141.ebm",
+        "line": "You don't blame us?"
+    },
+    "SEL_MM06_141_1_B": {
+        "file": "event_message_mm06_141.ebm",
+        "line": "Your future?"
+    },
+    "SEL_MM07_010_1_A": {
+        "file": "event_message_mm07_010.ebm",
+        "line": "That shouldn't be the case ..."
+    },
+    "SEL_MM07_010_1_B": {
+        "file": "event_message_mm07_010.ebm",
+        "line": "If that's true, then ..."
+    },
+    "SEL_MM07_380_1_A": {
+        "file": "event_message_mm07_380.ebm",
+        "line": "It sounds like Aladiss was falling apart."
+    },
+    "SEL_MM07_380_1_B": {
+        "file": "event_message_mm07_380.ebm",
+        "line": "I'm glad Doctor Marina wasn't arrested."
+    },
+    "SEL_MM07_410_1_A": {
+        "file": "event_message_mm07_410.ebm",
+        "line": "We don't know his motive, but ..."
+    },
+    "SEL_MM07_410_1_B": {
+        "file": "event_message_mm07_410.ebm",
+        "line": "We should carry forward his resolve."
+    },
+    "SEL_MM07_420_1_A": {
+        "file": "event_message_mm07_420.ebm",
+        "line": "The statue holding a sword."
+    },
+    "SEL_MM07_420_1_B": {
+        "file": "event_message_mm07_420.ebm",
+        "line": "The statue holding a shield."
+    },
+    "SEL_MM07_420_1_C": {
+        "file": "event_message_mm07_420.ebm",
+        "line": "The statue holding a staff."
+    },
+    "SEL_MM07_420_1_D": {
+        "file": "event_message_mm07_420.ebm",
+        "line": "The statue holding scales."
+    },
+    "SEL_MM08_170_1_A": {
+        "file": "event_message_mm08_170.ebm",
+        "line": "Let's go."
+    },
+    "SEL_MM08_170_1_B": {
+        "file": "event_message_mm08_170.ebm",
+        "line": "Let's prepare first."
+    },
+    "SEL_RM01_020_1_A": {
+        "file": "event_message_rm01_020.ebm",
+        "line": "Let's help investigate."
+    },
+    "SEL_RM01_020_1_B": {
+        "file": "event_message_rm01_020.ebm",
+        "line": "Let's ask the chief for instructions."
+    },
+    "SEL_RM01_220_1_A": {
+        "file": "event_message_rm01_220.ebm",
+        "line": "Let's look elsewhere."
+    },
+    "SEL_RM01_220_1_B": {
+        "file": "event_message_rm01_220.ebm",
+        "line": "Let's ask the Alber."
+    },
+    "SEL_RM01_220_1_C": {
+        "file": "event_message_rm01_220.ebm",
+        "line": "Let's ask Wilma for advice."
+    },
+    "SEL_RM01_330_1_A": {
+        "file": "event_message_rm01_330.ebm",
+        "line": "Set up an Energy Generator."
+    },
+    "SEL_RM01_330_1_B": {
+        "file": "event_message_rm01_330.ebm",
+        "line": "Find a facility with high consumption."
+    },
+    "SEL_RM01_330_1_C": {
+        "file": "event_message_rm01_330.ebm",
+        "line": "Check the path of the mana flow."
+    },
+    "SEL_RM02_190_1_A": {
+        "file": "event_message_rm02_130.ebm",
+        "line": "Let's talk to the knowledgeable Alber."
+    },
+    "SEL_RM02_190_1_B": {
+        "file": "event_message_rm02_130.ebm",
+        "line": "Let's find the Alber with the old book."
+    },
+    "SEL_RM02_190_1_C": {
+        "file": "event_message_rm02_130.ebm",
+        "line": "Let's ask the curious Alber."
+    },
+    "SEL_RM02_300_1_A": {
+        "file": "event_message_rm02_300.ebm",
+        "line": "\"Harvest\" means reforesting the wastelands."
+    },
+    "SEL_RM02_300_1_B": {
+        "file": "event_message_rm02_300.ebm",
+        "line": "It was a plan to fight starvation."
+    },
+    "SEL_RM02_300_1_C": {
+        "file": "event_message_rm02_300.ebm",
+        "line": "It was promoting a wise nation."
+    },
+    "SEL_RM03_080_1_A": {
+        "file": "event_message_rm03_080.ebm",
+        "line": "What if we get rid of monsters?"
+    },
+    "SEL_RM03_080_1_B": {
+        "file": "event_message_rm03_080.ebm",
+        "line": "Is there anything you want?"
+    },
+    "SEL_RM03_080_1_C": {
+        "file": "event_message_rm03_080.ebm",
+        "line": "I'll make you something."
+    },
+    "SEL_RM03_230_1_A": {
+        "file": "event_message_rm03_230.ebm",
+        "line": "Let's reuse the tracking device."
+    },
+    "SEL_RM03_230_1_B": {
+        "file": "event_message_rm03_230.ebm",
+        "line": "Let's search any suspicious spots."
+    },
+    "SEL_RM03_230_1_C": {
+        "file": "event_message_rm03_230.ebm",
+        "line": "Let's ask the other team members to help."
+    },
+    "SEL_RM04_120_1_A": {
+        "file": "event_message_rm04_120.ebm",
+        "line": "Let's search the imperial graveyard."
+    },
+    "SEL_RM04_120_1_B": {
+        "file": "event_message_rm04_120.ebm",
+        "line": "Let's search the commercial district."
+    },
+    "SEL_RM04_210_1_A": {
+        "file": "event_message_rm04_210.ebm",
+        "line": "We'll look for that item you need."
+    },
+    "SEL_RM04_210_1_B": {
+        "file": "event_message_rm04_210.ebm",
+        "line": "I'll make you a strong weapon."
+    },
+    "SEL_RM04_210_1_C": {
+        "file": "event_message_rm04_210.ebm",
+        "line": "I'll make you a simple base."
+    }
+}
