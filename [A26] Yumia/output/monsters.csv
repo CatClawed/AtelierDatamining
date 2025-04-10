@@ -483,6 +483,25 @@ id	x	z	monster	location	note
 4194309	0.21045747922437671	0.21678855218855222	{'monster_id': 'MONSTER_CLOCODILE_00', 'monster': 'Crocoderus'}	Ligneus	Monsters
 4194356	0.18241024930747923	0.3211754208754209		Ligneus	Monsters
 4194349	0.2027602493074792	0.2551525252525252	{'monster_id': 'MONSTER_EWOLF_02', 'monster': 'Frostmoon Fang'}	Ligneus	Monsters
+47448102	0.15158005540166203	0.3892531986531987	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+47448110	0.2046781163434903	0.24451851851851852	{'monster_id': 'MONSTER_CLOCODILE_00', 'monster': 'Crocoderus'}	Ligneus	Monsters
+47448138	0.19227562326869807	0.09028821548821551	{'monster_id': 'MONSTER_CLOCODILE_00', 'monster': 'Crocoderus'}	Ligneus	Monsters
+47448104	0.08531828254847644	0.2619040404040404	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+47448105	0.08501703601108032	0.2626188552188552	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+47448106	0.08492659279778393	0.2636750841750842	{'monster_id': 'MONSTER_EWOLF_00', 'monster': 'Red Wolf'}	Ligneus	Monsters
+47448066	0.12032950138504155	0.34224444444444446	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+47448096	0.02693947368421053	0.4074138047138047	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+47448098	0.026203878116343487	0.40692996632996636	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+47448097	0.026687534626038772	0.40663670033670035	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+47448079	0.15651509695290858	0.4139481481481482	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+47448080	0.15623836565096955	0.41177037037037034	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+47448081	0.15538725761772854	0.4118127946127946	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+47448092	0.11870595567867037	0.17137474747474743	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+47448093	0.11807022160664822	0.17031010101010102	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+47448094	0.11760360110803322	0.17138653198653195	{'monster_id': 'MONSTER_BEAVER_00', 'monster': 'Grim Beaver'}	Ligneus	Monsters
+47448087	0.13947451523545706	0.3249962962962963	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+47448089	0.14009473684210524	0.32333367003367003	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
+47448088	0.1398815789473684	0.32435353535353534	{'monster_id': 'MONSTER_PUNI_00', 'monster': 'Blue Puni'}	Ligneus	Monsters
 6292751	0.07618919667590028	0.5040457912457913	{'monster_id': 'MONSTER_PUNI_09', 'monster': 'Big Puni'}	Ligneus	Monsters
 6292752	0.047221468144044314	0.36051380471380473	"{'monster_id': 'MONSTER_BEAVER_02', 'monster': ""Hell's Cherry""}"	Ligneus	Monsters
 6292753	0.0223909972299169	0.28578013468013475	{'monster_id': 'MONSTER_ROCKBEAST_02', 'monster': 'Glacial Reaper'}	Ligneus	Monsters
@@ -675,6 +694,7 @@ id	x	z	monster	location	note
 52953137	0.7392940443213297	0.6318801346801347	{'monster_id': 'MONSTER_BIOME4_01', 'monster': 'Creepy Doll'}	Lacuna	Monsters
 52953111	0.7475210526315789	0.6506727272727272	{'monster_id': 'MONSTER_BIOME4_04', 'monster': 'Faceless Hugger'}	Lacuna	Monsters
 52953122	0.7780493074792243	0.7029589225589226	{'monster_id': 'MONSTER_BIOME4_00', 'monster': 'Mana Monstrosity'}	Lacuna	Monsters (2)
+56885395	0.6440174515235457	0.7239868686868686		Lacuna	Monsters
 22806544	0.49609750692520777	0.8926727272727273	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters
 22806545	0.4943508310249307	0.894094276094276	{'monster_id': 'MONSTER_PUNI_08', 'monster': 'Rainbow Puni'}	Auruma	Monsters
 22806532	0.5006537396121884	0.8946107744107745	{'monster_id': 'MONSTER_KONG_01', 'monster': 'Armored Giant'}	Auruma	Monsters
@@ -1110,6 +1130,9 @@ id	x	z	monster	location	note
 23592991	0.55875567867036	0.7471501683501682	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
 23592961	0.5506684210526316	0.7637124579124578	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
 23592970	0.5701425207756233	0.7841599326599327	{'monster_id': 'MONSTER_KONG_03', 'monster': 'Crimson Brute'}	Auruma	Monsters
+49020948	0.43370277008310254	0.6552999999999999	{'monster_id': 'MONSTER_BIOME3_03', 'monster': 'Blood Vamp'}	Auruma	Monsters
+49020944	0.528336703601108	0.5464612794612794	{'monster_id': 'MONSTER_KONG_04', 'monster': 'Bloody Fighter'}	Auruma	Monsters
+49020942	0.4895452908587258	0.6991747474747475	{'monster_id': 'MONSTER_GIANT_03', 'monster': 'Warlord'}	Auruma	Monsters
 41157034	0.5135142659279778	0.5993777777777778	{'monster_id': 'MONSTER_PUNI_08', 'monster': 'Rainbow Puni'}	Auruma	Monsters (2)
 41156799	0.4153196675900277	0.5950932659932661	{'monster_id': 'MONSTER_BIOME3_00', 'monster': 'Cave Bat'}	Auruma	Monsters
 41156838	0.5331310249307479	0.5507306397306397	{'monster_id': 'MONSTER_PUNI_04', 'monster': 'Black Puni'}	Auruma	Monsters

@@ -2,7 +2,8 @@ import json, csv, os
 #from matplotlib import image
 #from matplotlib import pyplot as plt
 
-#im = image.imread('combined.webp')
+IMAGE = False
+
 languages = ['eng', 'jpn', 'chs', 'cht', 'deu', 'fra', 'kor', 'rus', 'spa']
 localize = {}
 fixed_data = 'Data/pak/master/cmn/fixed_data/'
@@ -993,8 +994,70 @@ def shop():
             except:
                 pass
 
-def plot(x, z, point='o'):
-    plt.plot(x*8704, z*3584, point, color="white", markeredgecolor="black", markersize=9)
+def npc():
+    dic = {}
+    hold['field_map_reward_reward'] = dic
+    with open(fixed_data+'field_map_reward/reward.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['field_map_reward_reward']:
+            if item['reward'] == 4:
+                try:
+                    d = {}
+                    d['reward'] = hold['gather'][item['custom_tag']]
+                    dic[item['fieldmap_reward_id']] = d
+                except Exception as e:
+                    pass
+    dic = {}
+    hold['field_map_npc_npc_message_flow_normal'] = dic
+    with open(fixed_data+'field_map_npc/npc_message_flow_normal.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['field_map_npc_npc_message_flow_normal']:
+            if 'reward_tag' in item:
+                try:
+                    dic[item['group']] = hold['field_map_reward_reward'][item['reward_tag']]
+                except Exception as e:
+                    pass
+    dic = {}
+    hold['field_map_npc_npc_message_normal'] = dic
+    with open(fixed_data+'field_map_npc/npc_message_normal.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['field_map_npc_npc_message_normal']:
+            if item['message_group'] in hold['field_map_npc_npc_message_flow_normal']:
+                dic[item['field_map_npc_message_id']] = hold['field_map_npc_npc_message_flow_normal'][item['message_group']]
+    dic = {}
+    hold['field_map_npc_npc_base_data_normal'] = dic
+    with open(fixed_data+'field_map_npc/npc_base_data_normal.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['field_map_npc_npc_base_data_normal']:
+            if 'message' in item and item['message'] in hold['field_map_npc_npc_message_normal']:
+                dic[item['field_map_npc_base_data_id']] = hold['field_map_npc_npc_message_normal'][item['message']]
+    dic = {}
+    hold['wander_npc_npc_symbol'] = dic
+    with open(fixed_data+'wander_npc/npc_symbol.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['wander_npc_npc_symbol']:
+            if item['npc_base_tag'] in hold['field_map_npc_npc_base_data_normal']:
+                dic[item['npc_symbol_id']] = hold['field_map_npc_npc_base_data_normal'][item['npc_base_tag']]
+    dic = {}
+    hold['wander_npc_npc_symbol_group'] = dic
+    with open(fixed_data+'wander_npc/npc_symbol_group.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['wander_npc_npc_symbol_group']:
+            if item['npc_symbol_id'] in hold['wander_npc_npc_symbol']:
+                dic[item['symbol_group_id']] = hold['wander_npc_npc_symbol'][item['npc_symbol_id']]
+
+"""
+happening gimmick param/v
+npc symbol group: symbol_group_id, get npc_symbol_id
+npc symbol: npc_symbol_id, get npc_base_tag
+npc base data: field_map_npc_base_data_id, get message
+npc_message_normal: field_map_npc_message_id, get message_group
+npc message flow normal: group (may be multiple), get only if reward_tag
+field map reward/reward: fieldmap_reward_id, get custom tag (ex item group)
+"""
+
+def plot(x, z, color='white'):
+    plt.plot(x*8704, z*3584, 'o', color=color, markeredgecolor="black", markersize=9)
 
 def get_location(item, note, location, label):
     d = {}
@@ -1005,17 +1068,22 @@ def get_location(item, note, location, label):
     app = None
 
     if label == 'gather' or label == 'chests' or label == 'fish':
-        if 'elem' in item:
+        if note == 'Giant':
+            d['reward'] = hold['gather']["EX_ITEM_GROUP_612"].copy()
+        elif 'elem' in item:
             for elem in item['elem']:
                 if 's_flag' in elem:
                     if elem['s_flag']:
                         app = hold['gimmick_event'][elem['s_flag']]
                         break
-        if item['param'][0]['v'] and item['param'][0]['v'] in hold['gather']:
+        if note != 'Giant' and item['param'][0]['v'] and item['param'][0]['v'] in hold['gather']:
             res = hold['gather'][item['param'][0]['v']].copy()
             if app:
                 res = res +app
             d['reward'] = res
+    if label == 'animal':
+        if item['param'][1]['v']:
+            d['reward'] = hold['gather'][item['param'][1]['v']].copy()
     if label == 'monsters':
         if item['param'][0]['v'] and item['param'][0]['v'] in hold['symbol_group']:
             res = hold['symbol_group'][item['param'][0]['v']].copy()
@@ -1026,15 +1094,38 @@ def get_location(item, note, location, label):
             d['reward'] = res
             if res['comfort_goal'][0] < 100:
                 d['note'] = 'Campsite'
+    if label == 'particles':
+        t = item['param'][0]['v']
+        d['collect_tag'] = t
+        d['fire']    = hold['reverberation_piece_info'][t]['fire']
+        d['ice']     = hold['reverberation_piece_info'][t]['ice']
+        d['bolt']    = hold['reverberation_piece_info'][t]['bolt']
+        d['air']     = hold['reverberation_piece_info'][t]['air']
+        d['neutral'] = hold['reverberation_piece_info'][t]['neutral']
+        """
+        match t:
+            case 'REVERBERATION_PIECE_COLLECT_INFO_KINGDOM_SRC_S': color = 'purple'
+            case 'REVERBERATION_PIECE_COLLECT_INFO_THUNDER_FOREST_A': color = 'yellow'
+            case 'REVERBERATION_PIECE_COLLECT_INFO_THUNDER_METAL_A': color = 'yellow'
+            case 'REVERBERATION_PIECE_COLLECT_INFO_THUNDER_METAL_B': color = 'orange'
+            case 'REVERBERATION_PIECE_COLLECT_INFO_AIR_METAL_B': color = 'green'
+            case 'REVERBERATION_PIECE_COLLECT_INFO_REHERUN': color = 'blue'
+            case 'REVERBERATION_PIECE_COLLECT_INFO_ICE_ROTTENSEA_C': color = 'blue'
+            case 'REVERBERATION_PIECE_COLLECT_INFO_FIRE_KINGDOM_A': color = 'red'
+            case _: color = 'white'
+        plot(d['x'], d['z'], color)
+        """
+    if label == 'npc':
+        d['reward'] = hold['wander_npc_npc_symbol_group'][item['param'][0]['v']]['reward']
     try:
         finalized[label][item['ID']] = d
     except Exception as e:
         print(e)
 
 def map():
-    exclude = ['jimen', 'blend', 'test', 'file_info', 'event_', 'void',
-               'env_effect', 'menu', 'quest_', 'animal_npc', 'seamless', 'destructive',
-               'district', 'prologue', 'indoor_', '_mana_', 'dummy', 'border',
+    exclude = ['jimen', 'blend', 'test', 'file_info', 'void',
+               'env_effect', 'menu', 'quest_', 'seamless', 'destructive',
+               'district', 'prologue', 'indoor_', 'dummy', 'border',
                'metal_gimmick_area06_gimmick']
 
     maps = os.listdir(map_data)
@@ -1047,12 +1138,16 @@ def map():
     maps = [m for m in maps if m not in files]
 
     gather_nodes()
+    npc()
     finalized['chests'] = {}
     finalized['gather'] = {}
     finalized['monsters'] = {}
     finalized['vials'] = {}
     finalized['building'] = {}
     finalized['fish'] = {}
+    finalized['particles'] = {}
+    finalized['npc'] = {}
+    finalized['animal'] = {}
 
     """
     1157243747 shrine
@@ -1079,7 +1174,7 @@ def map():
         2470424865: 'Chest (Minigame)',
         1154842166: 'Chest (Gun)',
         3376427666: 'Memory Vial',
-        685462064: 'Monsters', # needs symbol group and encount group
+        685462064: 'Monsters',
         2722217191: 'Gather (Hand)',
         805069512: 'Gather (Staff)',
         441698374: 'Gather (Gun)',
@@ -1089,26 +1184,25 @@ def map():
         2751997886: 'Well',
         4182690301: 'Gather (Crate)',
         1254731747: 'Monsters (2)',
-        3903427355: 'Gather (Scan)'
+        3903427355: 'Gather (Scan)',
+        1318379301: 'Particles',
+        2725809807: 'NPC',
+        615770814:  'Animal',
+        1257928271: 'Giant'
     }
 
     count = 0
     for map in maps:
         with open(map_data+map, encoding=enc) as f:
             obj = json.load(f)
-            point = 'og'
             location = ''
             if 'forest' in map or 'submap01' in map:
-                point = 'or'
                 location = 'Ligneus'
             elif 'rottensea' in map or 'submap5' in map:
-                point = 'om'
                 location = 'Sivash'
             elif 'metal' in map or 'submap3' in map or 'submap4' in map:
-                point = 'oy'
                 location = 'Auruma'
             elif 'kingdom' in map or 'castle' in map:
-                point = 'ok'
                 location = 'Lacuna'
             for item in obj:
                 match item['type']:
@@ -1126,41 +1220,16 @@ def map():
                     case 2751997886: get_location(item, types[item['type']], location, "gather")
                     case 4182690301: get_location(item, types[item['type']], location, "gather")
                     case 3903427355: get_location(item, types[item['type']], location, "gather")
-                """ plotting
-                if item['type'] == 2725809807:
-                    count += 1
-                    pos = item['pos'].split(',')
-                    #plt.plot(float(pos[0]), float(pos[2]), point)
-                    plt.plot((float(pos[0])-90000)/722000*8704, (float(pos[2])-90000)/297000*3584, point)
-
-    plt.imshow(im)
-    plt.show()
-    """
+                    case 1318379301: get_location(item, types[item['type']], location, "particles")
+                    case 2725809807: get_location(item, types[item['type']], location, "npc")
+                    case 615770814:  get_location(item, types[item['type']], location, "animal")
+                    case 1257928271: get_location(item, types[item['type']], location, "gather")
+    if IMAGE:
+        im = image.imread('combined.webp')
+        plt.imshow(im)
+        plt.show()
 
 
-"""
-Notes
-cmn/placementgimmick - locations I guess. I assume pos is xyz coords, but how do I
-map this to a 2D map?
-
-fixed_data/collect/
-    common_item_group.json -- groups items (note the group val) and their priority
-    common_item_material_group -- the same for materials
-    common_collect_info -- the actual gathering node, refers to group numbers and
-                           gives ranges on how many of each item/material you can get
-                           The place_id tags get referenced in placementgimmick
-    adjust_parameter -- no idea. has rank by rank data, it's all the same.
-    adjust_parameter_trait -- same as above.
-    ex_item_group -- like common item group, seems more specific. Priority 100,
-                     exact quality, trait levels, etc. Is this chest stuff?
-                     Referred to in scramble.json sometimes as a place_id
-    ex_collect_info -- Quantities for the groups. SOmetimes used in field map reward.
-    ex_item_material_group -- Not sure where this is used.
-                              some ex_collects call for a material_group...
-    reverberation collect -- I do not care to comprehend this xd
-    reverberation info -- looks like those challenge battles (scramble.json)
-
-"""
 
 def export_csv():
     keys = {
@@ -1222,6 +1291,9 @@ def export_csv():
         'quest': [
             'id', 'quest_name', 'extra', 'reward',
         ],
+        'particles': [
+            'id', 'x', 'z', 'location', 'note', 'collect_tag', 'fire', 'ice', 'bolt', 'air', 'neutral',
+        ],
         'event_choice_list': [
             'choice_list_id', 'choice_data', 'is_karma_min_limit_change'
         ],
@@ -1282,7 +1354,42 @@ def karma():
                 dic[item['mix_skill_id']] = d
 
 
-
+def particles():
+    dic = {}
+    hold['reverberation_piece_collect'] = dic
+    with open(fixed_data+'collect/reverberation_piece_collect.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['collect_reverberation_piece_collect']:
+            d = {}
+            for i in range(1,4):
+                if f'elem_tag{i}' in item:
+                    match item[f'elem_tag{i}']:
+                        case 'ITEM_ELEM_FIRE':    d[f'elem_{i}'] = 'fire'
+                        case 'ITEM_ELEM_ICE':     d[f'elem_{i}'] = 'ice'
+                        case 'ITEM_ELEM_THUNDER': d[f'elem_{i}'] = 'bolt'
+                        case 'ITEM_ELEM_AIR':     d[f'elem_{i}'] = 'air'
+                        case 'ITEM_ELEM_NEUTRAL': d[f'elem_{i}'] = 'neutral'
+                    for j in range(1,4):
+                        if f"num{i}_{j}min" in item:
+                            d[f'num{i}_{j}'] = f'{item[f"num{i}_{j}min"]} - {item[f"num{i}_{j}max"]}'
+                            d[f'rate{i}_{j}'] = item[f'rate{i}_{j}']
+            dic[item['reverberation_piece_collect']] = d
+    dic = {}
+    hold['reverberation_piece_info'] = dic
+    with open(fixed_data+'collect/reverberation_piece_info.json', encoding=enc) as f:
+        obj = json.load(f)
+        for item in obj['collect_reverberation_piece_info']:
+            try:
+                d = {}
+                d['tag'] = item['reverberation_piece_collect_info']
+                d['fire']    = hold['reverberation_piece_collect'][item['collect_data'][0]]
+                d['ice']     = hold['reverberation_piece_collect'][item['collect_data'][1]]
+                d['bolt']    = hold['reverberation_piece_collect'][item['collect_data'][2]]
+                d['air']     = hold['reverberation_piece_collect'][item['collect_data'][3]]
+                d['neutral'] = hold['reverberation_piece_collect'][item['collect_data'][4]]
+                dic[item['reverberation_piece_collect_info']] = d
+            except:
+                pass
 
 
 get_localization()
@@ -1293,6 +1400,7 @@ building()
 scenario_recipe_data()
 quests()
 shop()
+particles()
 map()
 karma()
 export_csv()
