@@ -17,11 +17,15 @@ Particles	残響片	余音断片	餘音斷片	Partikel	Particules	잔향입자	�
 Memory Vial	伝想器	传忆器	傳憶器	Erinnerungsphiole	Fiole de mémoire	전상기	Сосуд памяти	Vial de recuerdos
 Items	アイテム	道具	道具	Gegenstände	Objets	아이템	Предметы	Objetos
 Monsters	魔物	魔物	魔物	Monster	Monstres	몬스터	Чудовища	Monstruos
+Monster Species	魔物種族	魔物种族	魔物種族	Monsterspezies	Espèces de monstre	몬스터 종족	Виды чудовищ	Especies de monstruos
 HP	HP	HP	HP	LP	PV	HP	ОЗ	PS
 ATK	攻撃力	攻击力	攻擊力	ANG	ATQ	공격력	АТК	ATQ
 DEF	防御力	防御力	防禦力	VRT	DÉF	방어력	ЗЩТ	DEF
 SPD	素早さ	敏捷	敏捷	TMP	VIT	민첩성	СКР	VEL
 Atelier Yumia	ユミアのアトリエ	优米雅的炼金工房	優米雅的鍊金工房	Atelier Yumia	Atelier Yumia	유미아의 아틀리에	Ателье Юмия	Atelier Yumia
+Filter	絞り込み	筛选	進階搜尋	Filter	Filtrer	필터	Фильтр	Filtro
+Filter	フィルタ	筛选器	篩選器	Filter	Filtre	필터	Фильтр	Filtro
+Filter	フィルタ	滤镜	濾鏡	Filter	Filtre	필터	Фильтр	Filtro
 Item	アイテム	道具	道具	Gegenstand	Objet	아이템	Предмет	Objeto
 Category	カテゴリ	类别	類別	Kategorie	Catégorie	카테고리	Категория	Categoría
 Effects	効果	效果	效果	Effekte	Effets	효과	Эффекты	Efectos
@@ -29,3 +33,8 @@ Traits	特性	特性	特性	Eigenschaften	Caract.	특성	Черты	Atributos
 Quality	品質	品质	品質	Qualität	Qualité	품질	Качество	Calidad
 Effect	影響	影响	影響	Effekt	Effet	영향	Эффект	Efecto
 Comfort Level:	快適度：	舒适度：	舒適度：	Komfortstufe:	Niveau de confort :	쾌적도：	Уровень удобства:	Nivel de comodidad:
+Materials	資材	原材料	原材料	Materialien	Matériaux	자재	Материалы	Materiales
+SP	SP	SP	SP	FP	PC	SP	ОН	PH
+Trait Blending	特性合成	特性合成	特性合成	Eigenschaftenverschmelzung	Mélange de caractéristiques	특성합성	Смешение	Mezcla de atributos
+Inner Range	インレンジ	近距离	近距離	Innere Reichweite	À courte portée	근거리	Ближнее расстояние	Alcance cercano
+Outer Range	アウトレンジ	远距离	遠距離	Äußere Reichweite	À longue portée	원거리	Дальнее расстояние	Alcance exterior

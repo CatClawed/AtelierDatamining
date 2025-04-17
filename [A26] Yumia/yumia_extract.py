@@ -87,11 +87,15 @@ def other_text():
         'STR_LIBRARY_GLOSSARY_TITLE_042', # memory vial
         'STR_LIBRARY_DEFINE_000', # items
         'STR_LIBRARY_DEFINE_001', # monsters
+        'STR_LIBRARY_DEFINE_170', #monster species
         'STR_BATTLE_DEFINE_053', # hp, atk, def, spd
         'STR_BATTLE_DEFINE_055',
         'STR_BATTLE_DEFINE_056',
         'STR_BATTLE_DEFINE_057',
         'STR_OPTION_DEFINE_208', # Atelier Yumia
+        'STR_ITEM_DEFINE_033', #filter
+        'STR_KEY_GUIDE_264',
+        'STR_FIELDMAP_PHOTO_MODE_046',
         'STR_ITEM_DEFINE_100', #item
         'STR_ITEM_DEFINE_101', #category
         'STR_ITEM_DEFINE_102', #effects
@@ -99,6 +103,11 @@ def other_text():
         'STR_ITEM_DEFINE_131', # quality
         'STR_ITEM_DEFINE_132', # effect (idk plural vs not)
         'STR_HOUSING_DEFINE_041', # comfort level bonus
+        'STR_CRAFT_DEFINE_100', #materials
+        'STR_ALCHEMY_TREE_DEFINE_001', # SP
+        'STR_ALCHEMY_TREE_TEXT_019', # trait blending
+        'STR_MENU_DEFINE_186', # inner, outer range
+        'STR_MENU_DEFINE_187',
     ]
     for tag in tags:
         d = localize[tag].copy()
