@@ -2,6 +2,9 @@ Welcome to my Atelier datamining repo. The output is for me but you are free to 
 
 In Yumia I commented out some business about plotting to a map. It also expects the pak data at `[A26] Yumia/Data`. gust_tools will get that for you.
 
+
 Useful tools:
-* [gust_tools](https://github.com/VitaSmith/gust_tools)
-* [fdata_dump](https://github.com/DeathChaos25/fdata_dump/)
+* [gust_tools](https://github.com/VitaSmith/gust_tools) - Unpack pre-Yumia
+* [fdata_dump](https://github.com/DeathChaos25/fdata_dump/) - Unpack Yumia
+* [UnityPy](https://github.com/K0lb3/UnityPy) - Unpack Resleri games (decryption required first)
+* [CheatEngine](https://www.cheatengine.org/) - When too much data is in the executable (PhyreEngine games especially guilty)
