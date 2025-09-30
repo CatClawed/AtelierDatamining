@@ -1,0 +1,559 @@
+TraitId	EnabledFlag	Index	text_ENG	desc_ENG	GatherableFlag	Grade	Unknown2	Value1_1	Value1_2	Value2_2	Value2_2	TraitKindId1	TraitKindId2	Combo1	Combo2
+0	0	0			0	0	0	0	0	0	0	0	0		
+692131312	1	1	Item Level Boost	Raises Item Level by {0}% if transferred during synthesis.	0	5	2047	2	2	0	0	1841172131	1841172131		
+1337441194	1	2	Item Level Boost+	Raises Item Level by {0}% if transferred during synthesis.	0	13	2047	4	4	0	0	1841172131	1841172131		
+951094076	1	3	Item Level Boost++	Raises Item Level by {0}% if transferred during synthesis.	0	20	2047	6	6	0	0	1841172131	1841172131		
+1496047969	1	4	Well-Made	Raises Item Level by {0}% if transferred during synthesis.	0	26	2047	8	8	0	0	1841172131	1841172131	Item Level Boost	Item Level Boost+
+774689271	1	5	Pro Perfection	Raises Item Level by {0}% if transferred during synthesis.	0	30	2047	10	10	0	0	1841172131	1841172131	Expensive +	Item Level Boost++
+1222279091	1	6	Superb Quality	Raises Item Level by {0}% if transferred during synthesis.	0	39	2047	12	12	0	0	1841172131	1841172131	Finest	Pro Perfection
+1071468325	1	7	Superb Quality+	Raises Item Level by {0}% if transferred during synthesis.	1	44	1791	14	14	0	0	1841172131	1841172131		
+1352510796	1	8	Ultimate Masterpiece	Raises Item Level by {0}% if transferred during synthesis.	1	50	1791	16	16	0	0	1841172131	1841172131	Superb Quality	Pure Determination
+664444382	1	9	Ultimate Masterpiece+	Raises Item Level by {0}% if transferred during synthesis.	1	55	1791	20	20	0	0	1841172131	1841172131		
+1090454473	1	10	Cheap	Slightly lowers sales price. In return, also lowers duplication cost and restock cost.	0	2	2047	-10	-10	0	0	1084648366	725117845		
+638168461	1	11	Cheap +	Slightly lowers sales price. In return, also lowers duplication cost and restock cost.	0	11	2047	-15	-15	0	0	1084648366	725117845		
+1359912219	1	12	Cheap ++	Slightly lowers sales price. In return, also lowers duplication cost and restock cost.	0	21	2047	-20	-20	0	0	1084648366	725117845		
+815134534	1	13	Bulk-Produced	Lowers sales price. In return, also lowers duplication cost and restock cost.	0	25	2047	-25	-25	0	0	1084648366	725117845	Cheap	Cheap +
+1200801744	1	14	Mass-Produced	Lowers sales price by {0}％. In return, also lowers duplication cost and restock cost.	0	30	2047	-30	-30	0	0	1084648366	725117845	Cheap +	Cheap ++
+560228758	1	15	Economical	Lowers sales price by {0}％. In return, also lowers duplication cost and restock cost.	0	42	2047	-35	-35	0	0	1084648366	725117845	Bulk-Produced	Mass-Produced
+1449351428	1	16	Economical+	Greatly lowers sales price. In return, also lowers duplication cost and restock cost.	1	45	1791	-40	-40	0	0	1084648366	725117845		
+958643053	1	17	Bargain	Greatly lowers sales price. In return, also lowers duplication cost and restock cost.	1	50	1791	-45	-45	0	0	1084648366	725117845	Economical	Dreamt Up Secret Art
+1311017979	1	18	Bargain+	Greatly lowers sales price. In return, also lowers duplication cost and restock cost.	1	60	1791	-50	-50	0	0	1084648366	725117845		
+1117174350	1	19	Expensive	Slightly raises sales price. In return, also raises duplication cost and restock cost.	0	2	2047	10	10	10	10	1084648366	1410117446		
+610276364	1	20	Expensive +	Slightly raises sales price. In return, also raises duplication cost and restock cost.	0	11	2047	15	15	15	15	1084648366	1410117446		
+1399268510	1	21	Expensive ++	Slightly raises sales price. In return, also raises duplication cost and restock cost.	0	21	2047	20	20	20	20	1084648366	1410117446		
+855396033	1	22	Finest	Raises sales price. In return, also raises duplication cost and restock cost.	0	25	2047	25	25	25	25	1084648366	1410117446	Expensive	Expensive +
+1174109783	1	23	Rare Item	Raises sales price. In return, also raises duplication cost and restock cost.	0	30	2047	30	30	30	30	1084648366	1410117446	Expensive +	Expensive ++
+588107795	1	24	Overpriced	Raises sales price. In return, also raises duplication cost and restock cost.	0	42	2047	35	35	35	35	1084648366	1410117446	Finest	Rare Item
+1409998981	1	25	Overpriced+	Greatly raises sales price. In return, also raises duplication cost and restock cost.	1	45	1791	40	40	40	40	1084648366	1410117446		
+994706154	1	26	One of a Kind	Greatly raises sales price. In return, also raises duplication cost and restock cost.	1	50	1791	45	45	45	45	1084648366	1410117446	Overpriced	Dreamt Up Secret Art
+1280127612	1	27	One of a Kind+	Greatly raises sales price. In return, also raises duplication cost and restock cost.	1	60	1791	50	50	50	50	1084648366	1410117446		
+1294472984	1	28	Destruction Up	Increases the item's power by {0}%.	0	4	259	10	10	0	0	2085854704	1927413127		
+736016722	1	29	Destruction Up +	Increases the item's power by {0}%.	0	13	259	15	15	0	0	2085854704	1927413127		
+1557760452	1	30	Destruction Up ++	Increases the item's power by {0}%.	0	24	259	20	20	0	0	2085854704	1927413127		
+1027793817	1	31	Rather Devastating	Increases the item's power by {0}%.	0	28	259	25	25	0	0	2085854704	1927413127	Destruction Up	Destruction Up +
+1246089999	1	32	Very Devastating	Increases the item's power by {0}%.	0	32	259	30	30	0	0	2085854704	1927413127	Destruction Up +	Destruction Up ++
+749960523	1	33	Extremely Devastating	Increases the item's power by {0}%.	0	40	259	35	35	0	0	2085854704	1927413127	Rather Devastating	Very Devastating
+1538543069	1	34	Extremely Devastating+	Increases the item's power by {0}%.	1	46	3	40	40	0	0	2085854704	1927413127		
+888450996	1	35	Ultimate Destruction	Increases the item's power by {0}%.	1	52	3	45	45	0	0	2085854704	1927413127	Extremely Devastating	Ruler of Shadow and Light
+1140039462	1	36	Ultimate Destruction+	Increases the item's power by {0}%.	1	60	3	50	50	0	0	2085854704	1927413127		
+1859122559	1	37	Recovery Up	Increases the item's recovery power by {0}%.	0	4	261	10	10	0	0	905217877	923784953		
+137976635	1	38	Recovery Up +	Increases the item's recovery power by {0}%.	0	13	261	15	15	0	0	905217877	923784953		
+2134797229	1	39	Recovery Up ++	Increases the item's recovery power by {0}%.	0	24	261	20	20	0	0	905217877	923784953		
+514130418	1	40	Ample Healing	Increases the item's recovery power by {0}%.	0	28	261	25	25	0	0	905217877	923784953	Recovery Up	Recovery Up +
+1772237160	1	41	Terrific Healing	Increases the item's recovery power by {0}%.	0	32	261	30	30	0	0	905217877	923784953	Recovery Up +	Recovery Up ++
+257204002	1	42	Tremendous Healing	Increases the item's recovery power by {0}%.	0	40	261	35	35	0	0	905217877	923784953	Ample Healing	Terrific Healing
+2018750388	1	43	Tremendous Healing+	Increases the item's recovery power by {0}%.	1	46	5	40	40	0	0	905217877	923784953		
+387141083	1	44	Ultimate Recovery	Increases the item's recovery power by {0}%.	1	52	5	45	45	0	0	905217877	923784953	Tremendous Healing	The Power of Love
+1611955533	1	45	Ultimate Recovery+	Increases the item's recovery power by {0}%.	1	60	5	50	50	0	0	905217877	923784953		
+1072124231	1	46	Critical	Increases the item's critical rate by {0}%.	0	8	259	10	10	0	0	2085854704	475050387		
+1494351619	1	47	Critical +	Increases the item's critical rate by {0}%.	0	12	259	20	20	0	0	2085854704	475050387		
+773246869	1	48	Critical ++	Increases the item's critical rate by {0}%.	0	16	259	30	30	0	0	2085854704	475050387		
+1334683080	1	49	Critical Finish	Increases the item's critical rate by {0}%.	0	30	259	40	40	0	0	2085854704	475050387	Critical	Critical +
+948606302	1	50	Half Critical	Increases the item's critical rate by {0}%.	0	35	259	50	50	0	0	2085854704	475050387	Critical +	Critical ++
+1585199900	1	51	Certain Critical	Guarantees a critical hit.	0	45	259	100	100	0	0	2085854704	475050387	Critical Finish	Half Critical
+695929742	1	52	Half-Kill	Provides a 50% chance of killing the target, excluding bosses and powerful enemies.	1	50	3	50	50	0	0	2085854704	475050387		
+1178331619	1	53	One Hit Kill	Guaranteed to kill the target, excluding bosses and powerful enemies.	1	55	3	100	100	0	0	2085854704	475050387	Certain Critical	Ruler of Shadow and Light
+826071413	1	54	Assassination	The item KOs any target except Bosses and Strong Enemies when used. It has a 50% chance to not expend uses.	1	60	3	100	100	50	50	2085854704	475050387		
+1366634800	1	55	Critical Blessing	Increases critical damage by {0}%.	0	8	259	10	10	0	0	2085854704	685096150		
+931372906	1	56	Critical Blessing+	Increases critical damage by {0}%.	0	12	259	15	15	0	0	2085854704	685096150		
+1082437628	1	57	Critical Blessing++	Increases critical damage by {0}%.	0	16	259	20	20	0	0	2085854704	685096150		
+555730337	1	58	Critical Boon	Increases critical damage by {0}%.	0	30	259	25	25	0	0	2085854704	685096150	Critical Blessing	Critical Blessing+
+1444476215	1	59	Critical Windfall	Increases critical damage by {0}%.	0	35	259	30	30	0	0	2085854704	685096150	Critical Blessing+	Critical Blessing++
+820927347	1	60	Critical Elite	Increases critical damage by {0}%.	0	45	259	35	35	0	0	2085854704	685096150	Critical Boon	Critical Windfall
+1206479845	1	61	Critical Elite+	Increases critical damage by {0}%.	1	50	3	40	40	0	0	2085854704	685096150		
+682199436	1	62	Critical Master	Increases critical damage by {0}%.	1	55	3	45	45	0	0	2085854704	685096150	Critical Elite	Fairy Boon
+1605286174	1	63	Critical Master+	Increases critical damage by {0}%.	1	60	3	50	50	0	0	2085854704	685096150		
+906033993	1	64	Uses +1	Increases item uses by {0} but decreases the power by {1}%.	0	12	287	1	1	-10	-10	2075481065	1887021701		
+1358320909	1	65	Uses +2	Increases item uses by {0} but decreases the power by {1}%.	0	28	287	2	2	-15	-15	2075481065	1887021701		
+670131611	1	66	Multiply	Increases item uses by {0} but decreases the power by {1}%.	1	36	31	3	3	-20	-20	2075481065	1887021701	Uses +1	Uses +2
+1181355976	1	67	Multiply+	Increases item uses by {0} but decreases the power by {1}%.	1	45	31	4	4	-25	-25	2075481065	1887021701		
+1269362583	1	68	Uses -1	Reduces the item's use count by {0}, but increases its power by {1}%.	0	8	287	-1	-1	20	20	2075481065	1435551795		
+761151955	1	69	Uses -2	Reduces the item's use count by {0}, but increases its power by {1}%.	0	26	287	-2	-2	40	40	2075481065	1435551795		
+1515811141	1	70	Reduction	Reduces the item's use count by {0}, but increases its power by {1}%.	1	35	31	-3	-3	60	60	2075481065	1435551795	Uses -1	Uses -2
+1002576666	1	71	Reduction+	Reduces the item's use count by {0}, but increases its power by {1}%.	1	45	31	-4	-4	80	80	2075481065	1435551795		
+1261386590	1	72	Strong Blessing	Boosts the target's ATK by {0}%.	0	10	277	5	5	0	0	1135783895	730021737		
+769234200	1	73	Mighty Blessing	Boosts the target's ATK by {0}%.	0	20	277	10	10	0	0	1135783895	730021737		
+1524540814	1	74	Herculean Blessing	Boosts the target's ATK by {0}%.	1	40	21	20	20	0	0	1135783895	730021737	Strong Blessing	Mighty Blessing
+994430931	1	75	Herculean Blessing+	Boosts the target's ATK by {0}%.	1	60	21	30	30	0	0	1135783895	730021737		
+1274491902	1	76	Steward's Blessing	Boosts the target's DEF by {0}%.	0	10	277	5	5	0	0	1135783895	927656225		
+755080636	1	77	Guardian's Blessing	Boosts the target's DEF by {0}%.	0	20	277	10	10	0	0	1135783895	927656225		
+1510386990	1	78	Seraph's Blessing	Boosts the target's DEF by {0}%.	1	40	21	20	20	0	0	1135783895	927656225	Steward's Blessing	Guardian's Blessing
+1000195953	1	79	Seraph's Blessing+	Boosts the target's DEF by {0}%.	1	60	21	30	30	0	0	1135783895	927656225		
+1462620580	1	80	Quick Blessing	Boosts the target's SPD by {0}%.	0	10	277	5	5	0	0	1135783895	1252082050		
+836468706	1	81	Light-Speed Blessing	Boosts the target's SPD by {0}%.	0	20	277	10	10	0	0	1135783895	1252082050		
+1188843384	1	82	Hermes's Blessing	Boosts the target's SPD by {0}%.	1	40	21	20	20	0	0	1135783895	1252082050	Quick Blessing	Light-Speed Blessing
+658973995	1	83	Hermes's Blessing+	Boosts the target's SPD by {0}%.	1	60	21	30	30	0	0	1135783895	1252082050		
+1090580468	1	84	Attack Blessing	Boosts physical item power by {0}%.	0	20	259	15	15	0	0	1135783895	1197644432		
+670450102	1	85	Attack Blessing+	Boosts physical item power by {0}%.	0	40	259	30	30	0	0	1135783895	1197644432		
+1358000416	1	86	Great Attack Blessing	Boosts physical item power by {0}%.	1	50	3	45	45	0	0	1135783895	1197644432	Attack Blessing	Attack Blessing+
+829037437	1	87	Great Attack Blessing+	Boosts physical item power by {0}%.	1	60	3	60	60	0	0	1135783895	1197644432		
+1134476396	1	88	Magic Blessing	Boosts magic item power by {0}%.	0	20	259	15	15	0	0	1135783895	1290533357		
+627577390	1	89	Magic Blessing+	Boosts magic item power by {0}%.	0	40	259	30	30	0	0	1135783895	1290533357		
+1383015096	1	90	Great Magic Blessing	Boosts magic item power by {0}%.	1	50	3	45	45	0	0	1135783895	1290533357	Magic Blessing	Magic Blessing+
+871647461	1	91	Great Magic Blessing+	Boosts magic item power by {0}%.	1	60	3	60	60	0	0	1135783895	1290533357		
+1466047851	1	92	Fire Blessing	Boosts fire item power by {0}%.	0	20	259	15	15	0	0	1135783895	1710804709		
+831828783	1	93	Fire Blessing+	Boosts fire item power by {0}%.	0	40	259	30	30	0	0	1135783895	1710804709		
+1184072633	1	94	Great Fire Blessing	Boosts fire item power by {0}%.	1	50	3	45	45	0	0	1135783895	1710804709	Fire Blessing	Fire Blessing+
+654895588	1	95	Great Fire Blessing+	Boosts fire item power by {0}%.	1	60	3	60	60	0	0	1135783895	1710804709		
+147219863	1	96	Ice Blessing	Boosts ice item power by {0}%.	0	20	259	15	15	0	0	1135783895	980879470		
+1848691667	1	97	Ice Blessing+	Boosts ice item power by {0}%.	0	40	259	30	30	0	0	1135783895	980879470		
+423099205	1	98	Great Ice Blessing	Boosts ice item power by {0}%.	1	50	3	45	45	0	0	1135783895	980879470	Ice Blessing	Ice Blessing+
+2024575258	1	99	Great Ice Blessing+	Boosts ice item power by {0}%.	1	60	3	60	60	0	0	1135783895	980879470		
+1956145161	1	100	Air Blessing	Boosts air item power by {0}%.	0	20	259	15	15	0	0	1135783895	1297626265		
+309249613	1	101	Air Blessing+	Boosts air item power by {0}%.	0	40	259	30	30	0	0	1135783895	1297626265		
+1701443291	1	102	Great Air Blessing	Boosts air item power by {0}%.	1	50	3	45	45	0	0	1135783895	1297626265	Air Blessing	Air Blessing+
+83008648	1	103	Great Air Blessing+	Boosts air item power by {0}%.	1	60	3	60	60	0	0	1135783895	1297626265		
+1127814103	1	104	Bolt Blessing	Boosts bolt item power by {0}%.	0	20	259	15	15	0	0	1135783895	1764774689		
+634371475	1	105	Bolt Blessing+	Boosts bolt item power by {0}%.	0	40	259	30	30	0	0	1135783895	1764774689		
+1388875013	1	106	Great Bolt Blessing	Boosts bolt item power by {0}%.	1	50	3	45	45	0	0	1135783895	1764774689	Bolt Blessing	Bolt Blessing+
+861136728	1	107	Great Bolt Blessing+	Boosts bolt item power by {0}%.	1	60	3	60	60	0	0	1135783895	1764774689		
+2020120747	1	108	Physical Resistance Blessing	Raises the target's physical resistance by {0}%.	0	10	277	10	10	0	0	1135783895	1198369485		
+513685231	1	109	Physical Resistance Blessing+	Raises the target's physical resistance by {0}%.	0	20	277	20	20	0	0	1135783895	1198369485		
+1771636345	1	110	Fortified Protection	Raises the target's physical resistance by {0}%.	1	40	21	30	30	0	0	1135783895	1198369485	Physical Resistance Blessing	Physical Resistance Blessing+
+134376484	1	111	Fortified Protection+	Raises the target's physical resistance by {0}%.	1	60	21	40	40	0	0	1135783895	1198369485		
+2062994227	1	112	Magic Resistance Blessing	Raises the target's magic resistance by {0}%.	0	10	277	10	10	0	0	1135783895	15827069		
+469788023	1	113	Magic Resistance Blessing+	Raises the target's magic resistance by {0}%.	0	20	277	20	20	0	0	1135783895	15827069		
+1795642849	1	114	Magical Protection	Raises the target's magic resistance by {0}%.	1	40	21	30	30	0	0	1135783895	15827069	Magic Resistance Blessing	Magic Resistance Blessing+
+178012092	1	115	Magical Protection+	Raises the target's magic resistance by {0}%.	1	60	21	40	40	0	0	1135783895	15827069		
+521583784	1	116	Fire Resistance Blessing	Raises the target's fire resistance by {0}%.	0	10	277	10	10	0	0	1135783895	435909091		
+2044728046	1	117	Fire Resistance Blessing+	Raises the target's fire resistance by {0}%.	0	20	277	20	20	0	0	1135783895	435909091		
+250028668	1	118	Flame Armor Protection	Raises the target's fire resistance by {0}%.	1	40	21	30	30	0	0	1135783895	435909091	Fire Resistance Blessing	Fire Resistance Blessing+
+1870415911	1	119	Flame Armor Protection+	Raises the target's fire resistance by {0}%.	1	60	21	40	40	0	0	1135783895	435909091		
+833491662	1	120	Ice Resistance Blessing	Raises the target's ice resistance by {0}%.	0	10	277	10	10	0	0	1135783895	364001147		
+1465433228	1	121	Ice Resistance Blessing+	Raises the target's ice resistance by {0}%.	0	20	277	20	20	0	0	1135783895	364001147		
+543132702	1	122	Frost Armor Protection	Raises the target's ice resistance by {0}%.	1	40	21	30	30	0	0	1135783895	364001147	Ice Resistance Blessing	Ice Resistance Blessing+
+1103423041	1	123	Frost Armor Protection+	Raises the target's ice resistance by {0}%.	1	60	21	40	40	0	0	1135783895	364001147		
+1022151116	1	124	Air Resistance Blessing	Raises the target's air resistance by {0}%.	0	10	277	10	10	0	0	1135783895	1654459280		
+1511679886	1	125	Air Resistance Blessing+	Raises the target's air resistance by {0}%.	0	20	277	20	20	0	0	1135783895	1654459280		
+756897560	1	126	Wind Armor Protection	Raises the target's air resistance by {0}%.	1	40	21	30	30	0	0	1135783895	1654459280	Air Resistance Blessing	Air Resistance Blessing+
+1283865925	1	127	Wind Armor Protection+	Raises the target's air resistance by {0}%.	1	60	21	40	40	0	0	1135783895	1654459280		
+816055051	1	128	Lightning Armor Protection	Raises the target's bolt resistance by {0}%.	0	10	277	10	10	0	0	1135783895	1768587014		
+1448258895	1	129	Lightning Armor Protection+	Raises the target's bolt resistance by {0}%.	0	20	277	20	20	0	0	1135783895	1768587014		
+559259097	1	130	Lightning Armor Protection	Raises the target's bolt resistance by {0}%.	1	40	21	30	30	0	0	1135783895	1768587014	Lightning Armor Protection	Lightning Armor Protection+
+1087305604	1	131	Lightning Armor Protection+	Raises the target's bolt resistance by {0}%.	1	60	21	40	40	0	0	1135783895	1768587014		
+719721902	1	132	Paralysis Cure	Cures Paralysis from the target.	0	8	277	100	100	0	0	905217877	1371764327		
+1276165100	1	133	Sleep Cure	Cures Sleep from the target.	0	8	277	100	100	0	0	905217877	1371764327		
+991398782	1	134	Poison Cure	Cures Poison from the target.	0	8	277	100	100	0	0	905217877	1371764327		
+1519182113	1	135	Burns Cure	Cures Burns from the target.	0	8	277	100	100	0	0	905217877	1371764327		
+764137911	1	136	Blindness Cure	Cures Blindness from the target.	0	8	277	100	100	0	0	905217877	1371764327		
+1266515955	1	137	Daze Cure	Cures Daze from the target.	0	8	277	100	100	0	0	905217877	1371764327		
+1014648677	1	138	Frostbite Cure	Cures Frostbite from the target.	0	8	277	100	100	0	0	905217877	1371764327		
+1396354314	1	139	Remove All Status Eff.	Cures all status effects from the target.	0	40	277	100	100	0	0	905217877	1371764327		
+1601005557	1	140	Curse Strength	Reduces the target's ATK by {0}%.	0	10	267	5	5	0	0	672248277	1702562854		
+966511025	1	141	Banish Strength	Reduces the target's ATK by {0}%.	0	20	267	10	10	0	0	672248277	1702562854		
+1318910247	1	142	Banish All Strength	Reduces the target's ATK by {0}%.	1	40	11	20	20	0	0	672248277	1702562854	Curse Strength	Banish Strength
+789025658	1	143	Banish All Strength+	Reduces the target's ATK by {0}%.	1	60	11	30	30	0	0	672248277	1702562854		
+1565032542	1	144	Curse Protection	Reduces the target's DEF by {0}%.	0	10	267	5	5	0	0	672248277	1785736136		
+1002319388	1	145	Banish Protection	Reduces the target's DEF by {0}%.	0	20	267	10	10	0	0	672248277	1785736136		
+1287200398	1	146	Banish All Protection	Reduces the target's DEF by {0}%.	1	40	11	20	20	0	0	672248277	1785736136	Curse Protection	Banish Protection
+757232849	1	147	Banish All Protection+	Reduces the target's DEF by {0}%.	1	60	11	30	30	0	0	672248277	1785736136		
+23315303	1	148	Curse Speed	Reduces the target's SPD by {0}%.	0	10	267	5	5	0	0	672248277	1183110841		
+1737846051	1	149	Banish Speed	Reduces the target's SPD by {0}%.	0	20	267	10	10	0	0	672248277	1183110841		
+278027701	1	150	Banish All Speed	Reduces the target's SPD by {0}%.	1	40	11	20	20	0	0	672248277	1183110841	Curse Speed	Banish Speed
+1896429546	1	151	Banish All Speed+	Reduces the target's SPD by {0}%.	1	60	11	30	30	0	0	672248277	1183110841		
+1991437565	1	152	Curse Phys ATK	Weakens the target's physical skill power by {0}%.	0	10	267	5	5	0	0	672248277	263441134		
+272908985	1	153	Curse Phys ATK+	Weakens the target's physical skill power by {0}%.	0	20	267	10	10	0	0	672248277	263441134		
+1732473391	1	154	Bind Phys ATK	Weakens the target's physical skill power by {0}%.	1	40	11	20	20	0	0	672248277	263441134	Curse Phys ATK	Curse Phys ATK+
+114825332	1	155	Bind Phys ATK+	Weakens the target's physical skill power by {0}%.	1	60	11	30	30	0	0	672248277	263441134		
+1949089637	1	156	Curse Magic ATK	Weakens the target's magic skill power by {0}%.	0	10	267	5	5	0	0	672248277	1524944524		
+316281121	1	157	Curse Magic ATK+	Weakens the target's magic skill power by {0}%.	0	20	267	10	10	0	0	672248277	1524944524		
+1708990903	1	158	Bind Magic ATK	Weakens the target's magic skill power by {0}%.	1	40	11	20	20	0	0	672248277	1524944524	Curse Magic ATK	Curse Magic ATK+
+71715820	1	159	Bind Magic ATK+	Weakens the target's magic skill power by {0}%.	1	60	11	30	30	0	0	672248277	1524944524		
+940920071	1	160	Curse Fire ATK	Weakens the target's fire skill power by {0}%.	0	10	267	5	5	0	0	672248277	157981469		
+1591993155	1	161	Curse Fire ATK+	Weakens the target's fire skill power by {0}%.	0	20	267	10	10	0	0	672248277	157981469		
+702862293	1	162	Bind Fire ATK	Weakens the target's fire skill power by {0}%.	1	40	11	20	20	0	0	672248277	157981469	Curse Fire ATK	Curse Fire ATK+
+1216330122	1	163	Bind Fire ATK+	Weakens the target's fire skill power by {0}%.	1	60	11	30	30	0	0	672248277	157981469		
+1064593050	1	164	Curse Ice ATK	Weakens the target's ice skill power by {0}%.	0	10	267	5	5	0	0	672248277	1579324385		
+1501743324	1	165	Curse Ice ATK+	Weakens the target's ice skill power by {0}%.	0	20	267	10	10	0	0	672248277	1579324385		
+780531786	1	166	Bind Ice ATK	Weakens the target's ice skill power by {0}%.	1	40	11	20	20	0	0	672248277	1579324385	Curse Ice ATK	Curse Ice ATK+
+1327403543	1	167	Bind Ice ATK+	Weakens the target's ice skill power by {0}%.	1	60	11	30	30	0	0	672248277	1579324385		
+468662373	1	168	Curse Air ATK	Weakens the target's air skill power by {0}%.	0	10	267	5	5	0	0	672248277	688762646		
+2098828833	1	169	Curse Air ATK+	Weakens the target's air skill power by {0}%.	0	20	267	10	10	0	0	672248277	688762646		
+169780919	1	170	Bind Air ATK	Weakens the target's air skill power by {0}%.	1	40	11	20	20	0	0	672248277	688762646	Curse Air ATK	Curse Air ATK+
+1803930858	1	171	Bind Air ATK+	Weakens the target's air skill power by {0}%.	1	60	11	30	30	0	0	672248277	688762646		
+2001917165	1	172	Curse Bolt ATK	Weakens the target's bolt skill power by {0}%.	0	10	267	5	5	0	0	672248277	173434504		
+295991977	1	173	Curse Bolt ATK+	Weakens the target's bolt skill power by {0}%.	0	20	267	10	10	0	0	672248277	173434504		
+1721977407	1	174	Bind Bolt ATK	Weakens the target's bolt skill power by {0}%.	1	40	11	20	20	0	0	672248277	173434504	Curse Bolt ATK	Curse Bolt ATK+
+121118818	1	175	Bind Bolt ATK+	Weakens the target's bolt skill power by {0}%.	1	60	11	30	30	0	0	672248277	173434504		
+1339726756	1	176	Mighty Curse	Lowers the target's physical resistance by {0}%.	0	10	267	5	5	0	0	672248277	1075146288		
+690763234	1	177	Mighty Curse+	Lowers the target's physical resistance by {0}%.	0	20	267	10	10	0	0	672248277	1075146288		
+1579877752	1	178	Greater Mighty Curse	Lowers the target's physical resistance by {0}%.	1	40	11	20	20	0	0	672248277	1075146288	Mighty Curse	Mighty Curse+
+1068527403	1	179	Greater Mighty Curse+	Lowers the target's physical resistance by {0}%.	1	60	11	30	30	0	0	672248277	1075146288		
+1296353340	1	180	Magic Curse	Lowers the target's magic resistance by {0}%.	0	10	267	5	5	0	0	672248277	1224471274		
+733111930	1	181	Magic Curse+	Lowers the target's magic resistance by {0}%.	0	20	267	10	10	0	0	672248277	1224471274		
+1555388144	1	182	Greater Magic Curse	Lowers the target's magic resistance by {0}%.	1	40	11	20	20	0	0	672248277	1224471274	Magic Curse	Magic Curse+
+1026440371	1	183	Greater Magic Curse+	Lowers the target's magic resistance by {0}%.	1	60	11	30	30	0	0	672248277	1224471274		
+1885465798	1	184	Fire Curse	Lowers the target's fire resistance by {0}%.	0	10	267	5	5	0	0	672248277	1361715613		
+379011712	1	185	Fire Curse+	Lowers the target's fire resistance by {0}%.	0	20	267	10	10	0	0	672248277	1361715613		
+1636856342	1	186	Greater Fire Curse	Lowers the target's fire resistance by {0}%.	1	40	11	20	20	0	0	672248277	1361715613	Fire Curse	Fire Curse+
+727115	1	187	Greater Fire Curse+	Lowers the target's fire resistance by {0}%.	1	60	11	30	30	0	0	672248277	1361715613		
+102502849	1	188	Ice Curse	Lowers the target's ice resistance by {0}%.	0	10	267	5	5	0	0	672248277	1993605854		
+1625997189	1	189	Ice Curse+	Lowers the target's ice resistance by {0}%.	0	20	267	10	10	0	0	672248277	1993605854		
+401444627	1	190	Greater Ice Curse	Lowers the target's ice resistance by {0}%.	1	40	11	20	20	0	0	672248277	1993605854	Ice Curse	Ice Curse+
+1987503438	1	191	Greater Ice Curse+	Lowers the target's ice resistance by {0}%.	1	60	11	30	30	0	0	672248277	1993605854		
+1402706342	1	192	Air Curse	Lowers the target's air resistance by {0}%.	0	10	267	5	5	0	0	672248277	33242665		
+896350180	1	193	Air Curse+	Lowers the target's air resistance by {0}%.	0	20	267	10	10	0	0	672248277	33242665		
+1114244982	1	194	Greater Air Curse	Lowers the target's air resistance by {0}%.	1	40	11	20	20	0	0	672248277	33242665	Air Curse	Air Curse+
+603024681	1	195	Greater Air Curse+	Lowers the target's air resistance by {0}%.	1	60	11	30	30	0	0	672248277	33242665		
+80725041	1	196	Bolt Curse	Lowers the target's bolt resistance by {0}%.	0	10	267	5	5	0	0	672248277	2087355650		
+1647929973	1	197	Bolt Curse+	Lowers the target's bolt resistance by {0}%.	0	20	267	10	10	0	0	672248277	2087355650		
+356408035	1	198	Greater Bolt Curse	Lowers the target's bolt resistance by {0}%.	1	40	11	20	20	0	0	672248277	2087355650	Bolt Curse	Bolt Curse+
+1956982974	1	199	Greater Bolt Curse+	Lowers the target's bolt resistance by {0}%.	1	60	11	30	30	0	0	672248277	2087355650		
+1612405935	1	200	Inflict Paralysis	Has a {0}% chance to inflict Paralysis on the target.	0	8	267	15	15	0	0	672248277	2103501848		
+116257515	1	201	Inflict Numbness	Has a {0}% chance to inflict Paralysis on the target.	0	25	267	20	20	0	0	672248277	2103501848		
+1911210621	1	202	Final Numbness	Has a {0}% chance to inflict Paralysis on the target.	1	45	11	30	30	0	0	672248277	2103501848	Inflict Paralysis	Inflict Numbness
+1273666964	1	203	Final Numbness+	Has a {0}% chance to inflict Paralysis on the target.	1	55	11	50	50	0	0	672248277	2103501848		
+2030071280	1	204	Inflict Sleep	Has a {0}% chance to inflict Sleep on the target.	0	8	267	15	15	0	0	672248277	1422250929		
+536265642	1	205	Inflict Torpor	Has a {0}% chance to inflict Sleep on the target.	0	25	267	20	20	0	0	672248277	1422250929		
+1760686908	1	206	Final Torpor	Has a {0}% chance to inflict Sleep on the target.	1	45	11	30	30	0	0	672248277	1422250929	Inflict Sleep	Inflict Torpor
+308439512	1	207	Final Torpor+	Has a {0}% chance to inflict Sleep on the target.	1	55	11	50	50	0	0	672248277	1422250929		
+1378696749	1	208	Inflict Poison	Has a {0}% chance to inflict Poison on the target.	0	8	267	50	50	0	0	672248277	71466067		
+886804585	1	209	Inflict Venom	Has a {0}% chance to inflict Poison on the target.	0	25	267	70	70	0	0	672248277	71466067		
+1138532607	1	210	Final Venom	Has a {0}% chance to inflict Poison on the target.	1	45	11	90	90	0	0	672248277	71466067	Inflict Poison	Inflict Venom
+596276037	1	211	Final Venom+	Has a {0}% chance to inflict Poison on the target.	1	55	11	100	100	0	0	672248277	71466067		
+1261834094	1	212	Inflict Burns	Has a {0}% chance to inflict Burns on the target.	0	8	267	50	50	0	0	672248277	1921477822		
+767598888	1	213	Inflict Blaze	Has a {0}% chance to inflict Burns on the target.	0	25	267	70	70	0	0	672248277	1921477822		
+1523028414	1	214	Final Blaze	Has a {0}% chance to inflict Burns on the target.	1	45	11	90	90	0	0	672248277	1921477822	Inflict Burns	Inflict Blaze
+2046985999	1	215	Final Blaze+	Has a {0}% chance to inflict Burns on the target.	1	55	11	100	100	0	0	672248277	1921477822		
+74946987	1	216	Inflict Blindness	Has a {0}% chance to inflict Blindness on the target.	0	8	267	30	30	0	0	672248277	1017760835		
+1652635631	1	217	Inflict Grudge	Has a {0}% chance to inflict Blindness on the target.	0	25	267	40	40	0	0	672248277	1017760835		
+361105273	1	218	Final Grudge	Has a {0}% chance to inflict Blindness on the target.	1	45	11	50	50	0	0	672248277	1017760835	Inflict Blindness	Inflict Grudge
+1079658111	1	219	Final Grudge+	Has a {0}% chance to inflict Blindness on the target.	1	55	11	70	70	0	0	672248277	1017760835		
+493660396	1	220	Inflict Daze	Has a {0}% chance to inflict Daze on the target.	0	8	267	15	15	0	0	672248277	727605064		
+2073691822	1	221	Inflict Binding	Has a {0}% chance to inflict Daze on the target.	0	25	267	20	20	0	0	672248277	727605064		
+211629624	1	222	Final Binding	Has a {0}% chance to inflict Daze on the target.	1	45	11	30	30	0	0	672248277	727605064	Inflict Daze	Inflict Binding
+433238581	1	223	Final Binding+	Has a {0}% chance to inflict Daze on the target.	1	55	11	50	50	0	0	672248277	727605064		
+910293801	1	224	Inflict Frostbite	Has a {0}% chance to inflict Frostbite on the target.	0	8	267	50	50	0	0	672248277	2098536107		
+1354192237	1	225	Inflict Glacier	Has a {0}% chance to inflict Frostbite on the target.	0	25	267	60	60	0	0	672248277	2098536107		
+665871867	1	226	Final Glacier	Has a {0}% chance to inflict Frostbite on the target.	1	45	11	70	70	0	0	672248277	2098536107	Inflict Frostbite	Inflict Glacier
+674932906	1	227	Final Glacier+	Has a {0}% chance to inflict Frostbite on the target.	1	55	11	80	80	0	0	672248277	2098536107		
+1228786093	1	228	Area Bonus	Increases the item's power and recover power by [targets in area of effect x {0}]%.	0	12	263	4	4	0	0	2075481065	50896742		
+801859561	1	229	Area Bonus +	Increases the item's power and recover power by [targets in area of effect x {0}]%.	0	30	263	6	6	0	0	2075481065	50896742		
+1489786751	1	230	Effective vs Many	Increases the item's power and recover power by [targets in area of effect x {0}]%.	0	35	263	8	8	0	0	2075481065	50896742		
+962018594	1	231	Multi Bonus	Increases the item's power and recover power by [targets in area of effect x {0}]%.	0	43	263	10	10	0	0	2075481065	50896742	Area Bonus	Area Bonus +
+1313869236	1	232	Multi Burst	Increases the item's power and recover power by [targets in area of effect x {0}]%.	1	50	7	15	15	0	0	2075481065	50896742	Effective vs Many	Multi Bonus
+682009586	1	233	Multi Burst+	Increases the item's power and recover power by [targets in area of effect x {0}]%.	1	55	7	20	20	0	0	2075481065	50896742		
+1604424552	1	234	Few Bonus	Increases the item's power and recovery power by [{0} ÷ targets in area of effect]%.	0	14	263	15	15	0	0	2075481065	227923516		
+820080905	1	235	Few Bonus +	Increases the item's power and recovery power by [{0} ÷ targets in area of effect]%.	0	30	263	20	20	0	0	2075481065	227923516		
+1206272415	1	236	Effective vs One	Increases the item's power and recovery power by [{0} ÷ targets in area of effect]%.	0	36	263	25	25	0	0	2075481065	227923516		
+656525434	1	237	Single Bonus	Increases the item's power and recovery power by [{0} ÷ targets in area of effect]%.	0	42	263	30	30	0	0	2075481065	227923516	Few Bonus	Few Bonus +
+1344731372	1	238	Single Blast	Increases the item's power and recovery power by [{0} ÷ targets in area of effect]%.	1	50	7	40	40	0	0	2075481065	227923516	Effective vs One	Single Bonus
+919623338	1	239	Single Blast+	Increases the item's power and recovery power by [{0} ÷ targets in area of effect]%.	1	55	7	50	50	0	0	2075481065	227923516		
+1104635456	1	240	Few+Many Bonus	Increases the item's power and recovery power by [{0} ÷ targets in area of effect + targets in area of effect x {1}]%.	1	50	7	20	20	5	5	2075481065	944459738	Multi Burst+	Single Blast+
+541854819	1	241	Close & Scattered	Increases the item's power and recovery power by [{0} ÷ targets in area of effect + targets in area of effect x {1}]%.	1	55	7	30	30	15	15	2075481065	944459738	Few+Many Bonus	Seeker of Magic
+1464548597	1	242	Close & Scattered+	Increases the item's power and recovery power by [{0} ÷ targets in area of effect + targets in area of effect x {1}]%.	1	60	7	40	40	20	20	2075481065	944459738		
+1920463902	1	243	Enhance Last	Boosts the item's power and recovery by {0}% when it only has 1 use remaining.	0	14	263	10	10	0	0	2075481065	1692862177		
+344021592	1	244	Enhance Last +	Boosts the item's power and recovery by {0}% when it only has 1 use remaining.	0	30	263	20	20	0	0	2075481065	1692862177		
+1669753550	1	245	Final Blow	Boosts the item's power and recovery by {0}% when it only has 1 use remaining.	1	35	7	30	30	0	0	2075481065	1692862177	Enhance Last	Enhance Last +
+35455123	1	246	Last Strike	Boosts the item's power and recovery by {0}% when it only has 1 use remaining.	1	50	7	50	50	0	0	2075481065	1692862177	Final Blow	Pure Determination
+1334924141	1	247	Last Strike +	Boosts the item's power and recovery by {0}% when it only has 1 use remaining.	1	55	7	60	60	0	0	2075481065	1692862177		
+1883688922	1	248	Compress Count	Increases the item's power and recovery power by [max use count x {0}]%, but changes the number of remaining uses to 1.	0	14	263	10	10	0	0	2075481065	236957336		
+380658076	1	249	Compress Count +	Increases the item's power and recovery power by [max use count x {0}]%, but changes the number of remaining uses to 1.	0	30	263	12	12	0	0	2075481065	236957336		
+1639403786	1	250	Force Use	Increases the item's power and recovery power by [max use count x {0}]%, but changes the number of remaining uses to 1.	1	35	7	15	15	0	0	2075481065	236957336	Compress Count	Compress Count +
+2898775	1	251	Final One	Increases the item's power and recovery power by [max use count x {0}]%, but changes the number of remaining uses to 1.	1	50	7	20	20	0	0	2075481065	236957336	Force Use	Guardian's Pride
+1672581107	1	252	Final One +	Increases the item's power and recovery power by [max use count x {0}]%, but changes the number of remaining uses to 1.	1	55	7	25	25	0	0	2075481065	236957336		
+1511138978	1	253	Charge by Number	Increases the item's power and recovery power by [max use count x {0}]%.	0	14	263	4	4	0	0	2075481065	1047230		
+1021610212	1	254	Charge by Number +	Increases the item's power and recovery power by [max use count x {0}]%.	0	30	263	6	6	0	0	2075481065	1047230		
+1273215090	1	255	Supercharge by Number	Increases the item's power and recovery power by [max use count x {0}]%.	1	35	7	10	10	0	0	2075481065	1047230	Charge by Number	Charge by Number +
+712561199	1	256	Bonus Count Boost	Increases the item's power and recovery power by [max use count x {0}]%.	1	50	7	15	15	0	0	2075481065	1047230	Supercharge by Number	Dreamt Up Secret Art
+96100363	1	257	Bonus Count Boost+	Increases the item's power and recovery power by [max use count x {0}]%.	1	55	7	20	20	0	0	2075481065	1047230		
+1753600461	1	258	Rapid Use	Shortens WT after use by {0}%, but reduces power and recovery power by {1}%.	0	12	287	5	5	-5	-5	2075481065	2019306194		
+242450313	1	259	Rapid Use +	Shortens WT after use by {0}%, but reduces power and recovery power by {1}%.	0	26	287	8	8	-8	-8	2075481065	2019306194		
+2037665567	1	260	Sonic Throw	Shortens WT after use by {0}%, but reduces power and recovery power by {1}%.	1	40	31	10	10	-10	-10	2075481065	2019306194	Rapid Use	Rapid Use +
+418325828	1	261	Lightning Throw	Shortens WT after use by {0}%, but reduces power and recovery power by {1}%.	1	50	31	15	15	-15	-15	2075481065	2019306194	Sonic Throw	The Power of Love
+1787103213	1	262	Lightning Throw+	Shortens WT after use by {0}%, but reduces power and recovery power by {1}%.	1	55	31	20	20	-20	-20	2075481065	2019306194		
+1762598082	1	263	Power Throw	Increases power and recovery power by {1}%, but extends WT after use by {0}%.	0	17	263	20	20	20	20	2075481065	656725764		
+268022408	1	264	Power Throw +	Increases power and recovery power by {1}%, but extends WT after use by {0}%.	0	30	263	30	30	30	30	2075481065	656725764		
+2029945362	1	265	Strong Throw	Increases power and recovery power by {1}%, but extends WT after use by {0}%.	1	44	7	50	50	50	50	2075481065	656725764	Power Throw	Power Throw +
+426109005	1	266	God Throw	Increases power and recovery power by {1}%, but extends WT after use by {0}%.	1	50	7	75	75	75	75	2075481065	656725764	Strong Throw	Seeker of Magic
+1644812126	1	267	God Throw+	Increases power and recovery power by {1}%, but extends WT after use by {0}%.	1	55	7	100	100	100	100	2075481065	656725764		
+96176936	1	268	Enhance Finisher	Deals {0}% more damage to stunned targets.	0	13	259	10	10	0	0	2085854704	677545693		
+1666000238	1	269	Enhance Finisher +	Deals {0}% more damage to stunned targets.	0	21	259	15	15	0	0	2085854704	677545693		
+340399612	1	270	Enhance Finisher ++	Deals {0}% more damage to stunned targets.	0	30	259	20	20	0	0	2085854704	677545693		
+1976663975	1	271	Ruthless Strike	Deals {0}% more damage to stunned targets.	0	37	259	25	25	0	0	2085854704	677545693	Enhance Finisher	Enhance Finisher +
+47599409	1	272	Relentless Blow	Deals {0}% more damage to stunned targets.	0	43	259	30	30	0	0	2085854704	677545693	Enhance Finisher ++	Ruthless Strike
+1679876469	1	273	Stun Burst	Deals {0}% more damage to stunned targets.	0	48	259	35	35	0	0	2085854704	677545693	Ruthless Strike	Relentless Blow
+321376739	1	274	Stun Burst+	Deals {0}% more damage to stunned targets.	1	50	3	40	40	0	0	2085854704	677545693		
+2087138188	1	275	Merciless Strike	Deals {0}% more damage to stunned targets.	1	55	3	45	45	0	0	2085854704	677545693	Stun Burst	Ruler of Shadow and Light
+190841626	1	276	Merciless Strike+	Deals {0}% more damage to stunned targets.	1	60	3	50	50	0	0	2085854704	677545693		
+1833865731	1	277	Stun Damage	Increases stun damage by {0}%.	0	13	259	10	10	0	0	2085854704	1628810824		
+196623431	1	278	Stun Damage+	Increases stun damage by {0}%.	0	21	259	15	15	0	0	2085854704	1628810824		
+2092895441	1	279	Stun Damage++	Increases stun damage by {0}%.	0	30	259	20	20	0	0	2085854704	1628810824		
+488924812	1	280	Tenacious Blow	Increases stun damage by {0}%.	0	37	259	30	30	0	0	2085854704	1628810824	Stun Damage	Stun Damage+
+1780700698	1	281	Relentless Blow	Increases stun damage by {0}%.	0	43	259	40	40	0	0	2085854704	1628810824	Stun Damage++	Tenacious Blow
+215349344	1	282	Regal Destruction	Increases stun damage by {0}%.	0	48	259	50	50	0	0	2085854704	1628810824	Tenacious Blow	Relentless Blow
+2077411530	1	283	Regal Destruction+	Increases stun damage by {0}%.	1	50	3	60	60	0	0	2085854704	1628810824		
+345123495	1	284	Divine Destruction	Increases stun damage by {0}%.	1	55	3	70	70	0	0	2085854704	1628810824	Regal Destruction	Fairy Blessing
+1670715953	1	285	Divine Destruction+	Increases stun damage by {0}%.	1	60	3	80	80	0	0	2085854704	1628810824		
+1410867024	1	286	Sharpness Up: Phys	Deals an additional {0} power physical damage when attacking.	0	14	291	10	10	0	0	1221006659	1934461108		
+854503702	1	287	Sharpen Edge: Phys	Deals an additional {0} power physical damage when attacking.	0	22	291	15	15	0	0	1221006659	1934461108		
+1172930948	1	288	Aggression Up: Phys	Deals an additional {0} power physical damage when attacking.	0	28	291	20	20	0	0	1221006659	1934461108		
+611511263	1	289	Barrage Attack: Phys	Deals an additional {0} power physical damage when attacking.	0	34	291	25	25	0	0	1221006659	1934461108	Sharpness Up: Phys	Sharpen Edge: Phys
+1400232777	1	290	Skillful Attack: Phys	Deals an additional {0} power physical damage when attacking.	1	40	35	30	30	0	0	1221006659	1934461108	Aggression Up: Phys	Barrage Attack: Phys
+1671897646	1	291	Skillful Attack: Phys+	Deals an additional {0} power physical damage when attacking.	1	45	35	35	35	0	0	1221006659	1934461108		
+897807629	1	292	Persistent Attack: Phys	Deals an additional {0} power physical damage when attacking.	1	50	35	40	40	0	0	1221006659	1934461108	Barrage Attack: Phys	Fairy Boon
+1115964827	1	293	Persistent Attack: Phys+	Deals an additional {0} power physical damage when attacking.	1	55	35	60	60	0	0	1221006659	1934461108		
+1198225806	1	294	Sharpness Up: Magic	Deals an additional {0} power magic damage when attacking.	0	14	291	10	10	0	0	1221006659	696892015		
+563992524	1	295	Sharpen Edge: Magic	Deals an additional {0} power magic damage when attacking.	0	22	291	15	15	0	0	1221006659	696892015		
+1452992350	1	296	Aggression Up: Magic	Deals an additional {0} power magic damage when attacking.	0	28	291	20	20	0	0	1221006659	696892015		
+922848513	1	297	Barrage Attack: Magic	Deals an additional {0} power magic damage when attacking.	0	34	291	25	25	0	0	1221006659	696892015	Sharpness Up: Magic	Sharpen Edge: Magic
+1074183575	1	298	Skillful Attack: Magic	Deals an additional {0} power magic damage when attacking.	1	40	35	30	30	0	0	1221006659	696892015	Aggression Up: Magic	Barrage Attack: Magic
+2088229970	1	299	Skillful Attack: Magic+	Deals an additional {0} power magic damage when attacking.	1	45	35	35	35	0	0	1221006659	696892015		
+653267923	1	300	Persistent Attack: Magic	Deals an additional {0} power magic damage when attacking.	1	50	35	40	40	0	0	1221006659	696892015	Barrage Attack: Magic	Fairy Tune
+1375150917	1	301	Persistent Attack: Magic+	Deals an additional {0} power magic damage when attacking.	1	55	35	60	60	0	0	1221006659	696892015		
+1510010318	1	302	Sharpness Up: Fire	Deals an additional {0} power fire damage when attacking.	0	14	291	10	10	0	0	1221006659	1714659862		
+1022772108	1	303	Sharpen Edge: Fire	Deals an additional {0} power fire damage when attacking.	0	22	291	15	15	0	0	1221006659	1714659862		
+1274114846	1	304	Aggression Up: Fire	Deals an additional {0} power fire damage when attacking.	0	28	291	20	20	0	0	1221006659	1714659862		
+711596353	1	305	Barrage Attack: Fire	Deals an additional {0} power fire damage when attacking.	0	34	291	25	25	0	0	1221006659	1714659862	Sharpness Up: Fire	Sharpen Edge: Fire
+1567435223	1	306	Skillful Attack: Fire	Deals an additional {0} power fire damage when attacking.	1	40	35	30	30	0	0	1221006659	1714659862	Aggression Up: Fire	Barrage Attack: Fire
+1387742665	1	307	Skillful Attack: Fire+	Deals an additional {0} power fire damage when attacking.	1	45	35	35	35	0	0	1221006659	1714659862		
+1000048531	1	308	Persistent Attack: Fire	Deals an additional {0} power fire damage when attacking.	1	50	35	40	40	0	0	1221006659	1714659862	Barrage Attack: Fire	Fairy Unity
+1285338885	1	309	Persistent Attack: Fire+	Deals an additional {0} power fire damage when attacking.	1	55	35	60	60	0	0	1221006659	1714659862		
+1914881192	1	310	Sharpness Up: Ice	Deals an additional {0} power ice damage when attacking.	0	14	291	10	10	0	0	1221006659	1217627849		
+349465326	1	311	Sharpen Edge: Ice	Deals an additional {0} power ice damage when attacking.	0	22	291	15	15	0	0	1221006659	1217627849		
+1674795644	1	312	Aggression Up: Ice	Deals an additional {0} power ice damage when attacking.	0	28	291	20	20	0	0	1221006659	1217627849		
+38285351	1	313	Barrage Attack: Ice	Deals an additional {0} power ice damage when attacking.	0	34	291	25	25	0	0	1221006659	1217627849	Sharpness Up: Ice	Sharpen Edge: Ice
+1968111793	1	314	Skillful Attack: Ice	Deals an additional {0} power ice damage when attacking.	1	40	35	30	30	0	0	1221006659	1217627849	Aggression Up: Ice	Barrage Attack: Ice
+9757772	1	315	Skillful Attack: Ice+	Deals an additional {0} power ice damage when attacking.	1	45	35	35	35	0	0	1221006659	1217627849		
+330936053	1	316	Persistent Attack: Ice	Deals an additional {0} power ice damage when attacking.	1	50	35	40	40	0	0	1221006659	1217627849	Barrage Attack: Ice	Pure Determination
+1690213987	1	317	Persistent Attack: Ice+	Deals an additional {0} power ice damage when attacking.	1	55	35	60	60	0	0	1221006659	1217627849		
+730492312	1	318	Sharpness Up: Bolt	Deals an additional {0} power bolt damage when attacking.	0	14	291	10	10	0	0	1221006659	439414244		
+1300022238	1	319	Sharpen Edge: Bolt	Deals an additional {0} power bolt damage when attacking.	0	22	291	15	15	0	0	1221006659	439414244		
+981201740	1	320	Aggression Up: Bolt	Deals an additional {0} power bolt damage when attacking.	0	28	291	20	20	0	0	1221006659	439414244		
+1541445911	1	321	Barrage Attack: Bolt	Deals an additional {0} power bolt damage when attacking.	0	34	291	25	25	0	0	1221006659	439414244	Sharpness Up: Bolt	Sharpen Edge: Bolt
+753379713	1	322	Skillful Attack: Bolt	Deals an additional {0} power bolt damage when attacking.	1	40	35	30	30	0	0	1221006659	439414244	Aggression Up: Bolt	Barrage Attack: Bolt
+767877256	1	323	Skillful Attack: Bolt+	Deals an additional {0} power bolt damage when attacking.	1	45	35	35	35	0	0	1221006659	439414244		
+1242630085	1	324	Persistent Attack: Bolt	Deals an additional {0} power bolt damage when attacking.	1	50	35	40	40	0	0	1221006659	439414244	Barrage Attack: Bolt	Guardian's Pride
+1024866131	1	325	Persistent Attack: Bolt+	Deals an additional {0} power bolt damage when attacking.	1	55	35	60	60	0	0	1221006659	439414244		
+2046466222	1	326	Sharpness Up: Air	Deals an additional {0} power air damage when attacking.	0	14	291	10	10	0	0	1221006659	535232295		
+520894184	1	327	Sharpen Edge: Air	Deals an additional {0} power air damage when attacking.	0	22	291	15	15	0	0	1221006659	535232295		
+1745553022	1	328	Aggression Up: Air	Deals an additional {0} power air damage when attacking.	0	28	291	20	20	0	0	1221006659	535232295		
+160459811	1	329	Barrage Attack: Air	Deals an additional {0} power air damage when attacking.	0	34	291	25	25	0	0	1221006659	535232295	Sharpness Up: Air	Sharpen Edge: Air
+2123848885	1	330	Skillful Attack: Air	Deals an additional {0} power air damage when attacking.	1	40	35	30	30	0	0	1221006659	535232295	Aggression Up: Air	Barrage Attack: Air
+270298753	1	331	Skillful Attack: Air+	Deals an additional {0} power air damage when attacking.	1	45	35	35	35	0	0	1221006659	535232295		
+409072369	1	332	Persistent Attack: Air	Deals an additional {0} power air damage when attacking.	1	50	35	40	40	0	0	1221006659	535232295	Barrage Attack: Air	Guardian's Pride
+1869005415	1	333	Persistent Attack: Air+	Deals an additional {0} power air damage when attacking.	1	55	35	60	60	0	0	1221006659	535232295		
+1518989954	1	334	Proficient Interrupt	Grants {0} TP upon performing an Interrupt.	0	27	1281	5	5	0	0	1135783895	818412435		
+1014979780	1	335	Proficient Interrupt+	Grants {0} TP upon performing an Interrupt.	0	40	1281	10	10	0	0	1135783895	818412435		
+1266183250	1	336	Proficient Interrupt++	Grants {0} TP upon performing an Interrupt.	1	50	1025	20	20	0	0	1135783895	818412435	Proficient Interrupt	Proficient Interrupt+
+540667834	1	337	Aggressive Interrupt	Boosts the item's power and recovery by {0}％ when it is used during an Interrupt.	0	27	263	20	20	0	0	1135783895	972821713		
+1187987964	1	338	Aggressive Interrupt+	Boosts the item's power and recovery by {0}％ when it is used during an Interrupt.	0	40	263	30	30	0	0	1135783895	972821713		
+835219818	1	339	Aggressive Interrupt++	Boosts the item's power and recovery by {0}％ when it is used during an Interrupt.	1	50	7	40	40	0	0	1135783895	972821713	Aggressive Interrupt	Aggressive Interrupt+
+202645357	1	340	Proficient Mix	Grants {0} TP when performing Item Mix.	0	27	1281	5	5	0	0	1135783895	860926713		
+1793241385	1	341	Proficient Mix+	Grants {0} TP when performing Item Mix.	0	40	1281	10	10	0	0	1135783895	860926713		
+501580223	1	342	Proficient Mix++	Grants {0} TP when performing Item Mix.	1	50	1025	20	20	0	0	1135783895	860926713	Proficient Mix	Proficient Mix+
+725369862	1	343	Enhance Mix	Boost the item's power and recovery by {0}% when performing Item Mix.	0	27	263	100	100	0	0	1135783895	1392255940		
+1305143876	1	344	Enhance Mix+	Boost the item's power and recovery by {0}% when performing Item Mix.	0	40	263	125	125	0	0	1135783895	1392255940		
+986569430	1	345	Enhance Mix++	Boost the item's power and recovery by {0}% when performing Item Mix.	1	50	7	150	150	0	0	1135783895	1392255940	Enhance Mix	Enhance Mix+
+195702134	1	346	Proficient Link	Boosts skill power by {0}% upon performing a Multi-Action.	0	39	385	30	30	0	0	1135783895	1331594630		
+490271886	1	347	AP Consumption	Consumes {0}% AP when using the item. Power and recovery is boosted based on the amount of AP consumed.	0	16	263	10	10	0	0	2075481065	1128540471		
+2077121224	1	348	AP Consumption+	Consumes {0}% AP when using the item. Power and recovery is boosted based on the amount of AP consumed.	0	27	263	20	20	0	0	2075481065	1128540471		
+214526558	1	349	AP Consumption++	Consumes {0}% AP when using the item. Power and recovery is boosted based on the amount of AP consumed.	1	34	7	30	30	0	0	2075481065	1128540471	AP Consumption	AP Consumption+
+1834090499	1	350	Sap Vitality	Consumes {0}% AP when using the item. Power and recovery is boosted based on the amount of AP consumed.	1	40	7	40	40	0	0	2075481065	1128540471	AP Consumption+	AP Consumption++
+271095549	1	351	HP Consumption	Consumes {0}% HP when using the item. Power and recovery is boosted based on the amount of AP consumed.	0	16	263	10	10	0	0	2075481065	270033044		
+1994275001	1	352	HP Consumption+	Consumes {0}% HP when using the item. Power and recovery is boosted based on the amount of AP consumed.	0	27	263	20	20	0	0	2075481065	270033044		
+31000623	1	353	HP Consumption++	Consumes {0}% HP when using the item. Power and recovery is boosted based on the amount of AP consumed.	1	34	7	30	30	0	0	2075481065	270033044	HP Consumption	HP Consumption+
+1614963316	1	354	Sap Life	Consumes {0}% HP when using the item. Power and recovery is boosted based on the amount of AP consumed.	1	40	7	40	40	0	0	2075481065	270033044	HP Consumption+	HP Consumption++
+522010794	1	355	Grant HP Recovery	Restore {0}% of the target's HP.	0	25	277	10	10	0	0	905217877	178690153		
+2045505264	1	356	Grant HP Recovery+	Restore {0}% of the target's HP.	0	40	277	15	15	0	0	905217877	178690153		
+250404474	1	357	Healing Boon	Restore {0}% of the target's HP.	1	45	21	20	20	0	0	905217877	178690153	Grant HP Recovery	Grant HP Recovery+
+1870115877	1	358	Grant Revival	Revives the target with {0}% HP if they are KO'd.	0	30	261	1	1	0	0	905217877	1651527833		
+410027187	1	359	Grant Revival+	Revives the target with {0}% HP if they are KO'd.	0	40	261	10	10	0	0	905217877	1651527833		
+2122722039	1	360	Grant Revival++	Revives the target with {0}% HP if they are KO'd.	1	60	5	50	50	0	0	905217877	1651527833	Grant Revival	Grant Revival+
+1611808916	1	361	HP Charge	Increases max HP by {0}.	0	5	1409	10	10	0	0	1360299425	1360299425		
+115666646	1	362	HP Boost	Increases max HP by {0}.	0	15	1409	15	15	0	0	1360299425	1360299425		
+1910758976	1	363	HP Supercharge	Increases max HP by {0}.	0	20	1409	20	20	0	0	1360299425	1360299425		
+276345885	1	364	Swelling Power	Increases max HP by {0}.	0	25	1409	25	25	0	0	1360299425	1360299425	HP Charge	HP Boost
+1736410251	1	365	Overflowing Life	Increases max HP by {0}.	1	30	1153	30	30	0	0	1360299425	1360299425	HP Boost	HP Supercharge
+25766607	1	366	Life Force	Increases max HP by {0}.	1	35	1153	40	40	0	0	1360299425	1360299425	Swelling Power	Overflowing Life
+1468572608	1	367	Life Force+	Increases max HP by {0}.	1	45	1153	50	50	0	0	1360299425	1360299425		
+1989024345	1	368	Awakened Vitality	Increases max HP by {0}.	1	55	1153	60	60	0	0	1360299425	1360299425	Life Force	Fairy Tune
+184986003	1	369	Awakened Vitality+	Increases max HP by {0}.	1	60	1153	70	70	0	0	1360299425	1360299425		
+490246425	1	370	ATK Charge	Increases ATK by {0}.	0	5	1313	5	5	0	0	1057447733	1964213878		
+2077114205	1	371	ATK Boost	Increases ATK by {0}.	0	15	1313	10	10	0	0	1057447733	1964213878		
+214503371	1	372	ATK Supercharge	Increases ATK by {0}.	0	20	1313	15	15	0	0	1057447733	1964213878		
+1834116502	1	373	Beastly Power	Increases ATK by {0}.	0	25	1313	20	20	0	0	1057447733	1964213878	ATK Charge	ATK Boost
+441799936	1	374	Power of Destruction	Increases ATK by {0}.	1	30	1057	25	25	0	0	1057447733	1964213878	ATK Boost	ATK Supercharge
+2091121478	1	375	War God's Power	Increases ATK by {0}.	1	35	1057	30	30	0	0	1057447733	1964213878	Beastly Power	Power of Destruction
+1533011680	1	376	War God's Power+	Increases ATK by {0}.	1	45	1057	35	35	0	0	1057447733	1964213878		
+195349460	1	377	Awakened Power	Increases ATK by {0}.	1	55	1057	40	40	0	0	1057447733	1964213878	War God's Power	Fairy Unity
+1878837947	1	378	Awakened Power+	Increases ATK by {0}.	1	60	1057	45	45	0	0	1057447733	1964213878		
+501258683	1	379	DEF Charge	Increases DEF by {0}.	0	5	1345	5	5	0	0	1071601559	1816169662		
+2065053695	1	380	DEF Boost	Increases DEF by {0}.	0	15	1345	10	10	0	0	1071601559	1816169662		
+202442601	1	381	DEF Supercharge	Increases DEF by {0}.	0	20	1345	15	15	0	0	1071601559	1816169662		
+1837788470	1	382	Steel Protection	Increases DEF by {0}.	0	25	1345	20	20	0	0	1071601559	1816169662	DEF Charge	DEF Boost
+445472164	1	383	Diamond Defense	Increases DEF by {0}.	1	30	1089	25	25	0	0	1071601559	1816169662	DEF Boost	DEF Supercharge
+2088498150	1	384	Dragonscale Protection	Increases DEF by {0}.	1	35	1089	30	30	0	0	1071601559	1816169662	Steel Protection	Diamond Defense
+321603363	1	385	Dragonscale Protection+	Increases DEF by {0}.	1	45	1089	35	35	0	0	1071601559	1816169662		
+192725872	1	386	Awakened Protection	Increases DEF by {0}.	1	55	1089	40	40	0	0	1071601559	1816169662	Dragonscale Protection	Pure Determination
+663251834	1	387	Awakened Protection+	Increases DEF by {0}.	1	60	1089	45	45	0	0	1071601559	1816169662		
+20610017	1	388	SPD Charge	Increases SPD by {0}.	0	5	1409	5	5	0	0	587576781	1914056673		
+1741477285	1	389	SPD Boost	Increases SPD by {0}.	0	15	1409	10	10	0	0	587576781	1914056673		
+281797939	1	390	SPD Supercharge	Increases SPD by {0}.	0	20	1409	15	15	0	0	587576781	1914056673		
+1901105008	1	391	Speed of Skanda	Increases SPD by {0}.	0	25	1409	20	20	0	0	587576781	1914056673	SPD Charge	SPD Boost
+106414074	1	392	Speed of Gods	Increases SPD by {0}.	1	30	1153	25	25	0	0	587576781	1914056673	SPD Boost	SPD Supercharge
+1621168572	1	393	Speed of Light	Increases SPD by {0}.	1	35	1153	30	30	0	0	587576781	1914056673	Speed of Skanda	Speed of Gods
+2073556033	1	394	Speed of Light+	Increases SPD by {0}.	1	45	1153	35	35	0	0	587576781	1914056673		
+396763434	1	395	Awakened Speed	Increases SPD by {0}.	1	50	1153	40	40	0	0	587576781	1914056673	Speed of Light	The Power of Love
+1328863260	1	396	Awakened Speed+	Increases SPD by {0}.	1	55	1153	45	45	0	0	587576781	1914056673		
+1046560754	1	397	ATK-DEF Charge	Increases ATK and DEF by {0}.	0	25	1377	10	10	10	10	1541775006	1242034929	ATK Charge	DEF Charge
+1486328248	1	398	ATK-SPD Charge	Increases ATK and SPD by {0}.	0	25	1441	10	10	10	10	1541775006	1806613532	ATK Charge	SPD Charge
+798007586	1	399	DEF-SPD Charge	Increases DEF and SPD by {0}.	0	25	1473	10	10	10	10	1541775006	384434385	DEF Charge	SPD Charge
+1309395837	1	400	ATK-DEF Boost	Increases ATK and DEF by {0}.	0	40	1377	15	15	15	15	1541775006	1242034929	ATK Boost	DEF Boost
+957152235	1	401	ATK-SPD Boost	Increases ATK and SPD by {0}.	0	40	1441	15	15	15	15	1541775006	1806613532	ATK Boost	SPD Boost
+1610241455	1	402	DEF-SPD Boost	Increases DEF and SPD by {0}.	0	40	1473	15	15	15	15	1541775006	384434385	DEF Boost	SPD Boost
+687695161	1	403	ATK-DEF Supercharge	Increases ATK and DEF by {0}.	1	45	1121	20	20	20	20	1541775006	1242034929	ATK Supercharge	DEF Supercharge
+1203603286	1	404	ATK-SPD Supercharge	Increases ATK and SPD by {0}.	1	50	1185	20	20	20	20	1541775006	1806613532	ATK Supercharge	SPD Supercharge
+817543104	1	405	DEF-SPD Supercharge	Increases DEF and SPD by {0}.	1	55	1217	20	20	20	20	1541775006	384434385	DEF Supercharge	SPD Supercharge
+47750854	1	406	All Stats Charge	Increases all stats by {0}.	0	40	1505	5	5	0	0	1541775006	105900541	ATK-SPD Charge	DEF-SPD Charge
+1680748672	1	407	All Stats Boost	Increases all stats by {0}.	0	45	1505	10	10	0	0	1541775006	105900541	ATK-SPD Boost	DEF-SPD Boost
+321454102	1	408	All Stats Supercharge	Increases all stats by {0}.	1	55	1249	20	20	0	0	1541775006	105900541	ATK-SPD Supercharge	DEF-SPD Supercharge
+1924295243	1	409	All Stats Power	Increases all stats by {0}.	1	58	1249	30	30	0	0	1541775006	105900541	All Stats Supercharge	Guardian's Pride
+1603539769	1	410	All Stats Power+	Increases all stats by {0}.	1	60	1249	50	50	0	0	1541775006	105900541		
+2076647967	1	411	Parameters +8%	Increases all stats by {0}%.	0	38	1505	8	8	0	0	1541775006	1013487860		
+489786459	1	412	Parameters +10%	Increases all stats by {0}%.	0	43	1505	10	10	0	0	1541775006	1013487860		
+1781972173	1	413	Enhanced Body	Increases all stats by {0}%.	0	50	1505	12	12	0	0	1541775006	1013487860	Parameters +8%	Parameters +10%
+195942034	1	414	Superenhanced Body	Increases all stats by {0}%.	0	52	1505	15	15	0	0	1541775006	1013487860	Parameters +10%	Enhanced Body
+2091574792	1	415	Developed Body	Increases all stats by {0}%.	1	55	1249	20	20	0	0	1541775006	1013487860	Enhanced Body	Superenhanced Body
+442255426	1	416	Evolved Body	Increases all stats by {0}%.	1	58	1249	25	25	0	0	1541775006	1013487860	Developed Body	Fairy Boon
+1381641130	1	417	Evolved Body+	Increases all stats by {0}%.	1	60	1249	30	30	0	0	1541775006	1013487860		
+1389971177	1	418	DEX Charge	Increases DEX by {0}.	0	6	1473	5	5	0	0	2075481065	660864627		
+875554989	1	419	DEX Boost	Increases DEX by {0}.	0	20	1473	7	7	0	0	2075481065	660864627		
+1126750267	1	420	DEX Supercharge	Increases DEX by {0}.	0	30	1473	10	10	0	0	2075481065	660864627		
+582201958	1	421	Skillful Handling	Increases DEX by {0}.	0	35	1473	12	12	0	0	2075481065	660864627	DEX Charge	DEX Boost
+1437893360	1	422	Skillful Technique	Increases DEX by {0}.	1	40	1217	15	15	0	0	2075481065	660864627	DEX Boost	DEX Supercharge
+859974838	1	423	Skillful Strike	Increases DEX by {0}.	1	45	1217	18	18	0	0	2075481065	660864627	Skillful Handling	Skillful Technique
+1999232704	1	424	Skillful Strike+	Increases DEX by {0}.	1	50	1217	20	20	0	0	2075481065	660864627		
+1145379876	1	425	Awakened DEX	Increases DEX by {0}.	1	55	1217	25	25	0	0	2075481065	660864627	Skillful Strike	Fairy Blessing
+1133179547	1	426	Awakened DEX+	Increases DEX by {0}.	1	60	1217	30	30	0	0	2075481065	660864627		
+1678706567	1	427	Physical Resistance Up	Raises physical resistance by {0}%.	0	8	449	5	5	0	0	1071601559	1851776534		
+49916355	1	428	Physical Resistance Up+	Raises physical resistance by {0}%.	0	12	449	8	8	0	0	1071601559	1851776534		
+1979619669	1	429	Physical Resistance Up++	Raises physical resistance by {0}%.	0	16	449	10	10	0	0	1071601559	1851776534		
+342225672	1	430	Physical Resistance Charge	Raises physical resistance by {0}%.	0	30	449	13	13	0	0	1071601559	1851776534	Physical Resistance Up	Physical Resistance Up+
+1667416990	1	431	Physical Resistance Boost	Raises physical resistance by {0}%.	0	35	449	15	15	0	0	1071601559	1851776534	Physical Resistance Up+	Physical Resistance Up++
+93613532	1	432	Physical Resistance Supercharge	Raises physical resistance by {0}%.	0	45	449	18	18	0	0	1071601559	1851776534	Physical Resistance Charge	Physical Resistance Boost
+1922260302	1	433	Physical Resistance Supercharge+	Raises physical resistance by {0}%.	1	50	193	20	20	0	0	1071601559	1851776534		
+500416291	1	434	Physical Resistance Master	Raises physical resistance by {0}%.	1	55	193	23	23	0	0	1071601559	1851776534	Physical Resistance Supercharge	Guardian's Pride
+1792315317	1	435	Physical Resistance Master+	Raises physical resistance by {0}%.	1	60	193	25	25	0	0	1071601559	1851776534		
+443791519	1	436	Magic Resistance Up	Raises magic resistance by {0}%.	0	8	449	5	5	0	0	1071601559	1821556204		
+2089096923	1	437	Magic Resistance Up+	Raises magic resistance by {0}%.	0	12	449	8	8	0	0	1071601559	1821556204		
+193078861	1	438	Magic Resistance Up++	Raises magic resistance by {0}%.	0	16	449	10	10	0	0	1071601559	1821556204		
+1780042770	1	439	Magic Resistance Charge	Raises magic resistance by {0}%.	0	30	449	13	13	0	0	1071601559	1821556204	Magic Resistance Up	Magic Resistance Up+
+488537224	1	440	Magic Resistance Boost	Raises magic resistance by {0}%.	0	35	449	15	15	0	0	1071601559	1821556204	Magic Resistance Up+	Magic Resistance Up++
+2078855874	1	441	Magic Resistance Supercharge	Raises magic resistance by {0}%.	0	45	449	18	18	0	0	1071601559	1821556204	Magic Resistance Charge	Magic Resistance Boost
+217047636	1	442	Magic Resistance Supercharge+	Raises magic resistance by {0}%.	1	50	193	20	20	0	0	1071601559	1821556204		
+1672413243	1	443	Magic Resistance Master	Raises magic resistance by {0}%.	1	55	193	23	23	0	0	1071601559	1821556204	Magic Resistance Supercharge	Pure Determination
+346566829	1	444	Magic Resistance Master+	Raises magic resistance by {0}%.	1	60	193	25	25	0	0	1071601559	1821556204		
+632327955	1	445	Fire Resistance Up	Raises fire resistance by {0}%.	0	8	449	5	5	0	0	1071601559	118698441		
+1128669527	1	446	Fire Resistance Up+	Raises fire resistance by {0}%.	0	12	449	8	8	0	0	1071601559	118698441		
+876679617	1	447	Fire Resistance Up++	Raises fire resistance by {0}%.	0	16	449	10	10	0	0	1071601559	118698441		
+1440381854	1	448	Fire Resistance Charge	Raises fire resistance by {0}%.	0	30	449	13	13	0	0	1071601559	118698441	Fire Resistance Up	Fire Resistance Up+
+584928012	1	449	Fire Resistance Boost	Raises fire resistance by {0}%.	0	35	449	15	15	0	0	1071601559	118698441	Fire Resistance Up+	Fire Resistance Up++
+1143727438	1	450	Fire Resistance Supercharge	Raises fire resistance by {0}%.	0	45	449	18	18	0	0	1071601559	118698441	Fire Resistance Charge	Fire Resistance Boost
+858576344	1	451	Fire Resistance Supercharge+	Raises fire resistance by {0}%.	1	50	193	20	20	0	0	1071601559	118698441		
+1550596023	1	452	Fire Resistance Master	Raises fire resistance by {0}%.	1	55	193	23	23	0	0	1071601559	118698441	Fire Resistance Supercharge	Dreamt Up Secret Art
+728434465	1	453	Fire Resistance Master+	Raises fire resistance by {0}%.	1	60	193	25	25	0	0	1071601559	118698441		
+451035380	1	454	Ice Resistance Up	Raises ice resistance by {0}%.	0	8	449	5	5	0	0	1071601559	1813434714		
+2081746614	1	455	Ice Resistance Up+	Raises ice resistance by {0}%.	0	12	449	8	8	0	0	1071601559	1813434714		
+185851424	1	456	Ice Resistance Up++	Raises ice resistance by {0}%.	0	16	449	10	10	0	0	1071601559	1813434714		
+1787343997	1	457	Ice Resistance Charge	Raises ice resistance by {0}%.	0	30	449	13	13	0	0	1071601559	1813434714	Ice Resistance Up	Ice Resistance Up+
+495944939	1	458	Ice Resistance Boost	Raises ice resistance by {0}%.	0	35	449	15	15	0	0	1071601559	1813434714	Ice Resistance Up+	Ice Resistance Up++
+2071538351	1	459	Ice Resistance Supercharge	Raises ice resistance by {0}%.	0	45	449	18	18	0	0	1071601559	1813434714	Ice Resistance Charge	Ice Resistance Boost
+209590841	1	460	Ice Resistance Supercharge+	Raises ice resistance by {0}%.	1	50	193	20	20	0	0	1071601559	1813434714		
+1665071192	1	461	Ice Resistance Master	Raises ice resistance by {0}%.	1	55	193	23	23	0	0	1071601559	1813434714	Ice Resistance Supercharge	The Power of Love
+339331266	1	462	Ice Resistance Master+	Raises ice resistance by {0}%.	1	60	193	25	25	0	0	1071601559	1813434714		
+856505847	1	463	Bolt Resistance Up	Raises bolt resistance by {0}%.	0	8	449	5	5	0	0	1071601559	121316528		
+1442550707	1	464	Bolt Resistance Up+	Raises bolt resistance by {0}%.	0	12	449	8	8	0	0	1071601559	121316528		
+586982181	1	465	Bolt Resistance Up++	Raises bolt resistance by {0}%.	0	16	449	10	10	0	0	1071601559	121316528		
+1130875256	1	466	Bolt Resistance Charge	Raises bolt resistance by {0}%.	0	30	449	13	13	0	0	1071601559	121316528	Bolt Resistance Up	Bolt Resistance Up+
+878770670	1	467	Bolt Resistance Boost	Raises bolt resistance by {0}%.	0	35	449	15	15	0	0	1071601559	121316528	Bolt Resistance Up+	Bolt Resistance Up++
+1385584556	1	468	Bolt Resistance Supercharge	Raises bolt resistance by {0}%.	0	45	449	18	18	0	0	1071601559	121316528	Bolt Resistance Charge	Bolt Resistance Boost
+630286142	1	469	Bolt Resistance Supercharge+	Raises bolt resistance by {0}%.	1	50	193	20	20	0	0	1071601559	121316528		
+1255245139	1	470	Bolt Resistance Master	Raises bolt resistance by {0}%.	1	55	193	23	23	0	0	1071601559	121316528	Bolt Resistance Supercharge	Seeker of Magic
+1037481413	1	471	Bolt Resistance Master+	Raises bolt resistance by {0}%.	1	60	193	25	25	0	0	1071601559	121316528		
+105577073	1	472	Air Resistance Up	Raises air resistance by {0}%.	0	8	449	5	5	0	0	1071601559	1996315168		
+1622955061	1	473	Air Resistance Up+	Raises air resistance by {0}%.	0	12	449	8	8	0	0	1071601559	1996315168		
+398156963	1	474	Air Resistance Up++	Raises air resistance by {0}%.	0	16	449	10	10	0	0	1071601559	1996315168		
+1981812478	1	475	Air Resistance Charge	Raises air resistance by {0}%.	0	30	449	13	13	0	0	1071601559	1996315168	Air Resistance Up	Air Resistance Up+
+19349096	1	476	Air Resistance Boost	Raises air resistance by {0}%.	0	35	449	15	15	0	0	1071601559	1996315168	Air Resistance Up+	Air Resistance Up++
+1741787182	1	477	Air Resistance Supercharge	Raises air resistance by {0}%.	0	45	449	18	18	0	0	1071601559	1996315168	Air Resistance Charge	Air Resistance Boost
+282501308	1	478	Air Resistance Supercharge+	Raises air resistance by {0}%.	1	50	193	20	20	0	0	1071601559	1996315168		
+2140553941	1	479	Air Resistance Master	Raises air resistance by {0}%.	1	55	193	23	23	0	0	1071601559	1996315168	Air Resistance Supercharge	Ruler of Shadow and Light
+143749699	1	480	Air Resistance Master+	Raises air resistance by {0}%.	1	60	193	25	25	0	0	1071601559	1996315168		
+1205109228	1	481	AP Consumed -10%	Reduces the AP consumption of skills by {0}%.	0	31	1409	10	10	0	0	1221006659	851940068		
+555888558	1	482	AP Consumed -15%	Reduces the AP consumption of skills by {0}%.	0	38	1409	15	15	0	0	1221006659	851940068		
+1445273400	1	483	AP Consumed -20%	Reduces the AP consumption of skills by {0}%.	0	43	1409	20	20	0	0	1221006659	851940068		
+935228773	1	484	Reduce AP Consumed	Reduces the AP consumption of skills by {0}%.	0	48	1409	30	30	0	0	1221006659	851940068	AP Consumed -10%	AP Consumed -15%
+1085883891	1	485	Compress AP Consumed	Reduces the AP consumption of skills by {0}%.	0	53	1409	40	40	0	0	1221006659	851940068	AP Consumed -20%	Reduce AP Consumed
+642771895	1	486	Halve AP Consumed	Reduces the AP consumption of skills by {0}%.	1	55	1153	50	50	0	0	1221006659	851940068	Reduce AP Consumed	Compress AP Consumed
+1363729185	1	487	Minimize AP Consumed	Reduces the AP consumption of skills by {0}%.	1	60	1153	60	60	0	0	1221006659	851940068	Compress AP Consumed	Halve AP Consumed
+1140267522	1	488	Skill Power +10%	Boosts skill power by {0}%, but increases AP consumption by {1}%.	0	10	1313	10	10	10	10	1221006659	1221006659		
+620868676	1	489	Skill Power +12%	Boosts skill power by {0}%, but increases AP consumption by {1}%.	0	20	1313	12	12	15	15	1221006659	1221006659		
+1376158930	1	490	Skill Power +15%	Boosts skill power by {0}%, but increases AP consumption by {1}%.	0	30	1313	15	15	20	20	1221006659	1221006659		
+865988239	1	491	Skill Charge	Boosts skill power by {0}%, but increases AP consumption by {1}%.	0	35	1313	20	20	25	25	1221006659	1221006659	Skill Power +10%	Skill Power +12%
+1151000089	1	492	Skill Boost	Boosts skill power by {0}%, but increases AP consumption by {1}%.	0	40	1313	25	25	30	30	1221006659	1221006659	Skill Power +12%	Skill Power +15%
+577531997	1	493	Skill Supercharge	Boosts skill power by {0}%, but increases AP consumption by {1}%.	1	45	1057	35	35	35	35	1221006659	1221006659	Skill Charge	Skill Boost
+1433092299	1	494	Perfect Skills	Boosts skill power by {0}%, but increases AP consumption by {1}%.	1	55	1057	50	50	40	40	1221006659	1221006659	Skill Supercharge	Fairy Unity
+2111664505	1	495	Perfect Skills +	Boosts skill power by {0}%, but increases AP consumption by {1}%.	1	60	1057	60	60	45	45	1221006659	1221006659		
+975938214	1	496	Eco Skill Use	Boosts skill power by {0}% and reduces AP consumption by {1}%.	0	20	1313	5	5	5	5	1221006659	170985088		
+1294766644	1	497	Reduce Skill Cost	Boosts skill power by {0}% and reduces AP consumption by {1}%.	0	30	1313	8	8	8	8	1221006659	170985088		
+770382807	1	498	Saving on Skills	Boosts skill power by {0}% and reduces AP consumption by {1}%.	0	40	1313	10	10	10	10	1221006659	170985088	Eco Skill Use	Reduce Skill Cost
+1525427009	1	499	Expert Skill	Boosts skill power by {0}% and reduces AP consumption by {1}%.	1	50	1057	15	15	15	15	1221006659	170985088	Saving on Skills	Fairy Boon
+1008370949	1	500	Super Skill	Boosts skill power by {0}% and reduces AP consumption by {1}%.	1	55	1057	20	20	20	20	1221006659	170985088		
+601334543	1	501	Boost Drops on Defeat	Boosts item drop rate at the end of battle by {0}%.	0	45	2017	10	10	0	0	1141382177	1232636230		
+126982968	1	502	Enchanting Tail	Raises the likelihood of being targeted by enemy attacks and boosts evasion rate by {1}％.	1	12	321	5	5	3	3	1135783895	1932444153		
+1634153842	1	503	Piping Hot	Deals an additional {0} power fire damage to the target and lowers its fire resistance by {1}％.	1	25	259	20	20	10	10	1221006659	1932444153		
+375391716	1	504	Slippery Component	Restores {0}％ of the target's HP and Cures Poison.	1	17	277	15	15	100	100	905217877	1932444153		
+2012966841	1	505	Darkness's Venom	Has a {0}% chance to inflict Poison on the target, and weakens its physical skill power by {1}%.	1	20	265	40	40	20	20	672248277	1932444153		
+16539439	1	506	Silky	Reduces item WT by {0}%. Has a {1}% chance to not expend uses.	1	18	287	10	10	10	10	2075481065	1932444153		
+1711993195	1	507	Perfectly Round	Boosts DEF by {0}. Restores HP by {1}% upon acting.	1	25	1345	15	15	10	10	1071601559	1932444153		
+286114301	1	508	Ever-Changing	Boosts the Item Level by {0}% and greatly raises sales price. In exchange, also raises duplication cost and restock cost.	1	20	2047	10	10	10	10	1084648366	1932444153		
+2118984596	1	509	Frozen Delicacy	Restores {0}% of the target's HP and raises their ice resistance by {1}%.	1	25	261	15	15	20	20	905217877	1932444153		
+155849478	1	510	Sticky	Boosts magic and bolt resistances by {0}%.	1	18	1345	20	20	20	20	1071601559	1932444153		
+1770887905	1	511	Golden Glow	Greatly raises sales price.	1	40	2047	200	200	0	0	1084648366	1932444153		
+512404087	1	512	Sturdy	Boosts DEF by {0}, but reduces SPD by {1}.	1	20	1345	40	40	-20	-20	1541775006	1932444153		
+2021393459	1	513	Spine-Chilling	Has a {0}% chance to inflict Frostbite on the target. Has a {1}% chance to instantly KO the target.	1	13	259	30	30	10	10	672248277	1932444153		
+259732645	1	514	Awakening Heal	Revives the target with {0}% HP if they are KO'd.	1	21	277	10	10	0	0	905217877	1932444153		
+1860198138	1	515	Windrider	Boosts SPD by {1}, and reduces skill WT by {0}%.	1	18	1409	3	3	20	20	587576781	1932444153		
+434597488	1	516	Superhard	Boosts DEF by {0} and ATK by {1}.	1	40	1377	40	40	10	10	1071601559	1932444153		
+2131869738	1	517	Life Awakening	Restores {0}% of the target's HP and {1}% of the user's HP.	1	12	261	10	10	30	30	905217877	1932444153		
+135721148	1	518	Dragon's Vitality	Boosts HP by {1}. Restores {0} HP after defeating an enemy.	1	45	1409	10	10	50	50	905217877	1932444153		
+1733694163	1	519	Fresh and Juicy	Increases item uses by {0}. Has a {1}% chance to critical hit.	1	45	259	2	2	20	20	2075481065	1932444153		
+273752645	1	520	Mystic Shimmer	Increases item uses by {0}. Restores {1}% of the target's HP.	1	40	273	2	2	10	10	2075481065	1932444153		
+1117833508	1	521	Deflects Evil	Cures all status effects from the target and boosts their evasion rate by {1}.	1	30	261	100	100	5	5	905217877	1932444153		
+900200886	1	522	Magnetic	Has a {0}% chance to inflict Paralysis on the target. Deals an additional {1} power bolt damage.	1	11	259	20	20	10	10	672248277	1932444153		
+1397839856	1	523	Rare Metal	Boosts ATK by {0} and bolt skill power by {1}%.	1	36	1313	30	30	10	10	1057447733	1932444153		
+609642342	1	524	Flammable	Boosts ATK by {0} and fire skill power by {1}%.	1	36	1313	30	30	10	10	1057447733	1932444153		
+1171066171	1	525	Wing Edge	Boosts ATK by {0} and air skill power by {1}%.	1	36	1313	30	30	10	10	1057447733	1932444153		
+852114861	1	526	Free Spirit	Boosts ATK by {0} and ice skill power by {1}%.	1	36	1313	30	30	10	10	1057447733	1932444153		
+1413256169	1	527	Ominous Pressure	Boosts ATK by {0} and magic skill power by {1}%.	1	36	1313	30	30	10	10	1057447733	1932444153		
+591111039	1	528	Latent Awakening	Boosts ATK by {0} and physical skill power by {1}%.	1	36	1313	30	30	10	10	1057447733	1932444153		
+1283146002	1	529	Surging Strength	When using the item, reduces WT by {0}% and has a {1}% chance to critical hit.	1	40	259	15	15	30	30	2075481065	1932444153		
+998011272	1	530	Harvest Blessing	Cures all status effects from the target and user.	1	40	261	100	100	100	100	905217877	1932444153		
+1539045475	1	531	Puni	Boosts DEF by {0}, but reduces ATK by {1}.	1	10	1473	20	20	-10	-10	1541775006	1932444153		
+750569717	1	532	Pinnacle of Alchemy	Boosts ATK by {0}, but reduces skill power by {1}%.	1	36	1313	30	30	30	30	1221006659	1932444153		
+1246389937	1	533	Sun's Radiance	Cures Burns from the target and raises their fire resistance by {1}%.	1	36	261	100	100	30	30	2075481065	1932444153		
+1028478503	1	534	Sea of Cheese	Selecting this during Trait Transfer raises Item Level by {0}% and raises sales price.	1	36	2047	10	10	40	40	1084648366	1932444153		
+1557544060	1	535	Stop Time	Reduces the target's SPD by {1}% and boosts the user's SPD by {0}%.	1	36	265	20	20	20	20	2075481065	1932444153		
+735120622	1	536	Freshly Picked	Boosts the target's critical rate by {0}% and ATK by {1}%.	1	36	273	20	20	20	20	2075481065	1932444153		
+975213118	1	537	Abundant Aroma	Remove Blindness from the target and raises their air resistance by {1}%.	1	36	273	100	100	40	40	2075481065	1932444153		
+1432383569	1	538	Fine Medicine Source	Restores {0}% of the target's HP and ATK by {1}%.	1	36	261	10	10	15	15	2075481065	1932444153		
+577192135	1	539	Divine Scent	Has a {0}% chance to inflict Sleep and Frostbite on the target.	1	36	267	40	40	40	40	672248277	1932444153		
+351956646	1	540	Take to the Skies	Boosts the user's SPD by {0}% and has a {1}% chance to not expend uses.	1	36	287	30	30	20	20	2075481065	1932444153		
+1677549108	1	541	Melt-in-Your-Mouth	Cures Sleep from the target and boosts evasion rate by {1}%.	1	36	261	100	100	8	8	2075481065	1932444153		
+84668534	1	542	Spirit's Blessing	Increases the item's recovery by [Maximum number of uses x {0}]% in exchange for expending all uses in one go.	1	36	261	15	15	0	0	2075481065	1932444153		
+1913438432	1	543	Dollmaking	Raises Item Level by {0}% if transferred during synthesis.	1	36	257	15	15	0	0	1084648366	1932444153		
+328706749	1	544	Memory's Timbre	Inflicts Sleep on the target, but boosts their ATK by {1}%.	1	36	267	100	100	40	40	672248277	1932444153		
+1687198251	1	545	Traditional Cuisine	Reduces the target's SPD by {0}%, but boosts item recovery by [{0} ÷ Number of targets]%.	1	36	261	50	50	40	40	2075481065	1932444153		
+40252527	1	546	Crispy	Reduces the target's DEF by {0}%, but boosts their SPD by {1}%.	1	36	273	20	20	40	40	2075481065	1932444153		
+1969292537	1	547	Big Catch	Boosts item power by [Number of targets x {0}]%, and has a {0}% chance to critical hit.	1	36	259	10	10	30	30	2075481065	1932444153		
+1356967735	1	548	Pure Determination	Blending this with certain other traits can turn them into even more powerful Traits.	1	20	0	0	0	0	0	126056910	126056910		
+907477363	1	549	Guardian's Pride	Blending this with certain other traits can turn them into even more powerful Traits.	1	20	0	0	0	0	0	126056910	126056910		
+1091580389	1	550	Dreamt Up Secret Art	Blending this with certain other traits can turn them into even more powerful Traits.	1	20	0	0	0	0	0	126056910	126056910		
+546003898	1	551	The Power of Love	Blending this with certain other traits can turn them into even more powerful Traits.	1	20	0	0	0	0	0	126056910	126056910		
+1468820272	1	552	Seeker of Magic	Blending this with certain other traits can turn them into even more powerful Traits.	1	20	0	0	0	0	0	126056910	126056910		
+830129514	1	553	Ruler of Shadow and Light	Blending this with certain other traits can turn them into even more powerful Traits.	1	20	0	0	0	0	0	126056910	126056910		
+1182660092	1	554	Fairy Blessing	Blending this with certain other traits can turn them into even more powerful Traits.	1	20	0	0	0	0	0	126056910	126056910		
+691869587	1	555	Fairy Boon	Blending this with certain other traits can turn them into even more powerful Traits.	1	20	0	0	0	0	0	126056910	126056910		
+1580869381	1	556	Fairy Tune	Blending this with certain other traits can turn them into even more powerful Traits.	1	20	0	0	0	0	0	126056910	126056910		
+1056812770	1	557	Fairy Unity	Blending this with certain other traits can turn them into even more powerful Traits.	1	20	0	0	0	0	0	126056910	126056910		
