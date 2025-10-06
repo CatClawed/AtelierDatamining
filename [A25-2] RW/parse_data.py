@@ -85,8 +85,36 @@ def export_csv():
             'Category1', 'Category2', 'Category3', 'Category4',
             'Color1', 'Color2', 'Color3', 'Color4','Color5', 'Color6',
             'Color7', 'Color8', 'Color9', 'Color10','Color11', 'Color12',
+            'Trait',
             'PossiblyBasePrice', 'Flag4',
-            'FlavorText',
+            'FlavorText', 'DLC', 'Effect'
+        ],
+        'itemmix': [
+            'ItemMixId',
+            'Item1', 'Item2', 'Item3', 'Skill',
+            'Number1', 'Number2',
+            'Unknown2', 'Unknown3','Unknown4',
+            'SkillId','ItemId1', 'ItemId2', 'ItemId3'
+        ],
+        'itemeffects': [
+            'ItemId', 'Item',
+            'Name1', 'Name2','Name3', 'Name4', 'Name5',
+            'SkillId1', 'SkillId2','SkillId3', 'SkillId4', 'SkillId5',
+            'EffectId1', 'EffectId2','EffectId3', 'EffectId4', 'EffectId5'
+        ],
+        'NpcShopMerchandise': [
+            'Shop', 'ItemName',
+            'Price', 'Limited', 'UnlockFlagId',
+            'TraitName1',
+            'LevelMin', 'LevelMax',
+            'GradeMin', 'GradeMax',
+            'ItemId','TraitId1',
+        ],
+        'GiftTraitTable': [
+            'GiftTraitTableId', 'Numbers1',
+            'TraitName0','TraitName1','TraitName2','TraitName3','TraitName4',
+            'TraitName5','TraitName6','TraitName7','TraitName8','TraitName9',
+            'Numbers2', 'TraitIds'
         ]
     }
     for k, v in finalized.items():
@@ -175,17 +203,15 @@ def effect():
             d = {}
             for i in range(1, 6):
                 if item[f'SkillId{i}'] != 0:
-                    #print('heck', item[f'SkillId{i}'])
                     d[f'SkillId{i}'] = item[f'SkillId{i}']
                     d[f'Name{i}'] = finalized['skill'][item[f'SkillId{i}']]['text_ENG']
                 if item[f'EffectId{i}'] != 0:
                     d[f'EffectId{i}'] = item[f'EffectId{i}']
                     d[f'Name{i}'] = finalized['effect'][item[f'EffectId{i}']]['text_ENG']
 
-            dic[item['PotentialId']] = d
+            dic[item['ItemPotentialId']] = d
         except:
-            print('ItemPotential issue', item)
-    #print(hold['ItemPotential'])
+            print('ItemPotential issue', d)
 
 
 def flavor_text():
@@ -246,6 +272,8 @@ def flavor_text():
                 print('Flavor issue', item['FlavorTextId'])
 
 def item():
+    dic2 = {}
+    finalized['itemeffects'] = dic2
     dic = {}
     finalized['item'] = dic
     j = open_file('Item')
@@ -264,10 +292,108 @@ def item():
             if item['ItemColorTypeId']:
                 for i in range(1, 11):
                     d[f'Color{i+2}'] = hold['ItemColorType'][item['ItemColorTypeId']][f'Color{i}']
+            if item['DLCId']:
+                d['DLC'] = True
             d['FlavorText'] = hold['ItemFlavorText'][item['FlavorTextId']]
+            if item['ItemPotentialId']:
+                if hold['ItemPotential'][item['ItemPotentialId']][f'Name1']:
+                    d2 = {}
+                    d2['ItemId'] = item['ItemId']
+                    d2['Item'] = d['text_ENG']
+                    for i in range(1,6):
+                        copy_keys(d2, hold['ItemPotential'][item['ItemPotentialId']],
+                            ['Name1', 'Name2','Name3', 'Name4', 'Name5',
+                            'SkillId1', 'SkillId2','SkillId3', 'SkillId4', 'SkillId5',
+                            'EffectId1', 'EffectId2','EffectId3', 'EffectId4', 'EffectId5'])
+                    dic2[item['ItemId']] = d2
         except:
             print('Item issue', item)
+    dic = {}
+    finalized['itemmix'] = dic
+    j = open_file('ItemMix')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            copy_keys(d, item, ['ItemMixId', 'Unknown2', 'Unknown3','Unknown4',
+                'Number1', 'Number2', 'SkillId',
+                'ItemId1', 'ItemId2', 'ItemId3'])
+            d['Skill'] = finalized['skill'][item['SkillId']]['text_ENG']
+            for i in range(1,4):
+                if item[f'ItemId{i}']:
+                    d[f'Item{i}'] = finalized['item'][item[f'ItemId{i}']]['text_ENG']
+            dic[item['ItemMixId']] = d
+        except:
+            print('ItemMix issue', item)
 
+def shop():
+    dic = {}
+    finalized['GiftTraitTable'] = dic
+    j = open_file('GiftTraitTable')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            copy_keys(d, item, ['GiftTraitTableId', 'Numbers1', 'Numbers2', 'TraitIds'])
+            for i in range(0,10):
+                if item['TraitIds'][i]:
+                    d[f'TraitName{i}'] = finalized['trait'][item['TraitIds'][i]]['text_ENG']
+            dic[item['GiftTraitTableId']] = d
+        except Exception as e: # some issues expected
+            pass #print('GiftTraitTable issue', e)
+    dic = {}
+    hold['GiftTraitLotteryDataTable'] = dic
+    j = open_file('GiftTraitLotteryDataTable')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            copy_keys(d, item, ['Numbers1', 'Numbers2',
+                'GiftTraitTableId1', 'GiftTraitTableId2', 'GiftTraitTableId3',
+                'GiftTraitTableId4', 'GiftTraitTableId5'])
+            if item['GiftTraitTableId1'] and not item['GiftTraitTableId2']:
+                d['GradeMin'] = finalized['GiftTraitTable'][d['GiftTraitTableId1']]['Numbers1'][0]
+                d['GradeMax'] = finalized['GiftTraitTable'][d['GiftTraitTableId1']]['Numbers1'][1]
+            dic[item['GiftTraitLotteryDataTableId']] = d
+        except Exception as e:
+            print('GiftTraitLotteryDataTable issue', e)
+    dic = {}
+    hold['Gift'] = dic
+    j = open_file('Gift')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            copy_keys(d, item, ['LevelMin', 'LevelMax', 'TraitId1', 'TraitId2'])
+                #'GiftTraitLotteryDataTableId', 'GiftColorId1', 'GiftColorId2'])
+            if item['ItemId']:
+                d['ItemId'] = item['ItemId']
+                d['ItemName'] = finalized['item'][item['ItemId']]['text_ENG']
+            if item['TraitId1']:
+                d['TraitName1'] = finalized['trait'][item['TraitId1']]['text_ENG']
+            if item['TraitId2']:
+                d['TraitName2'] = finalized['trait'][item['TraitId2']]['text_ENG']
+            if item['GiftTraitLotteryDataTableId']:
+                #print(hold['GiftTraitLotteryDataTable'][item['GiftTraitLotteryDataTableId']])
+                if 'GradeMin' in hold['GiftTraitLotteryDataTable'][item['GiftTraitLotteryDataTableId']]:
+                    d['GradeMin'] = hold['GiftTraitLotteryDataTable'][item['GiftTraitLotteryDataTableId']]['GradeMin']
+                    d['GradeMax'] = hold['GiftTraitLotteryDataTable'][item['GiftTraitLotteryDataTableId']]['GradeMax']
+                else:
+                    d = d | hold['GiftTraitLotteryDataTable'][item['GiftTraitLotteryDataTableId']].copy()
+            dic[item['GiftId']] = d
+        except Exception as e:
+            print('Gift issue', e, item)
+    dic = {}
+    finalized['NpcShopMerchandise'] = dic
+    j = open_file('NpcShopMerchandise')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            copy_keys(d, item, ['Price', 'Limited', 'UnlockFlagId',
+                'Unknown1', 'Shop'])
+            if item['ItemId']:
+                d['ItemId'] = item['ItemId']
+                d['ItemName'] = finalized['item'][item['ItemId']]['text_ENG']
+            d = d | hold['Gift'][item['GiftId']].copy()
+            dic[item['NpcShopMerchandiseId']] = d
+        except:
+            print('NpcShopMerchandise issue', item)
 
 def trait():
     dic = {}
@@ -318,6 +444,7 @@ flavor_text()
 effect()
 trait()
 item()
+shop()
 other_text()
 export_csv()
 

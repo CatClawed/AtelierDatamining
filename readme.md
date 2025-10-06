@@ -4,7 +4,7 @@ In Yumia I commented out some business about plotting to a map. It also expects 
 
 
 Useful tools:
-* [gust_tools](https://github.com/VitaSmith/gust_tools) - Unpack pre-Yumia
+* [gust_tools](https://github.com/VitaSmith/gust_tools) - Unpack most games
 * [fdata_dump](https://github.com/DeathChaos25/fdata_dump/) - Unpack Yumia
 * [UnityPy](https://github.com/K0lb3/UnityPy) - Unpack Resleri games (decryption required first)
 * [CheatEngine](https://www.cheatengine.org/) - When too much data is in the executable (PhyreEngine games especially guilty)
