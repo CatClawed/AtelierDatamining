@@ -93,7 +93,7 @@ def export_csv():
             'ItemMixId',
             'Item1', 'Item2', 'Item3', 'Skill',
             'Number1', 'Number2',
-            'Unknown2', 'Unknown3','Unknown4',
+            'Unknown2', 'Unknown3',
             'SkillId','ItemId1', 'ItemId2', 'ItemId3'
         ],
         'itemeffects': [
@@ -103,18 +103,40 @@ def export_csv():
             'EffectId1', 'EffectId2','EffectId3', 'EffectId4', 'EffectId5'
         ],
         'NpcShopMerchandise': [
-            'Shop', 'ItemName',
+            'text_ENG', 'ItemName',
             'Price', 'Limited', 'UnlockFlagId',
             'TraitName1',
             'LevelMin', 'LevelMax',
             'GradeMin', 'GradeMax',
             'ItemId','TraitId1',
+            'text_JPN', 'text_CHS', 'text_CHT', 'text_KOR'
         ],
         'GiftTraitTable': [
             'GiftTraitTableId', 'Numbers1',
             'TraitName0','TraitName1','TraitName2','TraitName3','TraitName4',
             'TraitName5','TraitName6','TraitName7','TraitName8','TraitName9',
             'Numbers2', 'TraitIds'
+        ],
+        'recipe': [
+            'RecipeId', 'Index', 'Quantity','Uses','Flag',
+            'ItemName', 'IngredientName1', 'IngredientName2', 'IngredientName3', 'IngredientName4',
+            'Category1','Category2','Category3',
+            'ItemId', 'IngredientId1', 'IngredientId2', 'IngredientId3', 'IngredientId4'
+        ],
+        'recipemorph': [
+            'ItemBaseName', 'IngredientName', 'ItemResultName',
+            'ItemBaseId', 'IngredientId', 'ItemResultId',
+        ],
+        'recipebook': [
+            'Book', 'RecipeName1', 'RecipeName2', 'RecipeName3',
+            'ItemId', 'RecipeId1', 'RecipeId2', 'RecipeId3'
+        ],
+        'EnemyDataBase': [
+            'text_ENG', 'Race',
+            #'Flag1', 'Integer', 'Flag2', 'Decimal1', 'Unknown4', 'Integer2', 'Decimal2', 'Integer3',
+            #'Floats1', 'Floats2', 'Unknown1', 'Unknown2', 'EnemySizeTypeId', 'Flag',
+            'text_JPN', 'text_CHS', 'text_CHT', 'text_KOR',
+            'FlavorText',
         ]
     }
     for k, v in finalized.items():
@@ -155,6 +177,17 @@ def category():
             dic[item['CategoryId']] = d
         except:
             print('Category issue', item)
+    dic = {}
+    finalized['race'] = dic
+    j = open_file('EnemyKind')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            copy_keys(d, item, ['EnemyKindId'])
+            d = d | localize[item['MessageId']].copy()
+            dic[item['EnemyKindId']] = d
+        except:
+            print('EnemyKind issue', item)
 
 def effect():
     dic = {}
@@ -314,7 +347,7 @@ def item():
     for item in j['File']['Object']:
         try:
             d = {}
-            copy_keys(d, item, ['ItemMixId', 'Unknown2', 'Unknown3','Unknown4',
+            copy_keys(d, item, ['ItemMixId', 'Unknown2', 'Unknown3',
                 'Number1', 'Number2', 'SkillId',
                 'ItemId1', 'ItemId2', 'ItemId3'])
             d['Skill'] = finalized['skill'][item['SkillId']]['text_ENG']
@@ -324,6 +357,57 @@ def item():
             dic[item['ItemMixId']] = d
         except:
             print('ItemMix issue', item)
+
+    dic = {}
+    finalized['recipe'] = dic
+    j = open_file('Recipe')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            copy_keys(d, item, ['RecipeId', 'Index', 'Quantity', 'Uses','Flag',
+                'ItemId', 'IngredientId1', 'IngredientId2', 'IngredientId3', 'IngredientId4'])
+            if item[f'ItemId']:
+                d[f'ItemName'] = finalized['item'][item[f'ItemId']]['text_ENG']
+            for i in range(1,5):
+                if item[f'IngredientId{i}']:
+                    d[f'IngredientName{i}'] = finalized['item'][item[f'IngredientId{i}']]['text_ENG']
+            for i in range(1,4):
+                if item[f'CategoryId{i}']:
+                    d[f'Category{i}'] = finalized['category'][item[f'CategoryId{i}']]['text_ENG']
+            dic[item['RecipeId']] = d
+        except Exception as e:
+            print('Recipe issue', e, item)
+    dic = {}
+    finalized['recipemorph'] = dic
+    j = open_file('RecipeChange')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            copy_keys(d, item, ['IngredientId', 'ItemBaseId', 'ItemResultId',])
+            if 'IngredientId' in item and item['IngredientId'] > 0:
+                d['IngredientName'] = finalized['item'][item['IngredientId']]['text_ENG']
+            if 'ItemBaseId' in item and item['ItemBaseId'] > 0:
+                d['ItemBaseName'] = finalized['recipe'][item['ItemBaseId']]['ItemName']
+            if 'ItemResultId' in item and item['ItemResultId'] > 0:
+                d['ItemResultName'] = finalized['recipe'][item['ItemResultId']]['ItemName']
+            dic[item['RecipeChangeId']] = d
+        except Exception as e:
+            print('RecipeMorph issue', e, item)
+    dic = {}
+    finalized['recipebook'] = dic
+    j = open_file('RecipeBook')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            copy_keys(d, item, ['ItemId', 'RecipeId1', 'RecipeId2', 'RecipeId3'])
+            if item['ItemId']:
+                d['Book'] = finalized['item'][item['ItemId']]['text_ENG']
+            for i in range(1,4):
+                if item[f'RecipeId{i}']:
+                    d[f'RecipeName{i}'] = finalized['recipe'][item[f'RecipeId{i}']]['ItemName']
+            dic[item['RecipeBookId']] = d
+        except Exception as e:
+            print('RecipeBook issue', e, item)
 
 def shop():
     dic = {}
@@ -383,13 +467,24 @@ def shop():
     finalized['NpcShopMerchandise'] = dic
     j = open_file('NpcShopMerchandise')
     for item in j['File']['Object']:
+        shops = {
+            601760113: 442483321,
+            1162942655: 1590451952,
+            870832861: 265721898,
+            1318706988: 841588105,
+            1463653524: 1000603297,
+            1974527760: 1645489886,
+            1488394673: 0,
+            0: 0,
+        }
         try:
             d = {}
             copy_keys(d, item, ['Price', 'Limited', 'UnlockFlagId',
-                'Unknown1', 'Shop'])
+                'Unknown1'])
             if item['ItemId']:
                 d['ItemId'] = item['ItemId']
                 d['ItemName'] = finalized['item'][item['ItemId']]['text_ENG']
+            d = d | localize[shops[item['Shop']]].copy()
             d = d | hold['Gift'][item['GiftId']].copy()
             dic[item['NpcShopMerchandiseId']] = d
         except:
@@ -427,6 +522,32 @@ def trait():
         except:
             print('TraitMix issue', item)
 
+def enemy():
+    dic = {}
+    hold['EnemyBaseInfo'] = dic
+    j = open_file('EnemyBaseInfo')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            #copy_keys(d, item, ['EnemyBaseInfoId']) #, 'Floats1', 'Floats2', 'Unknown1', 'Unknown2', 'EnemySizeTypeId', 'Flag',])
+            d = d | localize[item['NameStringId']].copy()
+            d['FlavorText'] = hold['EnemyFlavorText'][item['FlavorTextId']]
+            d['Race'] = finalized['race'][item['EnemyKindId']]['text_ENG']
+            dic[item['EnemyBaseInfoId']] = d
+        except:
+            print('EnemyBase issue', item)
+    dic = {}
+    finalized['EnemyDataBase'] = dic
+    j = open_file('EnemyDataBase')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            copy_keys(d, item, ['Flag1', 'Integer', 'Flag2', 'Decimal1', 'Unknown4', 'Integer2', 'Decimal2', 'Integer3'])
+            d = d | hold['EnemyBaseInfo'][item['EnemyBaseInfoId']].copy()
+            dic[item['EnemyDataBaseId']] = d
+        except:
+            print('EnemyBase issue', item)
+
 def other_text():
     dic = {}
     finalized['neat_localization_strings'] = dic
@@ -445,6 +566,7 @@ effect()
 trait()
 item()
 shop()
+enemy()
 other_text()
 export_csv()
 

@@ -1,0 +1,156 @@
+ItemBaseName	IngredientName	ItemResultName	ItemBaseId	IngredientId	ItemResultId
+			0	0	0
+Craft	Sparkling Sand	Polishing Powder	1278227450	1979772462	100340209
+Craft	Balloon Fruit	Luft	1278227450	665091287	1616435421
+Luft	Eternal Breeze	Typhon Keim	1616435421	978862733	1577396712
+Luft	Typhon Keim	Tornado Luft	1616435421	372842310	112096921
+Tornado Luft	Liquefier	Langwolke	112096921	1363720703	998557927
+Tornado Luft	Alchemy Filter	Squall Winder	112096921	121234074	1479117497
+Polishing Powder	Demon Uni	Catastro Craft	100340209	494157157	717659584
+Polishing Powder	Flaming Black Sand	Alchemy Filter	100340209	610492753	1518612344
+Catastro Craft	Alchemy Filter	Magic Cannon	717659584	121234074	344810708
+Catastro Craft	Dragon Eye	Asterisíma	717659584	879017728	1423093513
+Asterisíma	Dragon Hourglass	Meteor	1423093513	938219941	210063479
+Asterisíma	Water Beast Fossil	Magician's Flute	1423093513	1631991673	1306385802
+Magic Cannon	Black Agujero	N/A	344810708	1802916448	1570864891
+Magic Cannon	Shining Disk	Himmelstein	344810708	22664860	995610815
+Bomb	Frost Uni	Ice Bomb	722644453	962577040	310040092
+Bomb	Zapping Water	Lightning Bomb	722644453	1360721953	1999316175
+Ice Bomb	Diopside	Blizzard Ice Bomb	310040092	893217111	1955362910
+Ice Bomb	Charmanduft	Sublime Dome	310040092	2061437532	1690460869
+Blizzard Ice Bomb	Everfreeze Beehive	Snowflake Crystal	1955362910	1477771629	358624394
+Snowflake Crystal	Black Agujero	N/A Type Rho	358624394	1802916448	1687367898
+Snowflake Crystal	Sternovia	Moon Ring	358624394	1484350495	1352690840
+Lightning Bomb	Wurzel Aqua	Gungnir Plajig	1999316175	846196548	299731595
+Lightning Bomb	Heatwave Water	Flare Nova Bomb	1999316175	929171891	1306788769
+Gungnir Plajig	Vajra Wire	Thunder Feet	299731595	1090139267	1458154082
+Flare Nova Bomb	Magma Powder	Flame Emperor Dust	1306788769	1573310408	567868924
+Flare Nova Bomb	Haine Fire Stone	Calm Blue Flame	1306788769	1439191365	1072976720
+Calm Blue Flame	Sternovia	Sun Ring	1072976720	1484350495	911655646
+Healing Salve	Princess Grass	Seife	812033715	2089940276	743142180
+Healing Salve	Thin Fruit	Refresh Oil	812033715	138006015	334235912
+Seife	Refresh Oil	Healing Elixir	743142180	1838937352	1662177751
+Healing Elixir	Heilige Blume	Charmanduft	1662177751	889118699	824915428
+Healing Elixir	Rainbow Wing Fragment	Healing Bell	1662177751	1009573662	822260784
+Charmanduft	Coralia	Hallfein Parfum	824915428	102239912	190149992
+Refresh Oil	Mana Petal	Polish	334235912	1748601842	1182404784
+Polish	Cure-all Base	Warding Incense	1182404784	2000129743	1674331751
+Warding Incense	Dunkelheit	Elixir	1674331751	31946281	1138413989
+Honey	Sweet Flower	Riaslade Ice Cream	1560101890	1978153648	591451613
+Honey	Sea Horse	Tasty-Looking Bait	1560101890	1449850316	494438694
+Riaslade Ice Cream	Gold Beehive	Superpowder	591451613	1012836089	1018831623
+Superpowder	Gold Spiky Fruit	Custarias Pie	1018831623	1551025926	396948017
+Superpowder	Charicheese	Weisscream	1018831623	602638490	1399861893
+Custarias Pie	Marbled Meat	Riasoup	396948017	599611575	543713861
+Tasty-Looking Bait	Jellyfish Larvae	Multicolor Dye	494438694	1617692500	1997602856
+Tasty-Looking Bait	Bitter Root	Cure-all Base	494438694	543538616	155218639
+Cure-all Base	Thousand Scale Fruit	Natural Yeast	155218639	2044054235	738749391
+Puni Candy	Superpowder	Puni Jelly	2073168421	269000885	561485939
+Puni Jelly	Dragon Egg	Riaflan	561485939	1779635598	507312961
+Puni Jelly	Stretchy Band	Puni Whip	561485939	102597514	757959426
+Puni Whip	Flame Emperor Dust	Puni Missile	757959426	1254474818	1042407804
+Ingot	Metal Ore	Silvalia	1433316858	159522154	402947778
+Ingot	Sparkling Sand	Alchemic Clay	1433316858	1979772462	1727378931
+Silvalia	Unknown Augite	Gold Eisen	402947778	740285902	806537185
+Silvalia	Alchemic Clay	Daydream Crystal	402947778	1720435215	160478433
+Gold Eisen	Hainelight	Ōkeagyrn	806537185	1482100967	903041895
+Ōkeagyrn	Coralia	Iridescence	903041895	102239912	1219843463
+Ōkeagyrn	Glass Goblet	Sternovia	903041895	534325421	347345056
+Daydream Crystal	Tíkometal	Holy Crystal Weight	160478433	1340797831	1917695406
+Daydream Crystal	Celestial Silver Stone	Glass Goblet	160478433	1970930026	862694175
+Star Staff	Silvalia	Explorer's Staff	966464110	1805598216	1601027116
+Explorer's Staff	Gold Eisen	Azure Cage	1601027116	1653445612	678071486
+Azure Cage	Ōkeagyrn	Rustivaria	678071486	1179128739	1240590049
+Rustivaria	Iridescence	Gracia Staff	1240590049	918727047	1056364151
+Guardian's Spear	Silvalia	Stone-Smashing Lance	796156218	1805598216	1233309564
+Stone-Smashing Lance	Gold Eisen	Sterglanz	1233309564	1653445612	1048969194
+Sterglanz	Ōkeagyrn	Vactarius	1048969194	1179128739	1595839927
+Vactarius	Iridescence	Perchel Zwei	1595839927	918727047	672769313
+Parrying Dagger	Silvalia	Dragonfang Stiletto	1923267287	1805598216	341054611
+Dragonfang Stiletto	Gold Eisen	Shadowend	341054611	1653445612	1666393093
+Shadowend	Ōkeagyrn	Dusk Blade	1666393093	1179128739	46681690
+Dusk Blade	Iridescence	Full Hellmoon	46681690	918727047	1976532688
+Magic Broom	Silvalia	Stylish Broom	166043447	1805598216	1863528819
+Stylish Broom	Gold Eisen	Enchanted Broom	1863528819	1653445612	403964389
+Enchanted Broom	Ōkeagyrn	Maiden Broom	403964389	1179128739	2039442362
+Maiden Broom	Iridescence	Spirit Broom	2039442362	918727047	243817264
+Alchemist's Staff	Silvalia	Spirit Staff	1451635804	1805598216	812685850
+Spirit Staff	Gold Eisen	Philosopher's Staff	812685850	1653445612	1199024784
+Philosopher's Staff	Ōkeagyrn	Great Fairy's Staff	1199024784	1179128739	653050067
+Great Fairy's Staff	Iridescence	Holy Winged Staff	653050067	918727047	1374416965
+Starting Staff	Silvalia	Flourish Heart	68121927	1805598216	1660541699
+Flourish Heart	Gold Eisen	Wandering Staff	1660541699	1653445612	369027989
+Wandering Staff	Ōkeagyrn	Prosper Heart	369027989	1179128739	1952809418
+Prosper Heart	Iridescence	Eternal Cycle Staff	1952809418	918727047	56799584
+Traveler's Vest	Moffcloth	Yarn Coat	58239683	1365773232	310981649
+Yarn Coat	Flügel	Woodsprite Raiment	310981649	2028095357	68513500
+Yarn Coat	Poison Powder	Leather	310981649	2123468430	2092449666
+Woodsprite Raiment	Velvetis	Verdant Dress	68513500	581904303	367325192
+Woodsprite Raiment	Purifying Liquid	Maiden's Jacket	68513500	831901668	228795121
+Verdant Dress	Geranóvirgen	Resurrection Wear	367325192	921957720	442735492
+Verdant Dress	Glass Goblet	White Order	367325192	534325421	2090153414
+Leather	Liquefier	Tanning Fluid	2092449666	1363720703	1763532843
+Leather Protector	Moffcloth	Radiant Plate	1703806087	1365773232	1930583630
+Leather Protector	Gaudy Stone	Holynut Lumber	1703806087	305486315	55662990
+Radiant Plate	Flügel	Scale Armor	1930583630	2028095357	1659093150
+Scale Armor	Velvetis	Commander's Plate	1659093150	581904303	2057572967
+Scale Armor	Ingot Beetle	Warrior's Attire	1659093150	230663821	1835313942
+Commander's Plate	Geranóvirgen	Griffon Plate	2057572967	921957720	194118992
+Holynut Lumber	Gold Ball	Sperrholz Plywood	55662990	1300087836	1846058098
+Sperrholz Plywood	Blazing Beehive	Liquefier	1846058098	7632746	1946933726
+Sperrholz Plywood	Langwolke	Luminous Lance	1846058098	1941503559	1756324478
+Liquefier	Starlight Axe	Tool Set	1946933726	125476027	1201103606
+Luminous Lance	Snowflake Crystal	Lumiere Potpourri	1756324478	1661495002	1771713188
+Cloth	Alchemy Fibers	Moffcloth	245152666	1955455862	805138130
+Cloth	Silver Web	Alchemy Fibers	245152666	1901592439	691023512
+Moffcloth	Heavenly String	Flügel	805138130	1888697275	192481209
+Flügel	Strong Alchemy Fibers	Velvetis	192481209	310070576	1362388843
+Velvetis	Vajra Wire	Geranóvirgen	1362388843	1090139267	2097662696
+Alchemy Fibers	Mine Ant	Golden Thread	691023512	744769546	788007987
+Alchemy Fibers	Golden Thread	Stretchy Band	691023512	1485850211	1886767578
+Golden Thread	Whitefly	Strong Alchemy Fibers	788007987	807133879	1338409182
+Golden Thread	Typhon Keim	Heavenly String	788007987	372842310	1545713673
+Stretchy Band	Sperrholz Plywood	Klavier Band	1886767578	640985812	14166435
+Klavier Band	Strong Alchemy Fibers	Vajra Wire	14166435	310070576	862024775
+Bunny Tail	Blue Puniball	Blue Puni Charm	509902531	1098182389	1984518325
+Bunny Tail	Cloth	Traveler's Shoes	509902531	1879695076	1391342158
+Blue Puni Charm	Baby Menace	Training Charm	1984518325	227038212	1283424920
+Blue Puni Charm	Mine Ant	Victor's Charm	1984518325	744769546	80868501
+Training Charm	Everlasting Saft	Hallfein Pendant	1283424920	1889313019	1768115797
+Victor's Charm	Elder Garlic	Vitality Charm	80868501	534185689	2082833480
+Traveler's Shoes	Beast Shell	Assault Bangle	1391342158	1860622521	1433831758
+Traveler's Shoes	Giant Bird Feather	Godspeed Boots	1391342158	312039597	1846446668
+Godspeed Boots	Fine Pelt	Snow Boots	1846446668	2062748672	21915683
+Snow Boots	Mythical Hide	Spirit Beast's Tail	21915683	728189870	1636426184
+Monochrome Glasses	Blessed Feather	Feather Pin	2147423392	922905939	420068058
+Feather Pin	Mana Petal	Angel Ribbon	420068058	1748601842	150479882
+Angel Ribbon	Heavenly String	Phantom Scarf	150479882	1888697275	1886945044
+Angel Ribbon	Celestial Silver Stone	Lanterna Earrings	150479882	1970930026	261480465
+Phantom Scarf	Geranóvirgen	Spirit Belt	1886945044	921957720	378458450
+Zettel	Gold Steel Web	Reinforced Zettel	333821158	1621516709	1964186272
+Zettel	Devil's Soul	Ancient Scroll	333821158	1736712702	2106690206
+Reinforced Zettel	Forbidden Grimoire	Book of Hades	1964186272	1991884338	317625913
+Book of Hades	Rainbow Neutralizer	Codex of Creation	317625913	1002960756	1128189728
+Book of Hades	Sublime Dome	Decorated Spellbook	317625913	754865253	1865759557
+Ancient Scroll	Tanning Fluid	Worn Out Circle	2106690206	882945479	2121479489
+Pure Water	Groundwater	Spirit Tears	383487908	106063423	2016900610
+Pure Water	Medicinal Moss	Plant Food	383487908	2081308022	2020263403
+Spirit Tears	Mana Petal	Mana Light	2016900610	1748601842	1242459631
+Spirit Tears	Giant Bird Feather	Undine's Sigh	2016900610	312039597	1416071357
+Mana Light	Asterisíma	Black Agujero	1242459631	659156941	488511536
+Black Agujero	Red Hot Crystal	Alles Welt	488511536	1777659865	725618238
+Black Agujero	Alles Welt	Flame of Origin	488511536	1429729854	724267980
+Plant Food	Esplante	Dark Water	2020263403	1244005587	2039832581
+Dark Water	Poison Cube	Imp's Mischief	2039832581	335903222	384455788
+Dark Water	Fatal Nebula	Great Gift	2039832581	722057469	92177036
+Red Neutralizer	Blue Crystal	Blue Neutralizer	1289910033	1134390425	391907341
+Red Neutralizer	Plant Essence	Green Neutralizer	1289910033	778429658	54169575
+Blue Neutralizer	Sand Crystals	Yellow Neutralizer	391907341	1044984926	1715598413
+Green Neutralizer	Ingot Bug	Purple Neutralizer	54169575	1912722015	1556113974
+Purple Neutralizer	Ingot Beetle	Rainbow Neutralizer	1556113974	230663821	1002012808
+Woodcutter's Axe	Goldinite	Gold Axe	769553880	174236913	1524188482
+Gold Axe	Tíkometal	Starlight Axe	1524188482	1340797831	1009773316
+Bug Net	Gold Steel Web	Gold Bug Net	962505290	1621516709	1314495200
+Gold Bug Net	Strong Alchemy Fibers	Moonlight Bug Net	1314495200	310070576	682570906
+Grass Sickle​	Rusted Sword	Golden Sickle	2053619237	1606996164	224431795
+Golden Sickle	Ancient Sword	Luminous Sickle	224431795	1938765783	1805000951

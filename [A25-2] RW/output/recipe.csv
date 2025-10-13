@@ -1,0 +1,234 @@
+RecipeId	Index	Quantity	Uses	Flag	ItemName	IngredientName1	IngredientName2	IngredientName3	IngredientName4	Category1	Category2	Category3	ItemId	IngredientId1	IngredientId2	IngredientId3	IngredientId4
+0	0	1	0	1									0	0	0	0	0
+1289910033	1	2	0	1	Red Neutralizer	Whimsy Strawberries	Red Sand			(Water)	(Gemstones)	(Uni)	1064908757	259334361	844027819	0	0
+391907341	2	2	0	1	Blue Neutralizer	Crackling Water	Blue Crystal			(Water)	(Stone)	(Medicinal)	774064894	676625675	1134390425	0	0
+1715598413	3	2	0	1	Yellow Neutralizer	Sand Crystals	Glowing Diatom			(Beehives)	(Gases)	(Marine)	1715438513	1044984926	640096788	0	0
+54169575	4	2	0	1	Green Neutralizer	Taun	Plant Essence			(Bugs)	(Mushrooms)	(Plants)	2102227943	899419154	778429658	0	0
+1556113974	5	2	0	1	Purple Neutralizer	Black Water	Ingot Bug			(Poisons)	(Bugs)	(Fuel)	1555963338	216224640	1912722015	0	0
+1002012808	6	1	0	1	Rainbow Neutralizer	Multicolor Dye	Ingot Beetle	Tíkometal		(Fuel)	(Food)	(Elixirs)	1002960756	2003793884	230663821	1340797831	0
+1433316858	7	2	0	1	Ingot	Amatite Ore	Amatite Ore	Broken Rock		(Stone)	(Ore)	(Sand)	737921160	2083546144	2083546144	339858290	0
+402947778	8	2	0	1	Silvalia	Ingot	Steel Balls	Metal Ore		(Gunpowder)	(Sand)	(Gemstones)	1805598216	737921160	994418561	159522154	0
+806537185	9	2	0	1	Gold Eisen	Silvalia	Unknown Augite	Diopside		(Stone)	(Water)	(Ore)	1653445612	1805598216	740285902	893217111	0
+903041895	10	2	0	1	Ōkeagyrn	Gold Eisen	Hainelight	Hygea Ore		(Magical)	(Misc.)	(Sand)	1179128739	1653445612	1482100967	522572005	0
+1219843463	11	2	0	1	Iridescence	Ōkeagyrn	Celestial Silver Stone	Diamant Gemstone	Coralia	(Ore)	(Elixirs)	(Neutralizers)	918727047	1179128739	1970930026	638721037	102239912
+245152666	12	2	0	1	Cloth	Animal Hide	Silver Web			(Animal Mat.)	(Threads)	(Flowers)	1879695076	789742580	1901592439	0	0
+805138130	13	2	0	1	Moffcloth	Alchemy Fibers	Cloth	Fluffy Wool		(Bugs)	(Threads)	(Lumber)	1365773232	1955455862	1879695076	568788969	0
+192481209	14	2	0	1	Flügel	Heavenly String	Moffcloth	Giant Bird Feather		(Plants)	(Animal Mat.)	(Threads)	2028095357	1888697275	1365773232	312039597	0
+1362388843	15	2	0	1	Velvetis	Strong Alchemy Fibers	Flügel	Fine Pelt		(Animal Mat.)	(Gemstones)	(Threads)	581904303	310070576	2028095357	2062748672	0
+2097662696	16	2	0	1	Geranóvirgen	Vajra Wire	Velvetis	Dragon Wing	Mist Liquid	(Neutralizers)	(Threads)	(Dragon Mat.)	921957720	1090139267	581904303	1560118844	1402637106
+383487908	17	2	0	1	Pure Water	Clean Water	Clean Water	Blue Puniball		(Uni)	(Medicinal)	(Mushrooms)	379975768	219097578	219097578	1098182389	0
+1560101890	18	1	0	1	Honey	Beehive	Natural Oil	Clean Water		(Beehives)	(Marine)	(Flowers)	937459136	306157533	1396615881	219097578	0
+743142180	19	1	0	1	Seife	Medium Medicine	Natural Oil	Princess Grass		(Flowers)	(Fruit)	(Fuel)	1685538182	802550893	1396615881	2089940276	0
+334235912	20	1	0	1	Refresh Oil	Princess Grass	Blue Clover	Thin Fruit		(Water)	(Marine)	(Plants)	1838937352	2089940276	1710859907	138006015	0
+333821158	21	1	0	1	Zettel	Magic Tome Page	Paper Scraps			(Lumber)	(Threads)	(Magical)	1618932768	427835170	1698723307	0	0
+2020263403	22	1	0	1	Plant Food	Crackling Water	Magic Herb	Medicinal Moss		(Flowers)	(Poisons)	(Medicinal)	634849287	676625675	1424270696	2081308022	0
+1727378931	23	1	0	1	Alchemic Clay	Sparkling Sand	Mossy Stone	Mud Ball		(Elixirs)	(Poisons)	(Marine)	1720435215	1979772462	840586544	1940833085	0
+55662990	24	1	0	1	Holynut Lumber	Sand Crystals	Gaudy Stone	Broken Tools		(Neutralizers)	(Mushrooms)	(Sand)	1892292940	1044984926	305486315	212934097	0
+494438694	25	1	0	1	Tasty-Looking Bait	Glowing Diatom	Sea Horse	Mushroom Colony		(Beehives)	(Medicinal)	(Marine)	1086670024	640096788	1449850316	598069781	0
+691023512	26	1	0	1	Alchemy Fibers	Silver Web	Shining Powder	Expiation Worm		(Mushrooms)	(Bugs)	(Metal)	1955455862	1901592439	965253675	1439921084	0
+100340209	27	1	0	1	Polishing Powder	Sparkling Sand	Shining Powder	Ferrous Isopod		(Gunpowder)	(Uni)	(Edibles)	92628493	1979772462	965253675	852104421	0
+788007987	28	1	0	1	Golden Thread	Silver Web	Mine Ant	Honeypot Ant		(Lumber)	(Bugs)	(Gases)	1485850211	1901592439	744769546	266580340	0
+2016900610	29	1	0	1	Spirit Tears	Pure Water	Groundwater	Sky Bubble		(Flowers)	(Edibles)	(Animal Mat.)	241122386	379975768	106063423	1946887621	0
+1182404784	30	1	0	1	Polish	Shining Powder	Mana Petal	Flaming Black Sand		(Plants)	(Mushrooms)	(Medicinal)	1650709411	965253675	1748601842	610492753	0
+1018831623	31	1	0	1	Superpowder	Gold Beehive	Elder Garlic	Bitter Root		(Mushrooms)	(Fruit)	(Food)	269000885	1012836089	534185689	543538616	0
+1886767578	32	1	0	1	Stretchy Band	Golden Thread	Baby Wyrm	Thick Tongue		(Plants)	(Lumber)	(Uni)	102597514	1485850211	866643034	1214334651	0
+1518612344	33	1	0	1	Alchemy Filter	Flaming Black Sand	Rusted Sword	Broken Tools		(Sand)	(Fuel)	(Stone)	121234074	610492753	1606996164	212934097	0
+92177036	34	1	0	1	Great Gift	Fatal Nebula	Poison Cube	Yuqtul Frog		(Spices)	(Medicine)	(Food)	83948920	722057469	335903222	1804340826	0
+1242459631	35	1	0	1	Mana Light	Mana Gem	Glowing Diatom	Mana Petal		(Neutralizers)	(Magical)	(Water)	1013327807	536848308	640096788	1748601842	0
+2106690206	36	1	0	1	Ancient Scroll	Zettel	Devil's Soul	Baby Wyrm		(Gases)	(Threads)	(Poisons)	200917198	1618932768	1736712702	866643034	0
+2092449666	37	1	0	1	Leather	Moffcloth	Poison Powder	Yuqtul Frog		(Water)	(Poisons)	(Medicinal)	47170434	1365773232	2123468430	1804340826	0
+1416071357	38	1	0	1	Undine's Sigh	Giant Bird Feather	Groundwater	Honey Fungus		(Medicine)	(Sand)	(Medicinal)	116972722	312039597	106063423	256557618	0
+1964186272	39	1	0	1	Reinforced Zettel	Zettel	Gold Steel Web	Muddied Crystal		(Misc.)	(Metal)	(Spices)	109599334	1618932768	1621516709	202769447	0
+1997602856	40	1	0	1	Multicolor Dye	Jellyfish Larvae	Rainbow Wing Fragment	Shining Crystal		(Water)	(Fuel)	(Neutralizers)	2003793884	1617692500	1009573662	1002031115	0
+567868924	41	1	0	1	Flame Emperor Dust	Magma Powder	Crimson Ore	Muddied Crystal		(Stone)	(Fuel)	(Gemstones)	1254474818	1573310408	202033108	202769447	0
+824915428	42	1	0	1	Charmanduft	Heilige Blume	Honeypot Ant	Bewitching Chip		(Gases)	(Spices)	(Sand)	2061437532	889118699	266580340	754021132	0
+155218639	43	1	0	1	Cure-all Base	Superpowder	Bitter Root	Indignant Scream		(Beehives)	(Elixirs)	(Fruit)	2000129743	269000885	543538616	385805320	0
+1577396712	44	1	0	1	Typhon Keim	Eternal Breeze	Feather Draft	Devil's Soul		(Water)	(Gunpowder)	(Threads)	372842310	978862733	1812681674	1736712702	0
+1545713673	45	1	0	1	Heavenly String	Golden Thread	Typhon Keim	Supple Vine		(Neutralizers)	(Plants)	(Gases)	1888697275	1485850211	372842310	1472841198	0
+1846058098	46	1	0	1	Sperrholz Plywood	Rotting Arbor Twig	Unknown Augite	Gold Ball		(Gases)	(Metal)	(Beehives)	640985812	1429070285	740285902	1300087836	0
+14166435	47	1	0	1	Klavier Band	Golden Thread	Ancient Beehive	Sperrholz Plywood		(Ore)	(Magical)	(Plants)	1933797735	1485850211	313808601	640985812	0
+160478433	48	1	0	1	Daydream Crystal	Alchemic Clay	Ash Ball	Rainbow Wing Fragment		(Ore)	(Water)	(Elixirs)	622999379	1720435215	626577908	1009573662	0
+1690460869	49	1	0	1	Sublime Dome	Charmanduft	Multicolor Dye	Spirit Dew		(Mushrooms)	(Sand)	(Medicinal)	754865253	2061437532	2003793884	1077131905	0
+1917695406	50	1	0	1	Holy Crystal Weight	Tíkometal	Metal Ore	Rainbow Coral Fragment		(Elixirs)	(Flowers)	(Food)	1460589967	1340797831	159522154	645736256	0
+1763532843	51	1	0	1	Tanning Fluid	Liquefier	Leather	Ancient Beehive		(Marine)	(Mushrooms)	(Bugs)	882945479	1363720703	47170434	313808601	0
+738749391	52	1	0	1	Natural Yeast	Thousand Scale Fruit	Cure-all Base	Silver Beehive		(Mushrooms)	(Medicine)	(Beehives)	1907729955	2044054235	2000129743	484566882	0
+998557927	53	1	0	1	Langwolke	Typhon Keim	Liquefier	Mist Liquid		(Beehives)	(Poisons)	(Neutralizers)	1941503559	372842310	1363720703	1402637106	0
+1338409182	54	1	0	1	Strong Alchemy Fibers	Golden Thread	Whitefly	Wake-Up Flower		(Neutralizers)	(Plants)	(Bugs)	310070576	1485850211	807133879	43485105	0
+1399861893	55	1	0	1	Weisscream	Superpowder	Ancient Beehive	Charicheese		(Fruit)	(Marine)	(Beehives)	946670395	269000885	313808601	602638490	0
+862694175	56	1	0	1	Glass Goblet	Celestial Silver Stone	Undastone	Mysterious Metal Shard		(Magical)	(Neutralizers)	(Fuel)	534325421	1970930026	1347401143	612791486	0
+1946933726	57	1	0	1	Liquefier	Sperrholz Plywood	Blazing Beehive	Ancient Blue Water		(Metal)	(Neutralizers)	(Marine)	1363720703	640985812	7632746	385395481	0
+862024775	58	1	0	1	Vajra Wire	Strong Alchemy Fibers	Stretchy Band	Dragon Wing	Goldinite	(Beehives)	(Stone)	(Plants)	1090139267	310070576	102597514	1560118844	174236913
+1072976720	59	1	0	1	Calm Blue Flame	Haine Fire Stone	Flame Emperor Dust	Blazing Beehive	Heatwave Water	(Water)	(Medicine)	(Sand)	109777341	1439191365	1254474818	7632746	929171891
+1423093513	60	1	0	1	Asterisíma	Dragon Eye	Calm Blue Flame	Brenn Ore	Golem Core	(Dragon Mat.)	(Neutralizers)	(Animal Mat.)	659156941	879017728	109777341	2135732137	67038407
+488511536	61	1	0	1	Black Agujero	Asterisíma	Mana Light	Everlasting Saft		(Metal)	(Elixirs)	(Fuel)	1802916448	659156941	1013327807	1889313019	0
+317625913	62	1	0	1	Book of Hades	Reinforced Zettel	Forbidden Grimoire	Forest Sage		(Plants)	(Neutralizers)	(Misc.)	311484869	109599334	1991884338	1864267219	0
+1201103606	63	1	0	1	Tool Set	Starlight Axe	Luminous Sickle	Moonlight Bug Net		(Metal)	(Stone)	(Gemstones)	1206457610	125476027	543711375	335168293	0
+358624394	64	1	0	1	Snowflake Crystal	Tears of the Fallen Star	Diopside	Whitefly	Everfreeze Beehive	(Water)	(Flowers)	(Metal)	1661495002	1688546280	893217111	807133879	1477771629
+725618238	65	1	0	1	Alles Welt	Black Agujero	Mana Light	Red Hot Crystal	Inverted Scale	(Gunpowder)	(Fuel)	(Water)	1429729854	1802916448	1013327807	1777659865	1978014181
+1771713188	66	1	0	1	Lumiere Potpourri	Snowflake Crystal	Asterisíma	Langwolke	Spirit Dew	(Fuel)	(Neutralizers)	(Medicine)	401460900	1661495002	659156941	1941503559	1077131905
+347345056	67	1	0	1	Sternovia	Alles Welt	Glass Goblet	Black Agujero	Demon Claws	(Magical)	(Stone)	(Misc.)	1484350495	1429729854	534325421	1802916448	1956188286
+1278227450	68	1	5	1	Craft	Uni	Gunpowder Base			(Bugs)	(Sand)	(Gases)	16598907	183895365	643238484	0	0
+722644453	69	1	5	1	Bomb	Red Sand	Red Neutralizer	Gunpowder Base		(Gunpowder)	(Uni)	(Water)	1742723430	844027819	1064908757	643238484	0
+310040092	70	1	5	1	Ice Bomb	Crackling Water	Blue Neutralizer	Frost Uni		(Gunpowder)	(Flowers)	(Gemstones)	1737131770	676625675	774064894	962577040	0
+1999316175	71	1	5	1	Lightning Bomb	Zapping Water	Yellow Neutralizer	Gunpowder Base		(Sand)	(Water)	(Gunpowder)	304588275	1360721953	1715438513	643238484	0
+1616435421	72	1	5	1	Luft	Gunpowder Base	Green Neutralizer	Balloon Fruit		(Animal Mat.)	(Neutralizers)	(Gases)	89414113	643238484	2102227943	665091287	0
+717659584	73	1	3	1	Catastro Craft	Demon Uni	Alchemic Clay	Rusted Sword		(Fuel)	(Misc.)	(Dragon Mat.)	1712056639	494157157	1720435215	1606996164	0
+1955362910	74	1	3	1	Blizzard Ice Bomb	Diopside	Feather Draft	Honey Fungus		(Fuel)	(Beehives)	(Edibles)	24914108	893217111	1812681674	256557618	0
+1306788769	75	1	3	1	Flare Nova Bomb	Heatwave Water	Flaming Black Sand	Gold Ball		(Gunpowder)	(Fuel)	(Ore)	19494688	929171891	610492753	1300087836	0
+299731595	76	1	3	1	Gungnir Plajig	Wurzel Aqua	Gold Ball	Fortima Ore		(Fuel)	(Neutralizers)	(Threads)	1959857079	846196548	1300087836	1326849943	0
+112096921	77	1	3	1	Tornado Luft	Typhon Keim	Sunbeam Powder	Devil's Soul		(Magical)	(Water)	(Misc.)	1671624613	372842310	1080036459	1736712702	0
+344810708	78	1	4	1	Magic Cannon	Alchemy Filter	Ash Ball	Balloon Fruit		(Medicine)	(Gunpowder)	(Neutralizers)	1175597279	121234074	626577908	665091287	0
+1756324478	79	1	3	1	Luminous Lance	Langwolke	Mana Light	Ancient Sword		(Gases)	(Fuel)	(Magical)	610408189	1941503559	1013327807	1938765783	0
+1570864891	80	1	2	1	N/A	Black Agujero	Calm Blue Flame	Black Volcanic Ore	Mysterious Metal Shard	(Magical)	(Neutralizers)	(Fuel)	590617477	1802916448	109777341	758740077	612791486
+995610815	81	1	2	1	Himmelstein	Lumiere Potpourri	Asterisíma	Inverted Scale	Shining Disk	(Water)	(Medicine)	(Fuel)	1170388417	401460900	659156941	1978014181	22664860
+1042407804	82	1	5	1	Puni Missile	Flame Emperor Dust	Blue Puniball	Celestial Silver Stone		(Neutralizers)	(Puni)	(Gases)	1529700422	1254474818	1098182389	1970930026	0
+210063479	83	1	2	1	Meteor	Dragon Hourglass	Asterisíma	Fairystone Fragment	Dragon Egg	(Magical)	(Ore)	(Fuel)	1461612714	938219941	659156941	1753176835	1779635598
+1306385802	84	1	3	1	Magician's Flute	Water Beast Fossil	Beast Fossil	Typhon Keim	Alchemy Filter	(Neutralizers)	(Gases)	(Dragon Mat.)	860403960	1631991673	603419839	372842310	121234074
+724267980	85	1	2	1	Flame of Origin	Alles Welt	Sternovia	Golem Core	Forbidden Grimoire	(Misc.)	(Gunpowder)	(Fuel)	1438521010	1429729854	1484350495	67038407	1991884338
+1687367898	86	1	2	1	N/A Type Rho	Alles Welt	Black Agujero	Asterisíma	Rainbow Neutralizer	(Gunpowder)	(Metal)	(Magical)	291725372	1429729854	1802916448	659156941	1002960756
+1865759557	87	1	2	1	Decorated Spellbook	Book of Hades	Sublime Dome	Rose Crystal	Riverstone	(Uni)	(Elixirs)	(Dragon Mat.)	1261238346	311484869	754865253	1644632644	265854221
+1458154082	88	1	2	1	Thunder Feet	Vajra Wire	Calm Blue Flame	Hygea Ore	Celestial Silver Stone	(Metal)	(Magical)	(Ore)	74907247	1090139267	109777341	522572005	1970930026
+911655646	89	1	1	1	Sun Ring	Sternovia	Calm Blue Flame	Red Hot Crystal	Klavier Band	(Misc.)	(Metal)	(Magical)	1842209283	1484350495	109777341	1777659865	1933797735
+1352690840	90	1	1	1	Moon Ring	Sternovia	Snowflake Crystal	Rose Crystal	Klavier Band	(Misc.)	(Metal)	(Magical)	188435527	1484350495	1661495002	1644632644	1933797735
+812033715	91	1	4	1	Healing Salve	Taun	Taun			(Medicinal)	(Flowers)	(Edibles)	763193597	899419154	899419154	0	0
+1662177751	92	1	3	1	Healing Elixir	Refresh Oil	Nightglow Flower	Crackling Water		(Medicinal)	(Sand)	(Flowers)	1466857876	1838937352	844434397	676625675	0
+561485939	93	1	3	1	Puni Jelly	Superpowder	Blue Puniball	Red Puniball		(Puni)	(Edibles)	(Threads)	1148918095	269000885	1098182389	675238874	0
+822260784	94	1	3	1	Healing Bell	Polish	Rainbow Wing Fragment	Rainbow Coral Fragment		(Metal)	(Threads)	(Medicinal)	1833504999	1650709411	1009573662	645736256	0
+396948017	95	1	3	1	Custarias Pie	Giant Bird Egg	Superpowder	Gold Spiky Fruit		(Edibles)	(Spices)	(Food)	1507426613	1099367838	269000885	1551025926	0
+507312961	96	1	2	1	Riaflan	Dragon Egg	Honey	Delicious Milk		(Spices)	(Food)	(Edibles)	708858626	1779635598	937459136	892774773	0
+190149992	97	1	2	1	Hallfein Parfum	Charmanduft	Refresh Oil	Coralia		(Flowers)	(Lumber)	(Fruit)	209109006	2061437532	1838937352	102239912	0
+1138413989	98	1	1	1	Elixir	Lumiere Potpourri	Liquefier	Rainbow Neutralizer	Dunkelheit	(Medicinal)	(Elixirs)	(Edibles)	2007398888	401460900	1363720703	1002960756	31946281
+2073168421	99	1	3	1	Puni Candy	Blue Puniball	Green Puniball	Honey		(Fruit)	(Puni)	(Spices)	513706777	1098182389	1341465297	937459136	0
+591451613	100	1	3	1	Riaslade Ice Cream	Sweet Flower	Jelly Gems	Frost Uni		(Spices)	(Beehives)	(Edibles)	1910473168	1978153648	123425903	962577040	0
+1479117497	101	1	2	1	Squall Winder	Alchemic Clay	Alchemy Filter	Giant Bird Feather	Lapis Papillion	(Gases)	(Bugs)	(Neutralizers)	1594507219	1720435215	121234074	312039597	1856092025
+1674331751	102	1	2	1	Warding Incense	Cure-all Base	Forest Sage	Ancient Beehive		(Medicinal)	(Medicine)	(Magical)	274138787	2000129743	1864267219	313808601	0
+543713861	103	1	1	1	Riasoup	Superpowder	Wish Carrot	Marbled Meat	Dragon Egg	(Food)	(Spices)	(Poisons)	1164241785	269000885	105382290	599611575	1779635598
+2039832581	104	1	3	1	Dark Water	Black Water	Esplante	Rotwood Miasma		(Water)	(Poisons)	(Fruit)	2125911407	216224640	1244005587	661694671	0
+384455788	105	1	3	1	Imp's Mischief	Devil's Soul	Poison Cube	Crackling Water		(Poisons)	(Medicine)	(Medicinal)	854824807	1736712702	335903222	676625675	0
+757959426	106	1	2	1	Puni Whip	Green Puniball	Red Puniball	Stretchy Band		(Gunpowder)	(Puni)	(Mushrooms)	154421263	1341465297	675238874	102597514	0
+2121479489	107	1	2	1	Worn Out Circle	Ancient Scroll	Tanning Fluid	Forbidden Grimoire		(Poisons)	(Plants)	(Fuel)	911148001	200917198	882945479	1991884338	0
+1128189728	108	1	1	1	Codex of Creation	Book of Hades	Rainbow Neutralizer	Ancient Scroll		(Misc.)	(Fuel)	(Elixirs)	184744382	311484869	1002960756	200917198	0
+966464110	109	1	0	1	Star Staff	Ingot	Rainbow Crystal	Blue Puniball		(Stone)	(Ingots)	(Flowers)	806431220	737921160	529144620	1098182389	0
+1601027116	110	1	0	1	Explorer's Staff	Silvalia	Sparkling Sand	Green Puniball		(Ore)	(Ingots)	(Lumber)	1458014134	1805598216	1979772462	1341465297	0
+678071486	111	1	0	1	Azure Cage	Gold Eisen	Mana Petal	Pink Puniball		(Gemstones)	(Ingots)	(Plants)	568375072	1653445612	1748601842	215919209	0
+1240590049	112	1	0	1	Rustivaria	Ōkeagyrn	Ancient Blue Water	Red Puniball		(Water)	(Ingots)	(Ore)	1081859453	1179128739	385395481	675238874	0
+1056364151	113	1	0	1	Gracia Staff	Iridescence	Rose Crystal	Pink Puniball	Benevolent Twisted Tree	(Magical)	(Ingots)	(Puni)	930934251	918727047	1644632644	215919209	1443459007
+796156218	114	1	0	1	Guardian's Spear	Ingot	Sand Crystals	Sturdy Claws		(Stone)	(Ingots)	(Metal)	1867905340	737921160	1044984926	1486125131	0
+1233309564	115	1	0	1	Stone-Smashing Lance	Silvalia	Ethereal Stone	Ingot Bug		(Ore)	(Ingots)	(Gemstones)	161699710	1805598216	1192353482	1912722015	0
+1048969194	116	1	0	1	Sterglanz	Gold Eisen	Metal Ore	Unknown Augite		(Gemstones)	(Ingots)	(Metal)	2124703720	1653445612	159522154	740285902	0
+1595839927	117	1	0	1	Vactarius	Ōkeagyrn	Hainelight	Riverstone		(Water)	(Ingots)	(Ore)	524225973	1179128739	1482100967	265854221	0
+672769313	118	1	0	1	Perchel Zwei	Iridescence	Brenn Ore	Lunastone	Demon Claws	(Magical)	(Ingots)	(Metal)	1748516131	918727047	2135732137	1340712083	1956188286
+1923267287	119	1	0	1	Parrying Dagger	Ingot	Amatite Ore	Sharp Claws		(Stone)	(Ingots)	(Animal Mat.)	847454933	737921160	2083546144	225276371	0
+341054611	120	1	0	1	Dragonfang Stiletto	Silvalia	Flaming Black Sand	Sturdy Claws		(Ore)	(Ingots)	(Animal Mat.)	1416989841	1805598216	610492753	1486125131	0
+1666393093	121	1	0	1	Shadowend	Gold Eisen	Rusted Sword	Beast Shell		(Gemstones)	(Ingots)	(Dragon Mat.)	594721799	1653445612	1606996164	1860622521	0
+46681690	122	1	0	1	Dusk Blade	Ōkeagyrn	Ancient Sword	Goldinite		(Water)	(Ingots)	(Ore)	1122621020	1179128739	1938765783	174236913	0
+1976532688	123	1	0	1	Full Hellmoon	Iridescence	Demon Claws	Dragon Eye	Inverted Scale	(Magical)	(Ingots)	(Dragon Mat.)	904849102	918727047	1956188286	879017728	1978014181
+166043447	124	1	0	1	Magic Broom	Ingot	Evihibrow	Gaudy Stone		(Stone)	(Ingots)	(Lumber)	7316651	737921160	1486197725	305486315	0
+1863528819	125	1	0	1	Stylish Broom	Silvalia	Bewitching Chip	Crimson Ore		(Ore)	(Ingots)	(Flowers)	1721305839	1805598216	754021132	202033108	0
+403964389	126	1	0	1	Enchanted Broom	Gold Eisen	Heatwave Water	Tail Fern		(Gemstones)	(Ingots)	(Lumber)	295582329	1653445612	929171891	1310382082	0
+2039442362	127	1	0	1	Maiden Broom	Ōkeagyrn	Blazing Beehive	Benevolent Twisted Tree		(Water)	(Ingots)	(Ore)	1879396388	1179128739	7632746	1443459007	0
+243817264	128	1	0	1	Spirit Broom	Iridescence	Alchemist's Broom	Water Beast Fossil	Haine Fire Stone	(Magical)	(Ingots)	(Lumber)	117596338	918727047	904424455	1631991673	1439191365
+1451635804	129	1	0	1	Alchemist's Staff	Ingot	Nightglow Flower	Gaudy Stone		(Stone)	(Ingots)	(Lumber)	1704718967	737921160	844434397	305486315	0
+812685850	130	1	0	1	Spirit Staff	Silvalia	Mana Gem	Spiral Bone		(Ore)	(Ingots)	(Plants)	57498675	1805598216	536848308	1095053287	0
+1199024784	131	1	0	1	Philosopher's Staff	Gold Eisen	Forest Sage	Indignant Scream		(Gemstones)	(Ingots)	(Elixirs)	1953131685	1653445612	1864267219	385805320	0
+653050067	132	1	0	1	Great Fairy's Staff	Ōkeagyrn	Minuit Fleur	Diamant Gemstone		(Water)	(Ingots)	(Ore)	368117498	1179128739	128073268	638721037	0
+1374416965	133	1	0	1	Holy Winged Staff	Iridescence	Rainbow Wing Fragment	Dunkelheit	Rainbow Neutralizer	(Magical)	(Ingots)	(Elixirs)	1660302960	918727047	1009573662	31946281	1002960756
+68121927	134	1	0	1	Starting Staff	Ingot	Gaudy Stone	Trois Mineral		(Stone)	(Ingots)	(Metal)	923972460	737921160	305486315	1019624928	0
+1660541699	135	1	0	1	Flourish Heart	Silvalia	Unknown Augite	Eternal Breeze		(Ore)	(Ingots)	(Flowers)	1373904170	1805598216	740285902	978862733	0
+369027989	136	1	0	1	Wandering Staff	Gold Eisen	Forest Sage	Fairystone Fragment		(Gemstones)	(Ingots)	(Lumber)	652422592	1653445612	1864267219	1753176835	0
+1952809418	137	1	0	1	Prosper Heart	Ōkeagyrn	Fortima Ore	Rotting Arbor Branch		(Water)	(Ingots)	(Ore)	1199065059	1179128739	1326849943	870010761	0
+56799584	138	1	0	1	Eternal Cycle Staff	Iridescence	Dragon Eye	Thousand Scale Fruit	Book of Hades	(Magical)	(Ingots)	(Dragon Mat.)	813660021	918727047	879017728	2044054235	311484869
+58239683	139	1	0	1	Traveler's Vest	Cloth	Animal Hide			(Animal Mat.)	(Cloth)	(Flowers)	795804530	1879695076	789742580	0	0
+1703806087	140	1	0	1	Leather Protector	Cloth	Cloth	Gaudy Stone		(Gemstones)	(Cloth)	(Stone)	1234808120	1879695076	1879695076	305486315	0
+310981649	141	1	0	1	Yarn Coat	Moffcloth	Fluffy Wool	Palma Fruit		(Fruit)	(Cloth)	(Poisons)	1050582434	1365773232	568788969	813481749	0
+1930583630	142	1	0	1	Radiant Plate	Moffcloth	Regicite	Sturdy Claws		(Lumber)	(Animal Mat.)	(Cloth)	1594226685	1365773232	1877818421	1486125131	0
+68513500	143	1	0	1	Woodsprite Raiment	Flügel	Bewitching Chip	Eternal Breeze		(Flowers)	(Cloth)	(Elixirs)	671270763	2028095357	754021132	978862733	0
+1659093150	144	1	0	1	Scale Armor	Flügel	Sperrholz Plywood	Beast Shell		(Bugs)	(Cloth)	(Animal Mat.)	1324640559	2028095357	640985812	1860622521	0
+367325192	145	1	0	1	Verdant Dress	Velvetis	Mist Liquid	Bewitching Chip		(Ore)	(Cloth)	(Medicine)	972249529	581904303	1402637106	754021132	0
+2057572967	146	1	0	1	Commander's Plate	Velvetis	Diamant Gemstone	Fail Plywood		(Elixirs)	(Metal)	(Cloth)	1454619606	581904303	638721037	1968561703	0
+228795121	147	1	0	1	Maiden's Jacket	Flügel	Heavenly String	Purifying Liquid		(Puni)	(Cloth)	(Misc.)	565480256	2028095357	1888697275	831901668	0
+1835313942	148	1	0	1	Warrior's Attire	Velvetis	Dragon Wing	Ingot Beetle		(Sand)	(Dragon Mat.)	(Cloth)	1098056357	581904303	1560118844	230663821	0
+442735492	149	1	0	1	Resurrection Wear	Geranóvirgen	Charmanduft	Forest Sage	Wake-Up Flower	(Medicinal)	(Cloth)	(Misc.)	913584691	921957720	2061437532	1864267219	43485105
+2090153414	150	1	0	1	White Order	Geranóvirgen	Glass Goblet	Fine Pelt	Whitefly	(Gases)	(Cloth)	(Spices)	1350737015	921957720	534325421	2062748672	807133879
+194118992	151	1	0	1	Griffon Plate	Geranóvirgen	Dragon Meat	Fine Pelt	Demon Claws	(Dragon Mat.)	(Cloth)	(Magical)	663071969	921957720	1643172121	2062748672	1956188286
+509902531	152	1	0	1	Bunny Tail	Fluffy Wool	Animal Hide	Cotton Grass		(Puni)	(Cloth)	(Plants)	663889013	568788969	789742580	513455225	0
+2147423392	153	1	0	1	Monochrome Glasses	Seele Pilós	Sparkling Sand			(Plants)	(Animal Mat.)	(Misc.)	1175014954	281089758	1979772462	0	0
+1984518325	154	1	0	1	Blue Puni Charm	Blue Puniball	Green Puniball	Alchemy Fibers		(Puni)	(Bugs)	(Uni)	1337917955	1098182389	1341465297	1955455862	0
+420068058	155	1	0	1	Feather Pin	Blessed Feather	Fluffy Wool	Supple Vine		(Cloth)	(Plants)	(Flowers)	553640044	922905939	568788969	1472841198	0
+150479882	156	1	0	1	Angel Ribbon	Moffcloth	Lucky Clover	Mana Petal		(Magical)	(Flowers)	(Metal)	823033536	1365773232	397281673	1748601842	0
+1846446668	157	1	0	1	Godspeed Boots	Traveler's Shoes	Giant Bird Feather	Devil's Soul		(Cloth)	(Gases)	(Animal Mat.)	1475924218	1492091826	312039597	1736712702	0
+21915683	158	1	0	1	Snow Boots	Traveler's Shoes	Heavenly String	Fine Pelt	Sunbeam Powder	(Food)	(Animal Mat.)	(Cloth)	951595669	1492091826	1888697275	2062748672	1080036459
+1886945044	159	1	0	1	Phantom Scarf	Flügel	Heavenly String	Eternal Breeze		(Gases)	(Dragon Mat.)	(Cloth)	1234052514	2028095357	1888697275	978862733	0
+261480465	160	1	0	1	Lanterna Earrings	Flügel	Celestial Silver Stone	Lanterna Blossoms		(Misc.)	(Flowers)	(Food)	912505511	2028095357	1970930026	1093890593	0
+1768115797	161	1	0	1	Hallfein Pendant	Ōkeagyrn	Everlasting Saft	Eternal Crystal		(Neutralizers)	(Metal)	(Magical)	1351947491	1179128739	1889313019	2105727464	0
+1636426184	162	1	0	1	Spirit Beast's Tail	Geranóvirgen	Mythical Hide	Water Beast Fossil	Stretchy Band	(Animal Mat.)	(Cloth)	(Threads)	1484766066	921957720	728189870	1631991673	102597514
+378458450	163	1	0	1	Spirit Belt	Geranóvirgen	Snowflake Crystal	Dragon Meat	Frost-Speckled Wood	(Cloth)	(Dragon Mat.)	(Magical)	796429288	921957720	1661495002	1643172121	400222564
+1089527127	164	1	0	0	Dark Virid Pearl	Dark Virid Pearl	Dark Virid Pearl	Dark Virid Pearl	Dark Virid Pearl	(Starpearls)	(Starpearls)	(Starpearls)	1363239453	1363239453	1363239453	1363239453	1363239453
+938995137	165	1	0	0	Crimson Virid Pearl	Crimson Virid Pearl	Crimson Virid Pearl	Crimson Virid Pearl	Crimson Virid Pearl	(Starpearls)	(Starpearls)	(Starpearls)	642142859	642142859	642142859	642142859	642142859
+1359037317	166	1	0	0	Azure Virid Pearl	Azure Virid Pearl	Azure Virid Pearl	Azure Virid Pearl	Azure Virid Pearl	(Starpearls)	(Starpearls)	(Starpearls)	1085340879	1085340879	1085340879	1085340879	1085340879
+1677546019	167	1	0	0	Dark Abyss Pearl	Dark Abyss Pearl	Dark Abyss Pearl	Dark Abyss Pearl	Dark Abyss Pearl	(Starpearls)	(Starpearls)	(Starpearls)	1356895242	1356895242	1356895242	1356895242	1356895242
+351953589	168	1	0	0	Crimson Abyss Pearl	Crimson Abyss Pearl	Crimson Abyss Pearl	Crimson Abyss Pearl	Crimson Abyss Pearl	(Starpearls)	(Starpearls)	(Starpearls)	669492384	669492384	669492384	669492384	669492384
+1913441521	169	1	0	0	Azure Abyss Pearl	Azure Abyss Pearl	Azure Abyss Pearl	Azure Abyss Pearl	Azure Abyss Pearl	(Starpearls)	(Starpearls)	(Starpearls)	1091635930	1091635930	1091635930	1091635930	1091635930
+1865762490	170	1	0	0	Dark Bone Pearl	Dark Bone Pearl	Dark Bone Pearl	Dark Bone Pearl	Dark Bone Pearl	(Starpearls)	(Starpearls)	(Starpearls)	2122643954	2122643954	2122643954	2122643954	2122643954
+405960236	171	1	0	0	Crimson Bone Pearl	Crimson Bone Pearl	Crimson Bone Pearl	Crimson Bone Pearl	Crimson Bone Pearl	(Starpearls)	(Starpearls)	(Starpearls)	159631720	159631720	159631720	159631720	159631720
+2126829674	172	1	0	0	Azure Bone Pearl	Azure Bone Pearl	Azure Bone Pearl	Azure Bone Pearl	Azure Bone Pearl	(Starpearls)	(Starpearls)	(Starpearls)	1869965090	1869965090	1869965090	1869965090	1869965090
+577094256	173	1	0	0	Dark Fyr Pearl	Dark Fyr Pearl	Dark Fyr Pearl	Dark Fyr Pearl	Dark Fyr Pearl	(Starpearls)	(Starpearls)	(Starpearls)	869563684	869563684	869563684	869563684	869563684
+1432548090	174	1	0	0	Crimson Fyr Pearl	Crimson Fyr Pearl	Crimson Fyr Pearl	Crimson Fyr Pearl	Crimson Fyr Pearl	(Starpearls)	(Starpearls)	(Starpearls)	1154698674	1154698674	1154698674	1154698674	1154698674
+865361084	175	1	0	0	Azure Fyr Pearl	Azure Fyr Pearl	Azure Fyr Pearl	Azure Fyr Pearl	Azure Fyr Pearl	(Starpearls)	(Starpearls)	(Starpearls)	572908536	572908536	572908536	572908536	572908536
+1768232829	176	1	0	0	Dark Frost Pearl	Dark Frost Pearl	Dark Frost Pearl	Dark Frost Pearl	Dark Frost Pearl	(Starpearls)	(Starpearls)	(Starpearls)	1745456233	1745456233	1745456233	1745456233	1745456233
+509749227	177	1	0	0	Crimson Frost Pearl	Crimson Frost Pearl	Crimson Frost Pearl	Crimson Frost Pearl	Crimson Frost Pearl	(Starpearls)	(Starpearls)	(Starpearls)	521059583	521059583	521059583	521059583	521059583
+2023000495	178	1	0	0	Azure Frost Pearl	Azure Frost Pearl	Azure Frost Pearl	Azure Frost Pearl	Azure Frost Pearl	(Starpearls)	(Starpearls)	(Starpearls)	2046300859	2046300859	2046300859	2046300859	2046300859
+1017796414	179	1	0	0	Dark Shine Pearl	Dark Shine Pearl	Dark Shine Pearl	Dark Shine Pearl	Dark Shine Pearl	(Starpearls)	(Starpearls)	(Starpearls)	263688471	263688471	263688471	263688471	263688471
+1269655468	180	1	0	0	Crimson Shine Pearl	Crimson Shine Pearl	Crimson Shine Pearl	Crimson Shine Pearl	Crimson Shine Pearl	(Starpearls)	(Starpearls)	(Starpearls)	2024841601	2024841601	2024841601	2024841601	2024841601
+760990190	181	1	0	0	Azure Shine Pearl	Azure Shine Pearl	Azure Shine Pearl	Azure Shine Pearl	Azure Shine Pearl	(Starpearls)	(Starpearls)	(Starpearls)	507908037	507908037	507908037	507908037	507908037
+769553880	182	1	0	1	Woodcutter's Axe	Tough Bone	Tough Bone	Rouge Gemstone		(Gemstones)	(Sand)	(Uni)	378208873	929672413	929672413	1673446482	0
+1524188482	183	1	0	1	Gold Axe	Woodcutter's Axe	Rusted Sword	Goldinite		(Animal Mat.)	(Metal)	(Ore)	1636578047	378208873	1606996164	174236913	0
+1009773316	184	1	0	1	Starlight Axe	Gold Axe	Beast Shell	Tíkometal	Hainelight	(Metal)	(Lumber)	(Beehives)	125476027	1636578047	1860622521	1340797831	1482100967
+2053619237	185	1	0	1	Grass Sickle​	Sharp Claws	Sharp Claws	Blue Gemstone		(Uni)	(Metal)	(Plants)	832175709	225276371	225276371	1571003278	0
+224431795	186	1	0	1	Golden Sickle	Grass Sickle​	Rusted Sword	Goldinite		(Sand)	(Metal)	(Fruit)	1184812747	832175709	1606996164	174236913	0
+1805000951	187	1	0	1	Luminous Sickle	Golden Sickle	Tíkometal	Ancient Sword	Hainelight	(Metal)	(Lumber)	(Plants)	543711375	1184812747	1340797831	1938765783	1482100967
+962505290	188	1	0	1	Bug Net	Silver Web	Silver Web	Eiche		(Bugs)	(Threads)	(Lumber)	34332151	1901592439	1901592439	453458891	0
+1314495200	189	1	0	1	Gold Bug Net	Bug Net	Gold Steel Web	Goldinite		(Lumber)	(Threads)	(Bugs)	1963781473	34332151	1621516709	174236913	0
+682570906	190	1	0	1	Moonlight Bug Net	Gold Bug Net	Strong Alchemy Fibers	Ancient Sword	Hainelight	(Threads)	(Fruit)	(Bugs)	335168293	1963781473	310070576	1938765783	1482100967
+1391342158	191	1	0	1	Traveler's Shoes	Fluffy Wool	Cloth	Blessed Feather		(Bugs)	(Threads)	(Animal Mat.)	1492091826	568788969	1879695076	922905939	0
+80868501	192	1	0	1	Victor's Charm	Guardian Armor	Mine Ant	Alchemy Fibers	Sharp Claws	(Bugs)	(Marine)	(Medicinal)	248530281	127808194	744769546	1955455862	225276371
+1283424920	193	1	0	1	Training Charm	Seele Pilós	Baby Menace	Stretchy Band	Spiral Bone	(Animal Mat.)	(Ore)	(Threads)	125944558	281089758	227038212	102597514	1095053287
+2082833480	194	1	0	1	Vitality Charm	Moffcloth	Elder Garlic	Baby Menace	Guardian Armor	(Ore)	(Fruit)	(Medicine)	1982084540	1365773232	534185689	227038212	127808194
+1433831758	195	1	0	1	Assault Bangle	Beast Meat	Beast Shell	Demon Uni	Sharp Claws	(Gemstones)	(Bugs)	(Uni)	512280888	1912684169	1860622521	494157157	225276371
+1026084450	196	1	0	1	Geist Core - Purple	Broken Geist Core	Tears of the Fallen Star	Fortima Ore		(Ore)	(Poisons)	(Bugs)	2119170799	1986077821	1688546280	1326849943	0
+1092091148	197	1	0	1	Bungee Gem - Green	Bungee Gem - Blue	Schwertite	Arbor Ivy		(Gemstones)	(Plants)	(Flowers)	580437356	243810590	953504459	1649970805	0
+427948887	198	1	0	1	Bungee Gem - Red	Bungee Gem - Green	Schwertite	Goldinite		(Gemstones)	(Gunpowder)	(Metal)	67672928	580437356	953504459	174236913	0
+1361664193	199	1	0	1	Bungee Gem - Gold	Bungee Gem - Red	Schwertite	Ancient Sword		(Gemstones)	(Mushrooms)	(Misc.)	686319877	67672928	953504459	1938765783	0
+1199182842	200	1	0	1	Dimensional Gate	Dimensional Wedge	Dark Dew	Lunastone		(Metal)	(Water)	(Dragon Mat.)	1499519005	539450216	815571532	1340712083	0
+212824756	201	1	0	1	Ring of Souls	Cradle's Wing	Vajra Wire	Mysterious Metal Shard		(Threads)	(Metal)	(Misc.)	722578387	1730167594	1090139267	612791486	0
+1589537821	202	2	0	0									1813148685	0	0	0	0
+944292441	203	2	0	0									182770249	0	0	0	0
+1330639567	204	2	0	0									2112088799	0	0	0	0
+785684626	205	2	0	0									477659268	0	0	0	0
+1507043332	206	2	0	0									1803530262	0	0	0	0
+296651093	207	1	1	0									405058249	0	0	0	0
+2002265873	208	1	1	0									2127699085	0	0	0	0
+6231943	209	1	1	0									164965403	0	0	0	0
+1640267226	210	1	1	0									1749960264	0	0	0	0
+381898060	211	1	1	0									524908242	0	0	0	0
+1882579722	212	1	1	0									2042615956	0	0	0	0
+1663119760	213	1	1	0									1066712000	0	0	0	0
+98017226	214	1	1	0									1499600262	0	0	0	0
+1581857958	215	1	0	0									510174376	0	0	0	0
+952079072	216	1	0	0									2023623394	0	0	0	0
+595794337	217	1	0	0									1671594403	0	0	0	0
+1165342693	218	1	0	0									89403367	0	0	0	0
+2113639216	219	1	0	0									1953605806	0	0	0	0
+453852534	220	1	0	0									310839016	0	0	0	0
+637956883	221	1	0	0									934792281	0	0	0	0
+1201477968	222	1	0	0									1445766660	0	0	0	0
+84671591	223	1	0	0									907426380	0	0	0	0
+1687197242	224	1	0	0									1468878865	0	0	0	0
+163834112	225	1	0	0									410146740	0	0	0	0
+1750631075	226	1	0	0									2045328873	0	0	0	0
+1150512170	227	1	0	0									1428345698	0	0	0	0
+621282935	228	1	0	0									884586813	0	0	0	0
+261339449	229	1	0	0									251601453	0	0	0	0
+1846072166	230	1	0	0									1868843120	0	0	0	0
+1516042616	231	1	0	0									1765883731	0	0	0	0
+1002935077	232	1	0	0									148526350	0	0	0	0
