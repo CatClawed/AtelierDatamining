@@ -131,12 +131,26 @@ def export_csv():
             'Book', 'RecipeName1', 'RecipeName2', 'RecipeName3',
             'ItemId', 'RecipeId1', 'RecipeId2', 'RecipeId3'
         ],
-        'EnemyDataBase': [
+        'EnemyLibraryInfo': [
             'text_ENG', 'Race',
             #'Flag1', 'Integer', 'Flag2', 'Decimal1', 'Unknown4', 'Integer2', 'Decimal2', 'Integer3',
             #'Floats1', 'Floats2', 'Unknown1', 'Unknown2', 'EnemySizeTypeId', 'Flag',
+            'Number', 'Number2',
+            'ElemRes1', 'ElemRes2', 'ElemRes3',
+            'ElemRes4', 'ElemRes5', 'ElemRes6',
+            'AilRes1', 'AilRes2', 'AilRes3', 'AilRes4',
+            'AilRes5', 'AilRes6', 'AilRes7', 'AilRes8',
+            'DropReward0','DropReward1','DropReward2','DropReward3','DropReward4',
+            'DropGift0','DropGift1','DropGift2','DropGift3','DropGift4',
             'text_JPN', 'text_CHS', 'text_CHT', 'text_KOR',
             'FlavorText',
+        ],
+        'recipemap': [
+            'Index',
+            'Map0', 'Map1', 'Map2', 'Map3', 'Map4',
+            'Map5', 'Map6', 'Map7', 'Map8', 'Map9',
+            'Map10', 'Map11', 'Map12',
+            'RecipeDerivationMapArrow',
         ]
     }
     for k, v in finalized.items():
@@ -409,6 +423,57 @@ def item():
         except Exception as e:
             print('RecipeBook issue', e, item)
 
+    dic = {}
+    hold['RecipeDerivationBase'] = dic
+    j = open_file('RecipeDerivationBase')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            copy_keys(d, item, ['Index', 'RecipeId'])
+            if item['RecipeId']:
+                d['BaseName'] = finalized['recipe'][item['RecipeId']]['ItemName']
+            dic[item['RecipeDerivationBaseId']] = d
+        except Exception as e:
+            print('RecipeDerivationBase issue', e, item)
+    dic = {}
+    hold['RecipeDerivationMap'] = dic
+    j = open_file('RecipeDerivationMap')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            #if item['RecipeDerivationTypeId'] and item['RecipeDerivationTypeId'] not in [1617690764, 1276508687]:
+            #    d['RecipeDerivationTypeId'] = item['RecipeDerivationTypeId']
+            if item['RecipeOpenCharaId']:
+                d['RecipeOpenCharaId'] = item['RecipeOpenCharaId']
+            if item['RecipeId']:
+                d['RecipeName'] = finalized['recipe'][item['RecipeId']]['ItemName']
+            if item['ItemId']:
+                d['IngredientName'] = finalized['item'][item['ItemId']]['text_ENG']
+            dic[item['RecipeDerivationMapId']] = d
+        except Exception as e:
+            print('RecipeDerivationMap issue', e, item)
+    dic = {}
+    finalized['recipemap'] = dic
+    j = open_file('RecipeDerivationMapPosition')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            copy_keys(d, item, ['RecipeDerivationMapArrow'])
+            d['Index'] = hold['RecipeDerivationBase'][item['RecipeDerivationBaseId']]['Index']
+            for i in range(0,13):
+                if hold['RecipeDerivationMap'][item['RecipeDerivationMapId'][i]]:
+                    d[f'Map{i}'] = hold['RecipeDerivationMap'][item['RecipeDerivationMapId'][i]].copy()
+            for i in range(0,26):
+                match d['RecipeDerivationMapArrow'][i]:
+                    case 1225125243: d['RecipeDerivationMapArrow'][i] = ''
+                    case 1134475172: d['RecipeDerivationMapArrow'][i] = '>'
+                    case 711622031: d['RecipeDerivationMapArrow'][i] = 'V'
+            dic[item['RecipeDerivationMapPositionId']] = d
+        except Exception as e:
+            print('RecipeDerivationMapPosition issue', e, item)
+    #print(dic)
+
+
 def shop():
     dic = {}
     finalized['GiftTraitTable'] = dic
@@ -524,6 +589,28 @@ def trait():
 
 def enemy():
     dic = {}
+    hold['DisorderProbability'] = dic
+    j = open_file('DisorderProbability')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            copy_keys(d, item, ['AilRes1', 'AilRes2', 'AilRes3', 'AilRes4',
+                'AilRes5', 'AilRes6', 'AilRes7', 'AilRes8'])
+            dic[item['AilmentResistanceId']] = d
+        except:
+            print('DisorderProbability issue', item)
+    dic = {}
+    hold['ElementResistance'] = dic
+    j = open_file('ElementResistance')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            copy_keys(d, item, ['ElemRes1', 'ElemRes2', 'ElemRes3', 'ElemRes4',
+                'ElemRes5', 'ElemRes6'])
+            dic[item['ElementResistanceId']] = d
+        except:
+            print('ElementResistance issue', item)
+    dic = {}
     hold['EnemyBaseInfo'] = dic
     j = open_file('EnemyBaseInfo')
     for item in j['File']['Object']:
@@ -537,16 +624,66 @@ def enemy():
         except:
             print('EnemyBase issue', item)
     dic = {}
-    finalized['EnemyDataBase'] = dic
+    hold['DropGiftTable'] = dic
+    j = open_file('DropGiftTable')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            for i in range(0,5):
+                if item['GiftIds'][i]:
+                    d[f'Gift{i}'] = hold['Gift'][item['GiftIds'][i]]
+            dic[item['DropGiftTableId']] = d
+        except:
+            print('DropGiftTable issue', item)
+    dic = {}
+    hold['DropRewardTable'] = dic
+    j = open_file('DropRewardTable')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            for i in range(0,5):
+                if item['GiftIds'][i]:
+                    d[f'Gift{i}'] = hold['Gift'][item['GiftIds'][i]]
+            dic[item['DropRewardTableId']] = d
+        except:
+            print('DropRewardTable issue', item)
+    dic = {}
+    finalized['EnemyLibraryInfo'] = dic
+    j = open_file('EnemyLibraryInfo')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            copy_keys(d, item, ['Number', 'Number2'])
+            dic[item['EnemyLibraryInfoId']] = d
+        except Exception as e:
+            print('EnemyLibraryInfo issue', e)
+    dic = {}
+    hold['EnemyDataBase'] = dic
     j = open_file('EnemyDataBase')
     for item in j['File']['Object']:
         try:
             d = {}
-            copy_keys(d, item, ['Flag1', 'Integer', 'Flag2', 'Decimal1', 'Unknown4', 'Integer2', 'Decimal2', 'Integer3'])
+            copy_keys(d, item, ['Flag1', 'Integer', 'Flag2', 'Decimal1', 'Unknown4', 'Integer2', 'Decimal2', 'Integer3',])
             d = d | hold['EnemyBaseInfo'][item['EnemyBaseInfoId']].copy()
+            d = d | hold['ElementResistance'][item['ElementResistanceId']]
+            d = d | hold['DisorderProbability'][item['DisorderProbabilityId']]
+            for i in range(0,5):
+                if f'Gift{i}' in hold['DropRewardTable'][item['DropRewardTableId']]:
+                    d[f'DropReward{i}'] = hold['DropRewardTable'][item['DropRewardTableId']][f'Gift{i}']
+                if f'Gift{i}' in hold['DropGiftTable'][item['DropGiftTableId']]:
+                    d[f'DropGift{i}'] = hold['DropGiftTable'][item['DropGiftTableId']][f'Gift{i}']
+
             dic[item['EnemyDataBaseId']] = d
-        except:
-            print('EnemyBase issue', item)
+            thing = finalized['EnemyLibraryInfo'][item['EnemyLibraryInfoId']]
+            if 'text_ENG' not in thing:
+                finalized['EnemyLibraryInfo'][item['EnemyLibraryInfoId']] = thing | d.copy()
+            else:
+                for i in range(0,5):
+                    if f'DropGift{i}' in d and f'DropGift{i}' not in thing:
+                        finalized['EnemyLibraryInfo'][item['EnemyLibraryInfoId']][f'DropGift{i}'] = d[f'DropGift{i}']
+
+        except Exception as e:
+            print('EnemyBase issue', e)
 
 def other_text():
     dic = {}
@@ -569,5 +706,3 @@ shop()
 enemy()
 other_text()
 export_csv()
-
-#print(finalized['trait'])
