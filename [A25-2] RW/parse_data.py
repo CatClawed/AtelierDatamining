@@ -143,15 +143,23 @@ def export_csv():
             'DropReward0','DropReward1','DropReward2','DropReward3','DropReward4',
             'DropGift0','DropGift1','DropGift2','DropGift3','DropGift4',
             'text_JPN', 'text_CHS', 'text_CHT', 'text_KOR',
-            'FlavorText',
+            'FlavorText', 'EnemyLibraryInfoId',
         ],
         'recipemap': [
             'Index',
-            'Map0', 'Map1', 'Map2', 'Map3', 'Map4',
-            'Map5', 'Map6', 'Map7', 'Map8', 'Map9',
-            'Map10', 'Map11', 'Map12',
-            'RecipeDerivationMapArrow',
-        ]
+            'Node0', 'Node1', 'Node2', 'Node3', 'Node4',
+            'RightArrows', 'DownArrows',
+        ],
+        'gather': [
+            'Index', 'Area', 'GatherType',
+            'ItemName1','ItemName2','ItemName3',
+            'Floors'
+        ],
+        'enemylocations': [
+            'Index', 'Area',
+            'EnemyName1','EnemyName2','EnemyName3','EnemyName4','EnemyName5',
+            'Floors'
+        ],
     }
     for k, v in finalized.items():
         head = keys[k] if k in keys else v[list(v.keys())[0]].keys()
@@ -424,6 +432,16 @@ def item():
             print('RecipeBook issue', e, item)
 
     dic = {}
+    hold['AncientRecipe'] = dic
+    j = open_file('AncientRecipe')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            dic[item['RecipeId']] = d
+        except Exception as e:
+            print('AncientRecipe issue', e, item)
+
+    dic = {}
     hold['RecipeDerivationBase'] = dic
     j = open_file('RecipeDerivationBase')
     for item in j['File']['Object']:
@@ -444,9 +462,14 @@ def item():
             #if item['RecipeDerivationTypeId'] and item['RecipeDerivationTypeId'] not in [1617690764, 1276508687]:
             #    d['RecipeDerivationTypeId'] = item['RecipeDerivationTypeId']
             if item['RecipeOpenCharaId']:
-                d['RecipeOpenCharaId'] = item['RecipeOpenCharaId']
+                match item['RecipeOpenCharaId']:
+                    case 1146794032: d['UnlockChar'] = 'Totori'
+                    case 1945274091: d['UnlockChar'] = 'Sophie'
+                    case _: d['UnlockChar'] = item['RecipeOpenCharaId']
             if item['RecipeId']:
                 d['RecipeName'] = finalized['recipe'][item['RecipeId']]['ItemName']
+                if item['RecipeId'] in hold['AncientRecipe']:
+                    d['AncientRecipe'] = True
             if item['ItemId']:
                 d['IngredientName'] = finalized['item'][item['ItemId']]['text_ENG']
             dic[item['RecipeDerivationMapId']] = d
@@ -458,17 +481,40 @@ def item():
     for item in j['File']['Object']:
         try:
             d = {}
-            copy_keys(d, item, ['RecipeDerivationMapArrow'])
             d['Index'] = hold['RecipeDerivationBase'][item['RecipeDerivationBaseId']]['Index']
+            temp = {}
             for i in range(0,13):
                 if hold['RecipeDerivationMap'][item['RecipeDerivationMapId'][i]]:
-                    d[f'Map{i}'] = hold['RecipeDerivationMap'][item['RecipeDerivationMapId'][i]].copy()
-            for i in range(0,26):
-                match d['RecipeDerivationMapArrow'][i]:
-                    case 1225125243: d['RecipeDerivationMapArrow'][i] = ''
-                    case 1134475172: d['RecipeDerivationMapArrow'][i] = '>'
-                    case 711622031: d['RecipeDerivationMapArrow'][i] = 'V'
-            dic[item['RecipeDerivationMapPositionId']] = d
+                    temp[f'Map{i}'] = hold['RecipeDerivationMap'][item['RecipeDerivationMapId'][i]].copy()
+
+            if 'Map0' in temp:
+                d['Node0'] = temp['Map0']
+            if 'Map2' in temp:
+                d['Node1'] = temp['Map2'] | temp['Map3']
+            if 'Map5' in temp:
+                d['Node2'] = temp['Map5'] | temp['Map6']
+            if 'Map8' in temp:
+                d['Node3'] = temp['Map8'] | temp['Map9']
+            if 'Map11' in temp:
+                d['Node4'] = temp['Map11'] | temp['Map12']
+            arrows = {
+                1225125243: False,
+                1134475172: True,
+                711622031: True,
+                0: '0'
+            }
+            right = []
+            down = []
+            for i in [1, 4, 7, 10]:
+                right.append(arrows[item['RecipeDerivationMapArrow'][i]])
+                down.append(arrows[item['RecipeDerivationMapArrow'][i+13]])
+            d['RightArrows'] = right
+            d['DownArrows'] = down
+            if len(d) == 3:
+                if d['RightArrows'] != [False, False, False, False] and d['DownArrows'] != [False, False, False, False]:
+                    dic[item['RecipeDerivationMapPositionId']] = d
+            else:
+                dic[item['RecipeDerivationMapPositionId']] = d
         except Exception as e:
             print('RecipeDerivationMapPosition issue', e, item)
     #print(dic)
@@ -653,7 +699,7 @@ def enemy():
     for item in j['File']['Object']:
         try:
             d = {}
-            copy_keys(d, item, ['Number', 'Number2'])
+            copy_keys(d, item, ['Number', 'Number2', 'EnemyLibraryInfoId'])
             dic[item['EnemyLibraryInfoId']] = d
         except Exception as e:
             print('EnemyLibraryInfo issue', e)
@@ -685,11 +731,142 @@ def enemy():
         except Exception as e:
             print('EnemyBase issue', e)
 
+
+def area():
+    dic = {}
+    hold['GimEnemy'] = dic
+    j = open_file('GimEnemy')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            for i in range(1, 6):
+                if item[f'EnemyDataBaseId{i}']:
+                    d[f'EnemyName{i}'] = hold['EnemyDataBase'][item[f'EnemyDataBaseId{i}']]['text_ENG']
+            dic[item['GimEnemyId']] = d
+        except Exception as e:
+            print('GimEnemy issue', e, item)
+    dic = {}
+    hold['GimGathering'] = dic
+    j = open_file('GimGathering')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            match item['ExploreEquipTypeId']:
+                case 1682790261: d['GatherType'] = 'Bug Net'
+                case 1192236958: d['GatherType'] = 'Gather'
+                case 87204698: d['GatherType'] = 'Axe'
+                case 1053834970: d['GatherType'] = 'Sickle'
+                case _: d['GatherType'] = item['ExploreEquipTypeId']
+            for i in range(1, 4):
+                if 'ItemName' in hold['Gift'][item[f'GiftId{i}']]:
+                    d[f'ItemName{i}'] = hold['Gift'][item[f'GiftId{i}']]['ItemName']
+            dic[item['GimGatheringId']] = d
+        except Exception as e:
+            print('GimGathering issue', e, item)
+    dic = {}
+    hold['GimTreasure'] = dic
+    j = open_file('GimTreasure')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            if 'ItemName' in hold['Gift'][item[f'GiftId']]:
+                d[f'ItemName1'] = hold['Gift'][item[f'GiftId']]['ItemName']
+            d['GatherType'] = 'Chest'
+            dic[item['TreasureId']] = d
+        except Exception as e:
+            print('GimTreasure issue', e, item)
+    dic = {}
+    dic2 = {}
+    finalized['areas'] = dic2
+    hold['FieldStageInfo'] = dic
+    j = open_file('FieldStageInfo')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            copy_keys(d, item, ['Index'])
+            dic2[item['FieldStageInfoId']] = d | localize[item['MessageId']]
+            d['Area'] = localize[item['MessageId']]['text_ENG']
+            dic[item['FieldStageInfoId']] = d
+        except Exception as e:
+            print('FieldStageInfo issue', e)
+    dic = {}
+    dic2 = {}
+    finalized['enemylocations'] = dic2
+    finalized['gather'] = dic
+    j = open_file('FieldStageData')
+    for item in j['File']['Object']:
+        try:
+            if item['GimmickTypeId'] == 2059211439:
+                d = {}
+                d = d | hold['FieldStageInfo'][item['FieldStageInfoId']]
+                d = d | hold['GimGathering'][item['GimId']]
+                dic[item['FieldStageDataId']] = d
+            if item['GimmickTypeId'] == 133625395: # chest
+                d = {}
+                d = d | hold['FieldStageInfo'][item['FieldStageInfoId']]
+                d = d | hold['GimTreasure'][item['GimId']]
+                dic[item['FieldStageDataId']] = d
+            if item['GimmickTypeId'] == 214669337: #enemy
+                d = {}
+                d = d | hold['FieldStageInfo'][item['FieldStageInfoId']]
+                d = d | hold['GimEnemy'][item['GimId']]
+                dic2[item['FieldStageDataId']] = d
+        except Exception as e:
+            print('FieldStageData issue', e)
+    dic = {}
+    dic2 = finalized['areas']
+    hold['DungeonBase'] = dic
+    j = open_file('DungeonBase')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            d['Index'] = -item['Index'] - 1
+            dic2[item['DungeonBaseId']] = d | localize[item['DungeonNameId']]
+            d['Area'] = localize[item['DungeonNameId']]['text_ENG']
+            dic[item['DungeonBaseId']] = d
+        except Exception as e:
+            print('DungeonBase issue', e)
+    dic = finalized['gather']
+    j = open_file('DungeonGimGatheringData')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            d = d | hold['GimGathering'][item['GimGatheringId']]
+            d = d | hold['DungeonBase'][item['DungeonBaseId']]
+            d['Floors'] = item['Numbers'][0:2]
+            dic[item['DungeonGimGatheringDataId']] = d
+        except Exception as e:
+            print('DungeonGimGatheringData issue', e, item)
+    dic = finalized['enemylocations']
+    j = open_file('DungeonEnemyData')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            d = d | hold['GimEnemy'][item['GimEnemyId']]
+            d = d | hold['DungeonBase'][item['DungeonBaseId']]
+            d['Floors'] = item['Numbers'][0:2]
+            dic[item['DungeonEnemyDataId']] = d
+        except Exception as e:
+            print('DungeonEnemyData issue', e, item)
+
 def other_text():
     dic = {}
     finalized['neat_localization_strings'] = dic
     ids = [
-        1039643431
+        #1039643431,
+        1874449842, # Item related
+        415163688,
+        2118667106,
+        1028144855,
+        1246694977,
+        2021223619, # Colors
+        259939413,
+        971207224,
+        1323582114,
+        672328932,
+        1836057449, # Quest
+        1303098226, # Chest
+        697448138, # Story
     ]
     for id in ids:
         d = localize[id].copy()
@@ -704,5 +881,6 @@ trait()
 item()
 shop()
 enemy()
+area()
 other_text()
 export_csv()
