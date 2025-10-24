@@ -160,6 +160,12 @@ def export_csv():
             'EnemyName1','EnemyName2','EnemyName3','EnemyName4','EnemyName5',
             'Floors'
         ],
+        'quest': [
+            'text_ENG',
+            'Gift1', 'Gift2', 'Gift3',
+            'text_JPN', 'text_CHS', 'text_CHT', 'text_KOR',
+            'Char', 'Flag'
+        ]
     }
     for k, v in finalized.items():
         head = keys[k] if k in keys else v[list(v.keys())[0]].keys()
@@ -517,8 +523,55 @@ def item():
                 dic[item['RecipeDerivationMapPositionId']] = d
         except Exception as e:
             print('RecipeDerivationMapPosition issue', e, item)
-    #print(dic)
 
+def quest():
+    chars = {
+        584317799: 'Shallistera',
+        2127577318: 'Meruru',
+        138954610: 'Plachta',
+        791738845: 'Marie',
+        982266313: 'Ayesha',
+        457018445: 'Ryza',
+        150476128: 'Judie',
+        122946833: 'Mu',
+        1147706116: 'Elie',
+        1521954482: 'Viorate',
+        1989955504: 'Shallotte',
+        1224435727: 'Vayne',
+        1991823604: 'Klaudia',
+        1483183933: 'Oskar',
+        816975935: 'Firis',
+        303402902: 'Corneria',
+        181805086: 'Logy'
+    }
+    dic = {}
+    hold['QuestReward'] = dic
+    j = open_file('QuestReward')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            for i in range(0,3):
+                if 'ItemName' in hold['Gift'][item['GiftId'][i]]:
+                    d[f'Gift{i+1}'] = hold['Gift'][item['GiftId'][i]]['ItemName']
+            dic[item['QuestRewardId']] = d
+        except Exception as e:
+            print('QuestReward issue', e, item)
+    dic = {}
+    finalized['quest'] = dic
+    j = open_file('QuestQuest')
+    for item in j['File']['Object']:
+        try:
+            d = {}
+            if 'QuestRewardId' in item:
+                d = d | localize[item['MessageNameId']]
+                d['desc'] = localize[item['MessageDescId']]['text_ENG']
+                d = d | hold['QuestReward'][item['QuestRewardId']]
+                if 'Gift1' in d:
+                    dic[item['QuestQuestId']] = d
+                d['Char'] = chars[item['UnknownId1']] if item['UnknownId1'] in chars else item['UnknownId1']
+                d['Flag'] = item['Flag']
+        except Exception as e:
+            print('QuestQuest issue', e, item)
 
 def shop():
     dic = {}
@@ -867,6 +920,46 @@ def other_text():
         1836057449, # Quest
         1303098226, # Chest
         697448138, # Story
+        890260827, # Orders
+        1468509602, # Town Requests
+        631416882, # Fairies
+        1838570837, # Characters
+        1709239228,
+        888758062,
+        1781926429,
+        1734538602,
+        1355465651,
+        1083239891,
+        1462635682,
+        1872409296,
+        657501351,
+        1454754738,
+        317905507,
+        282862935,
+        1458645275,
+        1444527967,
+        1762636429,
+        1725636568,
+        1989637904,
+        2089197013,
+        1816378668,
+        1827926219,
+        380421561,
+        652826947,
+        1388433053,
+        2056829506,
+        1673138353,
+        1954378129,
+        1492300145,
+        380399558,
+        577407231,
+        1045685295,
+        1428103756,
+        1095721156,
+        880618073,
+        1926072056,
+        2142622195,
+        121456110,
     ]
     for id in ids:
         d = localize[id].copy()
@@ -880,6 +973,7 @@ effect()
 trait()
 item()
 shop()
+quest()
 enemy()
 area()
 other_text()
