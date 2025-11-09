@@ -26,6 +26,9 @@ def unpack_assets():
                     with open(path, "wb") as f:
                         f.write(data.m_Script.tobytes())
 
+                """
+                # I've actually  had better luck with an assetripper tool,
+                # unsure if it's because of unitypy version or not
                 if obj.type.name == "MonoBehaviour":
                     if obj.serialized_type.nodes:
                         try:
@@ -64,6 +67,7 @@ def unpack_assets():
                         data.image.save(dest)
                     except:
                         print(data.m_Name)
+                """
 
 if os.path.isdir(destination_folder) and os.path.isdir(bundle_folder):
     for o in ['textasset', 'mono', 'image']:

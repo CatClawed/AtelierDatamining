@@ -42,3 +42,6 @@ GiftTraitTableId	Numbers1	TraitName0	TraitName1	TraitName2	TraitName3	TraitName4
 37454689	[0, 0]	HP Supercharge	SPD Supercharge	ATK-SPD Supercharge	DEF-SPD Supercharge	Evolved Body	AP Consumed -20%	All Stats Charge				[10, 10, 10, 10, 3, 10, 10, 0, 0, 0]	[1910758976, 281797939, 1203603286, 817543104, 442255426, 1445273400, 47750854, 0, 0, 0]
 509001278	[0, 0]	Uses +1	Uses -1	Recovery Up	Paralysis Cure	Sleep Cure	Poison Cure	Burns Cure	Blindness Cure	Daze Cure	Frostbite Cure	[10, 10, 10, 10, 10, 10, 10, 10, 10, 10]	[906033993, 1269362583, 1859122559, 719721902, 1276165100, 991398782, 1519182113, 764137911, 1266515955, 1014648677]
 1766952616	[0, 0]	Uses +2	Uses -2	Recovery Up +	Recovery Up ++	Remove All Status Eff.	Grant HP Recovery	Grant HP Recovery+				[20, 20, 20, 10, 3, 20, 10, 0, 0, 0]	[1358320909, 761151955, 137976635, 2134797229, 1396354314, 522010794, 2045505264, 0, 0, 0]
+1383703196	[0, 0]	Cheap		Item Level Boost	Expensive							[10, 10, 10, 10, 0, 0, 0, 0, 0, 0]	[1090454473, 0, 692131312, 1117174350, 0, 0, 0, 0, 0, 0]
+629051918	[0, 0]	Cheap +		Item Level Boost+	Expensive +							[10, 10, 10, 10, 0, 0, 0, 0, 0, 0]	[638168461, 0, 1337441194, 610276364, 0, 0, 0, 0, 0, 0]
+1133001800	[0, 0]	Cheap ++		Item Level Boost++	Expensive ++							[10, 10, 10, 10, 0, 0, 0, 0, 0, 0]	[1359912219, 0, 951094076, 1399268510, 0, 0, 0, 0, 0, 0]
