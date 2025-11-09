@@ -27,8 +27,9 @@ def unpack_assets():
                         f.write(data.m_Script.tobytes())
 
                 """
-                # I've actually  had better luck with an assetripper tool,
+                # I've actually  had better luck with an assetstudio tool,
                 # unsure if it's because of unitypy version or not
+                # probably this https://github.com/aelurum/AssetStudio
                 if obj.type.name == "MonoBehaviour":
                     if obj.serialized_type.nodes:
                         try:

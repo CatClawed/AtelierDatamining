@@ -52,7 +52,7 @@ def export_csv():
             'text_CHS', 'desc_CHS',
             'text_CHT', 'desc_CHT',
             'text_KOR', 'desc_KOR',
-            'DlcId'
+            'DlcId', 'Icon'
         ],
         'effect': [
             'EffectId', 'Index',
@@ -706,6 +706,26 @@ def trait():
             d = d | localize[item['NameStringIndex']].copy()
             for lang in languages:
                 d[f'desc_{lang}'] = localize[item['DescriptionStringIndex']][f'text_{lang}']
+            traitkinds = {
+                1841172131: 'trait-item',
+                1084648366: 'trait-synthesis',
+                2075481065: 'trait-combat-items',
+                2085854704: 'trait-combat-items',
+                905217877: 'trait-heal',
+                672248277: 'trait-inhibitors',
+                1541775006: 'trait-combined-color',
+                1135783895: 'trait-boost-items',
+                2075481065: 'trait-battle-benefit',
+                1360299425: 'trait-hp',
+                1057447733: 'trait-weapons',
+                1071601559: 'icon-category-armor',
+                587576781: 'trait-speed',
+                1221006659: 'trait-chara-damage-color',
+                1141382177: 'gather',
+                126056910: 'trait-chara-color',
+                0: '',
+            }
+            d['Icon'] = traitkinds[d['TraitKindId1']]
             dic[item['TraitId']] = d
         except:
             print('Trait issue', item)
