@@ -42,7 +42,7 @@ def export_csv():
             'text_ENG', 'desc_ENG',
             'Combo1', 'Combo2',
             'Grade', 'Value1_1', 'Value1_2',
-            'Value2_2', 'Value2_2',
+            'Value2_1', 'Value2_2',
             'Synthesis', 'Combat',
             'Restoratives', 'Inhibitor', 'Boost', 'Weapons', 'Armor', 'Accessories',
             'Starpearls', 'Exploration', 'Unknown',
@@ -86,16 +86,17 @@ def export_csv():
             'Category1', 'Category2', 'Category3', 'Category4',
             'Color1', 'Color2', 'Color3', 'Color4','Color5', 'Color6',
             'Color7', 'Color8', 'Color9', 'Color10','Color11', 'Color12',
-            'Trait',
             'PossiblyBasePrice', 'Flag4',
-            'FlavorText', 'DLC', 'Effect'
+            'FlavorText', 'DLC', 'Type',
+            'text_JPN', 'text_CHS', 'text_CHT', 'text_KOR',
         ],
         'itemmix': [
             'ItemMixId',
-            'Item1', 'Item2', 'Item3', 'Skill',
+            'Item1', 'Item2', 'Item3', 'text_ENG',
             'Number1', 'Number2',
             'Unknown2', 'Unknown3',
-            'SkillId','ItemId1', 'ItemId2', 'ItemId3'
+            'SkillId','ItemId1', 'ItemId2', 'ItemId3',
+            'text_JPN', 'text_CHS', 'text_CHT', 'text_KOR',
         ],
         'itemeffects': [
             'ItemId', 'Item',
@@ -135,7 +136,7 @@ def export_csv():
             'ItemId', 'RecipeId1', 'RecipeId2', 'RecipeId3'
         ],
         'EnemyLibraryInfo': [
-            'text_ENG', 'Race',
+            'text_ENG', 'Race_ENG',
             #'Flag1', 'Integer', 'Flag2', 'Decimal1', 'Unknown4', 'Integer2', 'Decimal2', 'Integer3',
             #'Floats1', 'Floats2', 'Unknown1', 'Unknown2', 'EnemySizeTypeId', 'Flag',
             'Number', 'Number2',
@@ -147,6 +148,7 @@ def export_csv():
             'DropGift0','DropGift1','DropGift2','DropGift3','DropGift4',
             'text_JPN', 'text_CHS', 'text_CHT', 'text_KOR',
             'FlavorText', 'EnemyLibraryInfoId',
+            'Race_JPN', 'Race_CHS', 'Race_CHT', 'Race_KOR',
         ],
         'recipemap': [
             'Index',
@@ -158,6 +160,7 @@ def export_csv():
             'ItemName1','ItemName2','ItemName3',
             'Floors',
             'TraitName1','TraitName2','TraitName3',
+            'ItemId1','ItemId2','ItemId3',
         ],
         'enemylocations': [
             'Index', 'Area',
@@ -174,6 +177,7 @@ def export_csv():
             'ReinforceTalentId', 'text_ENG',
             'TraitName', 'Color1', 'Color2',
             'text_JPN', 'text_CHS', 'text_CHT', 'text_KOR',
+            'TraitId',
         ]
     }
     for k, v in finalized.items():
@@ -342,6 +346,23 @@ def flavor_text():
                 print('Flavor issue', item['FlavorTextId'])
 
 def item():
+    itemkind = {
+        1165104679: 'guide-ingredients', # also 'Catalyst Ingredient'
+        1221006659: 'guide-consumable-color',
+        1614965990: 'guide-consumable-color',
+        1046333580: 'guide-consumable-color',
+        1364795529: 'guide-consumable-color',
+        1714724768: 'guide-equip',
+        1215511628: 'guide-equip',
+        445432845: 'guide-equip',
+        267895866: 'guide-equip',
+        1022825973: 'guide-synthesis-color',
+        1398700056: 'guide-search-color',
+        111057584: 'guide-search-color',
+        1906101489: 'guide-important-color',
+        42971515: '',
+        0: 'blank',
+    }
     dic2 = {}
     finalized['itemeffects'] = dic2
     dic = {}
@@ -362,6 +383,9 @@ def item():
             if item['ItemColorTypeId']:
                 for i in range(1, 11):
                     d[f'Color{i+2}'] = hold['ItemColorType'][item['ItemColorTypeId']][f'Color{i}']
+            d['Type'] = itemkind[item['ItemKindId']]
+            if d['Type'] == 'guide-ingredients' and 'Color3' not in d:
+                d['Type'] = 'category-41'
             if item['DLCId']:
                 d['DLC'] = True
             d['FlavorText'] = hold['ItemFlavorText'][item['FlavorTextId']]
@@ -375,7 +399,7 @@ def item():
                             ['Name1', 'Name2','Name3', 'Name4', 'Name5',
                             'SkillId1', 'SkillId2','SkillId3', 'SkillId4', 'SkillId5',
                             'EffectId1', 'EffectId2','EffectId3', 'EffectId4', 'EffectId5',
-                            'DlcId'])
+                            'DlcId',])
                     dic2[item['ItemId']] = d2
         except Exception as e:
             print('Item issue', e, d)
@@ -389,7 +413,9 @@ def item():
             copy_keys(d, item, ['ItemMixId', 'Unknown2', 'Unknown3',
                 'Number1', 'Number2', 'SkillId',
                 'ItemId1', 'ItemId2', 'ItemId3'])
-            d['Skill'] = finalized['skill'][item['SkillId']]['text_ENG']
+            for l in languages:
+                d[f'text_{l}'] = finalized['skill'][item['SkillId']][f'text_{l}']
+
             for i in range(1,4):
                 if item[f'ItemId{i}']:
                     d[f'Item{i}'] = finalized['item'][item[f'ItemId{i}']]['text_ENG']
@@ -545,7 +571,7 @@ def item():
     for item in j['File']['Object']:
         try:
             d = {}
-            copy_keys(d, item, ['ReinforceTalentId', 'Index'])
+            copy_keys(d, item, ['ReinforceTalentId', 'Index', 'TraitId'])
             d = d | localize[item['NameId']]
             d[f'TraitName'] = finalized['trait'][item['TraitId']]['text_ENG']
             if item['GiftColorId1']:
@@ -694,7 +720,7 @@ def trait():
             d = {}
             copy_keys(d, item, ['TraitId', 'EnabledFlag', 'Index',
                 'GatherableFlag', 'Grade', 'Value1_1', 'Value1_2',
-                'Value2_2', 'Value2_2', 'TraitKindId1', 'TraitKindId2',
+                'Value2_1', 'Value2_2', 'TraitKindId1', 'TraitKindId2',
                 'text_JPN', 'desc_JPN',
                 'text_CHS', 'desc_CHS',
                 'text_CHT', 'desc_CHT',
@@ -770,7 +796,8 @@ def enemy():
             #copy_keys(d, item, ['EnemyBaseInfoId']) #, 'Floats1', 'Floats2', 'Unknown1', 'Unknown2', 'EnemySizeTypeId', 'Flag',])
             d = d | localize[item['NameStringId']].copy()
             d['FlavorText'] = hold['EnemyFlavorText'][item['FlavorTextId']]
-            d['Race'] = finalized['race'][item['EnemyKindId']]['text_ENG']
+            for l in languages:
+                d[f'Race_{l}'] = finalized['race'][item['EnemyKindId']][f'text_{l}']
             dic[item['EnemyBaseInfoId']] = d
         except:
             print('EnemyBase issue', item)
@@ -865,6 +892,7 @@ def area():
             for i in range(1, 4):
                 if 'ItemName' in hold['Gift'][item[f'GiftId{i}']]:
                     d[f'ItemName{i}'] = hold['Gift'][item[f'GiftId{i}']]['ItemName']
+                    d[f'ItemId{i}'] = hold['Gift'][item[f'GiftId{i}']]['ItemId']
                     if 'TraitName1' in hold['Gift'][item[f'GiftId{i}']]:
                         d[f'TraitName{i}'] = hold['Gift'][item[f'GiftId{i}']]['TraitName1']
             dic[item['GimGatheringId']] = d
@@ -878,6 +906,7 @@ def area():
             d = {}
             if 'ItemName' in hold['Gift'][item[f'GiftId']]:
                 d[f'ItemName1'] = hold['Gift'][item[f'GiftId']]['ItemName']
+                d[f'ItemId1'] = hold['Gift'][item[f'GiftId']]['ItemId']
             d['GatherType'] = 'Chest'
             dic[item['TreasureId']] = d
         except Exception as e:
@@ -1014,6 +1043,14 @@ def other_text():
         1926072056,
         2142622195,
         121456110,
+        1875212948, # Recipe
+        1822647518, # Item Kinds
+        173394588,
+        2102589966,
+        482971729,
+        1808703687,
+        2050965013,
+        73069301,
     ]
     for id in ids:
         d = localize[id].copy()
