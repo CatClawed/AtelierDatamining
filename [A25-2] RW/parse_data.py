@@ -64,6 +64,9 @@ def export_csv():
             'ValueTag1', 'Value1_1', 'Value1_2',
             'ValueTag2', 'Value2_1', 'Value2_2',
             'ValueTag3', 'Value3_1', 'Value3_2',
+            'ValueTag4', 'Value4_1', 'Value4_2',
+            'ValueTag5', 'Value5_1', 'Value5_2',
+            'ValueTag6', 'Value6_1', 'Value6_2',
             'text_JPN', 'desc_JPN',
             'text_CHS', 'desc_CHS',
             'text_CHT', 'desc_CHT',
@@ -146,7 +149,7 @@ def export_csv():
             'Blind', 'Paralysis', 'Poison', 'Burn',
             'Taunt', 'Sleep', 'Daze', 'Frostbite',
             'DropReward0','DropReward1','DropReward2','DropReward3','DropReward4',
-            'DropGift0','DropGift1','DropGift2','DropGift3','DropGift4',
+            'DropGift0','DropGift1','DropGift2','DropGift3','DropGift4','DropGift5',
             'text_JPN', 'text_CHS', 'text_CHT', 'text_KOR',
             'FlavorText', 'EnemyLibraryInfoId',
             'Race_JPN', 'Race_CHS', 'Race_CHT', 'Race_KOR',
@@ -241,11 +244,15 @@ def effect():
             copy_keys(d, item, ['EffectId', 'Flag', 'Index',
                 'CombatTag', 'ExplorationTag',
                 'ValueTag0','ValueTag1', 'ValueTag2', 'ValueTag3',
+                'ValueTag4','ValueTag5','ValueTag6',
                 'Value0_1','Value1_1', 'Value2_1','Value3_1',
-                'Value0_2','Value1_2', 'Value2_2','Value3_2','DlcId'])
+                'Value4_1','Value5_1','Value6_1',
+                'Value0_2','Value1_2', 'Value2_2','Value3_2',
+                'Value4_2','Value5_2','Value6_2',
+                'DlcId'])
             d = d | localize[item['EffectNameId']].copy()
             desc_copy(d, item['EffectDescId'])
-            for i in range(0,4):
+            for i in range(0,7):
                 if d[f'ValueTag{i}'] == 1560167472:
                     d[f'ValueTag{i}'] = 'CHANGE_COLOR'
                     d[f'Value{i}_1'] = colors[d[f'Value{i}_1']]
@@ -253,8 +260,9 @@ def effect():
                 elif d[f'ValueTag{i}'] == 499040286:
                     d[f'ValueTag{i}'] = 'CHANGE_CATEGORY'
             dic[item['EffectId']] = d
-        except:
-            print('Effect issue', item)
+        except Exception as e:
+            print('Effect issue', e)
+
     dic = {}
     finalized['skill'] = dic
     j = open_file('Skill')
@@ -810,7 +818,7 @@ def enemy():
     for item in j['File']['Object']:
         try:
             d = {}
-            for i in range(0,5):
+            for i in range(0,6):
                 if item['GiftIds'][i]:
                     d[f'Gift{i}'] = hold['Gift'][item['GiftIds'][i]]
             dic[item['DropGiftTableId']] = d
@@ -848,7 +856,7 @@ def enemy():
             d = d | hold['EnemyBaseInfo'][item['EnemyBaseInfoId']].copy()
             d = d | hold['ElementResistance'][item['ElementResistanceId']]
             d = d | hold['DisorderProbability'][item['DisorderProbabilityId']]
-            for i in range(0,5):
+            for i in range(0,6):
                 if f'Gift{i}' in hold['DropRewardTable'][item['DropRewardTableId']]:
                     d[f'DropReward{i}'] = hold['DropRewardTable'][item['DropRewardTableId']][f'Gift{i}']
                 if f'Gift{i}' in hold['DropGiftTable'][item['DropGiftTableId']]:
@@ -859,13 +867,12 @@ def enemy():
             if 'text_ENG' not in thing:
                 finalized['EnemyLibraryInfo'][item['EnemyLibraryInfoId']] = thing | d.copy()
             else:
-                for i in range(0,5):
+                for i in range(0,6):
                     if f'DropGift{i}' in d and f'DropGift{i}' not in thing:
                         finalized['EnemyLibraryInfo'][item['EnemyLibraryInfoId']][f'DropGift{i}'] = d[f'DropGift{i}']
 
         except Exception as e:
             print('EnemyBase issue', e)
-
 
 def area():
     dic = {}

@@ -350,8 +350,13 @@ Index	Area	GatherType	ItemName1	ItemName2	ItemName3	Floors	TraitName1	TraitName2
 38	Loiky Lava Cave	Chest	Volcanoes & Starpearls, Vol 2							1620435389		
 38	Loiky Lava Cave	Chest	Volcanoes & Starpearls, Vol 3							395497771		
 42	Darklit Tundra	Chest	Ice Crystals & Starpearls, Vol 1							146327499		
-42	Darklit Tundra	Chest	Ice Crystals & Starpearls, Vol 2							1753173552		
-42	Darklit Tundra	Chest	Ice Crystals & Starpearls, Vol 3							527990458		
+43	Darklit Tundra	Chest	Ice Crystals & Starpearls, Vol 2							1753173552		
+44	Darklit Tundra	Chest	Ice Crystals & Starpearls, Vol 3							527990458		
+49		Chest	Silver Starpearls, Vol 1							631550889		
+48		Chest	Silver Starpearls, Vol 2							1145035254		
+52		Chest	Silver Starpearls, Vol 3							859367780		
+53		Chest	Gold Starpearls, Vol 1							1439581990		
+53		Chest	Gold Starpearls, Vol 2							583628720		
 7	Val Mine	Chest	Monochrome Glasses							1175014954		
 7	Val Mine	Chest	Angel Ribbon							823033536		
 7	Val Mine	Chest	Mana Petal							1748601842		
@@ -2521,3 +2526,75 @@ Index	Area	GatherType	ItemName1	ItemName2	ItemName3	Floors	TraitName1	TraitName2
 -11	Darklit Tundra: Peculiar	Axe	Diopside	Gold Ball	Ancient Blue Water	[11, 15]		Perfectly Round		893217111	1300087836	385395481
 -11	Darklit Tundra: Peculiar	Gather	Crab	Dark Dew	Seele Pilós	[11, 15]			Life Awakening	818199832	815571532	281089758
 -11	Darklit Tundra: Peculiar	Gather	Sand Crystals	Mossy Stone	Moonlight Firefly	[11, 15]				1044984926	840586544	132802549
+-12	Clock Workshop	Axe	Missing Gear	Forgotten Pocket Watch	Tears of the Fallen Star	[1, 4]	Wisdom Crystal	Time Control	Deflects Evil	267438123	1852547704	1688546280
+-12	Clock Workshop	Gather	Zafloa Oil	Sand Crystals	Melty Metal	[1, 4]			Dielectric	438774936	1044984926	2029516989
+-12	Clock Workshop	Axe	Sparkling Sand	Gunpowder Base	Rainbow Wing Fragment	[1, 4]				1979772462	643238484	1009573662
+-12	Clock Workshop	Gather	Clean Water	Mist Liquid	Imperial Fish	[1, 4]			Nutrient Rich	219097578	1402637106	503404281
+-12	Clock Workshop	Axe	Eiche	Rotting Arbor Twig	Holy Arbor Branch	[1, 4]				453458891	1429070285	1168495795
+-12	Clock Workshop	Gather	Forgotten Pottery	Silver Web	Ancient Sword	[1, 4]	Fragile			426545890	1901592439	1938765783
+-12	Clock Workshop	Gather	Amatite Ore	Metal Ore	Gaudy Stone	[1, 4]				2083546144	159522154	305486315
+-12	Clock Workshop	Axe	Eternal Crystal	Rouge Gemstone	Riverstone	[1, 4]				2105727464	1673446482	265854221
+-12	Clock Workshop	Sickle	Whimsy Strawberries	Elder Garlic	Tail Fern	[1, 4]			Enchanting Tail	259334361	534185689	1310382082
+-12	Clock Workshop	Sickle	Torch Grass	Bitter Root	Lanterna Blossoms	[1, 4]				927778175	543538616	1093890593
+-12	Clock Workshop	Gather	Taun	Frost-Speckled Wood	Glowing Diatom	[1, 4]				899419154	400222564	640096788
+-12	Clock Workshop	Axe	Rotting Arbor Twig	Bewitching Chip	Fused Hardwood	[1, 4]				1429070285	754021132	2041447732
+-12	Clock Workshop	Bug Net	Metal Scorpio	Baby Wyrm	Mine Ant	[1, 4]	Sharp Silver Claws			1762027119	866643034	744769546
+-12	Clock Workshop	Axe	Rusted Sword	Ash Ball	Shining Powder	[1, 4]				1606996164	626577908	965253675
+-12	Clock Workshop	Gather	Broken Tools	Mysterious Metal Shard	Tíkometal	[1, 4]				212934097	612791486	1340797831
+-12	Clock Workshop	Gather	Paper Scraps	Magic Tome Page	Chainweb	[1, 4]				1698723307	427835170	396448051
+-12	Clock Workshop	Axe	Diamant Gemstone	Diopside	Lost Material	[1, 4]			Perpetual Machine	638721037	893217111	1900131478
+-12	Clock Workshop	Gather	Uni	Eternal Breeze	Lanterna Shell	[1, 4]		Windrider		183895365	978862733	63817874
+-12	Clock Workshop	Axe	Missing Gear	Forgotten Pocket Watch	Tears of the Fallen Star	[5, 8]	Wisdom Crystal	Time Control	Deflects Evil	267438123	1852547704	1688546280
+-12	Clock Workshop	Gather	Zafloa Oil	Sand Crystals	Melty Metal	[5, 8]			Dielectric	438774936	1044984926	2029516989
+-12	Clock Workshop	Axe	Sparkling Sand	Gunpowder Base	Rainbow Wing Fragment	[5, 8]				1979772462	643238484	1009573662
+-12	Clock Workshop	Gather	Clean Water	Mist Liquid	Imperial Fish	[5, 8]			Nutrient Rich	219097578	1402637106	503404281
+-12	Clock Workshop	Axe	Eiche	Holy Arbor Branch	Rotting Arbor Branch	[5, 8]				453458891	1168495795	870010761
+-12	Clock Workshop	Gather	Forgotten Pottery	Silver Web	Ancient Sword	[5, 8]	Fragile			426545890	1901592439	1938765783
+-12	Clock Workshop	Gather	Amatite Ore	Metal Ore	Gaudy Stone	[5, 8]				2083546144	159522154	305486315
+-12	Clock Workshop	Axe	Eternal Crystal	Rose Crystal	Riverstone	[5, 8]				2105727464	1644632644	265854221
+-12	Clock Workshop	Sickle	Umbrella Tree Strawberry	Honey Fungus	Tail Fern	[5, 8]			Enchanting Tail	61356949	256557618	1310382082
+-12	Clock Workshop	Sickle	Torch Grass	Heilige Blume	Lanterna Blossoms	[5, 8]				927778175	889118699	1093890593
+-12	Clock Workshop	Gather	Taun	Frost-Speckled Wood	Mana Petal	[5, 8]				899419154	400222564	1748601842
+-12	Clock Workshop	Axe	Rotting Arbor Twig	Bewitching Chip	Fused Hardwood	[5, 8]				1429070285	754021132	2041447732
+-12	Clock Workshop	Bug Net	Metal Scorpio	Baby Wyrm	Ingot Beetle	[5, 8]	Sharp Silver Claws			1762027119	866643034	230663821
+-12	Clock Workshop	Axe	Rusted Sword	Rainbow Wing Fragment	Shining Powder	[5, 8]				1606996164	1009573662	965253675
+-12	Clock Workshop	Gather	Broken Tools	Mysterious Metal Shard	Tíkometal	[5, 8]				212934097	612791486	1340797831
+-12	Clock Workshop	Gather	Magic Tome Page	Chainweb	Gold Steel Web	[5, 8]			Sticky	427835170	396448051	1621516709
+-12	Clock Workshop	Axe	Diamant Gemstone	Diopside	Lost Material	[5, 8]			Perpetual Machine	638721037	893217111	1900131478
+-12	Clock Workshop	Gather	Frost Uni	Eternal Breeze	Lanterna Shell	[5, 8]		Windrider		962577040	978862733	63817874
+-12	Clock Workshop	Axe	Missing Gear	Forgotten Pocket Watch	Tears of the Fallen Star	[9, 11]	Wisdom Crystal	Time Control	Deflects Evil	267438123	1852547704	1688546280
+-12	Clock Workshop	Gather	Seele Pilós	Sand Crystals	Melty Metal	[9, 11]	Life Awakening		Dielectric	281089758	1044984926	2029516989
+-12	Clock Workshop	Axe	White Sand of Eternity	Gunpowder Base	Gold Ball	[9, 11]	Meticulous		Perfectly Round	2140814500	643238484	1300087836
+-12	Clock Workshop	Gather	Crackling Water	Mist Liquid	Imperial Fish	[9, 11]			Nutrient Rich	676625675	1402637106	503404281
+-12	Clock Workshop	Axe	Evihibrow	Holy Arbor Branch	Rotting Arbor Branch	[9, 11]				1486197725	1168495795	870010761
+-12	Clock Workshop	Gather	Forgotten Pottery	Silver Web	Ancient Sword	[9, 11]	Fragile			426545890	1901592439	1938765783
+-12	Clock Workshop	Gather	Amatite Ore	Metal Ore	Black Volcanic Ore	[9, 11]				2083546144	159522154	758740077
+-12	Clock Workshop	Axe	Eternal Crystal	Rose Crystal	Hainelight	[9, 11]				2105727464	1644632644	1482100967
+-12	Clock Workshop	Sickle	Balloon Fruit	Mana Gem	Thousand Scale Fruit	[9, 11]				665091287	536848308	2044054235
+-12	Clock Workshop	Sickle	Nightglow Flower	Heilige Blume	Lanterna Blossoms	[9, 11]				844434397	889118699	1093890593
+-12	Clock Workshop	Gather	Cotton Grass	Frost-Speckled Wood	Mana Petal	[9, 11]				513455225	400222564	1748601842
+-12	Clock Workshop	Axe	Benevolent Twisted Tree	Bewitching Chip	Fused Hardwood	[9, 11]				1443459007	754021132	2041447732
+-12	Clock Workshop	Bug Net	Metal Scorpio	Baby Menace	Ingot Beetle	[9, 11]	Sharp Silver Claws			1762027119	227038212	230663821
+-12	Clock Workshop	Axe	Rusted Sword	Flaming Black Sand	Shining Disk	[9, 11]				1606996164	610492753	22664860
+-12	Clock Workshop	Gather	Broken Tools	Mysterious Metal Shard	Tíkometal	[9, 11]				212934097	612791486	1340797831
+-12	Clock Workshop	Gather	Magic Tome Page	Gold Steel Web	Forbidden Grimoire	[9, 11]		Sticky		427835170	1621516709	1991884338
+-12	Clock Workshop	Axe	Celestial Silver Stone	Lost Material	Ametrite	[9, 11]		Perpetual Machine	Skillful Protection	1970930026	1900131478	105284608
+-12	Clock Workshop	Gather	Demon Uni	Heatwave Water	Lanterna Shell	[9, 11]		Piping Hot		494157157	929171891	63817874
+-12	Clock Workshop	Axe	Missing Gear	Forgotten Pocket Watch	Tears of the Fallen Star	[12, 15]	Wisdom Crystal	Time Control	Deflects Evil	267438123	1852547704	1688546280
+-12	Clock Workshop	Gather	Seele Pilós	Sand Crystals	Melty Metal	[12, 15]	Life Awakening		Dielectric	281089758	1044984926	2029516989
+-12	Clock Workshop	Axe	White Sand of Eternity	Gunpowder Base	Gold Ball	[12, 15]	Meticulous		Perfectly Round	2140814500	643238484	1300087836
+-12	Clock Workshop	Gather	Mist Liquid	Ancient Blue Water	Imperial Fish	[12, 15]			Nutrient Rich	1402637106	385395481	503404281
+-12	Clock Workshop	Axe	Evihibrow	Rotting Arbor Branch	Bronekeleton	[12, 15]				1486197725	870010761	2140231406
+-12	Clock Workshop	Gather	Forgotten Pottery	Ancient Sword	Fail Plywood	[12, 15]	Fragile			426545890	1938765783	1968561703
+-12	Clock Workshop	Gather	Metal Ore	Black Volcanic Ore	Hygea Ore	[12, 15]				159522154	758740077	522572005
+-12	Clock Workshop	Axe	Eternal Crystal	Lunastone	Hainelight	[12, 15]				2105727464	1340712083	1482100967
+-12	Clock Workshop	Sickle	Balloon Fruit	Mana Gem	Thousand Scale Fruit	[12, 15]				665091287	536848308	2044054235
+-12	Clock Workshop	Sickle	Nightglow Flower	Eternal Blossom	Lanterna Blossoms	[12, 15]				844434397	1257477614	1093890593
+-12	Clock Workshop	Gather	Forest Sage	Frost-Speckled Wood	Wake-Up Flower	[12, 15]				1864267219	400222564	43485105
+-12	Clock Workshop	Axe	Benevolent Twisted Tree	Bewitching Chip	Fused Hardwood	[12, 15]				1443459007	754021132	2041447732
+-12	Clock Workshop	Bug Net	Metal Scorpio	Baby Menace	Whitefly	[12, 15]	Sharp Silver Claws			1762027119	227038212	807133879
+-12	Clock Workshop	Axe	Rusted Sword	Flaming Black Sand	Shining Disk	[12, 15]				1606996164	610492753	22664860
+-12	Clock Workshop	Gather	Mysterious Metal Shard	Tíkometal	Shiny Shattered Ancient Tool	[12, 15]			Eternal Time	612791486	1340797831	294010227
+-12	Clock Workshop	Gather	Magic Tome Page	Gold Steel Web	Forbidden Grimoire	[12, 15]		Sticky		427835170	1621516709	1991884338
+-12	Clock Workshop	Axe	Celestial Silver Stone	Lost Material	Ametrite	[12, 15]		Perpetual Machine	Skillful Protection	1970930026	1900131478	105284608
+-12	Clock Workshop	Gather	Gold Uni	Heatwave Water	Lanterna Shell	[12, 15]		Piping Hot		1489882358	929171891	63817874

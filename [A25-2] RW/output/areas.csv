@@ -53,11 +53,17 @@ Index	text_ENG	text_JPN	text_CHT	text_CHS	text_KOR
 40	Darklit Tundra	闇映す氷原	映闇冰原	映暗冰原	어둠을 비추는 빙원
 41	Darklit Tundra	闇映す氷原	映闇冰原	映暗冰原	어둠을 비추는 빙원
 42	Darklit Tundra	闇映す氷原	映闇冰原	映暗冰原	어둠을 비추는 빙원
-42	Darklit Tundra	闇映す氷原	映闇冰原	映暗冰原	어둠을 비추는 빙원
-42	Darklit Tundra	闇映す氷原	映闇冰原	映暗冰原	어둠을 비추는 빙원
-43	Ancient Capital Corridors	古代都市廻廊	古代都市迴廊	古代都市回廊	고대 도시 회랑
-44	Ancient Capital Corridors	古代都市廻廊	古代都市迴廊	古代都市回廊	고대 도시 회랑
+43	Darklit Tundra	闇映す氷原	映闇冰原	映暗冰原	어둠을 비추는 빙원
+44	Darklit Tundra	闇映す氷原	映闇冰原	映暗冰原	어둠을 비추는 빙원
 45	Ancient Capital Corridors	古代都市廻廊	古代都市迴廊	古代都市回廊	고대 도시 회랑
+46	Ancient Capital Corridors	古代都市廻廊	古代都市迴廊	古代都市回廊	고대 도시 회랑
+47	Ancient Capital Corridors	古代都市廻廊	古代都市迴廊	古代都市回廊	고대 도시 회랑
+48		逆さ刻みの時計工房			
+49		逆さ刻みの時計工房			
+50		逆さ刻みの時計工房			
+51		逆さ刻みの時計工房			
+52		逆さ刻みの時計工房			
+53		逆さ刻みの時計工房			
 -1	Evermaze Forest	迷い路の森	迷蹤之森	迷踪森林	미로의 숲
 -2	Dripcrystal Cave	滴る結晶洞	水滴結晶洞	水滴结晶洞	투명한 결정 동굴
 -3	Mt. Bone-Eater	骨喰山	食骨山	食骨山	뼈를 먹는 산
@@ -69,4 +75,5 @@ Index	text_ENG	text_JPN	text_CHT	text_CHS	text_KOR
 -9	Mt. Bone-Eater: Peculiar	骨喰山 特異	食骨山 特異	食骨山 特异	뼈를 먹는 산ㆍ특이
 -10	Loiky Lava Cave: Peculiar	ロイキー溶岩洞 特異	洛伊基熔岩洞 特異	洛伊基熔岩洞 特异	로이키 용암굴ㆍ특이
 -11	Darklit Tundra: Peculiar	闇映す氷原 特異	映闇冰原 特異	映暗冰原 特异	어둠을 비추는 빙원ㆍ특이
--4294967296	Placeholder	仮です	暫定	暂定	
+-12	Clock Workshop	逆さ刻みの時計工房	逆轉時鐘工房	逆转时钟工房	역방향 시계 공방
+-4294967296					

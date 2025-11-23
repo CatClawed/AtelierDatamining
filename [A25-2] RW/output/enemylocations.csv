@@ -88,7 +88,7 @@ Index	Area	EnemyName1	EnemyName2	EnemyName3	EnemyName4	EnemyName5	Floors
 40	Darklit Tundra	Ancient Phantom					
 41	Darklit Tundra	Wandering Woe					
 39	Darklit Tundra	Elegant Spirit Beast					
-44	Ancient Capital Corridors	Mirage Lizard					
+46	Ancient Capital Corridors	Mirage Lizard					
 26	Evermaze Forest	Wood Golem					
 26	Evermaze Forest	Overwhelming Bird					
 26	Evermaze Forest	Giant Puni					
@@ -102,8 +102,14 @@ Index	Area	EnemyName1	EnemyName2	EnemyName3	EnemyName4	EnemyName5	Floors
 38	Loiky Lava Cave	Abyssal Tyrant					
 38	Loiky Lava Cave	Venomous Threat					
 42	Darklit Tundra	Ancient Phantom					
-42	Darklit Tundra	Wandering Woe					
-42	Darklit Tundra	Elegant Spirit Beast					
+43	Darklit Tundra	Wandering Woe					
+44	Darklit Tundra	Elegant Spirit Beast					
+50		Bat Queen					
+49		Höhlehorn					
+51		Ancient Magic Statue					
+48		Tentacles					
+52		Phantom Lara	Phantom Geron				
+53		Kerscha the Pure Crimson Dragon					
 3	Forgotten Ruins	Fanged Bat					
 5	????	Fanged Bat					
 3	Forgotten Ruins	Fanged Bat	Fanged Bat				
@@ -442,8 +448,8 @@ Index	Area	EnemyName1	EnemyName2	EnemyName3	EnemyName4	EnemyName5	Floors
 19	Ancient Temple	Dinosaur	Magician's Hat	Magician's Hat			
 19	Ancient Temple	Deep Phantom	Green Puppet	Green Puppet			
 19	Ancient Temple	Deep Phantom	Deep Phantom				
-20	Skyglow Path	Black Reaper	Black Reaper				
-20	Skyglow Path	Black Reaper	Black Reaper				
+20	Skyglow Path	Black Reaper					
+20	Skyglow Path	Black Reaper					
 20	Skyglow Path	Marshorn					
 20	Skyglow Path	Albatross	Great Guardian	Albatross			
 20	Skyglow Path	Prism Shell	Devil Horn	Prism Shell			
@@ -816,3 +822,26 @@ Index	Area	EnemyName1	EnemyName2	EnemyName3	EnemyName4	EnemyName5	Floors
 -11	Darklit Tundra: Peculiar	Precious Puni					[1, 15]
 -11	Darklit Tundra: Peculiar	Shining Puni					[1, 15]
 -11	Darklit Tundra: Peculiar	Precious Puni	Shining Puni				[1, 15]
+-12	Clock Workshop	Flower Puni	Dreamcatcher	Large Fang	Funny Face	Man o' War	[1, 4]
+-12	Clock Workshop	Meteorite Doll	Burning Rose	Magician's Hat	Scare Phantom	Scare Phantom	[1, 4]
+-12	Clock Workshop	Draconic Lord	Stout Drake	Blade Fang	Thoth	Thoth	[5, 8]
+-12	Clock Workshop	Elder Fang	Draconic Lord	Tricker	Elder Fang	Tricker	[5, 8]
+-12	Clock Workshop	Massive Beak	Carrier	Elder Fang	Prism Shell	Stout Drake	[5, 8]
+-12	Clock Workshop	Elder Fang	Metal Golem	Deep Phantom	Metal Golem	Red Puppet	[9, 11]
+-12	Clock Workshop	Red Puppet	Eternal Guardian	Magical Parasol	Magical Parasol	Magical Parasol	[9, 11]
+-12	Clock Workshop	Big Red Puni	Metal Golem	Eternal Guardian	Great Guardian	Prism Shell	[9, 11]
+-12	Clock Workshop	Fairystone Puppet	Burning Rose	Deep Phantom	Magician's Hat	Yellow Puppet	[12, 15]
+-12	Clock Workshop	Yellow Puppet	Draconic Lord	Magical Parasol	Deep Phantom	Burning Rose	[12, 15]
+-12	Clock Workshop	Dinosaur	Draconic Lord	Great Guardian	Burning Rose	Magical Parasol	[12, 15]
+-12	Clock Workshop	Silver Puni					[1, 15]
+-12	Clock Workshop	Gold Puni					[1, 15]
+-12	Clock Workshop	Silver Puni	Gold Puni				[1, 15]
+-12	Clock Workshop	Precious Puni					[1, 15]
+-12	Clock Workshop	Shining Puni					[1, 15]
+-12	Clock Workshop	Precious Puni	Shining Puni				[1, 15]
+-12	Clock Workshop	Silver Puni					[1, 15]
+-12	Clock Workshop	Gold Puni					[1, 15]
+-12	Clock Workshop	Silver Puni	Gold Puni				[1, 15]
+-12	Clock Workshop	Precious Puni					[1, 15]
+-12	Clock Workshop	Shining Puni					[1, 15]
+-12	Clock Workshop	Precious Puni	Shining Puni				[1, 15]

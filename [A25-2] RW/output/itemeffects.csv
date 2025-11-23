@@ -59,6 +59,8 @@ ItemId	Item	Name1	Name2	Name3	Name4	Name5	SkillId1	SkillId2	SkillId3	SkillId4	Sk
 1244076355	Iris Stone - Bomb	Change to Bombs										194911228					0
 1157042664	Iris Stone - Medicine	Change to Medicine										918486973					0
 504383907	Iris Stone - Food	Change to Food										1604930332					0
+673907521	Starlight Mirrorstone	Trait Fixer										495354859					1022985541
+1323150597	Oracle Aurolite	Ever-Changing Mirage Stone										2070949295					1022985541
 379975768	Pure Water	No Effect	Synthesis: HP +4	Synthesis: HP +6								835902106	1462007004	539182154			0
 241122386	Spirit Tears	No Effect	Synthesis: Recovery +4	Synthesis: Recovery +5								1102589463	918494849	1347006661			0
 2000129743	Cure-all Base	No Effect	Synthesis: Recovery +7 (Blue/Red)	Synthesis: Recovery +8 (Blue/Red)								659456083	1208902206	1057575596			0
@@ -126,6 +128,14 @@ ItemId	Item	Name1	Name2	Name3	Name4	Name5	SkillId1	SkillId2	SkillId3	SkillId4	Sk
 581904303	Velvetis	No Effect	Synthesis: DEF +8 (Yellow/Red)	Synthesis: DEF +9 (Yellow/Red)								266103500	1850146967	423636993			0
 921957720	Geranóvirgen	No Effect	Synthesis: DEF +9 (Purple/Green)	Synthesis: DEF +10 (Purple/Green)								2142674501	145862355	1743867068			0
 1484350495	Sternovia	No Effect	Synthesis: All Stats +7	Synthesis: All Stats +10								284589098	1162952290	844500728			0
+1813148685	Dragon's Tear	No Effect	Synthesis: Power Amplifier +30	Synthesis: Power Amplifier +50								1621616017	396416263	557710182			1274983891
+182770249	Time Control Hourglass	No Effect	Synthesis: Trait Change	Synthesis: Trait Change								1446693876	818701750	818701750			1274983891
+2112088799	Medicinal Sap	No Effect	Synthesis: Recovery Amplifier +30	Synthesis: Recovery Amplifier +50								642793341	1364660203	933339567			1274983891
+477659268	Mini Volcano	No Effect	Synthesis: Uses +1 (Buff)	Synthesis: Uses +2 (Buff)								1084657977	803631960	1491157954			1274983891
+1803530262	Toxilixir	No Effect	Synthesis: Uses +1 (Debuff)	Synthesis: Uses +2 (Debuff)								942066213	1327626931	701977847			1274983891
+227090000	Blue Flame Ember	No Effect	Synthesis: Simple Bestowal - Weapons	Synthesis: Simple Bestowal - Weapons								1590715489	1061883454	1061883454			1274983891
+2056138438	Rainbow Veil	No Effect	Synthesis: Simple Bestowal - Armor	Synthesis: Simple Bestowal - Armor								783978734	1505599608	1505599608			1274983891
+365874345	Lunar Drop	No Effect	Synthesis: HP & SPD Up +15	Synthesis: HP & SPD Up +20								1106932353	319527400	1678551410			1274983891
 16598907	Craft	Physical Damage S	Physical Damage M	Physical Damage L	Thorn Attack	Thorn Attack	283082784	1982410330	19799756	1622504593	397558791						0
 1742723430	Bomb	Fire Damage S	Fire Damage M	Fire Damage L	Mass of Heat	Mass of Heat	1319870154	677195916	1599733786	1052863047	1237736145						0
 1737131770	Ice Bomb	Ice Damage S	Ice Damage M	Ice Damage L	Steal Heat	Steal Heat	824372777	1473527917	550727931	1095244454	911157808						0
@@ -149,6 +159,8 @@ ItemId	Item	Name1	Name2	Name3	Name4	Name5	SkillId1	SkillId2	SkillId3	SkillId4	Sk
 74907247	Thunder Feet	Rumbling Bolt S	Rumbling Bolt M	Rumbling Bolt L	Thunderous Flash	Thunderous Flash	1715951403	11663727	2008467961	372089764	1630180146						0
 1842209283	Sun Ring	Light of Dawn S	Light of Dawn M	Light of Dawn L	Atomic Flare	Atomic Flare	569640148	1191357074	805673480	1369370715	647610573						0
 188435527	Moon Ring	Moon Mirror S	Moon Mirror M	Moon Mirror L	Flash of Moonlight	Flash of Moonlight	270278217	1995091981	32342171	1618406086	393337424						0
+405058249	Puni Matter	Resolute Blow S	Resolute Blow M	Resolute Blow L	Desperate Charge	Desperate Charge	867939498	1431116528	575285882	1137786917	886468787						1274983891
+2127699085	Elemental Sword	Rain of the Azure Blade S	Rain of the Azure Blade M	Rain of the Azure Blade L	Tempest of the Azure Blade	Tempest of the Azure Blade	1005280984	1562243218	706396164	1266788953	1015454415						1274983891
 763193597	Healing Salve	HP Recovery S	HP Recovery M	HP Recovery L	Ultra HP Recovery	Ultra HP Recovery	702895980	1326709034	940886464	1502585827	780702581						0
 1466857876	Healing Elixir	HP+AP Recovery S	HP+AP Recovery M	HP+AP Recovery L	Regeneration	Regeneration	775257628	1220792414	1069867208	1583319701	693680643						0
 1148918095	Puni Jelly	Nice and Squishy S	Nice and Squishy M	Nice and Squishy L	Unique Texture	Unique Texture	308913012	1956580658	60308904	1644386299	352610157						0
@@ -158,17 +170,21 @@ ItemId	Item	Name1	Name2	Name3	Name4	Name5	SkillId1	SkillId2	SkillId3	SkillId4	Sk
 209109006	Hallfein Parfum	Nice Scent S	Nice Scent M	Nice Scent L	Lovely Scent	Lovely Scent	1593039636	939881814	1325548992	781791133	1503534859						0
 2007398888	Elixir	Secret Power S	Secret Power M	Secret Power L	Super Panacea	Super Panacea	1711988514	16544100	2012955122	375401391	1634147129						0
 1861737680	Bluten Veil	Ocean Flower Aura S	Ocean Flower Aura M	Ocean Flower Aura L	Ocean Flower Veil	Ocean Flower Veil	1941501862	357456356	1648978294	64095017	1960129471						725171254
+104960926	Aries Candy	Sparkly Accent S	Sparkly Accent M	Sparkly Accent L	Topping Effect	Topping Effect	1396829985	901202277	1118859763	590027694	1412180792						1274983891
 513706777	Puni Candy	DEF Increase S	DEF Increase M	DEF Increase L	Alive	Alive	1720953723	6620479	2002924969	385441780	1644064610						0
 1910473168	Riaslade Ice Cream	Sharp Chill S	Sharp Chill M	Sharp Chill L	Piercing Cold	Piercing Cold	291631192	2006408734	9465484	1628112087	369898561						0
 1594507219	Squall Winder	SPD+Evade Boost S	SPD+Evade Boost M	SPD+Evade Boost L	Masterful Reflexes	Masterful Reflexes	955006377	1578800109	689808251	1216792872	1065482674						0
 274138787	Warding Incense	Cure Stat Effect S	Cure Stat Effect M	Cure Stat Effect L	Removes Stat Effect	Removes Stat Effect	1294019549	735544729	1557181711	1028382546	1246556100						0
 1164241785	Riasoup	ATK+DEF Up, SPD Down	ATK+DEF Up, SPD Down+	All Stats Boost	Masterful Tactics	Masterful Tactics	83465977	1645164733	352847915	1955816056	60052194						0
 1573151133	Viel Einfugen	Specialty Product S	Specialty Product M	Specialty Product L	Nostalgic Taste	Nostalgic Taste	1082870507	645784751	1367004217	820100708	1206292210						725171254
+920730609	Friendship Brush	Alchemist's Brush S	Alchemist's Brush M	Alchemist's Brush L	Alchemist's Divine Brush	Alchemist's Divine Brush	997781259	1569603919	713650649	1259477894	1008020244						1274983891
 2125911407	Dark Water	DEF Down S	DEF Down M	DEF Down L	Tri-Suffer	Tri-Suffer	1504439342	1063076456	1213887230	700520611	1590044725						0
 854824807	Imp's Mischief	ATK+Phys Res Down S	ATK+Phys Res Down M	ATK+Phys Res Down L	Impurify	Impurify	1609950341	956517057	1308916311	798953484	1486364830						0
 154421263	Puni Whip	Freeze S	Freeze M	Freeze L	Living Whip	Living Whip	164442099	1866170807	406630689	2041043836	245427178						0
 911148001	Worn Out Circle	Blind+Paralyze S	Blind+Paralyze M	Blind+Paralyze L	Corrode Body	Corrode Body	709910999	1286000531	1000472325	1513788760	759014862						0
 184744382	Codex of Creation	Absorb ATK S	Absorb ATK M	Absorb ATK L	Absorb ATK+DEF	Absorb ATK+DEF	1866373846	164115600	2127496198	525626971	1750294221						0
+295423408	Absolute Pain	Extreme Gravity S	Extreme Gravity M	Extreme Gravity L	Gravity Core	Gravity Core	1377885943	623373921	1248267278	1029717144	1571272061						1274983891
+2003657718	Convenient Broom	Mysterious Broom S	Mysterious Broom M	Mysterious Broom L	Aerial Sweeper	Aerial Sweeper	1524860246	769963456	1118066607	899901241	1432678110						1274983891
 806431220	Star Staff	Air Attack Charge S	Air Attack Charge M	Air Attack Charge L	Full-Fledged Adventurer	Full-Fledged Adventurer						662453033	1099601261	915252731	1461112744	538050354	0
 1458014134	Explorer's Staff	Attack Mastery S	Attack Mastery M	Attack Mastery L	Behemoth Blow	Behemoth Blow						624592242	1137453876	885726114	1431335423	576143721	0
 568375072	Azure Cage	Devastating Strike S	Devastating Strike M	Devastating Strike L	Skill Power Amplifier	Skill Power Amplifier						620293959	1108230403	889811349	1418861514	596978528	0
@@ -214,6 +230,10 @@ ItemId	Item	Name1	Name2	Name3	Name4	Name5	SkillId1	SkillId2	SkillId3	SkillId4	Sk
 913584691	Resurrection Wear	Self-Repair S	Self-Repair M	Self-Repair L	Training Elixir	Training Elixir						797364330	1232109104	1048006330	1609311461	686494835	0
 1350737015	White Order	Ice Resistance Up S	Ice Resistance Up M	Ice Resistance Up L	Magic Rampage	Magic Rampage						767585843	1261879415	1009905889	1571461820	716024362	0
 663071969	Griffon Plate	Beast Leather S	Beast Leather M	Beast Leather L	Majestic Beast Leather	Majestic Beast Leather						738329604	1257548354	1039375064	1550381195	728743965	0
+1671594403	Celestial Dress	Critical Finesse S	Critical Finesse M	Critical Finesse L	Guidance of the Stars	Guidance of the Stars						692916865	1337703621	951880787	1495787022	773904024	1274983891
+89403367	Black Dragon Coat	Midnight Black Attire S	Midnight Black Attire M	Midnight Black Attire L	Shadow Slicer	Shadow Slicer						680491190	1316607732	964617830	1491438649	803388591	1274983891
+1918050161	Golden Mail	A Leader's Power S	A Leader's Power M	A Leader's Power L	A Ruler's Power	A Ruler's Power						717866735	1279223979	993548349	1520644704	765723382	1274983891
+331904300	Stark Cologne	Warrior's Wisdom S	Warrior's Wisdom M	Warrior's Wisdom L	Everlasting Darkness's Might	Everlasting Darkness's Might						722185432	1308426910	989475340	1533106263	744908993	1274983891
 912505511	Lanterna Earrings	Reduce Skill WT S	Reduce Skill WT M	Reduce Skill WT L	Flame Blessing	Flame Blessing						1219526572	776393194	1497489792	953846563	1339931573	0
 1351947491	Hallfein Pendant	DEF+Crit Up S	DEF+Crit Up M	DEF+Crit Up L	Critical Magic	Critical Magic						1110332070	618200292	1407175798	843359785	1162057407	0
 663889013	Bunny Tail	HP+SPD Up S	HP+SPD Up M	HP+SPD Up L	Luring Target	Luring Target						1279066910	717991260	1573690830	1012397969	1263585031	0
@@ -226,6 +246,9 @@ ItemId	Item	Name1	Name2	Name3	Name4	Name5	SkillId1	SkillId2	SkillId3	SkillId4	Sk
 1484766066	Spirit Beast's Tail	SPD Critical Charge S	SPD Critical Charge M	SPD Critical Charge L	Skill Gleam	Skill Gleam						180154804	1816813558	458059616	2060846397	231814571	0
 796429288	Spirit Belt	HP+ATK Up S	HP+ATK Up M	HP+ATK Up L	Enduring Power	Enduring Power						192846725	1837643201	445580631	2064936716	202596254	0
 1234052514	Phantom Scarf	Stun Boost S	Stun Boost M	Stun Boost L	Fierce Link Attack	Fierce Link Attack						154674654	1875807128	415873806	2035470675	240509381	0
+1953605806	Decoy Doll	Prayer for Safety S	Prayer for Safety M	Prayer for Safety L								150622187	1846337967	420204857			1274983891
+310839016	Dragon Scale Necklace	Crest of Resilience S	Crest of Resilience M	Crest of Resilience L	Dragon Scale's Blessing	Dragon Scale's Blessing						229988720	1799616298	474269628	2111811041	181968247	1274983891
+1702901374	Old Dragon's Claw	The Price of Strength S	The Price of Strength M	The Price of Strength L	The Price of Greed	The Price of Greed						209138521	1786879261	495365515	2082326488	186316610	1274983891
 378208873	Woodcutter's Axe	Tree Cutter										1130542851					0
 1636578047	Gold Axe	Superb Tree Cutter										630462791					0
 125476027	Starlight Axe	Expert Tree Cutter										1385376209					0
@@ -258,18 +281,18 @@ ItemId	Item	Name1	Name2	Name3	Name4	Name5	SkillId1	SkillId2	SkillId3	SkillId4	Sk
 263688471	Dark Shine Pearl	Panel Effect Immunity S	Panel Effect Immunity M	Panel Effect Immunity L	Panel Effect Immunity X	Panel Effect Immunity X						276631984	1988870122	25988988	1612178721	386979255	0
 2024841601	Crimson Shine Pearl	Weak Pt Stun Charge S	Weak Pt Stun Charge M	Weak Pt Stun Charge L	Weak Pt Stun Charge X	Weak Pt Stun Charge X						305901559	1959592371	63582501	1649499002	357985264	0
 507908037	Azure Shine Pearl	Weak Pt Power Charge S	Weak Pt Power Charge M	Weak Pt Power Charge L	Weak Pt Power Charge X	Weak Pt Power Charge X						335136194	1963944836	34102034	1670590799	345244121	0
-934792281		Boost When Stunned S	Boost When Stunned M	Boost When Stunned L	Boost When Stunned X	Boost When Stunned X						1546515050	987454508	1306291386	742852327	1530934897	0
-1445766660		Boost When Stunned S	Boost When Stunned M	Boost When Stunned L	Boost When Stunned X	Boost When Stunned X						1546515050	987454508	1306291386	742852327	1530934897	0
-907426380		Stun - All Stats Boost S	Stun - All Stats Boost M	Stun - All Stats Boost L	Stun - All Stats Boost X	Stun - All Stats Boost X						801818443	1228695823	1044076953	1604334534	682034004	0
-1468878865		Stun - All Stats Boost S	Stun - All Stats Boost M	Stun - All Stats Boost L	Stun - All Stats Boost X	Stun - All Stats Boost X						801818443	1228695823	1044076953	1604334534	682034004	0
-410146740		HP Recovery on Crit S	HP Recovery on Crit M	HP Recovery on Crit L	HP Recovery on Crit X	HP Recovery on Crit X						1861801784	135166322	2131315172	512893881	1771377455	0
-2045328873		HP Recovery on Crit S	HP Recovery on Crit M	HP Recovery on Crit L	HP Recovery on Crit X	HP Recovery on Crit X						1861801784	135166322	2131315172	512893881	1771377455	0
-1428345698		Interrupt TP Gain S	Interrupt TP Gain M	Interrupt TP Gain L	Interrupt TP Gain X	Interrupt TP Gain X						112547670	1615067412	390384006	1994367961	30970703	0
-884586813		Interrupt TP Gain S	Interrupt TP Gain M	Interrupt TP Gain L	Interrupt TP Gain X	Interrupt TP Gain X						112547670	1615067412	390384006	1994367961	30970703	0
-251601453		Elemental Res Down S	Elemental Res Down M	Elemental Res Down L	Elemental Res Down X	Elemental Res Down X						603118488	1157920210	839075140	1402482457	614408079	0
-1868843120		Elemental Res Down S	Elemental Res Down M	Elemental Res Down L	Elemental Res Down X	Elemental Res Down X						603118488	1157920210	839075140	1402482457	614408079	0
-1765883731		Mix HP+AP Rec. S	Mix HP+AP Rec. M	Mix HP+AP Rec. L	Mix HP+AP Rec. X	Mix HP+AP Rec. X						393525620	1904351030	109389728	1730039293	270105963	0
-148526350		Mix HP+AP Rec. S	Mix HP+AP Rec. M	Mix HP+AP Rec. L	Mix HP+AP Rec. X	Mix HP+AP Rec. X						393525620	1904351030	109389728	1730039293	270105963	0
+934792281	Silver Virid Pearl	Select Few S	Select Few M	Select Few L	Select Few XL	Select Few XL						1575983199	991507995	1277036173	763718866	1518492744	0
+1445766660	Gold Virid Pearl	Best and Brightest S	Best and Brightest M	Best and Brightest L	Best and Brightest XL	Best and Brightest XL						1546515050	987454508	1306291386	742852327	1530934897	0
+907426380	Silver Abyss Pearl	Item Power Boost S	Item Power Boost M	Item Power Boost L	Item Power Boost XL	Item Power Boost XL						772320638	1224606520	1073296302	1583503859	694511973	0
+1468878865	Gold Abyss Pearl	Item Master S	Item Master M	Item Master L	Item Master XL	Item Master XL						801818443	1228695823	1044076953	1604334534	682034004	0
+410146740	Silver Bone Pearl	Normal Attack Boost S	Normal Attack Boost M	Normal Attack Boost L	Normal Attack Boost XL	Normal Attack Boost XL						1866120449	164369221	2127242195	525355408	1750563098	0
+2045328873	Gold Bone Pearl	Normal Attack Master S	Normal Attack Master M	Normal Attack Master L	Normal Attack Master XL	Normal Attack Master XL						1861801784	135166322	2131315172	512893881	1771377455	0
+1428345698	Silver Fyr Pearl	TP Up on Block S	TP Up on Block M	TP Up on Block L	TP Up on Block XL	TP Up on Block XL						125255009	1635881765	377922483	1998440942	1767800	0
+884586813	Gold Fyr Pearl	Precision Guard Enhancement S	Precision Guard Enhancement M	Precision Guard Enhancement L	Precision Guard Enhancement XL	Precision Guard Enhancement XL						112547670	1615067412	390384006	1994367961	30970703	0
+251601453	Silver Frost Pearl	Unite Gain S	Unite Gain M	Unite Gain L	Unite Gain XL	Unite Gain XL						573616545	1153834981	868298611	1381647664	626881978	0
+1868843120	Gold Frost Pearl	Unite Burst Enhancement S	Unite Burst Enhancement M	Unite Burst Enhancement L	Unite Burst Enhancement XL	Unite Burst Enhancement XL						603118488	1157920210	839075140	1402482457	614408079	0
+1765883731	Silver Shine Pearl	Debuff Panel Immunity S	Debuff Panel Immunity M	Debuff Panel Immunity L	Debuff Panel Immunity XL	Debuff Panel Immunity XL						381080389	1883274497	122113431	1725704140	299571038	0
+148526350	Golden Shine Pearl	Secrets of Panel Use S	Secrets of Panel Use M	Secrets of Panel Use L	Secrets of Panel Use XL	Secrets of Panel Use XL						393525620	1904351030	109389728	1730039293	270105963	0
 1645185789	Intro to Alchemy, Vol. 1	Learn Recipe										31726779					0
 83436729	Intro to Alchemy, Vol. 2	Learn Recipe										1729278719					0
 1946031151	Intro to Bombs, Vol. 1	Learn Recipe										269845097					0
@@ -324,19 +347,19 @@ ItemId	Item	Name1	Name2	Name3	Name4	Name5	SkillId1	SkillId2	SkillId3	SkillId4	Sk
 2039402748	The Weekly Gatherer, Vol. 5	Learn Recipe										442844860					0
 243916906	Neutralizer Set	Learn Recipe										1835169326					0
 1863486007	Secrets of the Fleet-Footed	Learn Recipe										217652337					0
-404077217		Learn Recipe										2080255207					1274983891
-2128811237		Learn Recipe										487096995					1274983891
-165946483		Learn Recipe										1779413557					1274983891
-1722074654		Learn Recipe										89083994					1274983891
-295958156		Learn Recipe										1917345996					1274983891
-1129455085		Learn Recipe										549030827					1274983891
-877997435		Learn Recipe										1472117565					1274983891
-1386447679		Learn Recipe										826807673					1274983891
-631550889		Learn Recipe										1179592175					1274983891
-1145035254		Learn Recipe										668225458					1274983891
-859367780		Learn Recipe										1356037924					1274983891
-1439581990		Learn Recipe										908448098					1274983891
-583628720		Learn Recipe										1092805112					1274983891
+404077217	Synthesis Reference: Secret Remedy	Learn Recipe										2080255207					1274983891
+2128811237	Safe-Travels Charm Set	Learn Recipe										487096995					1274983891
+165946483	Synthesis Treatise: Introduction	Learn Recipe										1779413557					1274983891
+1722074654	Synthesis Treatise: Advanced	Learn Recipe										89083994					1274983891
+295958156	Adventure Prep for Alchemists	Learn Recipe										1917345996					1274983891
+1129455085	Convenient Goods Catalog	Learn Recipe										549030827					1274983891
+877997435	Armor Creation Guide: Advanced	Learn Recipe										1472117565					1274983891
+1386447679	Synthesis Treatise: Challenge Edition	Learn Recipe										826807673					1274983891
+631550889	Silver Starpearls, Vol 1	Learn Recipe										1179592175					1274983891
+1145035254	Silver Starpearls, Vol 2	Learn Recipe										668225458					1274983891
+859367780	Silver Starpearls, Vol 3	Learn Recipe										1356037924					1274983891
+1439581990	Gold Starpearls, Vol 1	Learn Recipe										908448098					1274983891
+583628720	Gold Starpearls, Vol 2	Learn Recipe										1092805112					1274983891
 1300862431		Learn Recipe										778175385					1274983891
 982426953		Learn Recipe										1499804431					1274983891
 1514745006		Learn Recipe										966965994					1274983891

@@ -13,7 +13,6 @@ def unpack_assets():
             for path,obj in env.container.items():
                 #if obj.type.name not in ["Texture2D", "Sprite", "MonoBehaviour"]:
                 #    print(obj.type.name)
-                """
                 if obj.type.name == "TextAsset":
                     # export asset
                     data = obj.read()
@@ -40,7 +39,6 @@ def unpack_assets():
                         except:
                             #print(dir(obj))
                             print(obj.external_name, obj.file_id, obj.__str__)
-                """
                 if obj.type.name in ["Texture2D", "Sprite"]:
                     data = obj.read()
                     try:
