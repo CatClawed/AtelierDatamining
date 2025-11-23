@@ -108,6 +108,7 @@ def other_text():
         'STR_ALCHEMY_TREE_TEXT_019', # trait blending
         'STR_MENU_DEFINE_186', # inner, outer range
         'STR_MENU_DEFINE_187',
+        'STR_FIELDMAP_DEFINE_007', #shop
     ]
     for tag in tags:
         d = localize[tag].copy()

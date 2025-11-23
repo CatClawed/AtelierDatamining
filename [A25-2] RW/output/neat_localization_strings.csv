@@ -1,9 +1,13 @@
 text_ENG	text_JPN	text_CHT	text_CHS	text_KOR
+Atelier Resleriana	レスレリアーナのアトリエ	蕾斯萊莉婭娜的鍊金工房	蕾斯莱莉娅娜的炼金工房	레슬레리아나의 아틀리에
+The Red Alchemist & the White Guardian	紅の錬金術士と白の守護者	紅色的鍊金術士和白色的守護者	红色的炼金术士和白色的守护者	진홍의 연금술사와 순백의 수호자
+Red Alchemist & White Guardian	紅の錬金術士と白の守護者	紅色的鍊金術士和白色的守護者	红色的炼金术士和白色的守护者	진홍의 연금술사와 순백의 수호자
 Categories	カテゴリ	類別	类别	카테고리
 Effects	効果	效果	效果	효과
 Traits	特性	特性	特性	특성
 Items	アイテム	道具	道具	아이템
 Filter	絞り込み	進階搜尋	高级搜索	필터
+Recipe Tree	レシピ派生図	配方衍生圖	配方衍生图	레시피 파생도
 Red	赤	紅	红	적
 Blue	青	藍	蓝	청
 Yellow	黄	黃	黄	황
@@ -60,3 +64,9 @@ Synthesize	調合	調合	调合	조합
 Exploration	探索	探索	探索	탐색
 Key Items	重要	重要	重要	중요
 Catalyst Ingredients	活性素材	活性素材	活性素材	활성소재
+Buy	買う	購買	购买	구입
+Heiter's Shop	ハイターのお店	海塔的店	海塔的店	하이터의 가게
+Synthesis Recipes	調合レシピ	調合配方	调合配方	조합 레시피
+Required Ingredients	必要素材	所需素材	所需素材	필요 소재
+Dropped by	落とす魔物	掉落的魔物	掉落的魔物	떨어뜨리는 몬스터
+Item Mix	アイテムミックス	道具混搭	道具混搭	아이템 믹스

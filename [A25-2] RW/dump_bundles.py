@@ -13,7 +13,7 @@ def unpack_assets():
             for path,obj in env.container.items():
                 #if obj.type.name not in ["Texture2D", "Sprite", "MonoBehaviour"]:
                 #    print(obj.type.name)
-
+                """
                 if obj.type.name == "TextAsset":
                     # export asset
                     data = obj.read()
@@ -26,10 +26,10 @@ def unpack_assets():
                     with open(path, "wb") as f:
                         f.write(data.m_Script.tobytes())
 
-                """
                 # I've actually  had better luck with an assetstudio tool,
                 # unsure if it's because of unitypy version or not
                 # probably this https://github.com/aelurum/AssetStudio
+
                 if obj.type.name == "MonoBehaviour":
                     if obj.serialized_type.nodes:
                         try:
@@ -40,6 +40,7 @@ def unpack_assets():
                         except:
                             #print(dir(obj))
                             print(obj.external_name, obj.file_id, obj.__str__)
+                """
                 if obj.type.name in ["Texture2D", "Sprite"]:
                     data = obj.read()
                     try:
@@ -68,7 +69,6 @@ def unpack_assets():
                         data.image.save(dest)
                     except:
                         print(data.m_Name)
-                """
 
 if os.path.isdir(destination_folder) and os.path.isdir(bundle_folder):
     for o in ['textasset', 'mono', 'image']:

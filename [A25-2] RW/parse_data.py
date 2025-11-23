@@ -52,7 +52,8 @@ def export_csv():
             'text_CHS', 'desc_CHS',
             'text_CHT', 'desc_CHT',
             'text_KOR', 'desc_KOR',
-            'DlcId', 'Icon'
+            'DlcId', 'Icon',
+            'ComboId1', 'ComboId2',
         ],
         'effect': [
             'EffectId', 'Index',
@@ -744,7 +745,7 @@ def trait():
                 2075481065: 'trait-battle-benefit',
                 1360299425: 'trait-hp',
                 1057447733: 'trait-weapons',
-                1071601559: 'icon-category-armor',
+                1071601559: 'category-38',
                 587576781: 'trait-speed',
                 1221006659: 'trait-chara-damage-color',
                 1141382177: 'gather',
@@ -761,6 +762,8 @@ def trait():
         try:
             dic[item['Trait3']]['Combo1'] = dic[item['Trait1']]['text_ENG']
             dic[item['Trait3']]['Combo2'] = dic[item['Trait2']]['text_ENG']
+            dic[item['Trait3']]['ComboId1'] = dic[item['Trait1']]['TraitId']
+            dic[item['Trait3']]['ComboId2'] = dic[item['Trait2']]['TraitId']
         except:
             print('TraitMix issue', item)
 
@@ -990,11 +993,15 @@ def other_text():
     finalized['neat_localization_strings'] = dic
     ids = [
         #1039643431,
+        229322038, # title
+        1801290608, # subtitle
+        173726502, # short subtitle
         1874449842, # Item related
         415163688,
         2118667106,
         1028144855,
         1246694977,
+        884803476,
         2021223619, # Colors
         259939413,
         971207224,
@@ -1051,6 +1058,12 @@ def other_text():
         1808703687,
         2050965013,
         73069301,
+        371239482, # buy
+        1062102087, # heiter's shop
+        313987159, # synthesis recipes
+        1919982002, # required ingredients
+        183550640, # dropped by
+        640860470, # item mix
     ]
     for id in ids:
         d = localize[id].copy()
