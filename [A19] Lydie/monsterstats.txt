@@ -1,0 +1,127 @@
+name	hp	atk	def	spd	exp	cole
+Chroma Rose	281	18	10	10	42	21
+Chroma Blue	173	14	7	7	23	12
+Chroma Amber	419	25	14	13	71	36
+Chroma Verde	95	10	5	5	11	6
+Little Soldier	95	11	5	6	11	6
+Little Chief	192	16	8	9	26	13
+Little Captain	360	25	14	14	59	30
+Little General	1013	57	36	33	248	124
+Chromel Rose	337	25	11	8	58	29
+Chromel Blue	207	18	8	6	31	16
+Chromel Amber	503	33	16	11	99	50
+Chromel Verde	704	43	22	15	159	80
+Auto Armor	306	28	18	7	58	29
+Iron Hand	743	57	40	14	195	98
+Void Machine	1382	98	72	25	473	237
+Nameless	1499	106	78	27	532	266
+Groblair Rose	1491	69	37	24	545	273
+Groblair Blue	328	23	10	8	65	33
+Groblair Amber	917	46	24	16	270	135
+Groblair Verde	2627	113	63	41	1248	624
+Termina, Maiden of the End	12650	110	54	49	2222	1111
+Termina, Maiden of the End†	27650	125	74	64	2222	1111
+Falgior, Demon Thunder God	3347	56	36	22	1139	570
+Black Painting Demon Core	10000	120	96	56	2766	1383
+Blue Puni	25	7	3	3	2	1
+Green Puni	29	8	3	3	3	2
+Red Puni	66	10	4	4	9	5
+Gold Puni	411	32	17	15	86	43
+Black Puni	922	84	48	39	396	198
+Punipuni?	464	36	19	16	102	51
+Super Puni	200	21	159	8	33	17
+Stone Puni	5236	214	925	399	1641	821
+Ghost	54	14	7	4	10	5
+Scarlady	61	15	7	4	11	6
+Gentle Phantom	506	69	43	21	148	74
+Haunt	608	81	51	25	190	95
+Funny Face	635	84	53	26	202	101
+Dark Maiden	392	55	34	17	105	53
+Dragonaire	1242	72	38	29	533	267
+Fran Pfeil	3177	89	47	38	494	247
+Silverius	2916	186	87	84	1861	931
+Luard	1499	81	47	37	864	432
+Beast Leader	207	18	7	8	26	13
+Beast	43	10	3	4	2	1
+Beast Captain	230	19	8	9	29	15
+Beast General	942	55	25	26	201	101
+Gold Haired Demon	842	50	23	24	171	86
+Horned Rabbit	40	9	4	3	2	1
+Diamond Rabbit	772	46	28	19	159	80
+Cotton Rabbit	59	10	4	4	5	3
+Snow Ear	309	23	12	9	45	23
+Sage's Envoy	2045	39	24	16	124	62
+Dryad	57	8	2	3	3	2
+Sunny Plant	66	8	2	3	4	2
+Blood Flower	87	9	3	4	7	4
+Ice Flower Spirit	465	21	9	9	67	34
+Burning Rose	328	16	7	7	41	21
+Flower Guardian	927	36	17	16	175	88
+Clay Puppet	393	18	15	7	64	32
+Potteria	428	20	16	7	72	36
+Kettle Ghost	360	17	14	6	57	29
+Shadow Eater	1040	39	35	14	251	126
+Fang Bat	83	14	4	6	9	5
+Large Fang	138	17	6	8	18	9
+Frost Bat	360	32	13	15	60	30
+Night Bat	1326	95	42	45	370	185
+Pulse Raider	1326	95	42	45	370	185
+Bleed, Wings of Calamity	1271	91	40	43	348	174
+Lickshroom	41	9	3	4	3	2
+Spore Dog	47	9	4	4	4	2
+Biteshroom	155	14	7	6	20	10
+Lightshroom	173	15	8	7	23	12
+Fungus Hound	281	21	11	9	42	21
+Hexagon Turtle	281	18	19	6	51	26
+Desert Turtle	306	20	21	6	57	29
+Black Shell	702	37	43	12	177	89
+Crystal Shell	234	16	17	5	40	20
+Gorgon Head	386	31	14	11	79	40
+Magical Parasol	437	34	16	12	93	47
+Death Cloud	464	36	17	13	101	51
+Wood Golem	242	20	12	5	57	29
+Rock Golem	328	24	16	6	85	43
+Guardian	360	25	17	6	96	48
+Big Tree Soldier	1099	59	45	15	461	231
+Diamond Golem	5182	110	86	28	1253	627
+Black Reaver	16769	423	461	82	6706	3353
+Red Feather	661	42	15	9	119	60
+Cockatrice	1483	80	31	18	380	190
+Griffonian	141	17	5	4	14	7
+Griffon	161	18	5	4	17	9
+Ims, Beast of Death	2160	112	44	26	660	330
+Palmyra, Maiden of Origin	12650	110	54	49	2222	1111
+Palmyra the Creator	27650	125	69	69	2222	1111
+Avenger	1000	47	17	15	353	177
+Ice Cavern Conqueror	600	47	15	12	116	58
+Uber Dragon	880	54	28	22	325	163
+Firis	1112	62	35	28	281	141
+Fuoco’s Fire Dragon	3838	127	70	52	1568	784
+Kame-kichi	918	47	55	15	216	108
+Sophie	36089	411	284	242	3413	1707
+Nightless Demon Core	87064	373	294	204	3287	1644
+Erythro	8588	337	170	151	4253	2127
+Acceptor	13547	373	189	167	5977	2989
+Queen Bee	5639	245	135	134	1748	874
+Giant	7085	275	227	92	2190	1095
+Millennium Puni	62	20	664	49	20537	269
+Azure Puni	4262	280	164	129	2468	1234
+Crimson Puni	4964	325	191	150	3094	1547
+Treant Golem	10861	513	417	131	13585	6793
+Witch Golem	11246	531	432	136	14310	7155
+Goldesser	15111	665	401	277	26162	13081
+Silversammler	13329	706	388	301	26815	13408
+Endshroom	11032	326	213	168	3629	1815
+Disciple of the Mighty	9637	419	277	174	5110	2555
+Lady of Darkness	4516	550	364	171	3478	1739
+Dreadnought	6848	446	230	165	4946	2473
+Gravewing Bruto	7895	522	239	250	5133	2567
+Garuda of Ruin	17687	843	349	197	25120	12560
+Wyvern	16324	826	474	344	24211	12106
+Onyx Puni	5036	349	205	161	3444	1722
+Indestructible Golem	18011	705	575	181	22041	11021
+Stymphalia	20776	894	370	289	27472	13736
+Cauldron Monster	17097	567	1432	205	26256	13128
+Incinerated Guardian	22318	905	779	232	32155	16078
+General Puni	11297	832	1332	839	10578	5289
+Siegel	13337	177	99	73	2272	1136

@@ -1,0 +1,46 @@
+Cooking for Beginners	A collection of simple recipes for those who have just started cooking. This first entry in the "For Beginners" series has gone on to become a best seller.
+Craftwork for Beginners	A collection of simple recipes for those who have just started craftwork. While there was much anticipation behind this second entry in the "For Beginners" series, it didn't gain much popularity.
+The Man Charmed by Fire	The first and final book written by Dr. Crain Nitro, a scientist fascinated with gunpowder, who devoted his life's work to creating bombs. According to the doctor, "Fire fascinates mankind more than mankind itself."
+Local History of Stellard	A book filled with information concerning the history of Stellard, and related topics. A masterpiece describing everything about a single city.
+Introduction to Leather	A book describing how to make simple processed goods using animal leather. It contains everything from accessories to useful general goods, fully depicting the charms of leather.
+Supplement Revolution!	A thesis concerning supplement discovered in ruins, reorganized and published in book form. It's reasonable to assume that a notable alchemist wrote it, given its sharp insight and abundant knowledge.
+The Fearsome Power of Nature	A book warning readers not to take nature lightly, while also emphasizing coexistence with it. Those who enjoy the outdoors should definitely take a look at this.
+Knowledge of a Housewife	A book written by a housewife, describing know-how for topics like cooking and sewing. Contrary to expectations, in addition to housewives, the book is quite popular among young men these days.
+Shiny Zappy	A book describing items that have both shiny and flashy characteristics. It's actually not very popular among the general populace.
+Skillful Woodworking	A book published for those who wish to use wood found nearby to create useful items. This popular book has gone through many revisions and updates, with the current version being number 5.
+Cutting-Edge Fashions	A collection of fads and fashions that were once popular in Central. The book is quite old, so the recipes found within are quite rare to see these days.
+Object Flotation Techniques	This book was written by an alchemist who sought to defy gravity itself. It is a novel in the first person perspective, retelling the life of a man who was devoted to making things float.
+Fire Spirit - Words of the Soul	A book providing guidance for borrowing the power of fire spirits. It contains everything from fake experiences to manners when speaking with spirits.
+A Weak Boy's Endeavors	A book based on the true story about a bullied young boy who grew to become a great alchemist. It contains knowledge about items this man actually created.
+Dusk Nutrition - First Edition	A book thought to have been written when the Dusk first appeared in this world. It is filled with wit and wisdom for surviving in a world quietly creeping towards ruin.
+Central Style Smithing Guide	A book filled with basic recipes for general metalworking. Seeing how Central has a long history of working with metals, its popularity is quite high.
+Next Generation Craftwork	A book explaining items that are supposedly the craftwork of the future. It contains suggestions moving forward, as well as some actual items that could be considered as next generation.
+Walking in Dusk - Continuation	A book for adventurers traveling the Dusk Sea. As the name suggests, it's a sequel, but nobody has ever seen the first volume of this mysterious publication. However, the contents are quite helpful.
+Book of Dragon Divination	A book containing methods for harnessing the mysterious power of dragons. Quite unexpectedly, it's said that this book was not written by an alchemist, but rather by an explorer.
+Tempered Materials	A book written for those seeking superior metals and lumber, rather than commonly available goods. Those with the proper knowledge and technique could create useful materials after reading this book.
+The Remnants	A book describing items that still remain since ancient times. It contains some mysterious items whose purposes and technology are still not completely understood or explained.
+Engineer Becketts	A book written by an engineer in ancient times, Rupiel Jan Becketts. Becketts trained in the art of smithing, also using his excellent knowledge of alchemy to create complex combined techniques.
+Stylish Central	A catalog book exploring new standards of style in Central. It appeals to those who wish to distinguish themselves from others, containing a number of unique accessories and materials.
+Health-Conscious Medicine	A book detailing the proper use of medicine, for those people seeking lifelong health. While it's said that this book can protect one from any illness, this isn't completely true.
+Starlight of the Heavens	A book written about ancient items containing the immense power of stars. It's a very valuable book, and is rare to find. The contents are difficult to understand, requiring great knowledge and devotion.
+The Way of the World	This book contains the various laws and phenomena of the world. It is a mysterious book that boldly attempts to grasp the truth of this world.
+The Legendary Traveler	A book written by the traveler Isla Travel, said to be the first person to circumnavigate the world. It describes alchemy items necessary to journey through various lands.
+Forgotten Arts	A book describing secret arts created by ancient alchemists. It's quite difficult, and few people can understand it, but the contents described within can grant the reader unfathomable knowledge.
+Legendary Forging Book	This guidebook aims to use the power of alchemy to transform certain substances into others, and maximize the power of materials. A bible for those who seek to ascend to new heights.
+Mythical Materials	A book about materials so rare and valuable, one would never expect to see them in their lifetime. It is said that ancient alchemy developed greatly thanks to the blessing of materials such as these.
+Searching for Lost Items	A memo book passed down in Lugion Village, describing how to make mysterious items. It's said that the tools within can be used to find lost items.
+Dad's Reference Book	A handwritten reference book left behind by Shallotte's father, who was an alchemist. It contains unique recipes, and is not easy to understand.
+Bait Production Memo	A memo describing how to make fish bait favored by Shallotte's father. It describes everything about the bait in detail, including why the fish love it so much.
+How to Make Tarts	An optimized recipe for making Escha's favorite apple tarts. Those with at least an elementary knowledge of alchemy can use this to easily create tarts.
+How to Make Tarts - Revision	A revision of Escha's apple tart recipe, using fruit other than apples to make the tarts. This allows one to make tarts using their favorite fruits.
+Water Extraction Methods	A recipe detailing methods of extracting drinkable water from polluted water or sea water. It's a valuable technique in a world where water continues to become more scarce, but it's difficult to mass produce.
+Secret Book of the Clan	A secret recipe handed down through the lineage of the chiefs of Lugion Village. It contains knowledge about items of great power, and thus only a select few are allowed to see it.
+Wilbell's Special Book	A unique recipe given to Shallotte by Wilbell. While it disregards half the normal conventions of alchemy, she created a new item nonetheless.
+Ancient Formulas	A handbook using old-style alchemy to process simple metals and lumber. The contents are relatively easy to understand.
+Miruca's Reference Book	A simple handbook used by Miruca while she was studying old-style alchemy. It's not very compatible with new-style alchemy, and the procedures and approaches used are completely different.
+Keithgriff's Memo	A memo given to Escha by Keithgriff when he asked her to Synthesize something. It's unknown what he intends to do with the item, but its construction is fairly complex.
+Ultimate Stellard Cuisine	A recipe for ultra high-class cooking circulated among the wealthy of Stellard. It's so luxurious and expensive, most common citizens will never even taste it in their lifetimes.
+From the Wilderness	A book written by an adventurer who has wandered the wildernesses of the world. It has a number of fans thanks to its unique storytelling and exaggerations.
+The Harry Chronicles	An autobiography personally written by Harry Olson. While it tells a story of his hardships exploring ruins, the people he meets, and his dilemmas in the Dusk Sea, it's written comically.
+Lugion Village Tradition	A book summarizing the various events that have occurred around Lugion Village since long ago. While it may seem like a fairy tale at first glance, everything written actually did occur in the past.
+Cooking for Beginners	A collection of simple recipes for those who have just started cooking. This first entry in the "For Beginners" series has gone on to become a best seller.

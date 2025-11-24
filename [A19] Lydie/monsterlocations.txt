@@ -1,0 +1,111 @@
+Chroma Rose	The Great Cascades of Anfel	The Black Horizon	Blue Sentiment Land
+Chroma Blue	The Luminous Ice Grotto	Starlight Plane	The Black Horizon	Blue Sentiment Land
+Chroma Amber	The Frozen Palace	The Treasury at the Sea Bottom	Starlight Plane
+Chroma Verde	The Spooky Forest	Heavenly Flower Garden	Land of Rich Encounters
+Little Soldier	The Spooky Forest	The Luminous Ice Grotto
+Little Chief	The Luminous Ice Grotto	The Great Cascades of Anfel
+Little Captain	The Frozen Palace	The Treasury at the Sea Bottom	Etel Nepica
+Little General	Heavenly Flower Garden	Starlight Plane	Land of Rich Encounters
+Chromel Rose	The Great Cascades of Anfel	Etel Nepica	Blue Sentiment Land
+Chromel Blue	The Luminous Ice Grotto	Etel Nepica	Blue Sentiment Land
+Chromel Amber	The Frozen Palace	Nightless Ruined City	Blue Sentiment Land
+Chromel Verde	The Treasury at the Sea Bottom	The Black Horizon	Blue Sentiment Land	Land of Rich Encounters
+Auto Armor	The Great Cascades of Anfel
+Iron Hand	Etel Nepica
+Void Machine	Starlight Plane
+Nameless	The Black Horizon	Domain of Despair
+Groblair Rose	Etel Nepica	The Black Horizon	Domain of Despair	Blue Sentiment Land
+Groblair Blue	The Luminous Ice Grotto	The Treasury at the Sea Bottom	Heavenly Flower Garden	The Black Horizon	Blue Sentiment Land
+Groblair Amber	The Frozen Palace	Heavenly Flower Garden	Blue Sentiment Land
+Groblair Verde	Starlight Plane	Domain of Despair	Nightless Ruined City	Blue Sentiment Land
+Blue Puni	Nearby Forest	Spring-green Odahlia
+Green Puni	Nearby Forest	Spring-green Odahlia
+Red Puni	Spring-green Odahlia	Great Woods of Gurm-Adis
+Gold Puni	Dawn Realm
+Black Puni	Domain of Despair
+Punipuni?	Morrakis Range	Lotus Blossom Pond	Land of Rich Encounters
+Super Puni	Great Woods of Gurm-Adis
+Stone Puni	Ventus Mines
+Ghost	The Spooky Forest
+Scarlady	The Spooky Forest
+Gentle Phantom	Heavenly Flower Garden
+Haunt	Heavenly Flower Garden
+Funny Face	Heavenly Flower Garden
+Dark Maiden	Morrakis Range
+Dragonaire	Dawn Realm
+Silverius	Domain of Despair
+Beast Leader	Great Woods of Gurm-Adis
+Beast	Nearby Forest
+Beast Captain	Great Woods of Gurm-Adis
+Beast General	Dawn Realm
+Gold Haired Demon	Lotus Blossom Pond
+Horned Rabbit	Spring-green Odahlia
+Diamond Rabbit	Morrakis Range	Land of Rich Encounters
+Cotton Rabbit	Spring-green Odahlia
+Snow Ear	Morrakis Range	The Frozen Palace
+Sage's Envoy	Nearby Forest
+Dryad	Spring-green Odahlia
+Sunny Plant	Spring-green Odahlia
+Blood Flower	Spring-green Odahlia	Dawn Realm
+Ice Flower Spirit	Morrakis Range	The Frozen Palace
+Burning Rose	The Great Cascades of Anfel
+Flower Guardian	Lotus Blossom Pond
+Clay Puppet	Braisewest
+Potteria	Braisewest
+Kettle Ghost	The Great Cascades of Anfel
+Shadow Eater	Etel Nepica
+Fang Bat	The Spooky Forest
+Large Fang	The Spooky Forest
+Frost Bat	Morrakis Range	The Frozen Palace
+Night Bat	Starlight Plane
+Pulse Raider	Domain of Despair
+Bleed, Wings of Calamity	Braisewest
+Lickshroom	Nearby Forest
+Spore Dog	Nearby Forest
+Biteshroom	Great Woods of Gurm-Adis
+Lightshroom	Great Woods of Gurm-Adis
+Fungus Hound	Great Woods of Gurm-Adis
+Hexagon Turtle	Braisewest
+Desert Turtle	Braisewest
+Black Shell	The Treasury at the Sea Bottom
+Crystal Shell	The Luminous Ice Grotto
+Gorgon Head	The Treasury at the Sea Bottom
+Magical Parasol	The Treasury at the Sea Bottom
+Death Cloud	The Treasury at the Sea Bottom
+Wood Golem	Great Woods of Gurm-Adis
+Rock Golem	Great Woods of Gurm-Adis
+Guardian	The Luminous Ice Grotto
+Big Tree Soldier	Morrakis Range	Starlight Plane
+Diamond Golem	Domain of Despair
+Black Reaver	Ventus Mines
+Red Feather	Braisewest
+Cockatrice	Braisewest	Dawn Realm
+Griffonian	Spring-green Odahlia
+Griffon	Spring-green Odahlia
+Uber Dragon	Morrakis Range
+Nightless Demon Core	Nightless Ruined City
+Erythro	Blue Sentiment Land
+Acceptor	Blue Sentiment Land
+Queen Bee	Nightless Ruined City
+Giant	Nightless Ruined City
+Millennium Puni	Spring-green Odahlia
+Azure Puni	Claudel Prairie
+Crimson Puni	Claudel Prairie
+Treant Golem	Claudel Prairie
+Witch Golem	Claudel Prairie
+Goldesser	Claudel Prairie
+Silversammler	Claudel Prairie
+Endshroom	Claudel Prairie
+Disciple of the Mighty	Claudel Prairie
+Lady of Darkness	Claudel Prairie
+Dreadnought	Claudel Prairie
+Gravewing Bruto	Claudel Prairie
+Garuda of Ruin	Claudel Prairie
+Wyvern	Claudel Prairie
+Onyx Puni	Claudel Prairie
+Indestructible Golem	Claudel Prairie
+Stymphalia	Claudel Prairie
+Cauldron Monster	Claudel Prairie
+Incinerated Guardian	Claudel Prairie
+General Puni	Claudel Prairie
+Siegel	Claudel Prairie

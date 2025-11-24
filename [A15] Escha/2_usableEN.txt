@@ -1,0 +1,63 @@
+Craft	A handmade bomb packed with thorns that spray in all directions.
+Bomb	An explosive bomb that has a short delay before the explosion.
+Ice Bomb	An ice bomb that steals water from the air to make a resounding impact.
+Lightning Bomb	A stone that releases a burst of electrical energy.
+Living Bomb	A ball of earth that absorbs surrounding soil to become huge.
+Lava Cube	A ball of condensed lava that explodes into magma when thrown.
+Divine Jar	A tool that shoots a compressed stream of water to crush enemies.
+Demon Eye	An item mimicking a spirit's eye. It draws on a spirit's anger.
+Titan Hammer	A magic hammer that automagically crushes enemies when thrown.
+Poly. Poison	A tightly sealed container of poisonous liquid.
+Slag Figure	A warrior that follows the user's commands. The style varies.
+Dimension Bomb	A bomb that vanishes into another dimension when thrown.
+Dream Book	A blank picture book. Hold it up and concentrate to summon things.
+Knowledge Book	A book filled with the angels' power. It releases a huge shockwave.
+Roten Blitz	A catalyst for Logy's gauntlet. It launches an orb of fire.
+Flava Blitz	A catalyst for Logy's gauntlet. It launches a ball of water.
+Guryun Blitz	A catalyst for Logy's gauntlet. It launches a blast of wind.
+Airto Blitz	A catalyst for Logy's gauntlet. It launches a mass of earth.
+Tauzent Blitz	A catalyst for Logy's gauntlet. It launches a very powerful orb.
+Omega Craft	A lost technique to make Craft create a more powerful blast.
+Dire Bomb	A lost technique that makes the Bomb even more destructive.
+Eis Ice Bomb	A lost technique that modifies Ice Bombs.
+Blitz Stone	A lost technique similar to Electric Bombs, but much stronger.
+Healing Salve	Ointment that's spread onto wounds to heal them. It's edible, as well.
+Healing Cloud	Mainly used in religious rites. It emits a cloud when opened.
+Clear Jelly	A cool, sweet jelly that clears the mind when consumed.
+Music Box	A wooden music box small enough to fit in your hand.
+SP Medicine	A bottle packed with medicines. They all fly out when opened.
+Healing Aroma	A gentle aroma that purges illness from those who breathe it.
+Heal Bandage	A bandage soaked with numbing medicine. It heals wounds quickly.
+Cup of Life	A potent medicine that restores breath to the fallen.
+Elixir	An extremely powerful medicine that heals just about anything.
+Dragon's Secret	Herbs mixed with dragon blood, that allows the user to understand beasts.
+Immune Medicine	Powdered medicine. It protects well against infectious diseases.
+Magical Paint	Drawing designs on one's skin with this paint is said to grant powers.
+Time Watch	A pocket watch with an extra hour on the dial, for an unknown reason.
+Slag Statue	A warrior that dedicates itself to shielding the person using it.
+Goddess Shield	A shield with a goddess' image carved into it. It is inspiring.
+Eye-Opener	They say putting this in your eyes lets you see into a new dimension.
+Gold Curse Ring	A ring that grants more money when worn. It breaks after one use.
+Demon Crucible	A crucible that melts one material and creates a different one.
+Command Chime	An item made to emit a large sound to send signals to allies or enemies.
+Medicine Bread	Herbal bread eaten since ancient times. It's also used as medicine.
+Apple Tart	A sweet tart made with apples. It's so delicious your tongue goes numb.
+Forbidden Candy	A sinful candy made from apples. It's quite difficult to eat.
+Pancake Stack	Enough pancakes to feed an army, with a mountain of whipped cream.
+Fruit Ration	An emergency ration made of dried fruit, a block of vitamins.
+Apple Story	Made with various apples from around the world.
+Squash Tea	A stimulating drink that is popular among young people.
+Curing Powder	Dissolving this powder in water is said to ward off the common cold.
+Veggie Soup	A hearty vegetable soup filled with various vegetable extracts.
+Refuel Ointment	A strong healing salve. It's valuable, because it's hard to make.
+Medical Bandage	A bandage soaked in medicinal compounds that stimulate healing.
+Holy Chalice	A strong potion that can restore one to life with a single dose.
+Elixir Base	A medicine said to be the forerunner of Elixirs. The recipe was lost.
+Slag Essence	A powerful tonic that quickly restores verve.
+Angel Powder	Coating the body with this powder bestows divine protection.
+Traveler's Ration	A preserved food invented by people making long journeys.
+Fruit Pie	A large pie topped with fruit. It's quite filling.
+Healthy Ration	A nutritious preserved food that does not require cooking.
+Trad. Medicine	A common medicine that steadily heals strength.
+Strong Powder	A strong powdered medicine that fills the body with brief power.
+Rich Potage	A rich, thick potage. Its recipe varies from family to family.

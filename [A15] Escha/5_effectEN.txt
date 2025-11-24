@@ -1,0 +1,396 @@
+Phy Damage L	Deals physical damage.<CR>Damage dealt is affected by the target's defense value.
+Phy Damage S	Deals strong physical damage. <CR>Damage dealt is affected by the target's defense value.
+Fire Damage L	Deals fire damage. <CR>Fire damage dealt is affected by the target's fire resistance.
+Fire Damage S	Deals strong fire damage. <CR>Fire damage dealt is affected by the target's fire resistance.
+Water Damage L	Deals water damage. <CR>Water damage dealt is affected by the target's water resistance.
+Water Damage S	Deals strong water damage. <CR>Water damage dealt is affected by the target's water resistance.
+Wind Damage L	Deals wind damage. <CR>Wind damage dealt is affected by the target's wind resistance.
+Wind Damage S	Deals strong wind damage. <CR>Wind damage dealt is affected by the target's wind resistance.
+Earth Damage L	Deals earth damage. <CR>Earth damage dealt is affected by the target's Earth resistance.
+Rain of Fire	Causes fire to rain from the sky, dealing fire damage. This will repeat throughout the battle.
+Flash Flood	Creates an intense current of water, dealing a large amount of water damage.
+Eye of Storm	Generates an intense tempest, dealing a large amount of wind damage.
+Impact	Causes a shockwave that deals a large amount of earth damage. Larger foes take more damage.
+Poison Damage L	Deals physical damage with poison. Causes additional damage if the target has status ailments.
+Slag Craft L	Calls forth a Slag model, dealing physical damage to the target. The effect changes with repeated use.
+D. Explosion	Detonates an ancient bomb, dealing massive fire damage.
+Candy Dream	Calls forth various things from a mysterious picture book, dealing physical damage.
+Four Heavens	Releases immense power sealed within a magical book, dealing powerful damage from all elements.
+Flame Strike	Releases the power of a fire crystal, dealing fire damage to the target.
+Hyd Strike	Releases the power of a water crystal, dealing water damage to the target.
+Wind Blade	Releases the power of a wind crystal, dealing wind damage to the target.
+Earth Strike	Releases the power of an earth crystal, dealing earth damage to the target.
+Lightning Speed	Move instantly, giving a chance to move twice in a row.
+Einzelkampf	Releases hidden power, dealing powerful physical damage to the target with a sword attack.
+Bursting	Thorns burst forth, dealing minor physical damage to the target. The power is very small.
+Explosive	An explosion causes physical damage to the target. The power is small.
+Thorn Strike	Sprays many sharp thorns packed inside, dealing physical damage. The power is fairly high.
+Embedding Thorns	Thorns lodge into the target, dealing HP damage each turn. The effect is very small.
+Shredding Thorns	Sharp thorns lodge into the target, dealing HP damage each turn. The effect is small.
+Piercing Thorns	Piercing thorns lodge into the target, dealing HP damage each turn. The effect is fairly large.
+Cremate	The target is engulfed in searing hellfire, with a chance of killing it instantly.
+Freeze Solid	Freezes the target with intense cold and delays its turn. This effect diminishes with use.
+Intense Thunder	Shocks the target with intense electricity, reducing its HP. The amount reduced varies with max HP.
+Inflicts Burns	Deals continuous fire damage through burns. The effect is fairly small.
+Inflicts Burns S	Deals continuous fire damage through severe burns. The effect is large.
+Fixed Damage	Deals a fixed amount of damage to the target, ignoring defenses. <CR>The effect is very small.
+Piercing Damage	Deals a fixed amount of damage to the target, ignoring defenses. <CR>The effect is small.
+Defense Ignor	Deals a fixed amount of damage to the target, ignoring defenses. <CR>The effect is large.
+Set % Damage	Deals a fixed amount of damage to the target, ignoring defenses. <CR>The effect is very large.
+Unstable Damage	Deals a fixed amount of damage to the target, ignoring defenses. The effect is very large, but may vary.
+Stray Bullets	The rain of fire launches projectiles, dealing additional physical damage to the target.
+Falling Stars	The firestorm is accompanied by falling meteorites that deal a large amount of physical damage.
+Stones	The tempest launches small stones, dealing additional physical damage to the target.
+Boulders	The tempest hurls small boulders, dealing a large amount of physical damage to the target as well.
+Decrease Stats	Decreases all of the target's stats by a large amount.
+Triple Handicap	Has a chance of afflicting the target with poison, blindness, and weakness.
+Daydream	A strange dream flies from the picture book, dealing additional physical damage.
+Golden Curse	A mysterious incantation calls forth good and bad events. The good events require a continuous effect.
+Impish Mischief	A mysterious incantation calls forth good and bad events. The bad event's power is reduced by Luck.
+Quick Throw	Can be thrown quickly, reducing the waiting time after use.
+Slows Movement	Delays the target's next turn by a small amount. This effect decreases until the target has another turn.
+Stops Movement	Delays the target's next turn by a fair amount. This effect decreases until the target has another turn.
+Major mov Stop	Delays the target's next turn by a large amount. This effect decreases until the target has another turn.
+All Stats Down L	Decreases all of the target's stats by a small amount.
+All Stats Down M	Decreases all of the target's stats by a fair amount.
+All Stats Down S	Decreases all of the target's stats by a large amount.
+Attack Down L	Decreases the target's attack power by a small amount.
+Attack Down M	Decreases the target's attack power by a fair amount.
+Attack Down S	Decreases the target's attack power by a large amount.
+Defense Down L	Decreases the target's defense power by a small amount.
+Defense Down M	Decreases the target's defense power by a fair amount.
+Defense Down S	Decreases the target's defense power by a large amount.
+Speed Down L	Decreases the target's speed by a small amount.
+Speed Down M	Decreases the target's speed by a fair amount.
+Speed Down S	Decreases the target's speed by a large amount.
+Minor Blindness	Has a slight chance of blinding the target, which reduces its hit accuracy and dodge chance.
+Causes Blindness	Has a moderate chance of blinding the target, which reduces its hit accuracy and dodge chance.
+Strong Blindness	Has a high chance of blinding the target, which reduces its hit accuracy and dodge chance.
+Minor Poison	Has a slight chance of poisoning the target. Poison causes damage every turn.
+Causes Poison	Has a moderate chance of poisoning the target. Poison causes damage every turn.
+Strong Poison	Has a high chance of poisoning the target. Poison causes damage every turn.
+Dullness	Has a slight chance of slowing the target, which increases the time it takes between taking actions.
+Dulls Legs	Has a chance of slowing the target, which increases the time it takes between taking actions.
+Greatly Dulls	Has a high chance of slowing the target, which increases the time it takes between taking actions.
+Slight Reduction	Has a slight chance of weakening the target, which greatly reduces the power of skills.
+Reduces Stats	Has a moderate chance of weakening the target, which greatly reduces the power of skills.
+Big stats reduc.	Has a high chance of weakening the target, which greatly reduces the power of skills.
+Induces Changes	Afflicts the target with a random status effect out of: Poison, Blindness, Slow, or Weakness.
+Crit rate down	Reduces the target's critical hit chance.
+Attracts	Greatly increases the chance of being targeted by enemies.
+Status Damage L	Deals a small amount of damage to the target, which increases with the number or status effects on it.
+Status Damage M	Deals damage to the target, which increases with the number or status effects on it.
+Status Damage S	Deals a large amount of damage to the target, which increases with the number or status effects on it.
+Opens Wounds	Causes the target to continually take damage. The effect increases as the target's HP is reduced.
+Major Wounds	Causes the target to continually take damage. The effect greatly increases as the target's HP drops.
+Const. Damage L	Causes the target to continuously take minor damage for a short duration.
+Const. Damage M	Causes the target to continuously take moderate damage for a short duration.
+Const. Damage S	Causes the target to continuously take great damage for a short duration.
+Damage Absorb L	Deals physical damage to the target and absorbs a portion of damage dealt to heal HP.
+Damage Absorb M	Deals great physical damage to the target and absorbs a portion of damage dealt to heal HP.
+Damage Absorb S	Deals a very great physical damage to the target and absorbs a portion of damage dealt to heal HP.
+Evasion Down	Reduces the target's chance of dodging attacks.
+Evasion Down S	Greatly reduces the target's chance of dodging attacks.
+Weak to Changes	Increases the effects of status effects on the target, but not the chance of dealing status effects.
+Weak to Attacks	Increases damage taken by the target. The effect does not stack, but can be overwritten.
+All Stat Drain S	Reduces the target's attack, defense, and speed, and adds them to the user's stats temporarily.
+Hit Vitals	Can instantly kill the target if its HP is below a certain amount. Some enemies are immune to this.
+Resonant Damage	Deals physical damage to the target. The effect increases when more enemies are in the area.
+4D Damage	Deals fire, water, wind, and earth damage to the target.
+Cloud Heal	Summons a healing cloud that restores HP to characters within it over time. The effect is small.
+Raincloud Heal	Summons a healing cloud that restores HP to characters within it over time. The effect is moderate.
+Stormcloud Heal	Summons a healing cloud that restores HP to characters within it over time. The effect is large.
+Call Slag L	Summons a Slag model that restores HP and performs other support actions. The effect is slight.
+Call Slag M	Summons a Slag model that restores HP and performs other support actions. The effect is moderate.
+Call Slag S	Summons a Slag model that restores HP and performs other support actions. The effect is large.
+Immortality Pwr	When the target of this effect is KO'd, it will automatically be revived on the target's next turn.
+HP Recovery Min	Restores a minor amount of the target's HP.
+HP Recovery L	Restores a small amount of the target's HP.
+HP Recovery M	Restores a fair amount of the target's HP.
+HP Recovery S	Restores a large amount of the target's HP.
+HP Recovery S2	Restores a great amount of the target's HP.
+HP Recovery S3	Restores a massive amount of the target's HP.
+Recov. Bonus Min	Causes a minor HP recovery bonus.
+Recovery Bonus L	Causes a small HP recovery bonus.
+Recovery Bonus M	Causes a fair HP recovery bonus.
+Recovery Bonus S	Causes a large HP recovery bonus.
+MP Recovery L	Restores a small amount of MP.
+MP Recovery M	Restores a fair amount of MP.
+MP Recovery S	Restores a large amount of MP.
+Recover KO Min	Revives the target and restores a minor amount of HP.
+Recover KO L	Revives the target and restores a small amount of HP.
+Recover KO M	Revives the target and restores a fair amount of HP.
+Recover KO S	Revives the target and restores a large amount of HP.
+Recover KO S2	Revives the target and restores a great amount of HP.
+HP regen L	Restores a small amount of HP on the target's next turn.
+HP regen M	Restores a fair amount of HP on the target's next turn.
+HP regen S	Restores a large amount of HP on the target's next turn.
+Eat Recover Min	Restores a minor percentage of the target's maximum HP.
+Eat Recover L	Restores a small percentage of the target's maximum HP.
+Eat Recover M	Restores a fair percentage of the target's maximum HP.
+Eat Recover S	Restores a large percentage of the target's maximum HP.
+Eat Recover S2	Restores a great percentage of the target's maximum HP.
+Eat Recover S3	Restores a massive percentage of the target's maximum HP.
+Auto Revive L	Automatically revives on the next turn after being KO'd and provides a small amount of healing.
+Auto Revive M	Automatically revives on the next turn after being KO'd and provides a moderate amount of healing.
+Auto Revive S	Automatically revives on the next turn after being KO'd and provides a large amount of healing.
+Avoid KO	Automatically revives on the next turn after being KO'd.
+Ailments Down L	Reduces the strength of status ailments by a small amount.
+Ailments Down M	Reduces the strength of status ailments by a fair amount.
+Ailments Down S	Reduces the strength of status ailments by a good amount.
+Cure Poison	Cures the target of Poison.
+Cure Blindness	Cures the target of Blindness.
+Cure Weakness	Cures the target of Weakness.
+Cure Slow	Cures the target of Slow.
+Cure All Ail.	Cures the target of all status ailments.
+Refreshing	Refreshes the mind, restoring a tiny amount of MP.
+Clears the Mind	Clears the mind, restoring a small amount of MP.
+Perk Up	Energizes the mind, restoring a fair amount of MP.
+HP/MP Recovery L	Restores a small amount of the target's HP and MP.
+HP/MP Recovery M	Restores a fair amount of the target's HP and MP.
+HP/MP Recovery S	Restores a large amount of the target's HP and MP.
+Tone of Strength	A strong tune increases the target's attack power. The effect lasts for 5 turns.
+Protection Tone	A gentle tune increases the target's defense power. The effect lasts for 5 turns.
+Fight Tone	A phantasmagoric tune increases the target's attack and defense power. The effect lasts 5 turns.
+Terrible Tone	A discordant cacophony damages the target's MP.
+Sits in Stomach	Food sits in the target's stomach, delaying its next turn slightly.
+Fills Stomach	The target eats until lethargic, greatly delaying its next turn.
+Gathering Signal	Gathers allies around the user.
+Disperse Signal	Spreads allies out.
+Forbidden Power	Greatly increases all the target's stats, but halves maximum HP temporarily.
+HP Regen Min	The target regenerates a minor amount of HP for the next 3 turns.
+HP Regen L	The target regenerates a small amount of HP for the next 3 turns.
+HP Regen M	The target regenerates a fair amount of HP for the next 3 turns.
+HP Regen S	The target regenerates a large amount of HP for the next 3 turns.
+HP Regen S2	The target regenerates a great amount of HP for the next 3 turns.
+HP Regen S3	The target regenerates a massive amount of HP for the next 3 turns.
+Reduce Wait	Reduces the wait after the target's next turn by a small amount.
+Reduce Wait S	Reduces the wait after the target's next turn by a fair amount.
+HP to SP	Reduces the wait after the target's next turn by a large amount.
+HP to MP	Consumes HP to restore a large amount of MP.
+Word Protect L	Reduces the amount of damage the target takes from the next attack.
+Word Protect M	Greatly reduces the amount of damage the target takes from the next attack.
+Word Protect S	Massively reduces the amount of damage the target takes from the next attack.
+Strength Boost L	Slightly increases the target's maximum HP during battle.
+Strength Boost M	Moderately increases the target's maximum HP during battle.
+Strength Boost S	Greatly increases the target's maximum HP during battle.
+Nutritious	The nutritious flavor increases all stats by a small amount.
+Nourishing	The highly nutritious flavor increases all stats.
+Warm	Warms the body, increasing water resistance.
+Cool	Cools the body, increasing fire resistance.
+MP Consume L	Consumes a small amount of MP. The effect will cause Weakness if MP is insufficient.
+MP Consume M	Consumes a fair amount of MP. The effect will cause Weakness if MP is insufficient.
+MP Consume S	Consumes a large amount of MP. The effect will cause Weakness if MP is insufficient.
+MP Consume S2	Consumes a huge amount of MP. The effect will cause Weakness if MP is insufficient.
+HP Consume S2	Consumes a massive percentage of max HP.
+ATK Power Up L	Increases the target's attack power a small amount for the next 5 turns.
+ATK Power Up M	Increases the target's attack power a fair amount for the next 5 turns.
+ATK Power Up S	Increases the target's attack power a large amount for the next 5 turns.
+Speed Up L	Increases the target's speed a small amount for the next 5 turns.
+Speed Up M	Increases the target's speed a fair amount for the next 5 turns.
+Speed Up S	Increases the target's speed a large amount for the next 5 turns.
+Defense Up L	Increases the target's defense a small amount for the next 5 turns.
+Defense Up M	Increases the target's defense a fair amount for the next 5 turns.
+Defense Up S	Increases the target's defense a large amount for the next 5 turns.
+All Stats Up L	Increases all the target's stats by a small amount for the next 5 turns.
+All Stats Up M	Increases all the target's stats by a fair amount for the next 5 turns.
+All Stats Up S	Increases all the target's stats by a large amount for the next 5 turns.
+Evasion Up L	Increases the target's dodge chance by a small amount for the next 5 turns.
+Evasion Up M	Increases the target's dodge chance by a fair amount for the next 5 turns.
+Evasion Up S	Increases the target's dodge chance by a large amount for the next 5 turns.
+Apple Healing	Draws from the hidden healing power in the apple, restoring a large amount of HP and MP.
+Apple Blessing	Offers the apple to the heavens to receive a blessing that briefly raises all stats and maximum HP.
+Apple Miracle	Experience a miracle created by the apple that will automatically revive the target when KO'd.
+Fire Res Up L	Raises the target's fire resistance by a small amount for the next 5 turns.
+Fire Res Up M	Raises the target's fire resistance by a fair amount for the next 5 turns.
+Fire Res Up S	Raises the target's fire resistance by a large amount for the next 5 turns.
+Water Res Up L	Raises the target's water resistance by a small amount for the next 5 turns.
+Water Res Up M	Raises the target's water resistance by a fair amount for the next 5 turns.
+Water Res Up S	Raises the target's water resistance by a large amount for the next 5 turns.
+Wind Res Up L	Raises the target's wind resistance by a small amount for the next 5 turns.
+Wind Res Up M	Raises the target's wind resistance by a fair amount for the next 5 turns.
+Wind Res Up S	Raises the target's wind resistance by a large amount for the next 5 turns.
+Earth Res Up L	Raises the target's earth resistance by a small amount for the next 5 turns.
+Earth Res Up M	Raises the target's earth resistance by a fair amount for the next 5 turns.
+Earth Res Up S	Raises the target's earth resistance by a large amount for the next 5 turns.
+Warrior Blessing	Raises all the target's stats for the entire battle. The effect increases against stronger foes.
+Hero's Blessing	Raises all the target's stats for the battle. The effect greatly increases against stronger foes.
+Blessing of God	Raises all the target's stats for the battle. The effect massively increases against stronger foes.
+DMG Reduction L	Slightly decreases physical damage taken by the target by a set amount.
+DMG Reduction M	Moderately decreases physical damage taken by the target by a set amount.
+DMG Reduction S	Greatly decreases physical damage taken by the target by a set amount.
+Move Time Cut L	Slightly reduces the wait time between turns, in exchange for a period of constant damage.
+Move Time Cut M	Moderately reduces the wait time between turns, in exchange for a period of constant damage.
+Move Time Cut S	Greatly reduces the wait time between turns, in exchange for a period of constant damage.
+Crit Rate Up L	Increases the target's critical chance by a small amount.
+Crit Rate Up M	Increases the target's critical chance by a fair amount.
+Crit Rate Up S	Increases the target's critical chance by a large amount.
+Crit Power Up L	Increases the target's critical bonus by a small amount.
+Crit Power Up M	Increases the target's critical bonus by a fair amount.
+Crit Power Up S	Increases the target's critical bonus by a large amount.
+Good Relics	Increases the chances of finding better relics in the field.
+Amazing Relics	Greatly increases the chances of finding better relics in the field.
+Good Material	Increases the chances of finding better materials in the field.
+Amazing Material	Greatly increases the chances of finding better materials in the field.
+Search Up	Increases the field gauge by 25%.
+Search Up S	Increases the field gauge by 50%.
+Return to Base	Use this to instantly return to the Atelier.
+Maximum HP +5	Increases maximum HP by 5.
+Maximum HP +10	Increases maximum HP by 10.
+Maximum HP +15	Increases maximum HP by 15.
+Maximum MP +5	Increases maximum MP by 5.
+Maximum MP +10	Increases maximum MP by 10.
+Maximum MP +15	Increases maximum MP by 15.
+ATK Power +2	Increases attack power by 2.
+ATK Power +4	Increases attack power by 4.
+ATK Power +6	Increases attack power by 6.
+DEF Power +3	Increases defense power by 3.
+DEF Power +6	Increases defense power by 6.
+DEF Power +9	Increases defense power by 9.
+Speed +5	Increases speed by 5.
+Speed +10	Increases speed by 10.
+Speed +15	Increases speed by 15.
+Speed +25	Increases speed by 25.
+Resonant Bell	Actions increase the gauge by an extra 10%.
+Harmonic Bell	Actions increase the gauge by an extra 25%.
+Expert Wisdom	Exchanges up to 50% of max HP and max MP.
+Sage Wisdom	Exchanges 100% of HP and MP.
+Hard Leather	Increases defense power by 6.
+Smooth Finger	Increases critical chance by 15%.
+Tailored Pelts	Increases defense power by 15, and water resistance by 20.
+Increase Dex.	Increases hit chance by 25%.
+Magic Blessing	7% of damage taken is subtracted from MP instead.
+Angel's Blessing	10% of damage taken is subtracted from MP instead.
+God's Blessing	15% of damage taken is subtracted from MP instead.
+Swift Knowledge	Reduces waiting time after using skills by 7%.
+Swift Secrets	Reduces waiting time after using skills by 10%.
+Harmony Prayer	Balances attack power, defense power, and speed.
+Strength Prayer	Transfers 15% of defense power and speed to attack power.
+Health Prayer	Transfers 15% of attack power and speed to defense power.
+Swift Prayer	Transfers 15% of attack power and defense power to speed.
+Draw out Wits	Slightly increases attack power, defense power, and speed. The bonus is greater when at higher levels.
+Overflow Wits	Moderately increases attack power, defense power, and speed. The bonus is greater when at higher levels.
+King Possession	Increases expected damage. <CR>The effect increases with level.
+Champ Possession	Increases expected damage by a fair amount. The effect increases with level.
+Strengthen Soul	Increases expected damage by a small amount. The effect increases with level.
+Slag Slayer	Always deal critical hits against Slag type monsters.
+Beast Slayer	Always deal critical hits against Beast type monsters.
+Spirit Slayer	Always deal critical hits against Spirit type monsters.
+Dragon Slayer	Always deal critical hits against Dragon type monsters.
+Forge Body	Increases maximum HP by 15.
+Forge Muscle	Increases maximum HP by 25.
+Forge Spirit	Increases maximum MP by 10.
+Forge Mind	Increases maximum MP by 20.
+Forge Mind&Body	Increases maximum HP by 20 <CR>and maximum MP by 15.
+Strength	Increases attack power by 5.
+Divine Strength	Increases attack power by 10.
+Protection	Increases defense power by 10.
+Divine Protect	Increases defense power by 20.
+Give Speed	Increases speed by 15.
+Divine Speed	Increases speed by 30.
+Draw Attention	Increases chance to be targeted during battle.
+Hard to Notice	Decreases chance to be targeted during battle.
+Silencing	Greatly increases chance of success when using the "Run" command.
+Consumes Spirit	Reduces HP by a large amount every turn.
+Healing Scent	Restores a small amount of HP every turn.
+Accel. Recovery	Restores a fair amount of HP every turn.
+Super Recovery	Restores a large amount of HP every turn.
+Talisman of Luck	Increases the chances of getting items from battle by a small amount.
+Star Talisman	Increases the chances of getting items from battle by a fair amount.
+Wealth Talisman	Increases money earned from battle by a small amount.
+Talisman of Gold	Increases money earned from battle by a fair amount.
+Scholar Talisman	Increases experience gained from battle by a small amount.
+Sage Talisman	Increases experience gained from battle by a fair amount.
+Will of Heroes	Provides a low chance of surviving a hit that would normally reduce HP to 0.
+Lineage of Kings	Increases all stats by a set amount when fighting powerful foes or higher-level foes.
+Fire Blessing	Increases fire resistance by 33.
+Water Blessing	Increases water resistance by 33.
+Wind Blessing	Increases wind resistance by 33.
+Earth Blessing	Increases earth resistance by 33.
+See Vitals	Increases critical chance by 33%.
+Relieve Ailments	Reduces chances of being afflicted with status effects by a small amount.
+Weaken Ailments	Reduces chances of being afflicted with status effects.
+Chains of Circ.	A small portion of HP damage is absorbed as MP, and vice versa.
+Power of Origin	Increases damage bonus from critical hits by 15%.
+Chains of Dest.	Increases damage bonus from critical hits by 10%.
+Power Absorption	Absorbs 10% of damage dealt into own HP.
+Skill Up L	Increases skill power by 10%.
+Skill Up M	Increases skill power by 15%.
+Skill Up S	Increases skill power by 20%.
+Attract Success	Increases chances of afflicting status ailments and other chance effects by 33%.
+Fire Attack	Deals additional fire damage during battle.
+Frost Attack	Deals additional water damage during battle.
+Thunder Attack	Deals additional wind damage during battle.
+Well Power	When HP drops below 25%, critical hit and dodge chances increase.
+Coop Strategy	Increases effectiveness of all support actions by 15%.
+Coop Secrets	Increases effectiveness of all support actions by 30%.
+Substitution	Increases effect of guard support by 50%.
+Acrobatic	Increases dodge chance by 7%.
+Illusion Phantam	Increases dodge chance by 10%.
+Evasion Up	Increases dodge chance by 15%.
+Weaken Impact	Reduces physical damage by 7%.
+Aura of Prot.	Reduces physical damage by 15%.
+Barrier Chains	Reduces physical damage by 10%.
+Immune: Poison	Immunity to poison.
+Immune: Weakness	Immunity to weakness.
+Immune: Blind	Immunity to blindness.
+Immune: KO	Immunity to instant death.
+Immune: Ailments	Immunity to all status ailments.
+Flower Awakening	Automatically revives from KO during next turn in battle. Recovered HP is small.
+Soul Awakening	Automatically revives from KO during next turn in battle. Recovered HP is fairly small.
+Awakening	Automatically revives from KO during next turn in battle. Recovered HP is fair.
+Coop Up	Increases coordination value by 10% when attacking.
+Alignment	Increases coordination value by 7% when attacking.
+Rest Efficiency	Increases MP regeneration by 50% while in the back line.
+Relaxation	Increases MP regeneration by 100% while in the back line.
+Special Attacks	Greatly increase the power of Finishing attacks.
+Legs of Earth	Halves the duration of turn-delaying effects.
+Earth Shackles	Immunity to turn-delaying effects.
+Movement Bonus	Increases support gauge by an extra 25% when taking actions.
+Protect Crystal	Reduces physical damage by 5% and slightly reduces chances of being afflicted with status ailments.
+Twilight Bless	Absorbs a portion of HP and MP damage into the opposite pool. The effect is moderate.
+Magic Stone Ray	Halves the chance of being afflicted by status ailments.
+F/Water DMG DWN	Increases fire and water resistances by 10.
+F/Water DMG Res	Increases fire and water resistances by 20.
+E/Wind DMG DWN	Increases wind and earth resistances by 10.
+E/Wind DMG Res	Increases wind and earth resistances by 20.
+Overweight	Reduces speed by 25.
+Hyper Sense	Increases hit chance by 20%, and dodge chance by 10%.
+Fists of Fire	Adds additional fire damage to attacks. Effect is small.
+Fists of Water	Adds additional water damage to attacks. Effect is small.
+Fists of Wind	Adds additional wind damage to attacks. Effect is small.
+Forged Fists	Increases attack power by 5, and increases critical hit damage bonus by 10%.
+God of War Bless	Absorbs a portion of damage dealt into HP.
+Power Blessings	Power and hit chance of attacks are increased slightly.
+Flower Blessing	Absorbs a portion of HP and MP damage into the opposite pool. The effect is very small.
+Development	Increases expected value of damage slightly. The effect increases at higher levels.
+Heated Pulse	Damage bonus for critical hits increases by 10%.
+Fast Action	Has a low chance of decreasing the wait time after turns by a slight amount.
+Quick Action	Has a fairly low chance of decreasing the wait time after turns by a slight amount.
+Beast Vitality	Increases maximum HP by 35.
+Phoenix Vitality	Increases maximum HP by 50.
+Scholar's Focus	Increases maximum MP by 25.
+Sage's Focus	Increases maximum MP by 30.
+HP Regen L	Recovers a fair amount of HP every turn.
+HP Regen M	Recovers a moderate amount of HP every turn.
+Critical Min	Increases critical chance by 5%.
+Critical L	Increases critical chance by 10%.
+Critical M	Increases critical chance by 15%.
+ATK Evasion Min	Increases dodge chance by 5%.
+ATK Evasion L	Increases dodge chance by 7%.
+Hit Up Min	Increases hit chance by 10%.
+Hit Up L	Increases hit chance by 20%.
+Hit Up M	Increases hit chance by 30%.
+Avoid KO Min	Provides a very low chance of surviving a hit that would normally reduce HP to 0.
+Avoid KO M	Provides a fairly low chance of surviving a hit that would normally reduce HP to 0.
+Avoid KO S	Provides a moderate chance of surviving a hit that would normally reduce HP to 0.
+Avoid KO S2	Provides a high chance of surviving a hit that would normally reduce HP to 0.
+Physical Min	Reduces physical damage by 5%.
+Physical L	Reduces physical damage by 7%.
+Physical M	Reduces physical damage by 10%.
+Critical Throw	Using an item has a chance of causing a critical.
+Erase Monsters	Erases all enemy symbols from the Field Map when used. This has no effect on powerful foes.
+Consecutive Act	Allows the target to take 2 turns in a row during battle, for the next 4 turns.
+Instant Action	Allows the target to take 3 turns in a row during battle, for the next 6 turns.
+Spirit Blessing	Increases fire and water resistances by 25.
+Erase Monsters	Erases all enemy symbols from the Field Map when used. This has no effect on powerful foes.

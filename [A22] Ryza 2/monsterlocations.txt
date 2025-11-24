@@ -1,0 +1,121 @@
+Blue Puni	Meeresbrise Highway
+Green Puni	Capital Outskirts	Ethereal Dragon's Coffin
+Red Puni	Maiden's Catacombs
+Flower Puni	Sunken City of Stars
+Black Puni	Southern Outskirts	Ethereal Dragon's Coffin	Flowerpatch Cape
+Silver Puni	Ancient Mana Workshop
+Gold Puni	Water Spirit's Sanctuary	Abandoned Mine Railway
+Lavender Puni	Glass Flower Forest
+Giant Weasel	Meeresbrise Highway	Schirm Marsh	Windmuhle Valley
+Bluefin	Schirm Marsh	Windmuhle Valley
+Silky Fur	Sunken City of Stars
+Scarf Bunny	Sunken City of Stars
+Night Hunter	Glass Flower Forest
+Ruined Corrupter	Mirage Land
+Hide Stalker	Mirage Land
+Loppy Ear	Mirage Land
+Flower Pixie	Meeresbrise Highway	Capital Outskirts	Ethereal Dragon's Coffin
+Illuminated Sylph	Capital Outskirts	Flowerpatch Cape
+Flower Gardener	Capital Outskirts	Flowerpatch Cape
+Zephyr Pixie	Ancient Mana Workshop
+Eternal Guardian	Southern Outskirts	Ancient Mana Workshop
+Blazing Maiden	Mirage Land
+Hallowed Spirit	Mirage Land
+Plumed Lorelei	Mirage Land
+Nightmare Spirit	Ethereal Dragon's Coffin	Maiden's Catacombs
+Stone Golem	Schirm Marsh	Windmuhle Valley
+Rock Puppet	Maiden's Catacombs
+Jewel Guard	Maiden's Catacombs
+Fairystone Puppet	Southern Outskirts	Maiden's Catacombs
+Metal Golem	Southern Outskirts
+Meteorite Doll	Southern Outskirts	Water Spirit's Sanctuary
+Earth Master	Water Spirit's Sanctuary
+Rusty Onyx	Southern Outskirts
+Darkomaton	Ancient Mana Workshop
+Horned Sheep	Meeresbrise Highway	Capital Outskirts	Ethereal Dragon's Coffin
+Ashen Wool	Capital Outskirts	Ethereal Dragon's Coffin
+Fluffy Sheep	Glass Flower Forest	Mirage Land
+Dreamcatcher	Mirage Land
+Mindlurker	Maiden's Catacombs
+Living Armor	Maiden's Catacombs
+Ghost Armor	Maiden's Catacombs
+Honor Guard Armor	Ancient Mana Workshop
+Gladiator	Ancient Mana Workshop
+Legendary Warrior	Dragonbone Valley
+Immortal Knight	Ethereal Dragon's Coffin	Dragonbone Valley
+Royal Admiral	Dragonbone Valley
+Demonic Phantom	Ethereal Dragon's Coffin	Ancient Mana Workshop
+Stinger	Ethereal Dragon's Coffin
+Sharpened Scissors	Ethereal Dragon's Coffin
+Pile Bunker	Ethereal Dragon's Coffin
+Parching Demon	Ethereal Dragon's Coffin
+Dark Scout	Ethereal Dragon's Coffin
+Spine Rat	Ethereal Dragon's Coffin
+Ogre Head	Ethereal Dragon's Coffin
+Shadow Vanguard	Ethereal Dragon's Coffin
+Thrust Hedge	Ethereal Dragon's Coffin
+Shadow Eater	Ethereal Dragon's Coffin
+Legion Needle	Ethereal Dragon's Coffin
+Mini Wyvern	Schirm Marsh	Windmuhle Valley
+Zephyr Feather	Windmuhle Valley
+Evil Orchis	Sunken City of Stars
+Stout Drake	Sunken City of Stars
+Mach Hawk	Northern Lands	Abandoned Mine Railway
+Watcher	Northern Lands
+Draconic Lord	Northern Lands	Dragonbone Valley
+Giant Maw	Dragonbone Valley
+Landbound Dragon	Sunken City of Stars
+Sprinting Bird	Capital Outskirts
+Massive Beak	Capital Outskirts	Abandoned Mine Railway
+Albatross	Northern Lands	Abandoned Mine Railway
+Wild Crest	Northern Lands
+Twilight Songbird	Dragonbone Valley
+Living Armor	Maiden's Catacombs
+Big Puni	Meeresbrise Highway
+Shining Puni	Water Spirit's Sanctuary
+Rafflesia Puni	Glass Flower Forest
+Mother Weasel	Schirm Marsh
+Savage Assassin	Mirage Land
+Hex Rabbit	Mirage Land
+Elder Fairy	Capital Outskirts
+Mirage Master	Mirage Land
+Lunaria Angel	Ancient Mana Workshop
+Schwarzwraith	Ethereal Dragon's Coffin	Mirage Land
+Colossus Golem	Southern Outskirts
+Eternal Sculpture	Water Spirit's Sanctuary
+Boulder Soldier	Southern Outskirts
+Noir Doll	Mirage Land
+Giant Sheep	Capital Outskirts
+Mad Beast	Mirage Land
+Heavy Warrior Armor	Maiden's Catacombs
+Noble Paladin	Dragonbone Valley
+Great Guardian	Ancient Mana Workshop
+Berserker Shadow	Ethereal Dragon's Coffin	Dragonbone Valley
+Mega Wyvern	Windmuhle Valley
+King of Storms	Dragonbone Valley
+Cloud Liner	Flowerpatch Cape
+Cursed Wing	Ancient Mana Workshop
+Overwhelming Bird	Northern Lands
+Lifeless Shadow	Dragonbone Valley
+Hide Shark	Sunken City of Stars
+Megamouth	Southern Outskirts	Sunken City of Stars
+Spinal Fin	Northern Lands
+Grand Tusk	Dragonbone Valley
+Sandstorm Tyrant	Northern Lands	Dragonbone Valley
+Desert Lagoon	Dragonbone Valley
+Mind Ravager	Sunken City of Stars
+Dark General	Ethereal Dragon's Coffin
+Cluster Beetle	Ethereal Dragon's Coffin
+Shadow Commander	Ethereal Dragon's Coffin
+Horned Demon	Ethereal Dragon's Coffin
+Rhino Fiend	Ethereal Dragon's Coffin
+Rhino Fiend	Ethereal Dragon's Coffin
+Mirage Lizard	Mirage Land
+Elegant Spirit Beast	Maiden's Catacombs
+Phantom Tail	Mirage Land
+Colossus Soldier	Ancient Mana Workshop
+Huge Phalanx	Dragonbone Valley
+Last Sentinel	Ethereal Dragon's Coffin
+Legendary Monarch	Ethereal Dragon's Coffin
+Mirage Lizard	Mirage Land
+Elegant Spirit Beast	Maiden's Catacombs

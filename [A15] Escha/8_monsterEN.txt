@@ -1,0 +1,126 @@
+Poison Squirrel	A rat that throws a piece of poisonous tree fruit at enemies.	Animal
+Bitter Squirrel	A rodent that holds a hardened fruit in its tail, which it hides behind.	Animal
+Golden Rat	A rodent that holds a golden fruit in its tail. It is an endangered breed.	Animal
+Alchemy Rat	A rodent kept by alchemists in the past. Much smarter than most vermin.	Animal
+Stray Dog	A wild canine that travels in packs. A serious threat to the unwary.	Beast
+Flesh Eater	A wild canine always on the hunt for fresh meat.	Beast
+Howling Beast	A dark, ferocious canine. It uses its dark fur to hunt at night.	Beast
+Heavy Skin	A ferocious wild bear, known for its favorite food: tubers.	Beast
+Steel Skin	A giant, ferocious bear. Its gray claws are as hard and sharp as iron.	Beast
+Red Skin	A red-tinged wild boar. It is quite speedy, despite appearances.	Beast
+Fairydrake	A large lizard with brightly colored wings. It is highly territorial.	Dragon
+Scorching Dragon	A large lizard from a harsh environment. Its flame breath resembles a dragon.	Dragon
+Compact Dragon	A large, jet-black lizard. They say these grow up to become dragons.	Dragon
+Mini-Slag	A small creature seen in ruins. Some reports say these maintain the ruins.	Slag
+Nano-Slag	A smaller-than-average Slag. They drive out people who deface ruins.	Slag
+Pico-Slag	A very small Slag. It is much more powerful than its size suggests.	Slag
+Carrier	A large, armed Slag. It's very strong, and is sometimes seen hauling debris.	Slag
+Tracker	A large, aggressive Slag. It is very strong and has tough internal structure.	Slag
+Porter	A large black Slag. It's found around important areas, as if it was a guard.	Slag
+Guard	A wandering Slag that is apparently able to detect people far away.	Slag
+Watchman	This patrolling Slag is very aggressive and sound an alarm as it attacks.	Slag
+Officer	A brutal Slag that indiscriminately attacks any humans it finds.	Slag
+Mirage Element	A mysterious spirit with an eerie aura. It seems to be trying to speak.	Elemental
+Yellow Element	A spirit that appears out of the mists, to lure people into the fog.	Elemental
+Deep Woods Spirit	A spirit said to inhabit ancient forests. It tries to chase away humans.	Elemental
+Tank	A very large Slag. It doesn't move much, but attacks relentlessly.	Rare Slag
+Panzer	A large Slag that guards the underground palace. It boasts overwhelming stamina.	Rare Slag
+Dragoon	A giant, flying Slag. It lives in important Ruins, and attacks all humans.	Rare Slag
+Wild Dragon	A young, irritable dragon. Their numbers have been dwindling.	Dragon
+Sura Dragon	One of a pair of giant dragons. They don't get along well.	Dragon
+Rakshasa Dragon	One of a pair of dragons. They usually stay apart, but share a nest.	Dragon
+Grand Dragon	The King of Beasts. A dangerous monster that can fly and breathe flames.	Dragon
+Galtessen	A dragon that subsists on a strange diet of metal.	Dragon
+Lord of Fire	A powerful fire spirit. It was widely worshiped by more primitive man.	Alchemic
+Ore Rat	A rodent with a thick mineral coat. It attacks by rolling into a ball.	Animal
+Amethyst Rat	A rodent with a thick mineral coat. Some of these minerals are gems!	Animal
+Lava Rat	A rodent coated with hardened lava. It is still very hot, though.	Animal
+Diamond Rat	A rodent covered with rare minerals. Its skin is worth a lot, but it bites.	Animal
+Green Spirit	A troublesome spirit that resides in plants. It loves to play pranks.	Elemental
+Blue Spirit	Despite this spirit's beautiful coloration, it is quite wicked.	Elemental
+Red Spirit	A burning red spirit that is extremely angry for some reason.	Elemental
+Yellow Spirit	An ephemeral spirit that shows no desire to mingle with humans.	Elemental
+Fake Ruin	A box-shaped Slag. Its shape can change when it is provoked.	Slag
+Bad Treasure	A Slag that lies in wait for those who attempt to survey the ruins.	Slag
+Black Box	Little is known about this Slag, though it does react to humans...	Slag
+Pandora	A powerful boxy Slag filled with every possible misfortune.	Slag
+Scissor Beast	A monster with scythelike arms. They slice their prey with claws.	Beast
+Fell Sickle	A monster with scythelike arms. They will purposely attack humans.	Beast
+Flame Scythe	A monster with scythelike arms. Their harsh areas make them ruthless.	Beast
+Death Scissor	A rare monster in the remotest areas of the frontier. Its claws are horrific.	Beast
+Flatfish	A large, floating Slag. It swims through the air to attack with its tail.	Slag
+Flounder	A floating Slag that is larger than the normal ones. It's stronger, as well.	Slag
+Emerald Ray	A brightly-colored Slag that launches spikes from its tail.	Slag
+Fatal Flat	A very large Slag that seems to guard important areas in ruins without mercy.	Slag
+Frigate	An enormous Slag from deep in a ruins. It suddenly awakened as though drawn to a voice.	Rare Slag
+Dreadnought	An enormous humanoid slag. It had chased many adventures away up until now.	Rare Slag
+Rampage Beast	An extremely fierce monster. It attacks traveling merchants in search of food.	Beast
+Child of Terror	A ferocious monster in remote areas. It spreads destruction wherever it goes.	Beast
+Altegewalt	An unfathomably old elder dragon. It has gone so far as to learn human speech.	Dragon
+Overlord	It was once a powerful dragon king, but was sealed by a being of overwhelming power.	Dragon
+Gullveig	A strange behemoth guarding the Unexplored Ruins. Itobeys Flameu.	Alchemic
+Regalveig	The ultimate lifeform, created through alchemy. It was sealed by a powerful being.	Alchemic
+Flameu	A mysterious girl who was sleeping deep in the ruins.	Alchemic
+Savage Returner	A small creature that appears in ruins. Rumor says they make repairs.	Slag
+Red Fang Returner	A smaller-than-normal Slag. It has a fierce look.	Slag
+Underworld Returner	A very small Slag that seems to have the ability to make repairs to ruins.	Slag
+Mutant Breaker	A large Slag with arms. It's much stronger than a normal Breaker.	Slag
+Regen Breaker	An enormous, aggressive Slag. It's said to be able to heal quickly.	Slag
+Bloody Breaker	A Slag with giant arms, spattered with the blood of its past victims.	Slag
+Amazing Breaker	A Slag with more power than anyone's wildest imagination.Luckily, it's rare.	Slag
+Devouring Eye	A Slag that can track down its prey no matter where they hide in the ruins.	Slag
+Rampaging Eye	A patrolling Slag that repels intruders to the Ruins.	Slag
+Ultimate Eye	A speedy Slag that patrols ruins for interlopers.	Slag
+Hidden Cube	A boxlike Slag that blends into the shadows and attacks the foolish.	Slag
+Regen Cube	A boxy Slag that is extremely tough and durable.	Slag
+Ultimate Cube	A sinister, boxlike Slag that attacks the moment it is touched.	Slag
+Mutant Cube	A box-shaped Slag that is more powerful than most. How is it so strong?	Slag
+Blue Sky Monster	A large fishlike Slag that floats. It attacks with sharp claws.	Rare Slag
+Dark Sky Monster	A giant Slag that lives in deep places where humans seldom tread.	Rare Slag
+Spirit Sky Monster	A giant Slag that swims through the sky. It is a mighty being full of power.	Rare Slag
+Mutant Sky Monster	A very large Slag with the ability to fly out of nowhere to attack.	Rare Slag
+Red Fang Titan	A supermassive Slag. It can't move much, but is deadly within its attack range.	Rare Slag
+Underworld Titan	A supermassive Slag that is as just as strong as it appears.	Rare Slag
+Slayer Titan	A supermassive Slag that is rightly feared for its godlike power.	Rare Slag
+Blood Saber	A demonlike Slag that flies through the air. Many have died in its claws.	Rare Slag
+Blue Fang Saber	A Slag that takes the form of a giant demon. It attacks with pale blue fangs.	Rare Slag
+Mutant Saber	A demonlike Slag. It's powerful, even among its kind, and is highly dangerous.	Rare Slag
+Spirit Golem	A giant humanoid Slag with an aura of power like that of a malevolent god.	Rare Slag
+Crimson Silver Wolf	The leader of a wolf pack. Its fangs are enough to make tough explorers tremble.	Beast
+Alpha Silver Wolf	A king among kings, leader among pack leaders. 	Beast
+Manic Silver Wolf	A wolf that is a legend among wolves. It may not even be a wolf at all...	Beast
+Hungry Beast King	A wild bear that rampages in any environment. It ignores weak hits.	Beast
+Bloody Beast King	A giant wild bear with fur stained with the blood of its prey.	Beast
+Manic Beast King	A wild bear that stands above the rest. It's a quick and powerful foe.	Beast
+Diabolic Beast King	The mythic king of bears. Its existence is only hinted at in stories.	Beast
+Hidden Death Bug	A monster that blends into shadows and uses sharp scythes from ambush.	Beast
+Ultimate Death Bug	This fearsome monster is said to be unstoppably fast.	Beast
+Great Death Bug	A monster with sharp scythes. It shouldn't belong in the insect kingdom.	Beast
+Spirit Death Bug	A ferocious monster with razor scythes and an aura of power.	Beast
+Bloody Demon Beast	An unbelievably powerful monster that bathes in its victims' blood.	Beast
+Dark Demon Beast	A giant monster that lives in darkness other monsters cannot stand.	Beast
+Slayer Demon Beast	A legendary monster that is said to have devoured a god.	Beast
+Ravenous Rat	A rat holding a tree-fruit in its tail, mutated into a fierce creature.	Animal
+Regen Rat	A fierce rat that can almost immediately heal any damage it receives.	Animal
+Red Fanged Rat	A carnivorous monster among rats with sharp, red fangs.	Animal
+Mad Steel Beast	A brutal rat that rolls around and crushes all in its path.	Animal
+Hungry Steel Beast	A rat whose body is coated in metal. They say it eats dirt to survive.	Animal
+Manic Steel Beast	Despite its weak appearance, this monster is horribly strong. Fear it.	Animal
+Mutant Steel Beast	This rat species comes from a different time and place.	Animal
+Mutant Gaia	A spirit with enough power to blot out the stars. It lives in total darkness.	Elemental
+Ultimate Gaia	A spirit of darkness, capable of moving at nearly invisible speeds.	Elemental
+Hidden Gaia	A dark spirit that lives in chaos. It has extremely high magical power.	Elemental
+Mutant Spirit	A spirit that dwells among plants. It has evolved to perform powerful magic.	Elemental
+Hidden Spirit	This evil spirit hides in plants and attempts to harm passers-by.	Elemental
+Ultimate Spirit	A spirit that lives near extremely old trees. It has very powerful magic.	Elemental
+Underworld Spirit	An exceptionally powerful spirit that lives among plants.	Elemental
+Mutant Lizardwing	A large winged lizard that has evolved to fly very fast.	Dragon
+Regen Lizardwing	A monster that can regenerate from any wounds, similar to a lizard's tail.	Dragon
+Dark Lizardwing	A fearsome winged lizard that's mostly deep underground. It is very dangerous.	Dragon
+Blue Elder Dragon	A giant dragon, a king among beasts. An ancient being with polished fangs.	Dragon
+Dark Elder Dragon	A giant dragon, said to have lived for over a century.	Dragon
+Demon Elder Dragon	A giant dragon, said to be more powerful than gods. All who see it despair.	Dragon
+Ancient Beast King	Descendant of a race that once ruled the underworld. Their glory has passed, and they await their demise.	Beast
+Thirsty Water God	A Controller that guarded the region's water source for many years. The Dusk took its mind.	Dragon
+Cursed Saber	An aerial Slag that exceeds all bounds, created with alchemy in the past. It contains forbidden powers.	Rare Slag
+Rogue Guardian	A monster resembling a great tree guarding ruins. It was created to destroy life, not to protect it.	Plant

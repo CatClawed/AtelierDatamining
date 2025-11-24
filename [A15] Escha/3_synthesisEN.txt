@@ -1,0 +1,114 @@
+Cardboard	Layers of paper pressed into a board. It's very strong, for paper.
+Iron Clay	Hard, heavy clay mixed with iron. Touching it makes your hands filthy.
+Black Powder	Powder that burns quickly near flame. Too much of it will explode.
+Freezing Gas	A chilly gas that freezes things if enough is sprayed on it.
+Spray	A container of compressed air that can explode if mishandled.
+Wood Chips	Various bits and bobs of wood, used for many things.
+Iron Plate	A sheet of metal. There's nothing remarkable about it, but is useful.
+Cloth Scraps	Scraps of cloth. Each piece is small, but there are a lot of them.
+Mystery Lantern	A lantern holding a fairy's shining tail. It reveals hidden items.
+Plant Nutrients	If you place this in the ground near a plant, it will grow very quickly.
+Dowsing Rod	If you use this while out, you may find better quality items.
+Beast King Relief	A relief of the king of beasts. A mere glance causes the weak to flee.
+Heavenly Spirits	Hold this up and wave it about to instantly be returned home.
+Mixed Lubricant	Specialized lubrication oil, used when fitting metal together.
+Preserved Tablet	A tablet that can keep raw foods from rotting when placed nearby.
+Crystal Ball	A polished crystal ball. It's used to make tools with magical power.
+Purple Crystal	A purple crystal that is oddly mesmerizing. This color is rare.
+Yellow Crystal	A rounded yellow gem. A lot of effort went into making it.
+Green Crystal	A gem with a deep, swampy green color. The color indicates quality.
+Comet Crest Stone	A stone said to bring grave misfortune, but it's harmless.
+Ancient Scroll	An old scroll said to have words of wisdom, but it's too old to read.
+Reverent Incense	Incense monsters dislike. It's possible to make a safe area by using it.
+Capacitive Paper	Paper that contains electrical power. The power is released by rubbing it.
+Burning Gas	Gas that burns when mixed with air. It must be kept sealed tight.
+Sun Flower	A blood-red stone that shines brightly. It has strong power.
+Purifying Liquid	Magical purifying liquid. It is powerful enough to cause damage, too.
+Precious Stone	A stone considered valuable. Gems can often be recovered from the interior.
+Bi-color Corundum	A hard gem of two different colors. It's difficult to work with.
+Polarized Gem	A gem that shines with many colors. This effect goes away if polished.
+Abrasive	This powder is rubbed on things to polish them.
+Gold Dust	A fine golden powder; some of it is real gold and some just yellow.
+Multi-patch	Cloth used for just about anything.
+Five Grain Flour	Powder made from ground wheat, tubers, and other plants.
+Ziegel Nugget	A soft, easily workable metal that hardens when heated.
+Natural Extract	Extracts from a variety of plants. The odor is indescribable.
+Moon Tablet	A stone tablet containing the magic of moonlight.
+Distilled Water	Water distilled to absolute purity. It has neither taste nor scent.
+Allgemein Board	Treated plywood that does not rot. It's strong and useful.
+Magic Fiber	Strong thread that cannot be cut easily. It moves about on its own.
+Automatic Drive	An axle that rotates by itself. Attach other parts to gain power.
+Zettel	Handmade paper made from plants. It still has some of the colors...
+Leather	Material made from animal hides and oil, used to make leather goods.
+Powdered Glass	Tiny bits of powdered glass. It can be used, or melted down.
+Handmade Pottery	Handmade pottery. Each piece has a different shape, but unique charm.
+Pressed Oil	Natural oil extracted from plants. The color and odor can vary.
+Glass Rod	Transparent rods made of glass, used as stirring tools or remelted.
+Dried Herbs	Dried leaves that can be used as seasoning or in potpourri.
+Honey	Honey harvested from beehives. This sweet food is used in Colseit.
+Strong Yarn	Strong wooly thread made from bundling up many strands.
+Fluffy Whip	Whipped cream as soft as the downy fuzz on an unshaven baby.
+Melty Metal	A soft metal that is easier to work with than most other metals.
+Polished Crystal	A raw crystal, polished until you can see your face in it.
+Medical Solution	A concentrated medical fusion. Extracting it could be potent.
+Neutralizer-R	A red chemical used to stabilize highly reactive Synthesis.
+Neutralizer-B	A blue chemical used to stabilize highly reactive Synthesis.
+Neutralizer-G	A green chemical used to stabilize highly reactive Synthesis.
+Neutralizer-Y	A yellow chemical used to stabilize highly reactive Synthesis.
+Windmill Parts	Spare parts needed to repair a damaged windmill.
+Flight Gas Jar	A mysterious urn that constantly emits buoyant gas, used on airships.
+Spirit Gem	A beautiful gem offered to powerful spirits in the past.
+3rd Gen Engine	A great power created through high-level alchemy.
+Slumber Incense	An incense said to put weak dragons to sleep. Stronger dragons will flee.
+Einzel Steel	An extremely pure rare metal. It can reinforce an airship's hull.
+Purify Bottle	A small bottle that contains much more water than it would appear to.
+Fertilizer	Healthy, nutrient-rich soil. A plant raised in this will be very good.
+Canned Food	A lightweight can used for food preservation.
+Burning Spice	An extremely spicy seasoning prized in the north and feared elsewhere.
+Flowing Metal	An extremely rare metal that is liquid at room temperature.
+Apple Jam	Jam made from simmered apples. It's very sweet!
+Heart of Flame	An item that draws energy from the body. Wearing it makes one reckless.
+Concealing Skin	A hood that changes color to match its surroundings.
+Angel Ribbon	A special ribbon that soaks up magic power from its surroundings.
+Glorious Note	A charm with the power to take things from the enemy. Be careful.
+Spirit Garland	A garland made with a variety of puissant flowers.
+Seven Star Medal	A medal with 7 big stars. It's said to gather 7 types of power for you.
+Treasure Grimoire	Required reading for any would-be treasure hunter.
+Gunade Ring	A metal ring crafted out of numerous mysterious parts.
+Beast Earmuffs	Fuzzy earmuffs. It greatly reduces sound from the surroundings.
+Exceed Belt	A leather belt that puts pressure on the body, keeping it strong.
+Phoenix Bracelet	Simply wearing this bracelet fills the body with strength.
+Soul Binder	A chain said to bind the spirit. It doesn't really do that, though.
+Glass Tiara	A glass headdress. It's very classy, but fragile as a hat made of glass.
+Feather Ornament	A stylish ornament made with a large feather. It can be used many places.
+Leather Gloves	Strong gloves made from animal pelts. They're warm and look snazzy, too.
+Blessed Ring	A ring blessed with strength. It's unknown who blessed it.
+Dusk Talisman	A talisman made from the shiniest parts of an Aurora Stone.
+Magic Stone	A charm bracelet made of many tiny magical rocks chained together.
+Crystal Ring	A transparent ring carved from crystal. It's always cool.
+Aroma Pouch	A pouch filled with fragrant herbs. The smell drives foes away.
+Royal Crest	The crest used by a royal family who used to live in the region.
+Dark Night Cape	A jet-black cape that covers the whole body. It's quite stealthy.
+Acrobatic Armor	Lightweight shoes that grip the ground well.
+Tarot of Fate	Highly accurate fortune-telling cards. You may regret using them.
+Brother Call	A pair of bells. When one rings, so does the other.
+Hand-Wound Thread	Woven string spun from many types of thread. Thick and lumpy but warm.
+Colseit Fiber	Thin thread commonly used in Colseit.
+White Neutralizer	A white chemical used to neutralize difficult Syntheses.
+Black Neutralizer	A black chemical used to neutralize difficult Syntheses.
+SP Neutralizer	A neutralizing liquid filled with small reflective particles.
+White Powder	White powder that explodes when misused. It's also rather tasty.
+Rainbow Powder	Flammable powder filled with random colors. It can be used for medicine.
+Metal Chips	A scrap of hard metal. It can be melted down, among other things.
+Golt Board	A metal plate with a golden glow. Many people want it just for that.
+Various Scraps	A number of cloth scraps, without much else to them.
+Ancient Water	The same water that was taken from the undisturbed lake.
+Fire Lord Tears	Flammable water. Some say it was blessed by the Fire Lord.
+Aroma Materia	A special catalyst used in advanced alchemy. It can be mixed and melted.
+Fried Paper	Thin paper, soaked in oil and lightly toasted. It can be used as wrapping.
+Gold Thread	A gold-colored thread brought to this region long ago by nomads.
+Primo. Medicine	An unknown formula that was used as a basis for medicine since long ago.
+Med Foundation	This medicine base can also be used to create seasonings or oil.
+Old Stone	An ancient stone. It has metallic properties, but hasn't eroded.
+Ether Cloth	A large piece of cloth that saw use in the past age. It's very strong.
+Elaborate Screw	A hard screw made through a special manufacturing process.

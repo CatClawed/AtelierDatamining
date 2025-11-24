@@ -1,0 +1,64 @@
+Escha's Book	A book of alchemy that Escha inherited from her mother. It contains the basics of synthesis.
+Let's Make A Bomb	A book with detailed diagrams and descriptions for building bombs.
+Cook Book	A cookbook containing basic recipes that even a bachelor ought to be able to prepare.
+Newlywed	A how-to book with advice for many problems that newlywed brides may encounter.
+Lost Ice	A book containing a mountain climber's notes concerning a snowy mountain said to exist long ago. He never found it.
+Colseit's History	A history book that has records of events in Colseit ever since its founding as a small farming village.
+A Healthy Home	A book brimming with healthy tips for those who seek to live a long life.
+Shiny Zappy	A picture-book about shiny and buzzy items. It seems aimed towards children.
+A Potter's Life	A chronicle written by a potter about his life's work.
+Anatomy	A scholarly thesis detailing studies of human anatomy.
+Fortune Teller	The journal of a fortune-teller who traveled to many lands. It contains information about a variety of divination tools.
+Walking Twilight	A survivor's guide for travelers journeying through sparse lands. It seems to have sold quite well.
+Theory of Relics	A scientific document detailing the newest theses in Central, concerning relics from past ages and new advances in tools.
+Style Magazine	An ancient fashion magazine. While its exact age is unknown, this particular issue seems to focus on haberdashery.
+Recycling Manual	This booklet describes procedures for making use of waste materials.
+Lost Kingdom	A book detailing the lives of citizens in an ancient, kingdom. The country described here no longer exists.
+Great Gardener	The diary of a gardener working for a wealthy man, who faithfully chronicled his daily life.
+Searing Men	A sweat-stained documentary that talks about the lives of men working in a fiery place.
+Tales of Lucard	The biography of the famed adventurer Viscount Lucard, who met an unfortunate end due to an accident deep in a forest.
+Panacea of Gods	A recipe for effective medicine said to have been created by the gods. The true technology has been lost long ago.
+Lady Mauselle	A suggestive book about a lady whose life was mostly devoted to a multitude of schemes and affairs.
+Emblem Catalog	A catalog of the flags and emblems of various lands. It's a fun read.
+Golden Fleece	A book revealing secrets of advanced alchemy. The technical jargon and cryptic phrases are beyond most people's ken.
+The Land of Dawn	A book written in an age when the world was still full of life and energy. It's a far cry from the world today.
+Time & Life	A secret tome that describes using advanced alchemy to manipulate the very flow of time itself.
+The Billionaire	An autobiography written by a man who amassed a great fortune in his lifetime. It's rather dull and full of boasting.
+A Forgotten Tale	A tattered, weathered book. Nobody knows when, where, of by whom it was written.
+Third Twilight	This book tells a legend of how the world will end, as well as a record of the very tools that could bring it about.
+From the Wild	An epic tale by Harry Olsen, about his life's work. A magnificent story of adventure.
+Dog-Eared Book	A book with a tattered cover. It depicts the methods used to manufacture mysterious floating objects.
+Engine Blueprints	The blueprints to an airship engine. This plan is a remnant of advanced technology.
+Common Weapons	A book touching on weapons seen in Colseit, as well as their construction.
+Forged Weapons	An old book about famous weapons used in ancient battles, as well as ways to reproduce them.
+Rare Weapons	An encyclopÃ¦dia of weapons from various parts of the world. There aren't many illustrations, however.
+Legendary Weapons	A reference book of weapons, with specific details for those of overwhelming strength and utility.
+Mythical Weapons	A book that describes weapons that have some question as to whether they actually existed. Is it possible to make them...?
+Common Armor	A book touching on types of armor seen in Colseit, as well as their construction.
+Forged Armor	A book detailing the production of excellent armor that has saved countless lives over the years.
+Rare Armor	An old reference book that shows armor styles with unusual designs or characteristics.
+Legendary Armor	A reference book depicting armor said to be so strong that it cannot even be scratched.
+Mythical Armor	A reference book describing armor that may not have ever existed. Part of a set, with a matching weapon reference book.
+Craft Secrets	It contains information on how to more efficiently store shrapnel within a Craft.
+Brutal Bombs	It describes a method for improving the explosive output of a bomb.
+Freezing ammo	It details a technique for creating a more effective Ice Bomb.
+Electrical Stones	A book devoted to increasing the power output of Lightning Bombs, making them into true weapons.
+Windmill Parts	Blueprints for the type of windmills built in Colseit. It goes into great detail on the various components.
+Prevent Medicine	A list of techniques for preventing the spread of disease.
+Oath of Eden	This document describes items said to have been given to humanity by the gods after a sacred oath was made.
+New Century	A historical document describing how humanity survived a Dusk age in the past.
+Element Core	A note written by magicians of ancient times, about secret art to create crystals to be offered to spirits.
+Dragon Repellant	A note passed down by hunters from long ago that describes how to make a dragon-repelling incense.
+Hard Metal	A recipe with a detailed analysis of rare metals found in the Dragon's Nest.
+Drought Supplies	A memo listing the necessities of villages whose water supply has dried up. Water transport requires various schemes.
+SP Fertilizer	A memo written by Clone that describes methods for creating highly effective fertilizer.
+Emergency Rations	A manifest prepared by Marion for expeditions into the Unknown Ruins.
+Secret Spice Memo	A scribbled memo from Reyfer that describes how to create a special seasoning from the north that chills the entire body.
+Impromptu Recipe	A recipe thought up by Logy after reading a strange book.
+How to Make Jam	This describes how to make sweet jam out of apples and other items.
+A Pile of Sweets	A list of recipes for an unbelievable number of sweets.
+Escha's Book	A book of alchemy that Escha inherited from her mother. It contains the basics of synthesis.
+Let's Make A Bomb	A book with detailed diagrams and descriptions for building bombs.
+˜á	A book with detailed diagrams and descriptions for building bombs.
+	A book with detailed diagrams and descriptions for building bombs.
+	ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿh Eater

@@ -1,0 +1,75 @@
+Traditional Staff	A common staff from Colseit with a little visual flair.
+Golden Wing Staff	A staff with golden wings. It looks great, but it's just a staff.
+Feather Staff	A large, stylish staff adorned with large feathers.
+Sky Alchemy Staff	A staff rumored to carry its wielder into the sky, a dream of many.
+Lifetree Staff	A mysterious staff with a plant's life force. It heals when broken.
+Phantom Saber	An alchemic sword designed in Central City. It draws on power.
+Glass Shaker	An alchemic sword with a shining edge. It is strong but not as useful.
+Black Wing Veil	An alchemic sword that is lighter than it appears.
+Crystal Fang	A highly efficient alchemic sword with crystal parts.
+Proto Phantom	The pinnacle of alchemic sword technology, strong and reliable.
+Sledge Head	Awin's favorite hammer, with a huge lump of metal on the end.
+Graviton Gale	An extremely heavy hammer. It's difficult to use.
+Mjolnir	A remodeled hammer with internal mechanisms for extra oomph.
+Soul Breaker	A remade hammer that can crush anything, but with no safeties.
+Brave Bunker	Wielding this wholly hazardous hammer is a test of courage.
+Ruby Talisman	An earring with a red gem. Some sort of technology is trapped within it.
+Aqua Talisman	An earring with a red gem. Some sort of technology is trapped within it.
+Magic Talisman	Ancient knowledge is hidden within the construction of this earring.
+Wind Talisman	Ancient knowledge is hidden within the construction of this earring.
+Holy Talisman	A legend says that those who wear this earring are aided by the wind.
+Scattershot	A large break-loading gun<CR>that can fire special<CR>ammunition.
+Silver Arm	A gun that loads one round at a time. It takes time to charge up.
+Red Starter	A gun that loads one round at a time. It takes time to charge up.
+Goltriat	A gun that loads one round at a time. It takes time to charge up.
+White Feather 9	The only safe place to stand when this gun goes off is behind it.
+Explorer's Pack	The only safe place to stand when this gun goes off is behind it.
+Medical Bag	A functional bag for medical<CR>supplies. It has a large<CR>capacity.
+Teak Basket	A large bag with cute ornaments. It has many pockets for easy access.
+Dark Angel Bag	A large bag with cute ornaments. It has many pockets for easy access.
+Traveling Doctor	A bag designed for doctors who need to perform the latest treatments.
+Great Blade	A rough and tough iron longsword. The weight is more that most can use.
+Cleaver	A giant, unwieldy sword that can cut the flesh of the hardiest beasts.
+Boneshatter	A giant, unwieldy sword that can cut the flesh of the hardiest beasts.
+Slaying Blade	An unconventional sword used<CR>for slaying monsters.
+Humming Quasar	An unconventional sword used<CR>for slaying monsters.
+Magician's Broom	A broom with traditional ornaments that magicians use. The broom is normal.
+Precision Broom	A broom black as the darkest night. It swells with power depending on the user.
+Meteor Broom	The epitome of the broom-maker's art. It's also quite a comfortable ride.
+Inspector's blade	This thin sword is purely ceremonial, but can be used in combat in a pinch.
+Cross Rapier	This thin sword is purely ceremonial, but can be used in combat in a pinch.
+Peerless Sabre	A pair or rapiers light enough for a child, balanced for dual-wielding.
+Service Stick	A slick, stylish cane. It can take much more abuse than it seems.
+Mystery Stick	A slick, stylish cane. It can take much more abuse than it seems.
+Fantasy Stick	A cane with gears along its length. It appears to have been reinforced.
+Light Ladle	A cane with gears along its length. It appears to have been reinforced.
+Metal Turner	A turner made of metal. It's quite painful when you're hit by the flat part.
+Single Mixer	A turner made of metal. It's quite painful when you're hit by the flat part.
+Cotton Shirt	A turner made of metal. It's quite painful when you're hit by the flat part.
+Sturdy Shirt	A shirt made of durable<CR>material, for those who work<CR>outdoors.
+Knitted Shirt	A thick woolen shirt. It's<CR>warm in winter, but a little<CR>heavy.
+Stylish Shirt	An eye-searingly colorful shirt. Some people think it fashionable.
+Leather Shirt	An eye-searingly colorful shirt. Some people think it fashionable.
+Fur Shirt	A shirt of brushed leather. It's warm, but rather uncomfortable.
+Chain Shirt	A shirt made of fine metal links. You don't want it against your skin.
+Rainbow Shirt	A shirt made of fine metal links. You don't want it against your skin.
+Combat Shirt	Functional clothes with lots of pockets, for ease of use in battle.
+Gold Thread Shirt	A shirt made with valuable gold thread. Nothing else says “style”!
+Celestial Shirt	A shirt made with valuable gold thread. Nothing else says “style”!
+Chest Plate	This protects the chest from fatal wounds, and is easy to move in.
+Alloy Plate	Armor made from low-quality metal. It's heavy and difficult to wear.
+Bone Plate	Armor made from animal bones. The front looks like a spooky face.
+Magic Plate	Armor made from animal bones. The front looks like a spooky face.
+Crystal Plate	Armor studded with crystals. It has low durability, but magical power.
+Jewel Plate	Armor with magic gems set into it. The gems grant the wearer power.
+Ebony Plate	Armor made from extremely hard wood. It's lighter than metal armor.
+Scale Plate	Armor made from extremely hard wood. It's lighter than metal armor.
+Meteor Plate	Armor forged from metal that fell from the sky. It's very durable.
+Dragon Scale	Armor forged from metal that fell from the sky. It's very durable.
+Leather Coat	A fine coat made from tanned animal hides. It also repels water.
+Assassin's Coat	A fine coat made from tanned animal hides. It also repels water.
+Heroic Cape	A cape designed for those with a heroic nature. It keeps wind off.
+Dragoon Cape	A cape designed for those with a heroic nature. It keeps wind off.Golden Wing Staff	A staff with golden wings. It looks great, but it's just a staff.
+Feather Staff	A staff with golden wings. It looks great, but it's just a staff.
+Sky Alchemy Staff	A staff rumored to carry its wielder into the sky, a dream of many.
+	h

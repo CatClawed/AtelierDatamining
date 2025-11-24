@@ -2,6 +2,7 @@ Welcome to my Atelier datamining repo. The output is for me but you are free to 
 
 In Yumia I commented out some business about plotting to a map. It also expects the pak data at `[A26] Yumia/Data`. gust_tools will get that for you.
 
+For games older than Yumia, I would not get that excited. I included the cheatengine scripts (behold how hopeless I am with it) that I could find and the resulting files. There are also AHK utilities associated with these.
 
 Useful tools:
 * [gust_tools](https://github.com/VitaSmith/gust_tools) - Unpack most games

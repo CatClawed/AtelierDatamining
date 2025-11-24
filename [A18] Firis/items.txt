@@ -1,0 +1,129 @@
+Princess Grass	Parched Plains	South Auoro Snowfield	Outskirts Path	Heavenly Tree Einhorn	Skyfaring Stone Ark
+Princess Grass	Parched Plains	South Auoro Snowfield	Outskirts Path	Heavenly Tree Einhorn	Skyfaring Stone Ark
+Cobalt Grass	Weist Plain	Traveler's Grove	Past Paradise	Outskirts Path	Silent Labyrinth
+Taun	Claudel Prairie	Moon Catcher Pass	Parched Plains	Outskirts Path	Heavenly Tree Einhorn
+Tall Taun	Weist Plain	Traveler's Grove	Ant Nest Trail	Flussheim	Riesentrain
+Red Flower	Faave Hills	Weist Plain	Traveler's Grove	Quiet Forest	Past Paradise
+Blue Flower	Faave Hills	Weist Plain	Traveler's Grove	Quiet Forest	Leafy Laforet
+Green Flower	Weist Plain	Leafy Laforet	Moon Catcher Pass	Ant Nest Trail	Outskirts Path
+Yellow Flower	Faave Hills	Weist Plain	Parched Plains	North Auoro Snowfield	Heavenly Tree Einhorn
+Purple Flower	Claudel Prairie	Weist Plain	Southern Plains	Weisslark	Riesentrain
+White Flower	Weist Plain	Southern Plains	Traveler's Grove	Quiet Forest	South Auoro Snowfield
+Dunkelheit	Skyfaring Stone Ark	Riesentrain
+Golden Tree Leaf	Claudel Prairie	Southern Plains	Traveler's Grove	Quiet Forest	Leafy Laforet
+Unyu	Claudel Prairie	White Fog Forest	Light Lake	Traveler's Grove	Lebenwald
+Beehive	Faave Hills	White Fog Forest	Traveler's Grove	Lebenwald	Leafy Laforet
+Uni	Faave Hills	White Fog Forest	Traveler's Grove	Lebenwald	Leafy Laforet
+Mechen Wheat	Faave Hills	Claudel Prairie	Southern Plains	South Auoro Snowfield	Heavenly Tree Einhorn
+Gold Potato	White Fog Forest	Leafy Laforet	Moon Catcher Pass	Heavenly Tree Einhorn	Riesentrain
+Sweet Shoot	Faave Hills	White Fog Forest	Traveler's Grove	Heavenly Tree Einhorn	Riesentrain
+Leafy Lettuce	Faave Hills	Quiet Forest	South Auoro Snowfield	Heavenly Tree Einhorn	Riesentrain
+Spinach	Faave Hills	Quiet Forest	South Auoro Snowfield	Heavenly Tree Einhorn	Riesentrain
+Walnut	Faave Hills	Weist Plain	Traveler's Grove	Flussheim	Riesentrain
+Cannon Fruit	White Fog Forest	Quiet Forest	Leafy Laforet	Skyfaring Stone Ark	Riesentrain
+Nectar Fruit	Faave Hills	Southern Plains	Traveler's Grove	Quiet Forest	Lebenwald
+Snow Queen	South Auoro Snowfield	North Auoro Snowfield	Riesentrain
+Zwei Nuts	Faave Hills	Claudel Prairie	Past Paradise	Heavenly Tree Einhorn	Riesentrain
+Bush Strawberry	White Fog Forest	Traveler's Grove	Leafy Laforet	Skyfaring Stone Ark	Riesentrain
+Oil Tree Fruit	Faave Hills	Claudel Prairie	Traveler's Grove	Moon Catcher Pass	Heavenly Tree Einhorn
+Fairy Parasol	White Fog Forest	Heavenly Tree Einhorn	Silent Labyrinth	Ertona	Flussheim
+Darkshroom	Claudel Prairie	White Fog Forest	Silent Labyrinth	Riesentrain
+Wild Cotton	Claudel Prairie	White Fog Forest	Lebenwald	Leafy Laforet	Moon Catcher Pass
+Dona Wood	Faave Hills	White Fog Forest	Light Lake	Quiet Forest	Lebenwald
+Evihibrow	Claudel Prairie	White Fog Forest	Light Lake	Lebenwald	North Auoro Snowfield
+Red Sand	Weist Plain	Ant Nest Trail	Parched Plains	Past Paradise	Riesentrain
+Black Sand	Faave Hills	Ertona
+White Sand	Faave Hills	Light Lake	Southern Plains	Traveler's Grove	Quiet Forest
+Sand Crystal	Light Lake	Southern Plains	Quiet Forest	Ertona Underground Lake	Skyfaring Stone Ark
+Ertonite	Parched Plains	Wavebreaker Cove	Ertona
+Ertona Crystal	Parched Plains	Silent Labyrinth	Wavebreaker Cove	Ertona
+Broken Stone	Light Lake	Ant Nest Trail	Parched Plains	Past Paradise	Heavenly Tree Einhorn
+White Ashstone	Parched Plains	Past Paradise	Silent Labyrinth
+Tamahagane	Claudel Prairie	Weist Plain	Southern Plains	Ant Nest Trail	Ertona Underground Lake
+Golden Rock	Claudel Prairie	Weist Plain	North Auoro Snowfield
+Gravistone	Faave Hills	South Auoro Snowfield	North Auoro Snowfield	Skyfaring Stone Ark
+Aizen Ore	Traveler's Grove	Skyfaring Stone Ark	Weisslark
+Raiden Ore	Claudel Prairie	Weisslark
+Kupulf Ore	Claudel Prairie	Ant Nest Trail
+Kaen Stone	Claudel Prairie	Traveler's Grove	Parched Plains	Ertona	Vestier Holy Land
+Hakurei Stone	South Auoro Snowfield	North Auoro Snowfield	Outskirts Path	Vestier Holy Land
+Black Star Stone	Claudel Prairie	Wavebreaker Cove	Weisslark
+Ripple Stone Shard	White Fog Forest	Southern Plains	Quiet Forest	Past Paradise	Skyfaring Stone Ark
+Spirit Stone Shard	Leafy Laforet	Parched Plains	Skyfaring Stone Ark
+Magnet Stone Shard	Claudel Prairie	Weist Plain	Moon Catcher Pass	South Auoro Snowfield
+Black Tree Stone Shard	White Fog Forest	Southern Plains	Leafy Laforet	South Auoro Snowfield	North Auoro Snowfield
+Kimber Ore Shard	Claudel Prairie	Weist Plain	North Auoro Snowfield	Skyfaring Stone Ark
+Crystal Shard	White Fog Forest	South Auoro Snowfield	North Auoro Snowfield	Timelost Lake	Ertona Underground Lake
+Blue Steel Stone	South Auoro Snowfield	Wavebreaker Cove	Weisslark
+Drinking Water	Faave Hills	Claudel Prairie	Weist Plain	Southern Plains	Traveler's Grove
+Flocke Hotspring Water	North Auoro Snowfield
+Flocke Hotspring Water	North Auoro Snowfield
+Ground Water	Leafy Laforet	Moon Catcher Pass	Timelost Lake	Ertona Underground Lake	Silent Labyrinth
+Flocke Hotspring Water	North Auoro Snowfield
+Crackling Water	Claudel Prairie	Southern Plains	Lebenwald	Leafy Laforet	Past Paradise
+Zapping Water	Weist Plain	Vestier Holy Land
+Lakebottom Water	Light Lake	Southern Plains	Quiet Forest	Leafy Laforet	Moon Catcher Pass
+Milk	Faave Hills
+Milk	Faave Hills
+Eternal Silver Thaw	South Auoro Snowfield	North Auoro Snowfield
+Milk	Faave Hills
+Suspicious Liquid	Leafy Laforet	North Auoro Snowfield	Silent Labyrinth	Vestier Holy Land
+Mineral Oil	White Fog Forest	Lebenwald	Ertona	Weisslark	Vestier Holy Land
+Cinders	Timelost Lake
+Cinders	Timelost Lake
+Plant Oil	Faave Hills	Traveler's Grove	Lebenwald	Heavenly Tree Einhorn
+Cinders	Timelost Lake
+Wool	Faave Hills	Moon Catcher Pass	Heavenly Tree Einhorn
+Monster Feather	White Fog Forest	Quiet Forest	Vestier Holy Land
+Bat Wing	Silent Labyrinth
+Bat Wing	Silent Labyrinth
+Griffon Feather	Claudel Prairie	Southern Plains
+Bat Wing	Silent Labyrinth
+Island Fish Fin	Light Lake	Moon Catcher Pass
+Animal Hide	Southern Plains	Leafy Laforet	Ant Nest Trail	Outskirts Path	Silent Labyrinth
+Horn	Moon Catcher Pass
+Horn	Moon Catcher Pass
+Tough Bone	Southern Plains	Quiet Forest	Ant Nest Trail	Past Paradise	Outskirts Path
+Horn	Moon Catcher Pass
+Big Beast Bone	Ant Nest Trail	Timelost Lake	Silent Labyrinth	Vestier Holy Land
+Wicked Fang	Southern Plains	Quiet Forest	Lebenwald	Timelost Lake
+Jelly Gem	South Auoro Snowfield	Wavebreaker Cove
+Rabbit Fur	White Fog Forest	Moon Catcher Pass	Heavenly Tree Einhorn
+Silver Web	White Fog Forest	Traveler's Grove	Lebenwald	Moon Catcher Pass	Silent Labyrinth
+Golden Silk	Claudel Prairie	White Fog Forest	Lebenwald	Skyfaring Stone Ark	Silent Labyrinth
+Unknown Egg	Faave Hills	Claudel Prairie	Traveler's Grove	Past Paradise
+Pretty Shell	Faave Hills	Light Lake	Shanty Street	Ertona Underground Lake	Flussheim
+Wascher	Faave Hills	Claudel Prairie	Light Lake	Southern Plains	Traveler's Grove
+Butterfly Fish	Light Lake	Traveler's Grove	Lebenwald	Ant Nest Trail	Parched Plains
+Camber	Light Lake	South Auoro Snowfield	North Auoro Snowfield	Ertona
+Muschel	Faave Hills	Claudel Prairie	Weist Plain	Light Lake	Southern Plains
+Kriev	Claudel Prairie	Weist Plain	Light Lake	Southern Plains	Traveler's Grove
+Scissor Shrimp	Light Lake	Leafy Laforet	Moon Catcher Pass	South Auoro Snowfield	Outskirts Path
+Balloon Fish	Faave Hills	Claudel Prairie	Light Lake	Southern Plains	Quiet Forest
+Old Master	Outskirts Path
+Old Master	Outskirts Path
+Worm Fish	Weist Plain	Light Lake	Traveler's Grove	Quiet Forest	Leafy Laforet
+Master of Ice	Ertona
+Old Master	Outskirts Path
+Master of Ice	Ertona
+Master of Fire	North Auoro Snowfield
+Master of Fire	North Auoro Snowfield
+Master of Ice	Ertona
+Master of Fire	North Auoro Snowfield
+Paper Scrap	Past Paradise	Heavenly Tree Einhorn	Silent Labyrinth	Ertona	Flussheim
+Pious Talisman	Vestier Holy Land
+Pious Talisman	Vestier Holy Land
+Church Talisman	Southern Plains	Timelost Lake	Flussheim
+Pious Talisman	Vestier Holy Land
+Spirit Rock	Silent Labyrinth	Wavebreaker Cove
+Big Scale	South Auoro Snowfield	North Auoro Snowfield
+Dragon Heart	North Auoro Snowfield
+Dragon Heart	North Auoro Snowfield
+Dragon Scale	South Auoro Snowfield	North Auoro Snowfield
+Dragon Bloodstone	North Auoro Snowfield
+Dragon Bloodstone	North Auoro Snowfield
+Dragon Heart	North Auoro Snowfield
+Pendeloch	Vestier Holy Land
+Pendeloch	Vestier Holy Land
+Dragon Bloodstone	North Auoro Snowfield
+Pendeloch	Vestier Holy Land

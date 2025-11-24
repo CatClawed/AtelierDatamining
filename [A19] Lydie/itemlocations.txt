@@ -1,0 +1,148 @@
+Taun	Nearby Forest	Spring-green Odahlia	Great Woods of Gurm-Adis	Braisewest	Dawn Realm
+Tall Taun	Great Woods of Gurm-Adis	Heavenly Flower Garden	Blue Sentiment Land	Claudel Prairie	Land of Rich Encounters
+Triple Taun	Braisewest	The Luminous Ice Grotto	The Great Cascades of Anfel	Heavenly Flower Garden	Blue Sentiment Land
+Mystic Herb	Great Woods of Gurm-Adis	Dawn Realm	Morrakis Range	The Spooky Forest	The Great Cascades of Anfel
+Mystic Herb	Great Woods of Gurm-Adis	Dawn Realm	Morrakis Range	The Spooky Forest	The Great Cascades of Anfel
+Cobalt Grass	Spring-green Odahlia	Dawn Realm	Morrakis Range	The Luminous Ice Grotto	The Treasury at the Sea Bottom
+Winged Plant	Great Woods of Gurm-Adis	The Spooky Forest	Lotus Blossom Pond	Claudel Prairie
+Golden Tree Leaf	Dawn Realm	The Treasury at the Sea Bottom	Starlight Plane	Claudel Prairie
+Uni	Nearby Forest	Spring-green Odahlia	Great Woods of Gurm-Adis	Dawn Realm	The Frozen Palace
+Weiss Wheat	Nearby Forest	Spring-green Odahlia	Dawn Realm	The Spooky Forest	Claudel Prairie
+Wild Cotton	Great Woods of Gurm-Adis	Braisewest	Starlight Plane	Claudel Prairie
+Moisture Grass	The Spooky Forest	Starlight Plane	Claudel Prairie
+Wild Cotton	Great Woods of Gurm-Adis	Braisewest	Starlight Plane	Claudel Prairie
+Princess Grass	Nearby Forest	Great Woods of Gurm-Adis	The Great Cascades of Anfel	Heavenly Flower Garden
+Red Flower	Nearby Forest	Spring-green Odahlia	Great Woods of Gurm-Adis	Dawn Realm	The Spooky Forest
+Blue Flower	Nearby Forest	Spring-green Odahlia	Great Woods of Gurm-Adis	Dawn Realm	The Luminous Ice Grotto
+Green Flower	Spring-green Odahlia	Great Woods of Gurm-Adis	The Spooky Forest	The Luminous Ice Grotto	Lotus Blossom Pond
+Yellow Flower	Nearby Forest	Spring-green Odahlia	Great Woods of Gurm-Adis	Dawn Realm	Heavenly Flower Garden
+Purple Flower	Spring-green Odahlia	Dawn Realm	Heavenly Flower Garden	Domain of Despair	Claudel Prairie
+Merveille Rouge	Heavenly Flower Garden
+Dunkelheit	Heavenly Flower Garden	The Black Horizon	Nightless Ruined City	Claudel Prairie	Land of Rich Encounters
+Star Flower	Starlight Plane
+Beehive	Nearby Forest	Spring-green Odahlia	Great Woods of Gurm-Adis	Dawn Realm	The Great Cascades of Anfel
+Silver Beehive	Nearby Forest	Great Woods of Gurm-Adis	Dawn Realm	Heavenly Flower Garden	Starlight Plane
+Golden Beehive	The Great Cascades of Anfel	Heavenly Flower Garden	Lotus Blossom Pond	Blue Sentiment Land	Land of Rich Encounters
+Candy Beehive	Great Woods of Gurm-Adis	Starlight Plane	Lotus Blossom Pond	Blue Sentiment Land	Land of Rich Encounters
+Nectar Fruit	Nearby Forest	Great Woods of Gurm-Adis	Braisewest	The Frozen Palace	The Treasury at the Sea Bottom
+Starfruit	Starlight Plane	Blue Sentiment Land
+Blackberry	Great Woods of Gurm-Adis	Starlight Plane	Lotus Blossom Pond	Blue Sentiment Land	Claudel Prairie
+Snow Queen	Morrakis Range	Claudel Prairie
+Slime Mushroom	Great Woods of Gurm-Adis	Dawn Realm	The Spooky Forest	The Treasury at the Sea Bottom	Domain of Despair
+Fairy Parasol	Nearby Forest	Spring-green Odahlia	Great Woods of Gurm-Adis	Dawn Realm	The Spooky Forest
+Darkshroom	The Spooky Forest	The Black Horizon	Domain of Despair	Nightless Ruined City	Claudel Prairie
+Smoke Fungus	Great Woods of Gurm-Adis	Dawn Realm	Heavenly Flower Garden	Claudel Prairie	Land of Rich Encounters
+Soil Potato	Great Woods of Gurm-Adis	Dawn Realm	The Spooky Forest	Lotus Blossom Pond	Claudel Prairie
+Milk	Claudel Prairie
+Fresh Meat	Claudel Prairie	Land of Rich Encounters
+Beast Meat	Claudel Prairie
+Unknown Egg	Spring-green Odahlia	Great Woods of Gurm-Adis	Dawn Realm	The Spooky Forest	Heavenly Flower Garden
+Large Egg	Spring-green Odahlia	Dawn Realm	Claudel Prairie	Land of Rich Encounters
+Wool	The Spooky Forest	Claudel Prairie
+Monster Bird Feather	Braisewest	Dawn Realm	The Spooky Forest	Nightless Ruined City
+Griffon Feather	Spring-green Odahlia	Dawn Realm
+Bat Wing	Morrakis Range	The Spooky Forest	Starlight Plane	Nightless Ruined City
+Turtle Claw	Braisewest	The Treasury at the Sea Bottom
+Animal Hide	Braisewest	The Spooky Forest	The Great Cascades of Anfel	The Frozen Palace	Lotus Blossom Pond
+Tough Bone	Nearby Forest	Braisewest	Dawn Realm	Morrakis Range	The Spooky Forest
+Horn	Spring-green Odahlia
+Big Beast Bone	Dawn Realm	Morrakis Range	The Great Cascades of Anfel	The Treasury at the Sea Bottom	Domain of Despair
+Wicked Fang	The Treasury at the Sea Bottom	Starlight Plane	Nightless Ruined City
+Jelly Gem	Claudel Prairie
+Rabbit Fur	Spring-green Odahlia	Dawn Realm	Morrakis Range	The Spooky Forest	The Treasury at the Sea Bottom
+Big Scale	The Great Cascades of Anfel	The Treasury at the Sea Bottom	Claudel Prairie
+Wicked Bone	Domain of Despair	Nightless Ruined City	Ventus Mines
+Lady Bug	Nearby Forest	Spring-green Odahlia	Great Woods of Gurm-Adis	Dawn Realm	The Spooky Forest
+Big Horned Beetle	Spring-green Odahlia	Dawn Realm	The Spooky Forest	Etel Nepica	Heavenly Flower Garden
+Baby Wilm	Nearby Forest	Spring-green Odahlia	Dawn Realm	The Spooky Forest	Etel Nepica
+Ingot Bug	Heavenly Flower Garden	Nightless Ruined City	Claudel Prairie	Land of Rich Encounters
+Leiden Dragonfly	Etel Nepica	Starlight Plane	Nightless Ruined City
+Comet Butterfly	Etel Nepica	Heavenly Flower Garden	Starlight Plane	Nightless Ruined City	Land of Rich Encounters
+Chestnut Weevil	Nearby Forest	Spring-green Odahlia	Great Woods of Gurm-Adis	Braisewest	Dawn Realm
+Helmeted Grasshopper	Nearby Forest	Spring-green Odahlia	Dawn Realm	The Spooky Forest	The Great Cascades of Anfel
+Killer Bee	Great Woods of Gurm-Adis	The Spooky Forest	The Great Cascades of Anfel	Starlight Plane
+Gem Fly	Heavenly Flower Garden	Nightless Ruined City	Land of Rich Encounters
+Pretty Shells	Morrakis Range	The Luminous Ice Grotto	The Great Cascades of Anfel	The Treasury at the Sea Bottom	Heavenly Flower Garden
+Wascher	Nearby Forest	Spring-green Odahlia	Great Woods of Gurm-Adis	Braisewest	Dawn Realm
+Butterfly Fish	Nearby Forest	Spring-green Odahlia	Great Woods of Gurm-Adis	Dawn Realm	The Luminous Ice Grotto
+Camber	Nearby Forest	Spring-green Odahlia	Dawn Realm	The Treasury at the Sea Bottom	Lotus Blossom Pond
+Sea Snail	Nearby Forest	Morrakis Range	The Spooky Forest	Starlight Plane	Lotus Blossom Pond
+Crab	Nearby Forest	Great Woods of Gurm-Adis	Braisewest	The Spooky Forest	Heavenly Flower Garden
+Lobster	Nearby Forest	Spring-green Odahlia	Great Woods of Gurm-Adis	Braisewest	Dawn Realm
+Balloon Fish	Great Woods of Gurm-Adis	The Treasury at the Sea Bottom	Etel Nepica	Starlight Plane	Claudel Prairie
+Sea Horse	The Luminous Ice Grotto	The Great Cascades of Anfel	The Treasury at the Sea Bottom	Etel Nepica	Heavenly Flower Garden
+Old Master	Great Woods of Gurm-Adis	Braisewest	The Spooky Forest	The Treasury at the Sea Bottom	Etel Nepica
+Master of Ice	The Luminous Ice Grotto	Lotus Blossom Pond
+Master of Fire	The Great Cascades of Anfel	Lotus Blossom Pond
+Rapier Fish	Nearby Forest	Nightless Ruined City	Claudel Prairie
+Mace Fish	Nearby Forest	Nightless Ruined City	Claudel Prairie
+Blue Puniballs	Claudel Prairie	Land of Rich Encounters
+Green Puniballs	Claudel Prairie	Land of Rich Encounters
+Red Puniballs	Claudel Prairie	Land of Rich Encounters
+Gold Puniballs	Claudel Prairie	Land of Rich Encounters
+Dragon Scale	Dawn Realm	The Great Cascades of Anfel	Nightless Ruined City	Claudel Prairie
+Dragon Core	Dawn Realm	Nightless Ruined City	Claudel Prairie
+Dragon Bloodstone	Nightless Ruined City	Claudel Prairie
+Great Tail	Dawn Realm	Claudel Prairie
+Drinking Water	Nearby Forest	Spring-green Odahlia	Great Woods of Gurm-Adis	The Spooky Forest	The Luminous Ice Grotto
+Well Water	The Black Horizon
+Crackling Water	The Luminous Ice Grotto	The Great Cascades of Anfel	Etel Nepica	Heavenly Flower Garden	Blue Sentiment Land
+Zapping Water	The Great Cascades of Anfel	The Frozen Palace	Starlight Plane
+Lakebottom Water	The Luminous Ice Grotto	The Treasury at the Sea Bottom	Lotus Blossom Pond
+Suspicious Liquid	The Spooky Forest	The Black Horizon	Domain of Despair	Nightless Ruined City	Blue Sentiment Land
+Star Powder Water	Starlight Plane
+Holy Water	The Spooky Forest	The Frozen Palace	The Black Horizon	Nightless Ruined City	Land of Rich Encounters
+Eternal Ice	Morrakis Range	The Frozen Palace
+Paper Scraps	Nearby Forest	Braisewest	The Spooky Forest	The Frozen Palace	The Treasury at the Sea Bottom
+Church Talisman	Braisewest	The Spooky Forest	The Frozen Palace	The Black Horizon	Nightless Ruined City
+High Class Talisman	Braisewest	The Spooky Forest	The Frozen Palace	The Black Horizon	Nightless Ruined City
+Pious Talisman	The Spooky Forest	The Frozen Palace	The Black Horizon	Nightless Ruined City	Blue Sentiment Land
+Backen's Bromide	The Treasury at the Sea Bottom
+Plant Oil	Nearby Forest	Great Woods of Gurm-Adis	Dawn Realm	Heavenly Flower Garden	Blue Sentiment Land
+Oil Tree Fruit	Nearby Forest	Spring-green Odahlia	Great Woods of Gurm-Adis	Dawn Realm	The Spooky Forest
+Mineral Oil	Spring-green Odahlia	Dawn Realm	Morrakis Range	Starlight Plane	Lotus Blossom Pond
+Kifa	Spring-green Odahlia	Braisewest	Dawn Realm	Morrakis Range	The Spooky Forest
+Raven Wood	Braisewest	Starlight Plane	The Black Horizon	Domain of Despair	Ventus Mines
+Aroma Holts	Heavenly Flower Garden	Claudel Prairie	Land of Rich Encounters
+Silver Web	Great Woods of Gurm-Adis	Heavenly Flower Garden	Domain of Despair
+Golden Threads	The Spooky Forest	The Treasury at the Sea Bottom	Heavenly Flower Garden
+Natural Fertilizer	Nearby Forest	Great Woods of Gurm-Adis	Dawn Realm	The Spooky Forest	Lotus Blossom Pond
+Red Sand	Spring-green Odahlia	Great Woods of Gurm-Adis	Braisewest	Dawn Realm	The Spooky Forest
+Black Sand	Braisewest	The Great Cascades of Anfel	Etel Nepica	Starlight Plane	Nightless Ruined City
+White Sand	Nearby Forest	Great Woods of Gurm-Adis	The Treasury at the Sea Bottom	Starlight Plane	Ventus Mines
+Sand Crystals	Nearby Forest	Braisewest	The Luminous Ice Grotto	The Great Cascades of Anfel	The Frozen Palace
+White Ash Stone	Nearby Forest	Spring-green Odahlia	Great Woods of Gurm-Adis	Dawn Realm	The Spooky Forest
+Golden Rock	Braisewest	The Great Cascades of Anfel	The Treasury at the Sea Bottom	Starlight Plane	Domain of Despair
+Broken Rock	Nearby Forest	Spring-green Odahlia	Braisewest	Dawn Realm	The Spooky Forest
+Gravistone	The Luminous Ice Grotto	The Great Cascades of Anfel	Heavenly Flower Garden	Starlight Plane	Ventus Mines
+Ertona Crystal	Spring-green Odahlia	The Luminous Ice Grotto	Starlight Plane	Ventus Mines
+Eisen Ore	Great Woods of Gurm-Adis	The Spooky Forest	The Great Cascades of Anfel	Domain of Despair	Ventus Mines
+Leiden Ore	Braisewest	The Spooky Forest	Etel Nepica	Heavenly Flower Garden	Ventus Mines
+Kupfer Ore	Spring-green Odahlia	Great Woods of Gurm-Adis	Dawn Realm	The Spooky Forest	The Great Cascades of Anfel
+Kaen Stone	Spring-green Odahlia	Braisewest	Dawn Realm	The Spooky Forest	The Great Cascades of Anfel
+Hakurei Stone	Great Woods of Gurm-Adis	Morrakis Range	The Spooky Forest	The Luminous Ice Grotto	The Treasury at the Sea Bottom
+Steel Balls	Spring-green Odahlia	Braisewest	The Spooky Forest	The Luminous Ice Grotto	The Great Cascades of Anfel
+Black Tree Stone	The Spooky Forest	The Treasury at the Sea Bottom	The Black Horizon	Ventus Mines	Blue Sentiment Land
+Soul Stone	Nearby Forest	Spring-green Odahlia	Dawn Realm	Morrakis Range	Etel Nepica
+Ripple Stone	Nearby Forest	Great Woods of Gurm-Adis	The Spooky Forest	The Luminous Ice Grotto	Ventus Mines
+Magnet Stone	Nearby Forest	Great Woods of Gurm-Adis	The Luminous Ice Grotto	Etel Nepica	Domain of Despair
+Kimberlite	Spring-green Odahlia	Dawn Realm	The Great Cascades of Anfel	Starlight Plane	Ventus Mines
+Black Star Stone	Starlight Plane	Nightless Ruined City	Ventus Mines	Blue Sentiment Land	Claudel Prairie
+Spirit Rock	The Frozen Palace	Heavenly Flower Garden	Lotus Blossom Pond	Nightless Ruined City	Ventus Mines
+Crystal Shards	The Luminous Ice Grotto	The Treasury at the Sea Bottom	Etel Nepica	Heavenly Flower Garden	Starlight Plane
+Blue Crystal	The Luminous Ice Grotto	Starlight Plane	Ventus Mines
+Deep Core	Starlight Plane	Blue Sentiment Land
+Small Statue of Hagel	Ventus Mines
+Pendant Rock	The Great Cascades of Anfel	The Frozen Palace	The Treasury at the Sea Bottom	The Black Horizon	Domain of Despair
+Chaotic Dirt	Nightless Ruined City
+Chariot Milk	Land of Rich Encounters
+Mandragora Root	Land of Rich Encounters
+Floating Orbs	Blue Sentiment Land
+Fragrant Powder	Blue Sentiment Land
+Ensnaring Root	Blue Sentiment Land
+Blue Sap	Blue Sentiment Land
+Chipped Crystal	Blue Sentiment Land
+Spirit of Service	Blue Sentiment Land
+Ostracon Shell	Blue Sentiment Land
+Cannon Fruit	The Treasury at the Sea Bottom	Starlight Plane	Lotus Blossom Pond	Land of Rich Encounters
+Nectar Springwater	Braisewest	The Black Horizon	Lotus Blossom Pond	Land of Rich Encounters

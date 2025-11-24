@@ -1,0 +1,183 @@
+Rogue Guardian	0	500000	600
+Poison Squirrel	6	4	1
+Bitter Squirrel	12	10	3
+Golden Rat	30	58	20
+Alchemy Rat	41	125	42
+Stray Dog	5	5	1
+Flesh Eater	15	14	5
+Howling Beast	24	41	14
+Heavy Skin	9	7	2
+Steel Skin	20	19	7
+Red Skin	39	114	39
+Fairydrake	31	58	19
+Scorching Dragon	35	79	26
+Compact Dragon	52	324	108
+Mini-Slag	13	11	3
+Nano-Slag	27	56	19
+Pico-Slag	44	166	55
+Carrier	26	51	17
+Tracker	42	139	46
+Porter	50	330	110
+Guard	14	14	5
+Watchman	37	117	39
+Officer	45	224	74
+Mirage Element	15	12	4
+Yellow Element	21	21	7
+Deep Woods Spirit	43	138	46
+Tank	35	400	300
+Panzer	115	9200	7500
+Dragoon	42	600	600
+Wild Dragon	37	500	500
+Sura Dragon	40	600	500
+Rakshasa Dragon	40	600	500
+Grand Dragon	43	800	700
+Galtessen	45	1000	900
+Lord of Fire	50	800	700
+Ore Rat	4	3	1
+Amethyst Rat	18	17	6
+Lava Rat	32	72	24
+Diamond Rat	49	331	110
+Green Spirit	8	6	2
+Blue Spirit	20	18	6
+Red Spirit	33	71	24
+Yellow Spirit	39	109	37
+Fake Ruin	12	11	4
+Bad Treasure	25	48	16
+Black Box	37	108	36
+Pandora	47	266	89
+Scissor Beast	10	8	2
+Fell Sickle	16	16	5
+Flame Scythe	40	124	41
+Death Scissor	44	181	60
+Flatfish	17	24	9
+Flounder	32	107	36
+Emerald Ray	37	153	51
+Fatal Flat	52	551	184
+Frigate	30	200	300
+Dreadnought	80	4100	3500
+Rampage Beast	25	200	200
+Child of Terror	77	4000	3500
+Altegewalt	60	3700	3300
+Overlord	110	4300	3600
+Gullveig	45	1300	1200
+Regalveig	105	3900	3300
+Flameu	50	2900	2600
+Savage Returner	3	3	5
+Red Fang Returner	19	31	30
+Underworld Returner	51	858	780
+Regen Breaker	25	84	81
+Bloody Breaker	33	156	152
+Amazing Breaker	63	1391	1231
+Devouring Eye	11	14	17
+Rampaging Eye	21	42	42
+Ultimate Eye	47	588	540
+Hidden Cube	4	5	5
+Regen Cube	16	24	23
+Ultimate Cube	22	53	54
+Mutant Cube	29	139	134
+Blue Sky Monster	14	20	23
+Dark Sky Monster	35	186	174
+Spirit Sky Monster	67	1588	1394
+Mutant Sky Monster	90	2902	2457
+Red Fang Titan	12	16	17
+Underworld Titan	53	941	851
+Slayer Titan	84	2528	2159
+Blood Saber	31	131	124
+Blue Fang Saber	79	2236	1922
+Mutant Saber	93	3101	2611
+Raging Golem	73	1901	1651
+Manic Golem	77	2122	1830
+Spirit Golem	96	3297	2769
+Crimson Silver Wolf	8	10	11
+Alpha Silver Wolf	23	64	61
+Manic Silver Wolf	55	1026	924
+Hungry Beast King	5	6	5
+Bloody Beast King	24	75	74
+Manic Beast King	28	124	121
+Diabolic Beast King	57	1114	998
+Hidden Death Bug	6	6	5
+Ultimate Death Bug	15	22	23
+Great Death Bug	49	778	710
+Spirit Death Bug	69	1690	1478
+Bloody Demon Beast	59	1204	1074
+Dark Demon Beast	81	2352	2016
+Slayer Demon Beast	99	3508	2930
+Ravenous Rat	1	2	0
+Regen Rat	26	98	94
+Red Fanged Rat	43	352	327
+Mad Steel Beast	9	10	11
+Hungry Steel Beast	17	27	29
+Manic Steel Beast	45	447	410
+Mutant Steel Beast	71	1794	1564
+Mutant Gaia	2	2	0
+Ultimate Gaia	27	110	107
+Hidden Gaia	39	255	242
+Mutant Spirit	10	12	11
+Hidden Spirit	18	29	29
+Ultimate Spirit	41	285	266
+Underworld Spirit	75	2010	1740
+Mutant Lizardwing	13	18	17
+Regen Lizardwing	37	216	204
+Dark Lizardwing	65	1488	1312
+Blue Elder Dragon	20	33	36
+Dark Elder Dragon	61	1296	1152
+Demon Elder Dragon	87	2716	2306
+Ancient Beast King	120	10000	10000
+Thirsty Water God	100	5000	5000
+Cursed Saber	80	7500	7500
+Rogue Guardian	100	10000	10000
+Poison Squirrel	6	4	1
+Rogue Guardian	100	10000	10000
+Underworld Spirit	75	2010	1740
+Mad Steel Beast	9	10	11
+Hidden Death Bug	6	6	5
+Raging Golem	73	1901	1651
+Blue Sky Monster	14	20	23
+Regen Breaker	25	84	81
+Altegewalt	60	3700	3300
+Flame Scythe	40	124	41
+Death Scissor	44	181	60
+Flame Scythe	40	124	41
+Fell Sickle	16	16	5
+Scissor Beast	10	8	2
+Pandora	47	266	89
+Black Box	37	108	36
+Bad Treasure	25	48	16
+Fake Ruin	12	11	4
+Yellow Spirit	39	109	37
+Red Spirit	33	71	24
+Blue Spirit	20	18	6
+Green Spirit	8	6	2
+Diamond Rat	49	331	110
+Lava Rat	32	72	24
+Amethyst Rat	18	17	6
+Ore Rat	4	3	1
+Lord of Fire	50	800	700
+Galtessen	45	1000	900
+Lord of Fire	50	800	700
+Bad Treasure	25	48	16
+Black Box	37	108	36
+Pandora	47	266	89
+Scissor Beast	10	8	2
+Fell Sickle	16	16	5
+Flame Scythe	40	124	41
+Death Scissor	44	181	60
+Flatfish	17	24	9
+Flounder	32	107	36
+Emerald Ray	37	153	51
+Fatal Flat	52	551	184
+Frigate	30	200	300
+Dreadnought	80	4100	3500
+Rampage Beast	25	200	200
+Child of Terror	77	4000	3500
+Altegewalt	60	3700	3300
+Overlord	110	4300	3600
+Gullveig	45	1300	1200
+Regalveig	105	3900	3300
+Flameu	50	2900	2600
+Savage Returner	3	3	5
+Red Fang Returner	19	31	30
+Underworld Returner	51	858	780
+Mutant Breaker	7	8	11
+Underworld Returner	51	858	780
+Mutant Breaker	7	8	11

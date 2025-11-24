@@ -1,0 +1,448 @@
+Beast Soldier	Humanoid	12	10	5	64	16	8	12
+Beast Soldier	Humanoid	12	10	5	64	16	8	12
+Beast Soldier	Humanoid	12	10	5	64	16	8	12
+Beast Soldier	Humanoid	12	10	5	64	16	8	12
+Beast Leader	Humanoid	40	85	43	442	44	20	31
+Beast Leader	Humanoid	40	85	43	442	44	20	31
+Beast Leader	Humanoid	40	85	43	442	44	20	31
+Beast Leader	Humanoid	40	85	43	442	44	20	31
+Beast	Humanoid	7	6	3	43	11	5	8
+Beast	Humanoid	7	6	3	43	11	5	8
+Beast	Humanoid	7	6	3	43	11	5	8
+Beast	Humanoid	7	6	3	43	11	5	8
+Beast Captain	Humanoid	45	113	57	548	49	21	34
+Beast Captain	Humanoid	45	113	57	548	49	21	34
+Beast Captain	Humanoid	45	113	57	548	49	21	34
+Beast Captain	Humanoid	45	113	57	548	49	21	34
+Beast General	Humanoid	55	614	307	1800	111	81	139
+Beast General	Humanoid	55	614	307	1800	111	81	139
+Beast General	Humanoid	55	614	307	1800	111	81	139
+Beast General	Humanoid	55	614	307	1800	111	81	139
+Beast God	Humanoid	60	769	385	2100	120	89	153
+Beast God	Humanoid	60	769	385	2100	120	89	153
+Horn Rabbit	Animal	3	2	0	29	6	3	8
+Horn Rabbit	Animal	3	2	0	29	6	3	8
+Horn Rabbit	Animal	3	2	0	29	6	3	8
+Horn Rabbit	Animal	3	2	0	29	6	3	8
+Horn Rabbit	Animal	3	2	0	29	6	3	8
+Horn Rabbit	Animal	3	2	0	29	6	3	8
+Dire Rabbit	Animal	42	93	0	456	39	18	48
+Dire Rabbit	Animal	42	93	0	456	39	18	48
+Cotton Rabbit	Animal	11	11	0	56	13	6	16
+Cotton Rabbit	Animal	11	11	0	56	13	6	16
+Cotton Rabbit	Animal	11	11	0	56	13	6	16
+Cotton Rabbit	Animal	11	11	0	56	13	6	16
+Snow Ear	Animal	31	47	0	272	30	14	36
+Snow Ear	Animal	31	47	0	272	30	14	36
+Wild Horn Beast	Animal	40	275	0	1000	74	58	144
+Wild Horn Beast	Animal	40	275	0	1000	74	58	144
+Sage's Envoy	Animal	55	595	0	1700	100	75	188
+Sage's Envoy	Animal	55	595	0	1700	100	75	188
+Dryad	Plant	10	10	0	75	13	5	7
+Dryad	Plant	10	10	0	75	13	5	7
+Sunny Plant	Plant	28	45	0	334	29	10	14
+Sunny Plant	Plant	28	45	0	334	29	10	14
+Blood Flower	Plant	44	131	0	713	43	15	21
+Blood Flower	Plant	44	131	0	713	43	15	21
+Blood Flower	Plant	44	131	0	713	43	15	21
+Blood Flower	Plant	44	131	0	713	43	15	21
+Ice Flower Sprite	Plant	36	81	0	506	36	13	18
+Ice Flower Sprite	Plant	36	81	0	506	36	13	18
+Ice Flower Sprite	Plant	36	81	0	506	36	13	18
+Ice Flower Sprite	Plant	36	81	0	506	36	13	18
+Burning Rose	Plant	45	432	0	1600	86	83	51
+Burning Rose	Plant	45	432	0	1600	86	83	51
+Void Flower Fairy	Plant	50	561	0	1900	95	92	57
+Void Flower Fairy	Plant	50	561	0	1900	95	92	57
+Clay Puppet	Magical	25	30	50	81	30	66	20
+Clay Puppet	Magical	25	30	50	81	30	66	20
+Potteria	Magical	35	55	80	139	41	88	26
+Potteria	Magical	35	55	80	139	41	88	26
+Potteria	Magical	35	55	80	139	41	88	26
+Potteria	Magical	35	55	80	139	41	88	26
+Alchemy Pot	Magical	40	72	110	172	46	101	30
+Alchemy Pot	Magical	40	72	110	172	46	101	30
+Alchemy Pot	Magical	40	72	110	172	46	101	30
+Alchemy Pot	Magical	40	72	110	172	46	101	30
+Kettle Ghost	Magical	45	91	140	213	51	110	33
+Kettle Ghost	Magical	45	91	140	213	51	110	33
+Kettle Ghost	Magical	45	91	140	213	51	110	33
+Kettle Ghost	Magical	45	91	140	213	51	110	33
+Shadow Eater	Magical	55	621	930	1200	118	297	168
+Shadow Eater	Magical	55	621	930	1200	118	297	168
+Millennium Cauldron	Magical	60	734	1100	1300	128	327	185
+Millennium Cauldron	Magical	60	734	1100	1300	128	327	185
+Millennium Cauldron	Magical	60	734	1100	1300	128	327	185
+Millennium Cauldron	Magical	60	734	1100	1300	128	327	185
+Fang Bat	Beast	7	6	0	55	13	5	7
+Fang Bat	Beast	7	6	0	55	13	5	7
+Large Fang	Beast	18	19	0	165	25	11	13
+Large Fang	Beast	18	19	0	165	25	11	13
+Frost Bat	Beast	31	57	0	374	40	16	20
+Frost Bat	Beast	31	57	0	374	40	16	20
+Night Bat	Beast	46	145	0	737	58	23	29
+Night Bat	Beast	46	145	0	737	58	23	29
+Pulse Raider	Beast	53	640	0	2000	118	81	116
+Pulse Raider	Beast	53	640	0	2000	118	81	116
+Bleed, Wings of Calamity	Beast	45	421	0	1500	101	70	100
+Bleed, Wings of Calamity	Beast	45	421	0	1500	101	70	100
+Lickshroom	Spirit	8	8	0	72	13	0	4
+Lickshroom	Spirit	8	8	0	72	13	0	4
+Spore Dog	Spirit	12	13	0	98	18	0	5
+Spore Dog	Spirit	12	13	0	98	18	0	5
+Biteshrrom	Spirit	30	56	0	416	37	0	11
+Biteshrrom	Spirit	30	56	0	416	37	0	11
+Lightshroom	Spirit	43	135	0	774	52	0	14
+Lightshroom	Spirit	43	135	0	774	52	0	14
+Fungus Hound	Spirit	40	468	0	2100	88	0	50
+Fungus Hound	Spirit	40	468	0	2100	88	0	50
+Fungus Hound	Spirit	40	468	0	2100	88	0	50
+Fungus Hound	Spirit	40	468	0	2100	88	0	50
+Justrun-Foryourlife	Spirit	40	339	0	1400	70	115	8
+Justrun-Foryourlife	Spirit	40	339	0	1400	70	115	8
+Hexagon Turtle	Animal	30	56	0	299	30	35	5
+Hexagon Turtle	Animal	30	56	0	299	30	35	5
+Desert Turtle	Animal	6	6	0	42	9	12	2
+Desert Turtle	Animal	6	6	0	42	9	12	2
+Desert Turtle	Animal	6	6	0	42	9	12	2
+Desert Turtle	Animal	6	6	0	42	9	12	2
+Black Shell	Animal	48	169	0	673	46	52	7
+Black Shell	Animal	48	169	0	673	46	52	7
+Black Shell	Animal	48	169	0	673	46	52	7
+Black Shell	Animal	48	169	0	673	46	52	7
+Crystal Shell	Animal	37	91	0	430	36	40	6
+Crystal Shell	Animal	37	91	0	430	36	40	6
+Shell Dragon	Animal	50	434	0	1100	71	162	15
+Shell Dragon	Animal	50	434	0	1100	71	162	15
+Cosmic Shell	Animal	60	683	0	1400	99	254	45
+Cosmic Shell	Animal	60	683	0	1400	99	254	45
+Cosmic Shell	Animal	60	683	0	1400	99	254	45
+Cosmic Shell	Animal	60	683	0	1400	99	254	45
+Forest Jellyfish	Magical	14	18	0	116	27	10	5
+Forest Jellyfish	Magical	14	18	0	116	27	10	5
+Forest Jellyfish	Magical	14	18	0	116	27	10	5
+Forest Jellyfish	Magical	14	18	0	116	27	10	5
+Gorgon Head	Magical	28	45	0	305	48	17	9
+Gorgon Head	Magical	28	45	0	305	48	17	9
+Gorgon Head	Magical	28	45	0	305	48	17	9
+Gorgon Head	Magical	28	45	0	305	48	17	9
+Magical Parasol	Magical	39	94	0	525	65	22	11
+Magical Parasol	Magical	39	94	0	525	65	22	11
+Death Cloud	Magical	45	133	0	677	74	25	13
+Death Cloud	Magical	45	133	0	677	74	25	13
+Extinct Ancient	Magical	60	1013	0	3000	160	50	66
+Extinct Ancient	Magical	60	1013	0	3000	160	50	66
+Man o' War	Magical	60	735	0	2000	200	150	1
+Man o' War	Magical	60	735	0	2000	200	150	1
+Wood Golem	Alchemic	25	129	30	557	58	50	6
+Wood Golem	Alchemic	25	129	30	557	58	50	6
+Wood Golem	Alchemic	25	129	30	557	58	50	6
+Wood Golem	Alchemic	25	129	30	557	58	50	6
+Rock Golem	Alchemic	35	281	70	956	79	60	8
+Rock Golem	Alchemic	35	281	70	956	79	60	8
+Guardian	Alchemic	55	864	220	2036	119	90	12
+Guardian	Alchemic	55	864	220	2036	119	90	12
+Big Tree Soldier	Alchemic	45	527	130	1467	99	80	10
+Big Tree Soldier	Alchemic	45	527	130	1467	99	80	10
+Big Tree Soldier	Alchemic	45	527	130	1467	99	80	10
+Big Tree Soldier	Alchemic	45	527	130	1467	99	80	10
+Diamond Golem	Alchemic	60	4586	1150	4600	186	180	30
+Diamond Golem	Alchemic	60	4586	1150	4600	186	180	30
+Diamond Golem	Alchemic	60	4586	1150	4600	186	180	30
+Diamond Golem	Alchemic	60	4586	1150	4600	186	180	30
+Dark Guardian	Alchemic	40	1608	400	2300	128	100	52
+Dark Guardian	Alchemic	40	1608	400	2300	128	100	52
+Dark Guardian	Alchemic	40	1608	400	2300	128	100	52
+Dark Guardian	Alchemic	40	1608	400	2300	128	100	52
+Red Feather	Beast	41	365	240	1063	99	40	34
+Red Feather	Beast	41	365	240	1063	99	40	34
+Cockatrice	Beast	47	516	340	1355	113	40	39
+Cockatrice	Beast	47	516	340	1355	113	40	39
+Griffonian	Beast	15	41	30	234	42	20	15
+Griffonian	Beast	15	41	30	234	42	20	15
+Griffon	Beast	29	159	100	595	73	30	25
+Griffon	Beast	29	159	100	595	73	30	25
+Ims, Beast of Death	Beast	50	2616	1730	3000	172	71	145
+Ims, Beast of Death	Beast	50	2616	1730	3000	172	71	145
+Ims, Beast of Death	Beast	50	2616	1730	3000	172	71	145
+Ims, Beast of Death	Beast	50	2616	1730	3000	172	71	145
+Chimera Hawk	Beast	60	4071	2690	4000	204	105	114
+Chimera Hawk	Beast	60	4071	2690	4000	204	105	114
+Palmyra, Maiden of Origin	Spirit	55	3465	2290	3900	100	50	50
+Palmyra, Maiden of Origin	Spirit	55	3465	2290	3900	100	50	50
+Palmyra the Creator	Spirit	60	5625	3710	5900	125	75	50
+Palmyra the Creator	Spirit	60	5625	3710	5900	125	75	50
+Avenger	Undead	40	1606	1060	2400	99	52	26
+Avenger	Undead	40	1606	1060	2400	99	52	26
+Death Knight Addis	Undead	55	5825	3840	6644	166	100	50
+Death Knight Addis	Undead	55	5825	3840	6644	166	100	50
+Death Knight Addis	Undead	55	5825	3840	6644	166	100	50
+Death Knight Addis	Undead	55	5825	3840	6644	166	100	50
+Logius, Ruler of the Sky	Dragon	50	3994	2640	5000	100	50	75
+Logius, Ruler of the Sky	Dragon	50	3994	2640	5000	100	50	75
+Uber Dragon	Dragon	80	24524	16190	20000	240	0	97
+Uber Dragon	Dragon	80	24524	16190	20000	240	0	97
+Sleeper of the Depths	Dragon	60	6588	4350	7000	150	0	70
+Sleeper of the Depths	Dragon	60	6588	4350	7000	150	0	70
+Nameless Ancient One	Dragon	70	16412	10830	15000	200	200	130
+Nameless Ancient One	Dragon	70	16412	10830	15000	200	200	130
+Nameless Ancient One	Dragon	70	16412	10830	15000	200	200	130
+Nameless Ancient One	Dragon	70	16412	10830	15000	200	200	130
+Twin Gods Emuel	God	53	5059	3340	6000	110	77	77
+Twin Gods Emuel	God	53	5059	3340	6000	110	77	77
+Twin Gods: Zenith	God	90	34918	23050	25000	255	255	255
+Twin Gods: Zenith	God	90	34918	23050	25000	255	255	255
+Blue Puni	Puni	3	2	0	23	5	3	3
+Blue Puni	Puni	3	2	0	23	5	3	3
+Green Puni	Puni	7	5	0	33	8	5	5
+Green Puni	Puni	7	5	0	33	8	5	5
+Green Puni	Puni	7	5	0	33	8	5	5
+Green Puni	Puni	7	5	0	33	8	5	5
+Red Puni	Puni	11	9	0	46	11	7	7
+Red Puni	Puni	11	9	0	46	11	7	7
+Red Puni	Puni	11	9	0	46	11	7	7
+Red Puni	Puni	11	9	0	46	11	7	7
+Gold Puni	Puni	25	26	130	159	22	13	13
+Gold Puni	Puni	25	26	130	159	22	13	13
+Black Puni	Puni	27	32	0	179	35	20	20
+Black Puni	Puni	27	32	0	179	35	20	20
+Black Puni	Puni	27	32	0	179	35	20	20
+Black Puni	Puni	27	32	0	179	35	20	20
+Punipuni?	Puni	34	52	0	260	43	26	26
+Punipuni?	Puni	34	52	0	260	43	26	26
+Super Puni	Puni	50	409	610	1330	84	47	76
+Super Puni	Puni	50	409	610	1330	84	47	76
+Admiral Puni	Puni	52	339	510	940	105	120	39
+Admiral Puni	Puni	52	339	510	940	105	120	39
+Magic Book	Magical	13	14	5	70	20	10	8
+Magic Book	Magical	13	14	5	70	20	10	8
+Magic Book	Magical	13	14	5	70	20	10	8
+Magic Book	Magical	13	14	5	70	20	10	8
+Book Familiar	Magical	19	25	5	112	28	14	11
+Book Familiar	Magical	19	25	5	112	28	14	11
+Living Grimoire	Magical	25	44	9	172	44	22	17
+Living Grimoire	Magical	25	44	9	172	44	22	17
+Forbidden Codex	Magical	46	109	22	469	75	37	29
+Forbidden Codex	Magical	46	109	22	469	75	37	29
+Lich Order	Magical	58	624	940	1750	150	0	150
+Lich Order	Magical	58	624	940	1750	150	0	150
+Lich Order	Magical	58	624	940	1750	150	0	150
+Lich Order	Magical	58	624	940	1750	150	0	150
+Wise Spirit	Magical	55	532	800	1610	125	50	50
+Wise Spirit	Magical	55	532	800	1610	125	50	50
+Ghost	Undead	9	8	2	30	8	21	10
+Ghost	Undead	9	8	2	30	8	21	10
+Ghost	Undead	9	8	2	30	8	21	10
+Ghost	Undead	9	8	2	30	8	21	10
+Scarlady	Undead	20	17	4	85	14	39	18
+Scarlady	Undead	20	17	4	85	14	39	18
+Gentle Phantom	Undead	32	41	10	180	22	57	27
+Gentle Phantom	Undead	32	41	10	180	22	57	27
+Gentle Phantom	Undead	32	41	10	180	22	57	27
+Gentle Phantom	Undead	32	41	10	180	22	57	27
+Haunt	Undead	41	73	18	273	34	86	40
+Haunt	Undead	41	73	18	273	34	86	40
+Haunt	Undead	41	73	18	273	34	86	40
+Haunt	Undead	41	73	18	273	34	86	40
+Funny Face	Undead	39	208	310	750	59	80	78
+Funny Face	Undead	39	208	310	750	59	80	78
+Dark Maiden	Undead	57	515	770	1400	103	150	54
+Dark Maiden	Undead	57	515	770	1400	103	150	54
+Mandragora	Plant	11	12	0	84	16	6	5
+Mandragora	Plant	11	12	0	84	16	6	5
+White Root	Plant	33	68	0	456	39	13	11
+White Root	Plant	33	68	0	456	39	13	11
+Alraune	Plant	22	29	0	240	34	10	11
+Alraune	Plant	22	29	0	240	34	10	11
+Kimmoch	Plant	44	138	0	744	63	18	19
+Kimmoch	Plant	44	138	0	744	63	18	19
+Kimmoch	Plant	44	138	0	744	63	18	19
+Kimmoch	Plant	44	138	0	744	63	18	19
+Deadly Spirit	Plant	25	105	160	620	56	40	20
+Deadly Spirit	Plant	25	105	160	620	56	40	20
+Deadly Spirit	Plant	25	105	160	620	56	40	20
+Deadly Spirit	Plant	25	105	160	620	56	40	20
+Nightshade	Plant	35	229	340	1070	76	10	50
+Nightshade	Plant	35	229	340	1070	76	10	50
+Nightshade	Plant	35	229	340	1070	76	10	50
+Nightshade	Plant	35	229	340	1070	76	10	50
+Gargoyle	Demon	18	38	4	190	30	13	16
+Gargoyle	Demon	18	38	4	190	30	13	16
+Gargoyle	Demon	18	38	4	190	30	13	16
+Gargoyle	Demon	18	38	4	190	30	13	16
+Apostle	Demon	13	21	2	127	23	10	12
+Apostle	Demon	13	21	2	127	23	10	12
+Mini Demon	Demon	36	114	11	557	69	29	35
+Mini Demon	Demon	36	114	11	557	69	29	35
+Tricker	Demon	51	262	26	1006	95	39	46
+Tricker	Demon	51	262	26	1006	95	39	46
+Devil Horn	Demon	33	257	390	1030	89	30	50
+Devil Horn	Demon	33	257	390	1030	89	30	50
+Adora	Animal	9	11	0	63	19	5	12
+Adora	Animal	9	11	0	63	19	5	12
+Adora	Animal	9	11	0	63	19	5	12
+Adora	Animal	9	11	0	63	19	5	12
+Kaiser Pigeon	Animal	19	38	0	167	33	9	20
+Kaiser Pigeon	Animal	19	38	0	167	33	9	20
+Kaiser Pigeon	Animal	19	38	0	167	33	9	20
+Kaiser Pigeon	Animal	19	38	0	167	33	9	20
+Saber Claw	Animal	30	66	0	334	61	16	37
+Saber Claw	Animal	30	66	0	334	61	16	37
+Saber Claw	Animal	30	66	0	334	61	16	37
+Saber Claw	Animal	30	66	0	334	61	16	37
+Gustaf	Animal	40	126	0	543	79	21	47
+Gustaf	Animal	40	126	0	543	79	21	47
+Gustaf	Animal	40	126	0	543	79	21	47
+Gustaf	Animal	40	126	0	543	79	21	47
+Rok	Animal	45	524	790	1540	121	80	100
+Rok	Animal	45	524	790	1540	121	80	100
+Heavenly Bird	Animal	60	1043	1560	2400	158	40	200
+Heavenly Bird	Animal	60	1043	1560	2400	158	40	200
+Heavenly Bird	Animal	60	1043	1560	2400	158	40	200
+Heavenly Bird	Animal	60	1043	1560	2400	158	40	200
+Chimera Beast	Beast	23	59	0	310	47	15	42
+Chimera Beast	Beast	23	59	0	310	47	15	42
+Lightning	Beast	31	112	0	490	61	19	54
+Lightning	Beast	31	112	0	490	61	19	54
+Lightning	Beast	31	112	0	490	61	19	54
+Lightning	Beast	31	112	0	490	61	19	54
+Fang	Beast	40	212	0	749	96	31	86
+Fang	Beast	40	212	0	749	96	31	86
+Twin Header	Beast	52	489	0	1500	122	30	130
+Twin Header	Beast	52	489	0	1500	122	30	130
+Silent Beast	Beast	30	286	430	980	99	10	80
+Silent Beast	Beast	30	286	430	980	99	10	80
+Silent Beast	Beast	30	286	430	980	99	10	80
+Silent Beast	Beast	30	286	430	980	99	10	80
+Crimson Fang	Beast	60	1569	2350	3100	112	55	119
+Crimson Fang	Beast	60	1569	2350	3100	112	55	119
+Crimson Fang	Beast	60	1569	2350	3100	112	55	119
+Crimson Fang	Beast	60	1569	2350	3100	112	55	119
+Island Fish	Animal	15	69	0	312	38	3	9
+Island Fish	Animal	15	69	0	312	38	3	9
+Island Fish	Animal	15	69	0	312	38	3	9
+Island Fish	Animal	15	69	0	312	38	3	9
+Single Horn	Animal	30	205	0	832	69	6	16
+Single Horn	Animal	30	205	0	832	69	6	16
+Star Fish	Animal	45	581	0	1677	123	10	28
+Star Fish	Animal	45	581	0	1677	123	10	28
+Tyrant Horn	Animal	55	961	0	2327	149	12	34
+Tyrant Horn	Animal	55	961	0	2327	149	12	34
+Tyrant Horn	Animal	55	961	0	2327	149	12	34
+Tyrant Horn	Animal	55	961	0	2327	149	12	34
+Isanasius	Animal	35	666	1000	1640	98	41	23
+Isanasius	Animal	35	666	1000	1640	98	41	23
+Grand Ocean	Animal	60	2943	4410	4500	161	54	90
+Grand Ocean	Animal	60	2943	4410	4500	161	54	90
+Grand Ocean	Animal	60	2943	4410	4500	161	54	90
+Grand Ocean	Animal	60	2943	4410	4500	161	54	90
+Lich	Undead	29	78	26	329	63	28	20
+Lich	Undead	29	78	26	329	63	28	20
+Shadow	Undead	38	145	48	518	81	36	26
+Shadow	Undead	38	145	48	518	81	36	26
+Shadow	Undead	38	145	48	518	81	36	26
+Shadow	Undead	38	145	48	518	81	36	26
+Death Inquisitor	Undead	46	238	79	724	120	53	39
+Death Inquisitor	Undead	46	238	79	724	120	53	39
+Death Inquisitor	Undead	46	238	79	724	120	53	39
+Death Inquisitor	Undead	46	238	79	724	120	53	39
+Archlich	Undead	54	347	116	940	139	61	45
+Archlich	Undead	54	347	116	940	139	61	45
+Sorcerer Titus	Undead	59	1308	1960	2500	145	140	72
+Sorcerer Titus	Undead	59	1308	1960	2500	145	140	72
+Unliving King	Undead	60	1539	2310	3000	160	50	111
+Unliving King	Undead	60	1539	2310	3000	160	50	111
+Unliving King	Undead	60	1539	2310	3000	160	50	111
+Unliving King	Undead	60	1539	2310	3000	160	50	111
+Flare Demon	Demon	26	87	22	468	52	23	23
+Flare Demon	Demon	26	87	22	468	52	23	23
+Thunderous	Demon	35	172	43	756	68	29	29
+Thunderous	Demon	35	172	43	756	68	29	29
+Hell Gate	Demon	49	583	146	1453	125	53	53
+Hell Gate	Demon	49	583	146	1453	125	53	53
+Great Demon	Demon	56	805	201	1794	141	60	60
+Great Demon	Demon	56	805	201	1794	141	60	60
+Great Demon	Demon	56	805	201	1794	141	60	60
+Great Demon	Demon	56	805	201	1794	141	60	60
+Ifritter	Demon	50	1550	2330	2600	159	109	131
+Ifritter	Demon	50	1550	2330	2600	159	109	131
+Tempestus	Demon	55	1978	2970	3100	139	117	140
+Tempestus	Demon	55	1978	2970	3100	139	117	140
+Dragonaire	Dragon	40	1700	900	2340	124	104	129
+Dragonaire	Dragon	40	1700	900	2340	124	104	129
+Dragonaire	Dragon	40	1700	900	2340	124	104	129
+Dragonaire	Dragon	40	1700	900	2340	124	104	129
+Magmacius	Dragon	70	6600	3300	5715	167	125	157
+Magmacius	Dragon	70	6600	3300	5715	167	125	157
+Magmacius	Dragon	70	6600	3300	5715	167	125	157
+Magmacius	Dragon	70	6600	3300	5715	167	125	157
+Gordonea	Dragon	55	4500	2300	5000	144	104	129
+Gordonea	Dragon	55	4500	2300	5000	144	104	129
+Gordonea	Dragon	55	4500	2300	5000	144	104	129
+Gordonea	Dragon	55	4500	2300	5000	144	104	129
+Silverius	Dragon	55	5300	2700	5900	166	99	124
+Silverius	Dragon	55	5300	2700	5900	166	99	124
+Wind Spirit Sylphis	Spirit	35	1000	330	1500	73	60	180
+Wind Spirit Sylphis	Spirit	35	1000	330	1500	73	60	180
+Ice Spirit Hyule	Spirit	45	2300	770	3000	119	103	101
+Ice Spirit Hyule	Spirit	45	2300	770	3000	119	103	101
+Ice Spirit Hyule	Spirit	45	2300	770	3000	119	103	101
+Ice Spirit Hyule	Spirit	45	2300	770	3000	119	103	101
+Light Spirit Etheria	Spirit	55	4600	1533	5000	122	149	149
+Light Spirit Etheria	Spirit	55	4600	1533	5000	122	149	149
+Light Spirit Etheria	Spirit	55	4600	1533	5000	122	149	149
+Light Spirit Etheria	Spirit	55	4600	1533	5000	122	149	149
+Sophie	Human	40	0	0	300	66	35	35
+Sophie	Human	40	0	0	300	66	35	35
+Ilmeria	Human	25	0	0	120	44	23	23
+Ilmeria	Human	25	0	0	120	44	23	23
+Stone Puni	Puni	1	1	0	4	6	4	4
+Stone Puni	Puni	1	1	0	4	6	4	4
+Trickster Ghost	Undead	70	2500	800	3000	126	228	160
+Trickster Ghost	Undead	70	2500	800	3000	126	228	160
+Flower Incarnation	Plant	70	3300	1100	4300	132	133	68
+Flower Incarnation	Plant	70	3300	1100	4300	132	133	68
+Black Imp	Demon	60	2000	0	2800	154	163	185
+Black Imp	Demon	60	2000	0	2800	154	163	185
+Black Imp	Demon	60	2000	0	2800	154	163	185
+Black Imp	Demon	60	2000	0	2800	154	163	185
+Death	Undead	70	3300	1100	4100	178	154	137
+Death	Undead	70	3300	1100	4100	178	154	137
+Gold Hair Demon	Humanoid	70	2900	1000	3600	123	162	154
+Gold Hair Demon	Humanoid	70	2900	1000	3600	123	162	154
+Gold Hair Demon	Humanoid	70	2900	1000	3600	123	162	154
+Gold Hair Demon	Humanoid	70	2900	1000	3600	123	162	154
+Yggdrabbit	Animal	70	2900	1000	3500	119	143	228
+Yggdrabbit	Animal	70	2900	1000	3500	119	143	228
+Yggdrabbit	Animal	70	2900	1000	3500	119	143	228
+Yggdrabbit	Animal	70	2900	1000	3500	119	143	228
+Flower Guardian	Plant	70	3200	1100	4200	118	114	97
+Flower Guardian	Plant	70	3200	1100	4200	118	114	97
+Dark Tusker	Beast	70	3200	1100	4100	131	137	125
+Dark Tusker	Beast	70	3200	1100	4100	131	137	125
+Black Reaver	Alchemic	70	5300	1800	7000	215	205	51
+Black Reaver	Alchemic	70	5300	1800	7000	215	205	51
+Mirzam	Magical	80	3300	1100	3600	126	148	116
+Mirzam	Magical	80	3300	1100	3600	126	148	116
+Mirzam	Magical	80	3300	1100	3600	126	148	116
+Mirzam	Magical	80	3300	1100	3600	126	148	116
+Atria	Animal	80	4000	1300	4400	150	92	213
+Atria	Animal	80	4000	1300	4400	150	92	213
+Elnath	Animal	80	6700	2200	7900	212	42	117
+Elnath	Animal	80	6700	2200	7900	212	42	117
+Elnath	Animal	80	6700	2200	7900	212	42	117
+Elnath	Animal	80	6700	2200	7900	212	42	117
+Becrux	Demon	80	5700	1900	6400	198	201	201
+Becrux	Demon	80	5700	1900	6400	198	201	201
+Becrux	Demon	80	5700	1900	6400	198	201	201
+Becrux	Demon	80	5700	1900	6400	198	201	201
+Shaula	Spirit	80	4200	1400	5000	116	0	77
+Shaula	Spirit	80	4200	1400	5000	116	0	77
+Wezen	Animal	80	3700	1200	4100	92	248	35
+Wezen	Animal	80	3700	1200	4100	92	248	35
+Almach	Alchemic	80	6200	2100	7200	212	201	50
+Almach	Alchemic	80	6200	2100	7200	212	201	50
+Palmyra of Genesis	Spirit	99	21714	14330	13200	386	468	468
+Palmyra of Genesis	Spirit	99	21714	14330	13200	386	468	468
+Palmyra of Genesis	Spirit	99	21714	14330	13200	386	468	468
+Palmyra of Genesis	Spirit	99	21714	14330	13200	386	468	468

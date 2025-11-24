@@ -1,0 +1,18 @@
+Lightning Bomb	A stone that releases a burst of electrical energy.
+Living Bomb	A ball of earth that absorbs surrounding soil to become huge.
+Lava Cube	A ball of condensed lava that explodes into magma when thrown.
+Divine Jar	A tool that shoots a compressed stream of water to crush enemies.
+Demon Eye	An item mimicking a spirit's eye. It draws on a spirit's anger.
+Titan Hammer	A magic hammer that automagically crushes enemies when thrown.
+Poly. Poison	A tightly sealed container of poisonous liquid.
+Slag Figure	A warrior that follows the user's commands. The style varies.
+Dimension Bomb	A bomb that vanishes into another dimension when thrown.
+Dream Book	A blank picture book. Hold it up and concentrate to summon things.
+Knowledge Book	A book filled with the angels' power. It releases a huge shockwave.
+Roten Blitz	A catalyst for Logy's gauntlet. It launches an orb of fire.
+Cardboard	Layers of paper pressed into a board. It's very strong, for paper.
+Elaborate Screw	A hard screw made through a special manufacturing process.
+Ether Cloth	A large piece of cloth that saw use in the past age. It's very strong.
+Elaborate Screw	A hard screw made through a special manufacturing process.
+Ether Cloth	A large piece of cloth that saw use in the past age. It's very strong.
+Elaborate Screw	A hard screw made through a special manufacturing process.

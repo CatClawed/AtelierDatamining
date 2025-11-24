@@ -1,0 +1,364 @@
+High Price	Slightly increases the money from selling items to shops.
+High Price+	Moderately increases the money from selling items to shops.
+High Price++	Greatly increases the money from selling items to shops.
+High Class Item	<CLGR>High Price x High Price+<CLNR>. Increases money from selling items to shops.
+Rare Goods	<CLGR>High Price+ x High Price ++<CLNR>. Increases money from selling items to shops.
+Premium Price	<CLGR>High Class Item x Rare Goods<CLNR>. Price for selling item to shops jumps.
+Frame Compress	Cost to equip Search Equipment is reduced by 1. (It cannot go below 1.)
+Frame Compress+	Cost to equip Search Equipment is reduced by 2. (It cannot go below 1.)
+Max Compress	<CLGR>Equipment Compaction x Equipment Compaction+<CLNR>. Cost to equip Search Equipment reduced by 3.
+Frame Expand	Cost to equip Search Equipment is reduced by 1. Item's effect is increased.
+Frame Expand+	Cost to equip Search Equipment is reduced by 2. Item's effect is increased.
+Max Expand	<CLGR>Equipment Expansion x Equipment Expansion+<CLNR>. Cost for Search Equipment reduced by 4. Effect increased.
+Frame Reinforce	Increases item's effect by (equipment cost squared x3)%.
+Frame Reinforce+	Increases item's effect by (equipment cost squared x4)%.
+Pricy Reinforce	<CLGR>Equipment Frame REINF x Equipment Frame REINF+<CLNR>. Increases item's effect by (equipment cost squared x5)%.
+Effect Up	Increases effect power of synthesized item by 10%.
+Effect Up+	Increases effect power of synthesized item by 15%.
+Effect Up++	Increases effect power of synthesized item by 20%.
+Finely Crafted	<CLGR>Effect Power Up x Effect Power Up+<CLNR>. Increases effect power of synthesized item by 20%.
+Professional	<CLGR>Effect Power Up+ x Effect Power Up++<CLNR>. Increases effect power of synthesized item by 30%.
+Super Quality	<CLGR>Well Made x Pro Level Completion<CLNR>. Increases effect power of synthesized item by 50%.
+Destruction Up	Increases effect of Attack Items by 10%.
+Destruction Up+	Increases effect of Attack Items by 20%.
+Destruction Up++	Increases effect of Attack Items by 30%.
+Very Destructive	<CLGR>Destructive Power Up x Destructive Power Up+<CLNR>. Increases effect of item by 30%.
+Intense Blast	<CLGR>Destructive Power Up+ x Destructive Power Up++<CLNR>. Increases effect of item by 50%.
+Super Destructive	<CLGR>Big Destructive Power x Massive Destructive Power<CLNR>. Increases effect of item by 75%.
+Fixed Increase	Attack item is slightly enhanced. Weaker the power, the stronger the effect.
+Fixed Increase+	Attack item enhanced by a set amount. Weaker the power, the stronger the effect.
+Fixed Increase++	Attack item enhanced by a set amount. Weaker the power, the stronger the effect.
+Painful Numbers	<CLGR>Power REINF x Power REINF+<CLNR>. Attack item enhanced. Weaker the power, stronger the effect.
+Harmful Numbers	<CLGR>Power REINF+ x Power REINF++<CLNR>. Attack item enhanced. Weaker the power, stronger the effect.
+Deadly Numbers	<CLGR>Painful Numbers x Numbers Increase Damage<CLNR>. Attack item enhanced. Weaker the power, stronger the effect.
+Healing Up	Increases effect of healing items by 10%.
+Healing Up+	Increases effect of healing items by 15%.
+Healing Up++	Increases effect of healing items by 20%.
+Strong Healing	<CLGR>Healing Power Up x Healing Power Up+<CLNR>. Increases effect of item by 25%.
+Intense Healing	<CLGR>Healing Power Up+ x Healing Power Up++<CLNR>. Increases effect of item by 35%.
+Extreme Healing	<CLGR>Big Healing x Massive Healing<CLNR>. Increases effect of item by 50%.
+Fixed Healing	Healing item enhanced by set amount. Weaker the base power, higher the effect.
+Fixed Healing+	Healing item is enhanced by a set amount. Weaker the base power, higher the effect.
+Fixed Healing++	Healing item enhanced by set amount. Weaker the base power, higher the effect.
+Strong Medicine	<CLGR>Healing REINF x Healing REINF+<CLNR>. Item enhanced by set amount. Weaker base power, higher the effect.
+Strong Medicine+	<CLGR>Healing REINF+ x Healing REINF++<CLNR>. Item enhanced by set amount. Weaker the base power, higher the effect.
+Fixed Healing+++	<CLGR>Strengthen Medicine x Greatly Strengthen Medicine<CLNR>. Item enhanced. Weaker the base power, higher the effect.
+Critical	Item has a 15% chance to critically hit.
+Critical+	Item has a 25% chance to critically hit.
+Critical++	Item has a 35% chance to critically hit.
+Decently Crafted	<CLGR>Critical x Critical+<CLNR>. Item has a 40% chance to critically hit.
+Critical Hit	<CLGR>Critical+ x Critical++<CLNR>. Item will always critically hit.
+Fatal Blow	<CLGR>Congenial Craftsmanship x Critical Hit<CLNR>. Item critically hits & causes instant kills (exclude bosses).
+Reliable Effect	Reduces number variation, making it easier to produce larger numbers.
+Reliable Effect+	Halves number variation, making it easier to produce larger numbers.
+Constant Effect	<CLGR>Reliable Effect x Reliable Effect+<CLNR>. Turns number variation into set number, always producing the largest number.
+Recycle	15% chance not to consume item count during battle. Decreases amount of gauge it produces.
+Recycle+	25% chance not to consume item count during battle. Decreases amount of gauge it produces.
+Recycle++	35% chance not to consume item count during battle. Decreases amount of gauge it produces.
+Low Energy Mode	<CLGR>Recycle x Recycle+<CLNR>. 30% chance not consume item. Decreases gauge amount.
+Reuse Resources	<CLGR>Recycle+ x Recycle++<CLNR>. 50% chance not consume item. Decreases gauge amount.
+Perpetual Motion	<CLGR>Low Energy Mode x Resource Reuse<CLNR>. Item count will not decrease. Reduces gauge amount.
+20% Automatic	HP drops below 20%, item will be used. It decreases the amount of gauge it produces.
+30% Automatic	HP drops below 30%, item will be used. It decreases the amount of gauge it produces.
+50% Automatic	HP drops below 50%, item will be used. It decreases the amount of gauge it produces.
+Use Count +1	Increases item use count by 1. Slightly reduces power.
+Use Count +2	Increases item use count by 2. Moderately reduces power.
+Large	<CLGR>Use Count+1 x Use Count+2<CLNR>. Increases item use count by 3.
+Use Count -1	Reduces item use count by 1. Slightly increases power.
+Use Count -2	Reduces item use count by 2. Increases power.
+Small	<CLGR>Use Count-1 x Use Count-2<CLNR>. Reduces item use by 5. Increases power.
+Inherit PP +3	PP will increase by 3 when this item is used in Synthesis.
+Inherit PP +5	PP will increase by 5 when this item is used in Synthesis.
+Inherit PP +7	PP will increase by 7 when this item is used in Synthesis.
+PP Expansion	<CLGR>Inherit PP+3 x Inherit PP+5<CLNR>. PP increase by 8 when used in Synthesis.
+PP Enhancement	<CLGR>Inherit PP+5 x Inherit PP+7<CLNR>. PP increase by 12 when used in Synthesis.
+PP Maximization	<CLGR>Expand PP x PP Enhancement<CLNR>. PP increase by 20 when used in Synthesis.
+HP +5	Increases maximum HP on armor by 5.
+HP +10	Increases maximum HP on armor by 10.
+HP +15	Increases maximum HP on armor by 15.
+HP Reinforcement	<CLGR>HP+5 x HP +10<CLNR>. Increases maximum HP by 15.
+HP Boost	<CLGR>HP+10 x HP +15<CLNR>. Increases maximum HP by 25.
+HP Max Enhance	<CLGR>HP REINF x HP Increase<CLNR>. Increases maximum HP by 40.
+MP +5	Increases maximum MP on armor by 5.
+MP +10	Increases maximum MP on armor by 10.
+MP +15	Increases maximum MP on armor by 15.
+MP Reinforcement	<CLGR>MP+5 x MP+10<CLNR>. Increases maximum MP by 15.
+MP Boost	<CLGR>MP+10 x MP+15<CLNR>. Increases maximum MP by 25.
+MP Max Enhance	<CLGR>MP REINF x MP Increase<CLNR>. Increases maximum MP by 40.
+Parameters +5%	Increases base stats on armor by 5%.
+Parameters +7%	Increases base stats on armor by 7%.
+Parameters +10%	Increases base stats on armor by 10%.
+Reinforce Body	<CLGR>Parameters+5% x Parameters+7%<CLNR>. Increases base stats by 10%.
+Draw Power	<CLGR>Parameters+7% x Parameters+10%<CLNR>. Increases base stats by 15%.
+Enhance Body	<CLGR>Body REINF x Draw Out Strength<CLNR>. Increases base stats by 25%.
+Attack Power +3	Increases weapon attack power by 3.
+Attack Power +6	Increases weapon attack power by 6.
+Attack Power +9	Increases weapon attack power by 9.
+Attack Reinforce	<CLGR>Attack Power+3 x Attack Power+6<CLNR>. Increases attack power by 10.
+Attack Boost	<CLGR>Attack Power+6 x Attack Power+9<CLNR>. Increases attack power by 15.
+Attack Surge	<CLGR>Attack REINF x Attack Power Boost<CLNR>. Increases attack power by 25.
+Defense +3	Increases defense power of armor by 3.
+Defense +6	Increases defense power of armor by 6.
+Defense +9	Increases defense power of armor by 9.
+Defense Reinforce	<CLGR>Defense Power+3 x Defense Power+6<CLNR>. Increases defense power by 10.
+Defense Boost	<CLGR>Defense Power+6 x Defense Power+9<CLNR>. Increases defense power by 15.
+Defense Surge	<CLGR>Defense REINF x Defense Power Boost<CLNR>. Increases defense power by 25.
+Speed +3	Increases speed on accessories by 3.
+Speed +6	Increases speed on accessories by 6.
+Speed +9	Increases speed on accessories by 9.
+Speed Reinforce	<CLGR>Speed+3 x Speed+6<CLNR>. Increases speed by 10.
+Speed Boost	<CLGR>Speed+6 x Speed+9<CLNR>. Increases speed by 15.
+Speed Surge	<CLGR>Speed REINF x Speed Boost<CLNR>. Increases speed by 25.
+ATK/DEF Up	<CLGR>Attack REINF x Defense REINF<CLNR>. Increases attack + defense power by 7.
+ATK/SPD Up	<CLGR>Attack REINF x Speed REINF<CLNR>. Increases attack power + speed by 7.
+DEF/SPD Up	<CLGR>Defense REINF x Speed REINF<CLNR>. Increases defense power + speed by 7.
+Ability Up	<CLGR>ATK/DEF REINF x ATK/SPD REINF x DEF/SPD REINF<CLNR>. Increases all stats except resistance by 10.
+ATK/DEF Boost	<CLGR>Attack Boost x Defense Boost<CLNR>. Attack + defense power increased by 10.
+ATK/SPD Boost	<CLGR>Attack Boost x Speed Boost<CLNR>. Attack power + speed increased by 10.
+DEF/SPD Boost	<CLGR>Defense Boost x Speed Boost<CLNR>. Defense power + speed increased by 10.
+Boost all stats	<CLGR>ATK/DEF Boost x ATK/SPD Boost x DEF/SPD Boost<CLNR>. All stats except resistance increase 15.
+Consumption -10%	Reduces skill MP consumption by 10%.
+Consumption -15%	Reduces skill MP consumption by 15%.
+Consumption -20%	Reduces skill MP consumption by 20%.
+MP Use Reduced	<CLGR>Consumption Reduction 10% x Consumption Reduction 15%<CLNR>. Reduces skill MP consumption 20%.
+MP Use Cut	<CLGR>Consumption Reduction 15% x Consumption Reduction 20%<CLNR>. Reduces skill MP consumption 30%.
+MP Use 1/2	<CLGR>MP Consumption Cut x MP Cost Compression<CLNR>. Reduces skill MP consumption 50%.
+Skill Power +10%	Increases skill power and cost.
+Skill Power +15%	Increases skill power and cost.
+Skill Power +20%	Increases skill power and cost.
+Skill Reinforce	<CLGR>Technique Power+10% x Technique Power+15%<CLNR>. Increases skill power and cost.
+Skill Boost	<CLGR>Technique Power+15% x Technique Power+20%<CLNR>. Increases skill power and cost.
+Skill Surge	<CLGR>Technique Power REINF x Skill Boost<CLNR>. Increases skill power and cost.
+Eco Skill	<CLGR>MP Consumption Reduction x Technique Power REINF<CLNR>. Skill power increased by 20%.
+Cost Compression 	<CLGR>MP Cost Compression x Skill Boost<CLNR>. Skill power increased by 30%.
+Saving Skill	<CLGR>Halve MP Consumption x Massive Skill REINF<CLNR>. Skill power increased by 50%.
+Fire Damage	Adds additional fire damage to attacks.
+Water Damage	Adds additional water damage to attacks.
+Earth Damage	Adds additional earth damage to attacks.
+Wind Damage	Adds additional wind damage to attacks.
+Crimson Blue	<CLGR>Add Fire Damage x Add Water Damage<CLNR>. Adds fire and water damage to attacks.
+Verdant Gold	<CLGR>Add Earth Damage x Add Wind Damage<CLNR>. Adds earth and wind damage to attacks.
+Spirit Blessing	<CLGR>Verdant Gold Power x Crimson Blue Power<CLNR>. Adds all elemental damage.
+Spirit Attack	<CLGR>Spirit Power x Spirit Attack<CLNR>. Adds damage from all elements to attacks.
+Slag Slayer	Attacks against Slag type enemies will always be critical hits.
+Beast Slayer	Attacks against Beast type enemies will always be critical hits.
+Spirit Slayer	Attacks against Spirit type enemies will always be critical hits.
+Dragon Slayer	Attacks against Dragon type enemies will always be critical hits.
+Poison	<CLGR>Chance to Poison<CLNR> targets when dealing damage.
+Poisonfire	<CLGR>Confer Poison x Add Fire Damage<CLNR>. Poison and adds Fire damage. Increases attack.
+Add WT Delay	Causes some delay to an enemy's next turn when dealing damage.
+Stagnant Water	<CLGR>Confer Delay x Add Water Damage<CLNR>. Delays turn, adds Water damage, & increase HP.
+Weakness	<CLGR>Chance to cause Weakness<CLNR> when dealing damage.
+Binding Earth	<CLGR>Confer Weakness x Add Earth Damage<CLNR>. Cause Weakness, adds Earth damage, and increase defense.
+Blindness	Chance to cause Blindness when dealing damage.
+Night Wind	<CLGR>Confer Blindness x Add Wind Damage<CLNR>. Blind target, adds Wind damage, and increase speed.
+Slow	<CLGR>Chance to Slow<CLNR> when dealing damage.
+Time Spirit	<CLGR>Confer Slow x Spirit Hit<CLNR>. Slow target, adds element damage, and raises stats.
+All Stats +2	Increases all stats except resistances by 2.
+All Stats +4	Increases all stats except resistances by 4.
+All Stats +6	Increases all stats except resistances by 6.
+All Stats Up	<CLGR>All Stats+2 x All Stats+4<CLNR>. Increases all stats except resistances by 6.
+All Stats +10	<CLGR>All Stats+4 x All Stats+6<CLNR>. Increases all stats except resistances by 10.
+Ability Power	<CLGR>Stat REINF x All Stats+10<CLNR>. Increases all stats except resistances by 20.
+Damage Absorb	Absorbs 3% of damage dealt to recover HP.
+Damage Absorb+	Absorbs 5% of damage dealt to recover HP.
+Damage Absorb++	Absorbs 7% of damage dealt to recover HP.
+HP Absorb	<CLGR>Damage Absorb x Damage Absorb+<CLNR>. Absorbs 7% of damage dealt to recover HP.
+Steal Vitality	<CLGR>Damage Absorb+ x Damage Absorb++<CLNR>. Absorbs 10% of damage dealt to recover HP.
+Absorb Soul	<CLGR>HP Absorb x Life Steal<CLNR>. Absorbs 15% of damage dealt to recover HP.
+Fire Resist	Reduces Fire damage by 15%.
+Fire Resist+	Reduces Fire damage by 25%.
+Water Resist	Reduces Water damage by 15%.
+Water Resist+	Reduces Water damage by 25%.
+Wind Resist	Reduces Wind damage by 15%.
+Wind Resist+	Reduces Wind damage by 25%.
+Earth Resist	Reduces Earth damage by 15%.
+Earth Resist+	Reduces Earth damage by 25%.
+Crimson Blue Shield	<CLGR>Fire Resist x Water Resist<CLNR>. Reduces Fire and Water damage by 15%.
+Verdant Gold Shield	<CLGR>Wind Resist x Earth Resist<CLNR>. Reduces Wind and Earth damage by 15%.
+Crimson Blue Barrier	<CLGR>Fire Resist+ x Water Resist+<CLNR>. Reduces Fire and Water damage by 25%.
+Verdant Gold Barrier	<CLGR>Wind Resist+ x Earth Resist+<CLNR> Reduces Wind and Earth damage by 25%.
+Property Enhance	Increases item effect. Stronger properties give a higher effect.
+Property Enhance+	Increases item effect. Stronger properties give a higher effect.
+Cost Bonus	Increases item effect. Stronger properties give a higher effect.
+Sharp Thorns	Launches extremely sharp thorns, causing large continuous damage.
+Endow Heat	Superheats the target, greatly decreasing their defense.
+Endow Cold	Surrounds the target in chilled air, greatly decreasing their speed.
+Endow Sparks	Generates electrical current, making them susceptible to status ailments.
+Induce Dryness	Dehydrates the enemy, greatly reducing their attack power.
+Searing Earth	Utilizes geothermal heat to deal massive continuous damage to the target.
+Hydro Stream	Manipulates an intense water current, with a high chance to slow the target.
+Headwind	Generates an intense headwind, pushing the target's turn back a small amount.
+Megaton Class	Performs an extremely heavy attack, with a high critical chance.
+Lethal Dose	Uses a deadly chemical with a high chance of poisoning the target.
+Slag Figure	Reduces all enemy's stats with the power of a mysterious statue. Effect lasts 5 turns.
+Dimensional Gap	Drags the target between dimensions, pushing their turn back.
+Fantastic Story	Deals physical damage. Part of the damage dealt heals the user's HP.
+Heavenly Wave	A divine wave pours forth from the heavens, dealing a set amount of additional damage.
+Flame Core	Unleashes a blade of flames, dealing fire damage to the target.
+Frost Core	Unleashes a blade of ice, dealing water damage to the target.
+Wind Core	Unleashes a blade of wind, dealing wind damage to the target.
+Earth Core	Unleashes a blade of earth, dealing earth damage to the target.
+Light Core	Unleashes a blade of light, dealing damage of all elements to the target.
+Heals Wounds	Heals wounds, restoring a small amount of HP to the target.
+Purifies Air	Creates pure air, giving the target HP regeneration.
+Sweet Melting	A delicious sweetness restores the target's MP.
+Resonant Tone	Creates a pleasant mood with a high quality sound, reducing the effect of status ailments.
+Panacea	A medicine for all illnesses removes all status ailments from the target.
+Calming	Relaxes the target, restoring MP.
+Pain Relief	Reduces the target's perception of pain, reducing physical damage.
+Water of Life	Water infused with the power of life revives the target.
+Elixir	Unleashes the power of the miracle drug, reviving the target and giving HP regen.
+Dragon's Power	Fills the target with the power of dragons, increasing the damage bonus from critical hits.
+Resist Illness	Erases all traces of disease, removing all status ailments from the target.
+Camouflage	Camouflages the target with their surroundings, increasing dodge chance for 5 turns.
+Earth Armor	Reduces waiting time after the target's next turn by a small amount.
+Protective Slag	Receive a blessing from the Slag statue, increasing the target's defense for 5 turns.
+Goddess Blessing	Receive a blessing from the Goddess, reducing physical damage taken by the target.
+See Clearly	The target becomes able to track movements, increasing their critical chance.
+Gold Curse Ring	Using magic from the golden ring, the support gauge increases by a large amount.
+Demon's Crucible	Using magic from the demon ring, the waiting time after the next move is shortened.
+Command Chime	A command increases the target's speed by a large amount.
+Cures Illness	Vitality fills the target's body, increasing maximum HP by a large amount temporarily.
+Pretty Ornaments	A beautiful decoration refreshes the spirit, restoring large amounts of MP.
+Sweet Taboo	A taste of the forbidden. Reduces waiting time, but damage is taken every turn.
+Magic Mountain	Mountain of pancakes assaults target, restoring HP. Amount restored increases by max HP.
+Well Preserved	Preserves the target's life, automatically reviving them on their turn after being KO'd.
+100-Seed Power	The power of countless seeds automatically revives the target after being KO'd.
+Area Bonus	Increases power by number of targets in area of effect x10%.
+Area Bonus+	Increases power by number of targets in area of effect x20%.
+Multiple Effect	<CLGR>Area Bonus x Area Bonus+<CLNR>. Increases power by # of targets of effect x30%.
+Number Bonus	Increases power by 25/number of targets in area %.
+Number Bonus+	Increases power by 50/number of targets in area %.
+Single Target	<CLGR>Exclusion Bonus x Exclusion Bonus+<CLNR>. Increase power 75/number of targets in area %.
+Last Use Bonus	Increases item power by 30% when only 1 use is left.
+Last Use Bonus+	Increases item power by 60% when only 1 use is left.
+Final Attack	<CLGR>Last REINF x Last REINF+<CLNR>. Increases item power by 90% when 1 use left.
+Quick Use	Reduces WT caused by using item by 10%. Power also slightly decreases.
+Quick Use+	Reduces WT caused by using item by 20%. Power also decreases a little.
+Sonic Throw	<CLGR>Fast Use x Fast Use+<CLNR>. Reduces WT by 30%. Power also decreases.
+Count Compress	Exchange for using up the item, power increases by use count x5%.
+Count Compress+	Exchange for using up the item, power increases by use count x10%.
+Power Depletion	<CLGR>Compress Use x Compress Use+<CLNR>. For using up item, power increases by use count x15%.
+Count Bonus	Increases item power by use count x3%.
+Count Bonus+	Increases item power by use count x6%.
+Count Boost	<CLGR>Use Compensation x Use Compensation+<CLNR>. Increases item power by use count x9%.
+Time Type	Turns healing item into timed effect. Lasts 1 turn. WT after using the item increased.
+Time Type+	Turns healing item into timed effect. Lasts 2 turn. WT after using the item increased.
+Item Clone	<CLGR>Time Type x Time Type+<CLNR>. Turns healing item into timed effect. Lasts 3 turns. WT after using increased.
+Traditional Soul	A traditional soul resides in the item, increasing inherited PP by 30.
+Fire Soul	A fire soul resides in the item, increasing <CLGR>HP and attack power<CLNR>.
+Water Soul	A water soul resides in the item, increasing <CLGR>MP and defense power<CLNR>.
+Wind Soul	A wind soul resides in the item, increasing <CLGR>critical bonus & hit<CLNR>.
+Earth Soul	Earth soul resides in item, <CLGR>resistance to delay effects & increase healing<CLNR>.
+Light God Soul	Light god resides in item, conferring <CLGR>damage reversal<CLNR> & immune to ailments.
+Dark God Soul	Dark god resides in item, <CLGR>increase speed & reduce wait after skills<CLNR>.
+Day Lord Soul	Lord of day resides in item, <CLGR>conferring HP regeneration & chance to avoid KO<CLNR>.
+Night Lord Soul	Lord of night resides in item, <CLGR>increase critical chance<CLNR> & reduce waiting time.
+Holy Soul	Holy soul resides in item, <CLGR>conferring damage conversion & reducing physical damage<CLNR>.
+Demon Soul	Demon soul resides in item, <CLGR>increasing attack power and HP drain per turn<CLNR>.
+Sunlight Soul	Soul of sunlight resides in  item, increasing stats and <CLGR>fire/water resistance<CLNR>.
+Moonlight Soul	Soul of moonlight resides in item, increasing stats and <CLGR>wind/earth resistance<CLNR>.
+Planetary Soul	Planetary soul resides in item, <CLGR>switching HP/MP and increasing dodge chance<CLNR>.
+Aerial Soul	Aerial soul resides in item, <CLGR>increasing support effectiveness and support gauge<CLNR>.
+Brave Soul	A brave soul resides in the item, greatly increasing skill power.
+Warlord Soul	A warlord's soul resides in the item, adding physical damage and status effects.
+Vampiric Soul	A vampiric soul resides in the item, <CLGR>returning a portion of damage dealt to the user<CLNR>.
+Forceful Soul	Forceful soul resides in item, adding additional constant damage and physical damage.
+Awakened Soul	An awakened soul resides in the item, <CLGR>strengthening level proportions<CLNR>.
+Vitality Soul	Soul of vitality resides in item, <CLGR>increasing maximum HP and automatic KO revival<CLNR>.
+Heroic Soul	Heroic soul resides in item, <CLGR>increasing abilities against powerful foes & bosses<CLNR>.
+Loving Soul	A loving soul resides in the item, <CLGR>strengthening support abilities<CLNR>.
+Godkiller Power	Increases item effect by 125%.
+Blessed Power	Increases item effect by 100%.
+Auto Use	If HP drops below 60%, this item will be used. However, it will produce no gauge.
+Perfect Body	Increases maximum HP and MP by 50.
+Robust Body	Increases defense power by 50, and all stats by 25%.
+Power Overwhelm	Increases attack power by 20, and 10% of damage dealt is absorbed as HP recovery.
+Expert Technique	Increases skill power by 50%, and reduces skill MP consumption by 25%.
+Multi Bonus	Increases item power by (number of targets in area x60)%.
+Single Bonus	Increases item power by (120/number of targets in area)%.
+All Around Boost	Increases item power by (90/# of targets in area)% + (# of targets in area x40)%.
+Last Strike	Item power increases by 150% when only 1 use remains.
+Mach Throw	Reduces WT caused by using item by 50%.
+One Time End	In exchange for using the item up in 1 use, its power increases by (use count x20)%.
+Enhance Count+	Item power increases by (use count x15)%.
+Auto Material	Turns healing item into timed effect, and also be used if HP drops below 25%.
+Unseen Attack	Adds additional physical damage to attacks. Skill power also increases.
+Skillful Attack	Adds very high physical damage to attacks. Skill power also greatly increases.
+Changing Attack	Adds additional fixed damage to attacks. Skill power also increases.
+Persisting Attack	Adds additional fixed damage. Damage variation is large, but skill power greatly increases too.
+Follow-up Attack	Adds large amount of additional physical damage. Skill power increases too.
+Comet Attack	Adds 4 element damage and adds chance to poison/blind/weaken. Also increases skill power.
+Fire Curse	Reduces target's fire resistance by 20.
+Water Curse	Reduces target's water resistance by 20.
+Wind Curse	Reduces target's wind resistance by 20.
+Earth Curse	Reduces target's earth resistance by 20.
+Jumbo Blessing	Strengthens item effect by (equip cost squared x8)%.
+Secret Explosive	Attack item effect up fixed amount. Inversely proportional to original amount.
+Secret Healing	Healing item effect up. Inversely proportional to original amount.
+Evolve Body	All base stats increased by 50%.
+Super Properties	Item effect strengthened by properties on item. Stronger properties add higher amounts.
+HP/MP Reinforce	<CLGR>HP REINF x MP REINF<CLNR>. Maximum HP and MP increased by 15.
+HP/MP Boost	<CLGR>HP Increase x MP Increase<CLNR>. Maximum HP and MP increased by 25.
+HP/MP Surge	<CLGR>Huge HP REINF x Huge MP REINF<CLNR>. Maximum HP and MP increased by 40.
+Fairy Power	Adds HP regeneration and reduces physical damage taken. Effect is weak.
+Invulnerable	Adds HP regeneration and reduces physical damage taken. Effect is fairly weak.
+Ancient Power	Adds HP regeneration and reduces physical damage taken. Effect is moderate.
+Hunter's Senses	Increases critical chance and hit chance. Effect is weak.
+Sharpened Senses	Increases critical chance and hit chance. Effect is fairly weak.
+Absolute Senses	Increases critical chance and hit chance. Effect is moderate.
+Light Movement	Increases dodge chance, and chance to avoid being KO'd. Effect is weak.
+Show Illusions	Increases dodge chance, and chance to avoid being KO'd. Effect is fairly weak.
+Evade Danger	Increases dodge chance, and chance to avoid being KO'd. Effect is moderate.
+Evade Ailments	Reduces effectiveness of status ailments. Effect is weak.
+Weaken Ailments	Reduces effectiveness of status ailments. Effect is fairly weak.
+Relieve Ailments	Reduces effectiveness of status ailments. Effect is moderate.
+4-Heaven Barrier	Increases all resistances by 10.
+4-God Barrier	Increases all resistances by 20.
+Vitality Boost	Stimulates one's life force to temporarily boost endurance. Maximum HP increases by 10%.
+Spirit Medicine	A mysterious flower increases healing effect, adding HP and MP healing.
+Detoxifier	Heals poison status.
+Erases Illness	Heals weakness and poison status.
+Erases Ailments	Heals all status ailments.
+Ease Feelings	Recovers a small amount of MP.
+Calming Effect	Recovers a limited amount of MP.
+Dragon's Blood	Strengthens target's stats temporarily. Effect stronger against powerful foes.
+Active Effect	Increases all of the target's stats. Effect lasts 5 turns.
+Golden Aegis	Reduces damage of the next attack on the target by 25%.
+Binding	Delays the target's turn a small amount.
+Prism Light	The target has a chance to be affected with random status effects.
+Power Word	Additional physical damage against the target, & slightly reduces their attack power.
+Shield Word	Deals additional fixed damage to the target, and slightly reduces their defense power.
+Fast Word	Slightly delays the target's turn, and slightly reduces their speed.
+Life Word	Deals physical damage to the target, and returns a portion to the user as HP recovery.
+Mental Word	Deals continuous damage to the target, and reduces their dodge chance.
+Soul Bind	Has a chance to slow the target.
+Life Drain	Slightly reduces the target's maximum HP. The effect becomes stronger with higher max HP.
+Purifying Curse	Deals a large amount of fixed damage to the target.
+Enhance WT	Increases item power a small amount proportional to waiting time after use.
+Enhance WT+	Increases item power a fair amount proportional to waiting time after use.
+Charge Item	<CLGR>Enhance WT x Enhance WT+<CLNR>. Increases item power proportional to wait time.
+Power Throw	Increases item power a small amount in exchange for increasing waiting time.
+Power Throw+	Increases item power in exchange for increasing waiting time.
+Powerful Throw	<CLGR>Power Throw x Power Throw+<CLNR>. Increases item power exchange for more waiting time.
+Heal Deep Wounds	The target recovers HP. The effect is moderate.
+Analgesic	Reduces physical damage taken by the target by 10%.
+Miracle Water	Revives the target, and recovers HP.
+Elixir Source	Greatly heals the target's HP and MP.
+Slag Wave	Increases the support gauge a small amount.
+Angelic Healing	Allows the target to avoid being KO's 1 time.
+Sweet Heal	Target recovers a small amount of HP. Amount healed increases with maximum HP.
+Tasty Healing	Target recovers HP. Amount healed increases with maximum HP.
+Preventative	Reduces effectiveness of status ailments on the target.
+Sharpness Boost	Additional physical damage and increases skill power. Effect is very low.
+Explosive Boost	Additional physical damage and increases skill power. Effect is fairly low.
+Aggression Boost	Additional physical damage and increases skill power. Effect is low.
+Condition Attack	Additional damage to attacks & skills when the target is affected by status effects.
+Fatal Attack	Additional physical damage. Power increases as target's HP decreases.
+Slow Movement	Slightly delays the target's turn.
+Steal Att Power	Temporarily steals some attack power from the target and adds it to your own.
+Steal DEF	Temporarily steals some defense power from the target and adds it to your own.
+Steal SPD	Temporarily steals some speed from the target and adds it to your own.
+4-Heavens Attack	Adds powerful damage from all elements to attacks.
+4-God Attack	Adds extremely powerful damage from all elements to attacks.

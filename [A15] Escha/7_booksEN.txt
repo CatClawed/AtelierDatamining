@@ -1,0 +1,59 @@
+Escha's Book	A book of alchemy that Escha inherited from her mother. It contains the basics of synthesis.
+Let's Make A Bomb	A book with detailed<CR>diagrams and descriptions<CR>for building bombs.
+Cook Book	A cookbook containing basic recipes that even a bachelor ought to be able to prepare.
+Newlywed	A how-to book with advice<CR>for many problems that<CR>newlywed brides may<CR>encounter.
+Lost Ice	A how-to book with advice<CR>for many problems that<CR>newlywed brides may<CR>encounter.
+Colseit's History	A how-to book with advice<CR>for many problems that<CR>newlywed brides may<CR>encounter.
+A Healthy Home	A how-to book with advice<CR>for many problems that<CR>newlywed brides may<CR>encounter.
+Shiny Zappy	A picture-book about shiny<CR>and buzzy items. It seems<CR>aimed towards children.
+A Potter's Life	A picture-book about shiny<CR>and buzzy items. It seems<CR>aimed towards children.
+Anatomy	A picture-book about shiny<CR>and buzzy items. It seems<CR>aimed towards children.
+Fortune Teller	A picture-book about shiny<CR>and buzzy items. It seems<CR>aimed towards children.
+Walking Twilight	A survivor's guide for<CR>travelers journeying through<CR>sparse lands. It seems to<CR>
+Theory of Relics	A scientific document<CR>detailing the newest theses<CR>in Central, concerning<CR>
+Style Magazine	A scientific document<CR>detailing the newest theses<CR>in Central, concerning<CR>
+Recycling Manual	This booklet describes<CR>procedures for making use of<CR>waste materials.
+Lost Kingdom	A book detailing the lives<CR>of citizens in an ancient,<CR>kingdom. The country<CR>
+Great Gardener	The diary of a gardener working for a wealthy man, who faithfully chronicled his daily life.
+Searing Men	A sweat-stained documentary that talks about the lives of men working in a fiery place.
+Tales of Lucard	A sweat-stained documentary that talks about the lives of men working in a fiery place.
+Panacea of Gods	A recipe for effective<CR>medicine said to have been<CR>created by the gods. The<CR>
+Lady Mauselle	A suggestive book about a<CR>lady whose life was mostly<CR>devoted to a multitude of<CR>
+Emblem Catalog	A catalog of the flags and<CR>emblems of various lands.<CR>It's a fun read.
+Golden Fleece	A book revealing secrets of<CR>advanced alchemy. The<CR>technical jargon and cryptic<CR>
+The Land of Dawn	A book written in an age<CR>when the world was still<CR>full of life and energy.<CR>
+Time & Life	A secret tome that describes using advanced alchemy to manipulate the very flow of time itself.
+The Billionaire	A secret tome that describes using advanced alchemy to manipulate the very flow of time itself.
+A Forgotten Tale	A tattered, weathered book. Nobody knows when, where, of by whom it was written.
+Third Twilight	A tattered, weathered book. Nobody knows when, where, of by whom it was written.
+From the Wild	An epic tale by Harry Olsen, about his life's work. A magnificent story of adventure.
+Dog-Eared Book	An epic tale by Harry Olsen, about his life's work. A magnificent story of adventure.
+Engine Blueprints	The blueprints to an airship engine. This plan is a remnant of advanced technology.
+Common Weapons	The blueprints to an airship engine. This plan is a remnant of advanced technology.
+Forged Weapons	An old book about famous weapons used in ancient battles, as well as ways to reproduce them.
+Rare Weapons	An old book about famous weapons used in ancient battles, as well as ways to reproduce them.
+Legendary Weapons	An old book about famous weapons used in ancient battles, as well as ways to reproduce them.
+Mythical Weapons	An old book about famous weapons used in ancient battles, as well as ways to reproduce them.
+Common Armor	A book touching on types of armor seen in Colseit, as well as their construction.
+Forged Armor	A book touching on types of armor seen in Colseit, as well as their construction.
+Rare Armor	An old reference book that shows armor styles with unusual designs or characteristics.
+Legendary Armor	A reference book depicting armor said to be so strong that it cannot even be scratched.
+Mythical Armor	A reference book depicting armor said to be so strong that it cannot even be scratched.
+Craft Secrets	It contains information on how to more efficiently store shrapnel within a Craft.
+Brutal Bombs	It contains information on how to more efficiently store shrapnel within a Craft.
+Freezing ammo	It details a technique for<CR>creating a more effective<CR>Ice Bomb.
+Electrical Stones	It details a technique for<CR>creating a more effective<CR>Ice Bomb.
+Windmill Parts	Blueprints for the type of<CR>windmills built in Colseit.<CR>It goes into great detail on<CR>
+Prevent Medicine	A list of techniques for<CR>preventing the spread of<CR>disease.
+Oath of Eden	This document describes<CR>items said to have been<CR>given to humanity by the<CR>
+New Century	A historical document<CR>describing how humanity<CR>survived a Dusk age in the<CR>past.
+Element Core	A historical document<CR>describing how humanity<CR>survived a Dusk age in the<CR>past.
+Dragon Repellant	A historical document<CR>describing how humanity<CR>survived a Dusk age in the<CR>past.
+Hard Metal	A recipe with a detailed<CR>analysis of rare metals<CR>found in the Dragon's Nest.
+Drought Supplies	A recipe with a detailed<CR>analysis of rare metals<CR>found in the Dragon's Nest.
+SP Fertilizer	A memo written by Clone that describes methods for creating highly effective fertilizer.
+Emergency Rations	A memo written by Clone that describes methods for creating highly effective fertilizer.
+Secret Spice Memo	A memo written by Clone that describes methods for creating highly effective fertilizer.
+Impromptu Recipe	A memo written by Clone that describes methods for creating highly effective fertilizer.
+How to Make Jam	This describes how to make<CR>sweet jam out of apples and<CR>other items.
+A Pile of Sweets	This describes how to make<CR>sweet jam out of apples and<CR>other items.

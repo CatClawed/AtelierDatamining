@@ -1,0 +1,191 @@
+Bullet Seed	A bullet-shaped seed. It's quite hard, but is also edible in a pinch.
+Wind Flower	A cute flower that looks like a spirit swaying in the wind.
+Earth Flower	A cute flower that grasps the earth with its roots like a spirit.
+Water Flower	A cute flower with a fresh scent like that of a water spirit.
+Fire Flower	A cute flower with curling petals resembling a fire spirit's flames.
+Bent Screw	A worn-out screw. It's bent, stripped, and can't be used.
+Rusty Cog	A gear from an unknown machine. It's rusty and doesn't spin well.
+Grain Scraps	Crushed grain. Not very appetizing, but actually quite nutritious.
+Antique Stone	A manmade stone used in some structures. This one is very old.
+Scrap Metal	Various pieces of mechanical scrap. It's of little value like this.
+Mixed Oil	Putrescent, noisome oil. It would be difficult to use like this.
+Paper Scraps	A tiny scrap of paper that's falling apart.
+Garden Stone	Hold up this stone to light, and it appears to have scenery inside.
+Pendelock	A pale blue crystal said to be the soul and tears of a mystic force.
+Eternal Liquid	A poisonous liquid used for preserving things from rot.
+Soul Vine	A vine that seems to form letters. It's said to give voice to the mute.
+Green Soil	Greenish soil. It's fluffy and passes water and air well.
+Crimson Soil	Deep red soil. It's fluffy and probably makes good fertilizer.
+Ultramarine Soil	Bluish soil. Its color may be due to small mineral particles.
+Amber Soil	Golden soil. From a distance it looks like gold or grain.
+Lethe Grass	The extract of this flower is used as an anesthetic.
+River Water	Cold, pure water from deep beneath the ground.
+Legged Radish	A flavorful dry root that looks vaguely like a person.
+Buoyant Gas	A lighter-than-air gas. If put into a thin container, it will float away.
+Blaze Ore	A mineral formed by fire. It is strong and tough to work with.
+Unburning Web	Strong, flame- resistant spider webs. These have a number of uses.
+Lotus	A plant that blooms by water. The flower makes a noise on opening.
+Mantis Blade	A large claw from a mantis-type monster. It is very sharp.
+Fairy Soul	Floating balls of light said to guide lost people in dark forests.
+Bubbling Water	A black liquid that releases foul gas. It doesn't seem tasty.
+Slag Antenna	A mysterious, transparent horn from a Slag. It's very hard.
+Slag Memory	A shining Slag part. You have no idea what part it is.
+Slag Heart	This is apparently a vital Slag part, but you have no idea what it does.
+Slag Cable	This seems to be a Slag's tail. It is tough, but also moves very easily.
+Ancient Jerky	Ancient beast meat, dried and aged so much that it resembles wood.
+Rough Disk	A manmade disc of metal. Rubbing the groove on the front makes sound.
+Bendy Materia	A small grain. When cooked, it becomes sticky and malleable.
+Rot Snake Skin	A molting from a rotten snake. Simply touching it is harmful.
+King's Wing	A wing from the king of beasts. Has many uses for its many parts.
+Dragon Fin	A fin from the king of beasts. Soft and frilly, but also strong.
+Dragon Crystal	This resembles a hardened drop of dragon blood. It has strange power.
+Dragon Core	A jewel said to be made by dragons. Taking it will surely anger them.
+Drying Sand	An extremely fine sand. Inhaling it dries out your lungs and sinuses.
+Junk	Random tools used for alchemy in the past, no better than trash now.
+Buried Bomb	An ancient bomb, now rotten and useless. Still has some materials.
+Jet Black Cube	A light, hard, and flexible material. There are surely many uses for it.
+Sky King Fossil	A fossil from a great beast. One can only guess what it came from.
+Sky Wasabi	Wasabi that grew with particularly clean water and air.
+Noble Berry	A berry with a bit of mold on the outside. It's still very sweet.
+Heaven's Branch	A thick branch from a Heaven's Tree.
+Wing Plant	A plant with leaves that look like wings. It can use them to move.
+Jelly Gem	A squishy, transparent ball. You have no idea what it really is.
+Water Source	A round ball with a cloud inside. Water drops appear as it condenses.
+Moon Milk	It appears to be a cream, but it's actually mineral. Don't eat it.
+Empty Core	A metal rod shaped into a spiral. You don't know who made it or why.
+Apple	A delicious fruit grown in large amounts in Colseit.
+Green Apple	Fruit not mature enough for harvest. Tart, but can be sweetened.
+Poison Apple	A recently discovered species of poisonous apple.
+Golden Apple	A fruit that glows with golden light. There is plenty of nectar inside.
+Spiky Fruit	A fruit that bursts open to distribute the seeds inside.
+Spiky Bud	A thorny fruit that's still young and green. The seeds are hard.
+Gold Spiky Fruit	A shining golden fruit with thorns. The spines are like needles.
+Taun	A herb that grows cute flowers. It's a good material for alchemy.
+Mutated Taun	A strangely-colored Taun. It has some harmful components.
+Trio Taun	A seemingly well- nourished Taun with far more flowers.
+Moss Grass	Strong-smelling grass used as a flavoring in food or as an antidote.
+Bitter Grass	Grass that gives off a very strong, bitter odor.
+Dried Grass	Dried Grass, concentrated for better effect.
+Taro	A nutritious tuber that grows in the mountains.
+Hard Taro	A small, hard tuber. It's denser, but also more nutritious.
+Decade Taro	A very nutritious tuber said to have been growing for almost a decade.
+Salat	A leafy vegetable that reaches full maturity in a single month.
+Fresh Salat	A crunchy, fresh Salat. It has a high water content.
+White Salat	A rare white Salat. It's juicy and sweet, and is eaten for dessert.
+Smoke Mushroom	A mushroom that sprays smoke. It's edible, but has a strange taste.
+Darkness Shoot	A mushroom that emits thick clouds of black smoke when touched.
+Bitter Leaf	Dried leaves with a thick sap, used as medicine or as a food flavoring.
+Salt Leaf	A strange plant with a salty taste, often used in cooking.
+Dried Root	A tiny root from an unknown plant. It has little nutritional value.
+Rich Root	A fairly thick plant root with lots of nutrients, used in medicine.
+Flame Root	A root so spicy that it may burst into flames.
+Earth Root	A large, thick root. It seems like it could be a meal in itself.
+Beast Meat	Tasty meat from various beasts. It has a pungent, gamy smell.
+Fresh Meat	Fresh meat. It seems like it could be eaten raw.
+Gold Meat	Chunks of very fresh, fatty meat. Highly desired by chefs. 
+Big Bone	A giant bone from a giant animal. It has many uses in a number of fields.
+Black Bone	This ancient bone is said to heal illnesses when boiled and drank.
+Dragon Bone	A bone from a giant dragon. It requires significant skill.
+Bird Egg	An egg from a nest high in the mountains. It has a rich flavor.
+Sea Bird Egg	A very fragile egg, tasty and full of vitamins but hard to find.
+Ext. Bird Egg	These eggs are so delicious, the species was nearly driven extinct.
+Pale Clay	Soft, pale blue dirt. It's also heavy, possibly due to minerals.
+Living Clay	Soft dirt with mysterious power. It sometimes seems to move by itself.
+Phlogiston	A special crystal that creates sparks when rubbed.
+Aqua Light	A special crystal that creates water when rubbed.
+Wind Core	A special stone that makes a hollow ringing sound when rubbed.
+Earth Stone	A crystal that breaks into pieces when rubbed.
+Green Gemstone	A mysterious, pale green gem. It can be used to craft accessories.
+Blue Gemstone	A mysterious, pale blue gem. It shines like clear water.
+Rouge Gemstone	A mysterious, pale red gem. It shines like a burning flame.
+Shining Crystal	A number of crystals, each of a different size and quality.
+Corundum Stone	Gravel-like stones with some metallic luster to them.
+Eternal Crystal	A crystal that looks like a chunk of ice, though it doesn't melt.
+Aurora Stone	A charming gem that shines with all the colors of the rainbow.
+Night Crystal	A luminescent ore that glows dimly at night.
+Glass Core	A hard, transparent mineral that is very brittle.
+Scorching Ore	Molten stone that has resolidified. It's very resistant to heat.
+Diamond Gemstone	This ridiculously hard ore is difficult to work with.
+Beehive	A honeycomb full of honey. The comb can be processed into beeswax.
+Silver Hive	These unusual bees are not very common. They use silvery materials.
+Golden Hive	This uncommon beehive shines like gold.
+Bitter Melon	A bitter fruit that is still possible to use in food.
+Old Melon	A variety of the Amauri plant said to have lasted centuries.
+Honey Melon	A sweet popular fruit. In Colseit, it's often eaten at special events.
+Sugar Tree Sap	This comes out when the bark of a sugar tree is cut. It's sticky.
+Milch Bean	This very useful legume can be used in many recipes.
+Jewel Beans	A type of legume where each seed looks like a gem. It's still edible.
+Big Milch Bean	This weak-flavored legume's seeds are much larger than other Milch beans.
+Red Devil	A plant that's just as spicy as it looks. Some people like it.
+Blue Devil	This plant has a surprisingly spicy flavor... Except when it doesn't.
+Bitter Tree Seed	A tart seed from a tart tree. As the name suggests, it tastes tart.
+Epicure Nut	A nut with a lot of oil in it. Some eat it raw, but most cook with it.
+Anti-Bug Grass	A pungent-smelling plant. The odor keeps insects away.
+Fragrant Chips	Tree bark shavings that burn fragrantly.
+Charcoal Pieces	Bits of charcoal of various woods.
+Purify Block	Wood chips burned in holy ceremonies, with a unique fragrance.
+Lady's Whiskers	If a lady grew a beard, it might look like this, hence the name.
+Golden Yarn	Soft golden fur from some kind of animal. It would make good cloth.
+Mysterious Silk	Very thin, yet very strong silken thread. It's hard to find.
+Antique Moss	A very old ball of moss that has grown very large.
+Freshwater Moss	Moss grown only in fresh water. It's very much alive.
+Mountain Feather	The feather of a mountain bird. It's often used in accessories.
+Eagle Feather	A feather from a mountain eagle. It's used to make fashionable items.
+Paradise Feather	A valuable feather from the rarely seen bird of paradise.
+Word Stone-Star	An unknown star-shaped rock with words of power carved into it.
+Word Stone-Moon	An unknown moon-shaped rock with words of power carved into it.
+Word Stone-Sun	An unknown sun-shaped rock with words of power carved into it.
+Word Stone-Sea	An unknown wave-shaped rock with words of power carved into it.
+Word Stone-Man	An unknown human-shaped rock with words of power carved into it.
+Verdure Grass	A fresh green clover leaf. Just looking at it makes you happy.
+Lucky Clover	A leaf said to bring good fortune to whoever holds it.
+Oblivion Clover	Looking at this leaf can make you forget all your past hardships.
+Honey Poppy	A colorful flower that provides a delightful flavor in cooking.
+Dunkelheit	A rare flower known as Darkness, with powerful alchemic powers.
+White Flower	A small flower so rare it hasn't even been named. It's very white.
+Red Flower	A small unnamed flower with a blazing red color.
+Purple Flower	An unnamed flower that blends into its surroundings.
+Water	Water from the town's well. It's potable, but the source is drying.
+Clean Water	Very clean water. It's getting harder and harder to find its like.
+Spring Water	Cold, clear water from mountain streams. It's delicious.
+Liquid Crystal	A mysterious substance that seems both liquid and crystalline.
+Water Crystal	Minerals from water that have crystallized over a long, long time.
+Eiche	Lumber that has grown very hard. It's very strong, but hard to work.
+River Wood	Relatively new driftwood. It's easy to work with.
+Mossy Driftwood	Rotten and mossy old driftwood. It's very fragile.
+Ancient Root	A root from a centuries-old tree. It has mysterious power.
+Thin Fruit	A fruit from some sort of weak, malnourished plant.
+Ripe Fruit	A ripe fruit. It's soft and sweet, perfect for eating.
+Fully Ripe Fruit	A perfectly ripe fruit. This is the exact moment of its true flavor.
+Fluorite	A mysterious stone that glows faintly in the darkness.
+Lava Stone	A rock formed from cooled lava. It retains heat for a long, long time.
+Dried Fat	Solidified fat. It's sticky, so it's useful as an adhesive.
+Ghost Cloth	A thin, oily membrane formed into a strange shape. It burns.
+Ifrit Breath	A bottle that appears empty, yet spews flames for some reason.
+Black Water	A black muddy liquid with a foul odor. No one could possibly drink it.
+Fire Slag Stone	A fiery red stone sometimes dropped by Slags. It's pretty, but warm.
+Ice Slag Stone	A pale blue stone sometimes dropped by Slags. It's cold to the touch.
+Sky Slag Stone	A transparent stone dropped by Slags. It makes your fingers numb.
+Earth Slag Stone	Large hard stonedropped by Slags. It's pretty, but mysterious.
+Hard Claw	A sharp claw from an animal. It's used for medicines or accessories.
+Ruler's Claw	A giant claw from an unusual animal. It would look very nice if polished.
+Crystal Claw	It's definitely a claw, but for some reason it appears to be crystal.
+Soft Fur	Soft animal fur used as material for clothing and accessories.
+Cryptid Fur	Prized fur from mythical beasts. It's very soft.
+Quality Fur	Extremely soft, fluffy fur. Using this makes anything valuable.
+Silver Fur	Glossy silver fur that is difficult to find.
+Dragon Tail	A dragon's tail. The meat is tasty, but has useful medicinal powers.
+Living Tail	This tail slithers around by itself. It must be highly nutritious!
+Fairy Tail	This is exceptionally rare among dragon tails.
+Dragon Scale	A dragon's scale, perfect for making hard things like armor.
+Dragon Fang	More effective as medicine than other horns, but very hard to find.
+Beast Fang	A giant, fearsome beast's fang. It's very difficult to obtain.
+Black Fang	An ancient dragon fang that has gone black with age.
+Spirit Magnet	A mysterious stone found in some greater spirits. It seems metallic.
+Time Flower	A glowing, divine flower. It's often useful when made into medicine.
+Preserved Biscuit	A hard biscuit that can be preserved. Even a bite is filling.
+Dried Taro Chips	A snack made from fried potatoes. Too many of these will make you fat.
+Cloud Financier	A snack baked in molds. It's sweet and as fluffy as clouds.
+Melting Jewels	Colorful, translucent candy that dissolves in the mouth quickly.
+Sweet Stump	A sweet, spongy snack that can be eaten by peeling away the layers.
+Fire Lord's Bless	A gift bestowed on humans by the Fire Lord. The material is not natural.
