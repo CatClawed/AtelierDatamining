@@ -1,0 +1,201 @@
+name_ja	name_en	name_sc	name_tc	ItemTag	Stock	Refill	RefillCnt	DayAdd	Cost	Quality	EvStart	EvEnd	ItemEff_00	ItemEff_01	Pot_00	ItemEff_02	Pot_01
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_THORNY_NUTS	5	5	3	10	30	50							
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50							
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_DRIED_ROOT	5	5	3	10	30	50							
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MOTHBALL_GRASS	5	5	3	10	30	50							
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_EARTH_TULIP	5	5	3	10	70	50	EVENT_MQ03_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_WHITE_FLOWER	5	5	1	10	70	50	EVENT_MQ03_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_SOUL_BINE	5	5	3	10	100	50	EVENT_MQ04_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_GREEN_SOIL	5	5	3	10	70	50	EVENT_MQ04_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_RED_SOIL	5	5	3	10	100	50	EVENT_MQ04_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_YELLOW_SOIL	5	5	3	10	170	50	EVENT_MQ04_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_FORGET_PEONY	5	5	3	10	170	50	EVENT_MQ04_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_WATER_TULIP	5	5	3	10	170	50	EVENT_MQ05_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_BLUE_SOIL	5	5	3	10	170	50	EVENT_MQ05_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_BLUE_NUTS	5	5	3	10	100	50	EVENT_MQ06_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_FIRE_TULIP	5	5	3	10	310	50	EVENT_MQ07_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_ECLIPSED_FLOWER	1	1	1	120	10000	50	EVENT_MQ08_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_BOOK_RECIPE_03	1	0	0	0	250	50							
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_BOOK_RECIPE_01	1	0	0	0	500	50	EVENT_MQ02_010	EVENT_XG07_010					
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_BOOK_RECIPE_09	1	0	0	0	2300	50	EVENT_MQ03_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_BOOK_RECIPE_08	1	0	0	0	3000	50	EVENT_MQ04_010	EVENT_XG07_040					
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_BOOK_RECIPE_14	1	0	0	0	3000	50	EVENT_MQ05_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_BOOK_RECIPE_19	1	0	0	0	7000	50	EVENT_MQ07_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_BOOK_RECIPE_22	1	0	0	0	8000	50	EVENT_MQ08_010						
+ニオの店	Nio's Shop	妮欧的店	妮歐的店	ITEM_BOOK_RECIPE_26	1	0	0	0	9000	50	EVENT_MQ09_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MIXTURE_OIL	5	5	3	10	100	50							
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_SCRAP_PAPER	5	5	3	10	50	50							
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_LARGE_BONE	5	5	3	10	70	50							
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MINIATURE_GARDEN_ORE	5	5	3	10	100	50	EVENT_MQ03_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_PENDELOAK	5	5	3	10	170	50	EVENT_MQ04_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_LADIE_BEARD	5	5	3	10	100	50	EVENT_MQ05_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_AROMATIC_PIECE	5	5	3	10	190	50	EVENT_MQ06_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_ELEMENT_BREATH	5	5	3	10	210	50	EVENT_MQ06_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_HEAVY_OIL	5	5	3	10	10	50	EVENT_MQ06_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_DRY_SAND	5	5	3	10	210	50	EVENT_MQ07_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_SHINY_CORE	5	5	3	10	130	50	EVENT_MQ07_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_CARBON_PIECE	5	5	3	10	160	50	EVENT_MQ07_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_CLEAR_FRAGMENT	5	5	3	10	170	50	EVENT_MQ07_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_AURORA_STONE	5	5	3	10	360	50	EVENT_MQ09_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_OATS	5	5	3	10	50	50							
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_ANTIQUE_STONE	5	5	3	10	70	50							
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_MAT_MAGIC_GLASS	1	0	0	0	300	50	EVENT_ZZ01_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_BOOK_RECIPE_06	1	0	0	0	1700	50	EVENT_MQ02_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_BOOK_RECIPE_07	1	0	0	0	2000	50	EVENT_MQ03_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_BOOK_RECIPE_10	1	0	0	0	2400	50	EVENT_MQ04_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_BOOK_RECIPE_13	1	0	0	0	4000	50	EVENT_MQ05_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_BOOK_RECIPE_16	1	0	0	0	2000	50	EVENT_MQ06_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_BOOK_RECIPE_21	1	0	0	0	4000	50	EVENT_MQ07_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_BOOK_RECIPE_25	1	0	0	0	6000	50	EVENT_MQ09_010						
+カトラの店	Katla's Shop	卡多拉的店	卡朵拉的店	ITEM_BOOK_RECIPE_29	0	1	1	9999	2000	50	EVENT_ZZ01_010	EVENT_XG08_130					
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_ANIMAL_MEAT	5	5	3	10	100	50							
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_BIRD_EGG	5	5	3	10	30	50							
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_CLEAR_WATER	5	5	3	10	130	50							
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MILHE_BEANS	5	5	3	10	130	50							
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_HONEY_BEEHIVE	5	5	3	10	30	50	EVENT_MQ02_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_SIBUI_SEED	5	5	3	10	70	50	EVENT_MQ03_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_TIMBER	5	5	3	10	70	50	EVENT_MQ03_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MINERAL_CORE	5	5	3	10	100	50	EVENT_MQ05_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_AQUA_CORE	5	5	3	10	100	50	EVENT_MQ05_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_RED_DEVIL	5	5	3	10	130	50	EVENT_MQ06_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_BLUE_DEVIL	5	5	3	10	170	50	EVENT_MQ06_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_FLESH_MEAT	1	1	1	30	170	50	EVENT_MQ07_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MATURED_FRUIT	1	1	1	30	210	50	EVENT_MQ07_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_HONEY_MELON	1	1	1	30	250	50	EVENT_MQ08_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_GOURMET_NUTS	1	1	1	30	310	50	EVENT_MQ08_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_GOLDEN_MEAT	1	1	1	30	250	50	EVENT_MQ09_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_MAT_MAGIC_GLASS	5	3	3	0	300	50	EVENT_ZZ01_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_BOOK_RECIPE_02	1	0	0	0	350	50							
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_BOOK_RECIPE_05	1	0	0	0	1300	50	EVENT_MQ02_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_BOOK_RECIPE_04	1	0	0	0	1800	50	EVENT_MQ03_010	EVENT_XG07_020					
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_BOOK_RECIPE_11	1	0	0	0	3200	50	EVENT_MQ04_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_BOOK_RECIPE_33	1	0	0	0	4000	50	EVENT_MQ04_010	EVENT_XG07_030					
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_BOOK_RECIPE_12	1	0	0	0	4500	50	EVENT_MQ05_010	EVENT_XG07_050					
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_BOOK_RECIPE_18	1	0	0	0	5000	50	EVENT_MQ07_010	EVENT_XG07_080					
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_BOOK_RECIPE_40	1	0	0	0	5000	50	EVENT_MQ08_010						
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_BOOK_RECIPE_35	1	0	0	0	6000	50	EVENT_MQ08_010	EVENT_XG07_090					
+デュークの店	Duke's Shop	狄库的店	狄庫的店	ITEM_BOOK_RECIPE_24	1	0	0	0	7500	50	EVENT_MQ09_010	EVENT_XG07_100					
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_ARM_METAL_PLATE	5	5	3	10	340	80			ITEM_EFF_EQUIP_HP_PLUS_00	ITEM_EFF_EQUIP_MP_PLUS_00	ITEM_POTENTIAL_ATK_1		
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_BOOK_RECIPE_73	5	5	3	10	340	80			ITEM_EFF_EQUIP_DEF_PLUS_00	ITEM_EFF_YOBI_059	ITEM_POTENTIAL_SPD_1		
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_ARM_LEATHER_COAT	5	5	3	10	290	80			ITEM_EFF_EQUIP_HP_PLUS_00	ITEM_EFF_EQUIP_DEF_PLUS_00	ITEM_POTENTIAL_MAXHP_1		
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_ARM_MAGIC_PLATE	5	5	3	10	560	80	EVENT_MQ04_010		ITEM_EFF_EQUIP_MP_PLUS_00	ITEM_EFF_YOBI_039	ITEM_POTENTIAL_STATUS_EVO_1		
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_BOOK_RECIPE_74	5	5	3	10	390	80	EVENT_MQ04_010		ITEM_EFF_EQUIP_HP_PLUS_00	ITEM_EFF_EQUIP_MP_PLUS_00	ITEM_POTENTIAL_MAXHP_1		
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_BOOK_RECIPE_75	5	5	3	10	560	80	EVENT_MQ04_010		ITEM_EFF_EQUIP_HP_PLUS_00	ITEM_EFF_EQUIP_MP_PLUS_00	ITEM_POTENTIAL_MAXMP_1	ITEM_EFF_EQUIP_DEF_PLUS_00	ITEM_POTENTIAL_HIQUALITY_1_AND_2
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_ARM_CRYSTAL_PLATE	5	5	3	10	620	80	EVENT_MQ06_010		ITEM_EFF_EQUIP_HP_PLUS_01	ITEM_EFF_EQUIP_MP_PLUS_01	ITEM_POTENTIAL_SILVER_HONEY		
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_ARM_ASSASSIN_COAT	5	5	3	10	730	80	EVENT_MQ06_010		ITEM_EFF_EQUIP_DEF_PLUS_01	ITEM_EFF_YOBI_060	ITEM_POTENTIAL_STATUS_EVO_2		ITEM_POTENTIAL_ELEMENT_POWER
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_ARM_FUR_SHIRT	5	5	3	10	620	80	EVENT_MQ06_010		ITEM_EFF_EQUIP_MP_PLUS_01	ITEM_EFF_EQUIP_DEF_PLUS_01	ITEM_POTENTIAL_RESIST_ICE_2		ITEM_POTENTIAL_ATK_3
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_BOOK_RECIPE_76	5	5	3	10	1000	100	EVENT_MQ08_010		ITEM_EFF_EQUIP_HP_PLUS_01	ITEM_EFF_EQUIP_MP_PLUS_01	ITEM_POTENTIAL_STATUS_EVO_3	ITEM_EFF_EQUIP_DEF_PLUS_01	ITEM_POTENTIAL_SPD_3
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_BOOK_RECIPE_78	5	5	3	10	1200	100	EVENT_MQ08_010		ITEM_EFF_EQUIP_MP_PLUS_01	ITEM_EFF_EQUIP_DEF_PLUS_01	ITEM_POTENTIAL_RESIST_FIRE_AND_ICE_1	ITEM_EFF_YOBI_040	ITEM_POTENTIAL_RESIST_WIND_AND_EARTH_1
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_ARM_HEROIC_MANTLE	5	5	3	10	1200	100	EVENT_MQ08_010		ITEM_EFF_EQUIP_HP_PLUS_01	ITEM_EFF_EQUIP_DEF_PLUS_01	ITEM_POTENTIAL_GOLD_HONEY	ITEM_EFF_REGEN_HP_1	ITEM_POTENTIAL_ATK_3
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MIX_DISTILLED_WATER	5	5	3	10	210	80					ITEM_POTENTIAL_HEALPLUS_2		ITEM_POTENTIAL_HEALPLUS_FIX_1
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MIX_NATURE_OIL	5	5	3	10	210	80					ITEM_POTENTIAL_DMGPLUS_2		ITEM_POTENTIAL_DMGPLUS_FIX_1
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_57	5	5	3	10	450	100	EVENT_MQ04_010				ITEM_POTENTIAL_ATK_1		ITEM_POTENTIAL_DEF_1
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_BOOK_RECIPE_87	5	5	3	10	880	100	EVENT_MQ06_010				ITEM_POTENTIAL_SKILLCOST_AND_EFF_1		ITEM_POTENTIAL_ALL_SET_2
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_SILVER_BEEHIVE	5	5	3	10	210	50							
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MUTATE_TORN	5	5	3	10	90	50							
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_BITTER_MOSS	5	5	3	10	130	50							
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_HARDEN_POTATE	5	5	3	10	100	50							
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MELTY_GEM	9	9	9	1	500	50	EVENT_MQ05_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_DRY_POTATO_CHIPS	9	9	9	1	500	50	EVENT_MQ06_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_CLOUD_FINANCIER	9	9	9	1	500	50	EVENT_MQ07_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_PRESERVED_BISCUIT	9	9	9	1	500	50	EVENT_MQ08_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_BAUMKUCHEN	9	9	9	1	500	50	EVENT_MQ09_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MAT_MAGIC_GLASS	5	5	3	10	30	50	EVENT_ZZ01_010						
+ホムンクルスの店	Homunculus Shop	荷蒙克鲁斯的店	荷蒙克魯斯的店	ITEM_MIX_SKY_SPIRIT_SIGNPOST	0	1	1	880	15000	80			ITEM_EFF_RETURN				
