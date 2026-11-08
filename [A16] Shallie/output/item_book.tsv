@@ -1,0 +1,100 @@
+name_ja	name_en	name_sc	name_tc	BookTag	ItemTag	ItemTag2	ItemTag3	ItemTag4	ItemTag5	ItemTag6	ItemTag7
+古い錬金術の書	Ancient Alchemy Book	古老炼金术书	古老鍊金術書	ITEM_BOOK_RECIPE_01	ITEM_MIX_CRAFT	ITEM_MIX_REFUEL_PAT	ITEM_MIX_ITEM_MIX_RED_NEUTLIZER	ITEM_MIX_SHELBANI_POWDER			
+シャリーメモ	Shallie's Memo	夏莉笔记	夏莉筆記	ITEM_BOOK_RECIPE_02	ITEM_MIX_CRAFT	ITEM_MIX_REFUEL_PAT	ITEM_MIX_ITEM_MIX_RED_NEUTLIZER	ITEM_MIX_SHELBANI_POWDER			
+はじめての料理	Cooking for Beginners	第一次做料理	第一次做料理	ITEM_BOOK_RECIPE_03	ITEM_MIX_HARB_SOUP	ITEM_MIX_HEALING_SALBE	ITEM_MIX_YOIDOME	ITEM_MIX_DRY_HERB			
+はじめての工作	Craftwork for Beginners	第一次进行加工	第一次進行加工	ITEM_BOOK_RECIPE_04	ITEM_MIX_VEGETABLE_OIL	ITEM_MIX_ABRASIVE	ITEM_MIX_LEATHER				
+炎に魅せられし男	The Man Charmed by Fire	迷恋火焰的男人	迷戀火焰的男人	ITEM_BOOK_RECIPE_05	ITEM_MIX_FRAMME	ITEM_MIX_ZETTEL	ITEM_MIX_BLACK_POWDER	ITEM_MIX_ITEM_MIX_GREEN_NEUTLIZER			
+ステラード郷土史	Local History of Stellard	斯特拉多乡土史	斯特拉多鄉土史	ITEM_BOOK_RECIPE_06	ITEM_MIX_SHELBANI_BREAD	ITEM_MIX_BYUSDAR_NUTS	ITEM_MIX_ITEM_MIX_HONEY	ITEM_MIX_STELADE_CLOTH			
+レザー入門	Introduction to Leather	皮革入门	皮革入門	ITEM_BOOK_RECIPE_07	ITEM_ACC_LEATHER_GLOVE	ITEM_ACC_LEATHER_BOOTS					
+ザ・中和剤革命！	Supplement Revolution!	THE 中和剂革命！	THE 中和劑革命！	ITEM_BOOK_RECIPE_08	ITEM_MIX_ITEM_MIX_BLUE_NEUTLIZER	ITEM_MIX_ITEM_MIX_GREEN_NEUTLIZER	ITEM_MIX_ITEM_MIX_YELLOW_NEUTLIZER	ITEM_MIX_ITEM_MIX_WHITE_NEUTLIZER	ITEM_MIX_ITEM_MIX_BLACK_NEUTLIZER		
+恐るべき自然の力	The Fearsome Power of Nature	可怕的自然力量	可怕的自然力量	ITEM_BOOK_RECIPE_09	ITEM_MIX_REFERN	ITEM_MIX_SLUG_ESSENCE	ITEM_MIX_STORAGE_OF_ELECTICITY_BALL	ITEM_MIX_CLOTH_MOFCOT			
+主婦のたしなみ	Knowledge of a Housewife	主妇的基本技能	主婦的基本技能	ITEM_BOOK_RECIPE_10	ITEM_MIX_DRUG_BREAD	ITEM_MIX_STRAPAR	ITEM_MIX_HANDMADE_JAM	ITEM_MIX_PLANT_SYRUP	ITEM_MIX_HANDMAID_RABBIT_WOOL		
+キラキラビリビリ	Shiny Zappy	闪闪麻麻	閃閃麻麻	ITEM_BOOK_RECIPE_11	ITEM_MIX_DONNER_STONE	ITEM_MIX_UNI	ITEM_MIX_GLASS_POWDER	ITEM_MIX_GLASS_BAR	ITEM_MIX_WATER_CRYSTAL		
+上手な木の加工法	Skillful Woodworking	木头巧妙加工法	木頭巧妙加工法	ITEM_BOOK_RECIPE_12	ITEM_MIX_HEALING_AROMA	ITEM_MIX_ALLGEMEIN_BOARD	ITEM_MIX_INGOT_HLINIKITE	ITEM_MIX_TIMBER_PARMA_WOOD			
+はやりの最先端	Cutting-Edge Fashions	流行最前线	流行最前線	ITEM_BOOK_RECIPE_13	ITEM_MIX_PROTECTION_POWDER	ITEM_MIX_SLUG_SOUP	ITEM_MIX_STELADE_INFUSION	ITEM_ACC_ANGEL_RIBBON	ITEM_ACC_AROMA_POUCH		
+物体を浮かす術書	Object Flotation Techniques	物体漂浮术书	物體漂浮術書	ITEM_BOOK_RECIPE_14	ITEM_MIX_FLOATER_UNIT	ITEM_MIX_GRAVI_CRYSTAL					
+炎の精霊・魂の言霊	Fire Spirit - Words of the Soul	炎之精灵‧魂之言灵	炎之精靈‧魂之言靈	ITEM_BOOK_RECIPE_15	ITEM_MIX_LAVA_CUBE	ITEM_MIX_CHARCOAL	ITEM_MIX_BURNED_AIR	ITEM_MIX_ITEM_MIX_YELLOW_NEUTLIZER			
+弱虫少年努力の結晶	A Weak Boy's Endeavors	懦弱少年努力的结晶	懦弱少年努力的結晶	ITEM_BOOK_RECIPE_16	ITEM_MIX_GLASS_ROSE	ITEM_MIX_MEDIA_BOOK	ITEM_MIX_GRAVI_CRYSTAL	ITEM_MIX_MIST_CRYSTAL	ITEM_MIX_CLOTH_SILKES		
+黄昏の栄養学・初版	Dusk Nutrition - First Edition	黄昏营养学‧初版	黃昏營養學‧初版	ITEM_BOOK_RECIPE_17	ITEM_MIX_TSUKEMONOISHI	ITEM_MIX_SMOKE_MEAT	ITEM_MIX_FRUIT_RATION	ITEM_MIX_DRAGON_CUP	ITEM_MIX_NUTRIENT		
+中央式鍛冶指南	Central Style Smithing Guide	中央式锻冶指南	中央式鍛冶指南	ITEM_BOOK_RECIPE_18	ITEM_MIX_DARK_IRON	ITEM_MIX_HLINIK	ITEM_ACC_GAUNTLET	ITEM_ACC_METAL_BOOTS			
+次世代の工作	Next Generation Craftwork	次世代的加工	次世代的加工	ITEM_BOOK_RECIPE_19	ITEM_MIX_BARREL	ITEM_MIX_IRON_CLAY	ITEM_MIX_HLINIK_BOARD	ITEM_ACC_GLASS_TIARA	ITEM_ACC_FEATHER_ORNAMENT		
+続・黄昏の歩き方	Walking in Dusk - Continuation	续・黄昏的生存方法	續・黃昏的生存方法	ITEM_BOOK_RECIPE_20	ITEM_MIX_GLOBE	ITEM_MIX_DRUG_BREAD_S	ITEM_ACC_RERIC_BELT				
+竜神力占術の書	Book of Dragon Divination	龙神力占卜术书	龍神力占卜術書	ITEM_BOOK_RECIPE_21	ITEM_MIX_CRYSTAL_BALL	ITEM_MIX_DEVINE_POWDER	ITEM_MIX_DRAGON_NOSTRUM	ITEM_MIX_ITEM_MIX_WHITE_NEUTLIZER	ITEM_MIX_ITEM_MIX_BLACK_NEUTLIZER		
+鍛えられし素材	Tempered Materials	经过锻造的素材	經過鍛造的素材	ITEM_BOOK_RECIPE_22	ITEM_MIX_INGOT_SCHVEAMETAL	ITEM_MIX_INGOT_OLD_METAL	ITEM_MIX_TIMBER_MIX_WOOD	ITEM_MIX_TIMBER_OLD_WOOD			
+残されしもの	The Remnants	残留物资	殘留物資	ITEM_BOOK_RECIPE_23	ITEM_MIX_DISCHARGE_TUBE	ITEM_MIX_NON_BROKEN_GLASS	ITEM_MIX_NOBLE_STONE_03	ITEM_MIX_SIEGEL_NUGGET			
+ベケッツ技師の手法	Engineer Becketts	贝克次技师的技法	貝克次技師的技法	ITEM_BOOK_RECIPE_24	ITEM_MIX_DIMENSION_BOMB	ITEM_ACC_DRAGON_ICON_SHIELD	ITEM_MIX_NOBLE_STONE_02	ITEM_MIX_DARK_IRON_BOARD	ITEM_MIX_GUARD_AMULET		
+オシャレの中央	Stylish Central	中央的流行	中央的流行	ITEM_BOOK_RECIPE_25	ITEM_ACC_GUNADE_RING	ITEM_ACC_CRYSTAL_RING	ITEM_MIX_CLOTH_OLD_CLOTH	ITEM_MIX_CLOTH_SCALE_CLOTH	ITEM_MIX_NOBLE_STONE		
+健康志向の薬本	Health-Conscious Medicine	健康取向医药书	健康取向醫藥書	ITEM_BOOK_RECIPE_26	ITEM_MIX_FRUIT_RATION_S	ITEM_MIX_DRUG_BOTTLED	ITEM_MIX_EPIPHANY_EYE_DROPS				
+天駆ける星の光たち	Starlight of the Heavens	翱翔天际的星光们	翱翔天際的星光們	ITEM_BOOK_RECIPE_27	ITEM_MIX_METEOR	ITEM_ACC_UNICORN_MASCHERA	ITEM_MIX_ITEM_MIX_RAINBOW_NEUTLIZER	ITEM_MIX_SYAKKIMONSEKI	ITEM_MIX_FOUR_BEASTS_PROTECTION		
+世界のからくり	The Way of the World	世界的原理	世界的原理	ITEM_BOOK_RECIPE_28	ITEM_MIX_PUMPKIN_DOLL	ITEM_MIX_MANAGE_TIME_WATCH	ITEM_MIX_MYSTIC_CLOTH	ITEM_MIX_MEDICA_SOLUTION			
+伝説の旅人	The Legendary Traveler	传说的旅人	傳說的旅人	ITEM_BOOK_RECIPE_29	ITEM_MIX_SKY_SPIRIT_SIGNPOST	ITEM_ACC_TREASURE_HUNTING_GRIMOIRE	ITEM_ACC_SPIRITS_BAND	ITEM_ACC_SEVEN_PLANET_MEDAL	ITEM_MIX_GODDESS_SHIELD		
+忘れられた秘術	Forgotten Arts	被遗忘的秘术	被遺忘的秘術	ITEM_BOOK_RECIPE_30	ITEM_ACC_BROTHER_CALL	ITEM_MIX_ELIXIR	ITEM_MIX_SUN_FLOWER	ITEM_MIX_AROMAMATERIA			
+伝説の鍛錬書	Legendary Forging Book	传说的锻炼书	傳說的鍛鍊書	ITEM_BOOK_RECIPE_31	ITEM_MIX_INGOT_METEORNITE	ITEM_MIX_INGOT_HARMOLIUM	ITEM_MIX_ULTRA_PURE_WATER	ITEM_ACC_METEOR_GLOVE	ITEM_ACC_METEOR_BOOTS		
+神話級の素材	Mythical Materials	神话级的素材	神話級的素材	ITEM_BOOK_RECIPE_32	ITEM_MIX_TIMBER_MYSTICS	ITEM_MIX_TIMBER_YGGDRASIL	ITEM_MIX_CLOTH_VELVETIS				
+失せ物探し	Searching for Lost Items	寻找遗失物	尋找遺失物	ITEM_BOOK_RECIPE_33	ITEM_MIX_PENDULUM						
+父の参考書	Dad's Reference Book	父亲的参考书	父親的參考書	ITEM_BOOK_RECIPE_34	ITEM_ACC_MIRAGE_TALISMAN						
+エサ作成メモ	Bait Production Memo	鱼饵制作笔记	飼料製作筆記	ITEM_BOOK_RECIPE_35	ITEM_MIX_HANDMADE_NERIESA						
+タルトの作り方	How to Make Tarts	塔派制作法	塔派製作法	ITEM_BOOK_RECIPE_36	ITEM_MIX_APPLE_TART						
+タルトの作り方・改	How to Make Tarts - Revision	塔派制作法‧改	塔派製作法‧改	ITEM_BOOK_RECIPE_37	ITEM_MIX_ITEM52						
+水の抽出法	Water Extraction Methods	水的抽出法	水的抽出法	ITEM_BOOK_RECIPE_38	ITEM_MIX_DISTILLED_WATER						
+一族の極意書	Secret Book of the Clan	一族的极意书	一族的極意書	ITEM_BOOK_RECIPE_39	ITEM_MIX_SHEPHERDS_WHISTLE	ITEM_MIX_OLD_BEAST_AMULET	ITEM_ACC_MIRAGE_TALISMAN				
+ウィルベル特製本	Wilbell's Special Book	薇尔贝儿特制本	薇爾貝兒特製本	ITEM_BOOK_RECIPE_40	ITEM_MIX_LIVING_GARBAGE_CAN						
+古式製法書	Ancient Formulas	古式制法书	古式製法書	ITEM_BOOK_RECIPE_41	ITEM_MIX_INGOT	ITEM_MIX_CLOTH	ITEM_MIX_TIMBER	ITEM_MIX_PARMA_BOARD	ITEM_MIX_ITEM_MIX_BLUE_NEUTLIZER		
+ミルカの参考書	Miruca's Reference Book	米尔卡的参考书	米爾卡的參考書	ITEM_BOOK_RECIPE_42	ITEM_MIX_INGOT	ITEM_MIX_CLOTH	ITEM_MIX_TIMBER	ITEM_MIX_PARMA_BOARD	ITEM_MIX_ITEM_MIX_BLUE_NEUTLIZER		
+キースグリフのメモ	Keithgriff's Memo	奇斯葛里夫的笔记	奇斯葛里夫的筆記	ITEM_BOOK_RECIPE_43	ITEM_KEY__03						
+疾病大全	Encyclopedia of Illnesses	疾病大全	疾病大全	ITEM_BOOK_RECIPE_44							
+ステラード究極料理	Ultimate Stellard Cuisine	斯特拉多终极料理	斯特拉多終極料理	ITEM_BOOK_RECIPE_45	ITEM_MIX_GOLDEN_SOUP	ITEM_MIX_FULL_COURSE					
+お菓子品評会レシピ	Confection Fair Recipes	点心品评会食谱	點心品評會食譜	ITEM_BOOK_RECIPE_46							
+世界の秘境から	From the Wilderness	从世界的秘境开始	從世界的秘境開始	ITEM_BOOK_RECIPE_47	ITEM_MIX_MONOCLE						
+ハリー列伝	The Harry Chronicles	哈利列传	哈利列傳	ITEM_BOOK_RECIPE_48	ITEM_MIX_KOHL_MEDAPYED						
+ルギオン村伝承	Lugion Village Tradition	路基昂村传承	路基昂村傳承	ITEM_BOOK_RECIPE_49	ITEM_KEY__05						
+一なる英雄の書	Hero's Book	传说英雄之书	傳說英雄之書	ITEM_BOOK_RECIPE_50	ITEM_MIX_ITEM71	ITEM_MIX_ITEM72	ITEM_MIX_ITEM73	ITEM_MIX_ITEM74	ITEM_MIX_ITEM75	ITEM_MIX_ITEM76	ITEM_MIX_ITEM77
+参考書５１	Reference Book 51	参考书51	參考書51	ITEM_BOOK_RECIPE_51							
+参考書５２	Reference Book 52	参考书52	參考書52	ITEM_BOOK_RECIPE_52							
+参考書５３	Reference Book 53	参考书53	參考書53	ITEM_BOOK_RECIPE_53							
+参考書５４	Reference Book 54	参考书54	參考書54	ITEM_BOOK_RECIPE_54							
+参考書５５	Reference Book 55	参考书55	參考書55	ITEM_BOOK_RECIPE_55							
+参考書５６	Reference Book 56	参考书56	參考書56	ITEM_BOOK_RECIPE_56							
+参考書５７	Reference Book 57	参考书57	參考書57	ITEM_BOOK_RECIPE_57							
+参考書５８	Reference Book 58	参考书58	參考書58	ITEM_BOOK_RECIPE_58							
+参考書５９	Reference Book 59	参考书59	參考書59	ITEM_BOOK_RECIPE_59							
+参考書６０	Reference Book 60	参考书60	參考書60	ITEM_BOOK_RECIPE_60							
+参考書６１	Reference Book 61	参考书61	參考書61	ITEM_BOOK_RECIPE_61							
+参考書６２	Reference Book 62	参考书62	參考書62	ITEM_BOOK_RECIPE_62							
+参考書６３	Reference Book 63	参考书63	參考書63	ITEM_BOOK_RECIPE_63							
+参考書６４	Reference Book 64	参考书64	參考書64	ITEM_BOOK_RECIPE_64							
+参考書６５	Reference Book 65	参考书65	參考書65	ITEM_BOOK_RECIPE_65							
+参考書６６	Reference Book 66	参考书66	參考書66	ITEM_BOOK_RECIPE_66							
+参考書６７	Reference Book 67	参考书67	參考書67	ITEM_BOOK_RECIPE_67							
+参考書６８	Reference Book 68	参考书68	參考書68	ITEM_BOOK_RECIPE_68							
+参考書６９	Reference Book 69	参考书69	參考書69	ITEM_BOOK_RECIPE_69							
+参考書７０	Reference Book 70	参考书70	參考書70	ITEM_BOOK_RECIPE_70							
+参考書７１	Reference Book 71	参考书71	參考書71	ITEM_BOOK_RECIPE_71							
+参考書７２	Reference Book 72	参考书72	參考書72	ITEM_BOOK_RECIPE_72							
+参考書７３	Reference Book 73	参考书73	參考書73	ITEM_BOOK_RECIPE_73							
+参考書７４	Reference Book 74	参考书74	參考書74	ITEM_BOOK_RECIPE_74							
+参考書７５	Reference Book 75	参考书75	參考書75	ITEM_BOOK_RECIPE_75							
+参考書７６	Reference Book 76	参考书76	參考書76	ITEM_BOOK_RECIPE_76							
+参考書７７	Reference Book 77	参考书77	參考書77	ITEM_BOOK_RECIPE_77							
+参考書７８	Reference Book 78	参考书78	參考書78	ITEM_BOOK_RECIPE_78							
+参考書７９	Reference Book 79	参考书79	參考書79	ITEM_BOOK_RECIPE_79							
+参考書８０	Reference Book 80	参考书80	參考書80	ITEM_BOOK_RECIPE_80							
+参考書８１	Reference Book 81	参考书81	參考書81	ITEM_BOOK_RECIPE_81							
+参考書８２	Reference Book 82	参考书82	參考書82	ITEM_BOOK_RECIPE_82							
+参考書８３	Reference Book 83	参考书83	參考書83	ITEM_BOOK_RECIPE_83							
+参考書８４	Reference Book 84	参考书84	參考書84	ITEM_BOOK_RECIPE_84							
+参考書８５	Reference Book 85	参考书85	參考書85	ITEM_BOOK_RECIPE_85							
+参考書８６	Reference Book 86	参考书86	參考書86	ITEM_BOOK_RECIPE_86							
+参考書８７	Reference Book 87	参考书87	參考書87	ITEM_BOOK_RECIPE_87							
+参考書８８	Reference Book 88	参考书88	參考書88	ITEM_BOOK_RECIPE_88							
+参考書８９	Reference Book 89	参考书89	參考書89	ITEM_BOOK_RECIPE_89							
+参考書９０	Reference Book 90	参考书90	參考書90	ITEM_BOOK_RECIPE_90							
+参考書９１	Reference Book 91	参考书91	參考書91	ITEM_BOOK_RECIPE_91							
+参考書９２	Reference Book 92	参考书92	參考書92	ITEM_BOOK_RECIPE_92							
+参考書９３	Reference Book 93	参考书93	參考書93	ITEM_BOOK_RECIPE_93							
+参考書９４	Reference Book 94	参考书94	參考書94	ITEM_BOOK_RECIPE_94							
+参考書９５	Reference Book 95	参考书95	參考書95	ITEM_BOOK_RECIPE_95							
+参考書９６	Reference Book 96	参考书96	參考書96	ITEM_BOOK_RECIPE_96							
+参考書９７	Reference Book 97	参考书97	參考書97	ITEM_BOOK_RECIPE_97							
+参考書９８	Reference Book 98	参考书98	參考書98	ITEM_BOOK_RECIPE_98							
+参考書９９	Reference Book 99	参考书99	參考書99	ITEM_BOOK_RECIPE_99							

@@ -1,11 +1,4 @@
 #!/usr/bin/env python3
-"""
-Build unified, enum-keyed data dictionaries from the four language copies
-of each Saves/<...>.xml file.
-
-Usage:
-    python build_item_data.py /path/to/data_root
-"""
 
 import argparse
 import csv
